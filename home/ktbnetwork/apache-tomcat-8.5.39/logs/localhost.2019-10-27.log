@@ -1,0 +1,567 @@
+27-Oct-2019 00:02:37.744 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 00:02:39.846 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 00:03:35.915 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 00:08:50.847 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 00:10:39.951 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 00:13:55.519 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 00:45:57.894 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 00:46:02.653 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 00:57:43.126 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 01:13:58.123 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 01:17:01.411 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 01:38:07.365 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 01:38:13.942 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 01:38:16.904 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 02:10:39.951 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 02:46:44.950 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 02:52:15.220 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 02:52:16.799 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 03:21:19.944 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 03:22:49.078 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 03:37:18.218 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 03:41:24.582 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 04:10:39.927 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 04:16:21.823 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 04:16:40.484 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 04:16:40.499 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 04:38:18.223 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 04:41:20.680 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 05:20:16.078 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 05:35:23.150 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 05:57:39.641 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:01:53.805 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:02:43.904 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:03:38.862 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:08:35.167 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:10:39.886 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:15:51.355 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:16:39.173 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:16:40.489 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:20:22.532 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:23:07.548 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:23:59.098 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:24:03.076 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:24:04.932 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:24:07.090 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:24:08.867 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:24:10.626 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:24:12.433 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 06:44:32.401 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 07:08:29.199 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 07:27:03.500 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 07:27:04.947 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 07:31:45.647 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 07:35:12.923 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 07:35:13.287 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 08:00:05.197 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 08:10:39.783 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 09:19:36.779 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 09:25:15.273 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 09:25:57.482 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 09:31:19.950 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 09:43:23.027 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 10:10:39.918 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 10:17:42.119 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 10:22:21.312 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 10:27:35.794 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 10:27:37.340 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 10:27:41.167 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 10:39:01.228 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 11:19:46.622 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 11:25:04.361 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 11:50:19.525 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 11:50:19.866 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 11:50:20.867 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:01:17.086 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:01:48.996 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:10:39.713 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:11:33.371 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:13:58.161 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:16:44.608 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:19:31.562 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:20:56.217 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:31:00.761 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:35:40.019 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 12:35:41.207 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 13:05:35.839 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 13:05:47.636 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 13:05:48.307 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 13:41:31.919 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 13:44:40.580 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:06:06.027 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:08:37.772 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:10:39.567 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:12:32.910 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:12:56.676 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:32:47.056 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:33:56.119 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:40:21.017 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:40:21.464 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 14:40:21.844 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 15:18:05.829 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 15:22:16.361 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 15:29:55.487 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 15:43:16.416 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 15:43:19.406 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 15:55:43.558 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 16:10:37.814 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 16:10:39.874 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 16:12:28.796 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 16:13:36.045 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 16:20:41.970 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 16:28:00.479 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 16:42:44.954 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 16:47:23.732 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 17:01:44.180 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 17:07:49.273 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 17:24:25.009 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 17:36:58.930 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:02:13.857 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:10:39.626 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:19:57.465 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:23:54.224 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:29:31.703 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:29:31.718 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:36:11.817 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:37:54.999 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 18:53:27.961 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 19:10:18.566 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 19:15:32.297 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 19:18:14.951 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 19:29:12.835 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 19:33:37.748 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 19:39:31.506 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:10:39.677 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:11:41.916 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:16:00.343 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:16:04.170 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:23:08.047 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:25:11.057 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:25:59.040 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:26:10.941 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:26:11.128 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:43:10.835 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:49:59.885 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 20:53:09.049 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:03:10.665 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:03:35.189 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:07:52.304 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:07:57.183 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:08:07.687 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:23:33.123 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:31:11.304 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:31:12.018 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:31:12.699 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:31:13.421 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:46:45.038 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:47:25.465 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:54:03.846 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:58:56.101 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 21:58:56.850 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:03:30.786 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:06:42.949 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:06:43.720 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:10:06.094 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:10:06.094 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:10:39.626 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:13:27.101 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:23:43.214 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:25:42.817 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:33:24.211 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:33:24.211 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:43:17.769 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:47:35.077 심각 [ajp-nio-8009-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:47:50.216 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:53:53.563 심각 [ajp-nio-8009-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:55:16.350 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:55:57.216 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:56:49.673 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 22:56:59.723 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:03:30.083 심각 [ajp-nio-8009-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:03:31.065 심각 [ajp-nio-8009-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:03:32.430 심각 [ajp-nio-8009-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:13:29.716 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:14:05.033 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:14:25.501 심각 [ajp-nio-8009-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:23:31.170 심각 [ajp-nio-8009-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:29:16.902 심각 [ajp-nio-8009-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:44:09.125 심각 [ajp-nio-8009-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+27-Oct-2019 23:53:31.257 심각 [ajp-nio-8009-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+

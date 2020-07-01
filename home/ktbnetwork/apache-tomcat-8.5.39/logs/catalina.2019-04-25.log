@@ -1,0 +1,1 @@
+25-Apr-2019 16:38:44.061 INFO [ajp-nio-8009-exec-5] org.apache.tomcat.util.http.parser.Cookie.logInvalidHeader A cookie header was received [, JSESSIONID=CBFEBE5E273E188A5FEDD86941C33A93] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.

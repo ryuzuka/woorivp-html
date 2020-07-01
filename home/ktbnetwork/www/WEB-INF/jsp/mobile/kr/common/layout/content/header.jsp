@@ -1,0 +1,38 @@
+<%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
+<%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
+	<header>
+	<button type="button" class="prev" onclick="location.href='javascript:history.go(-1)'">이전</button>
+		<h1><a href="/home/main/main.do">KTB 네트워크</a></h1>
+		<button type="button" class="menu">메뉴</button>
+	</header>
+
+	<section class="gnb">
+		<h2 class="hidden">전체 메뉴</h2>
+		<div class="menuTop">
+			<div class="inner">
+				<p class="tit">KTB네트워크 전체메뉴</p>
+				<button type="button" class="goMain" onclick="location.href='/home/main/main.do'">메인으로</button>
+			</div>
+			<ul class="etc">
+				<li><a href="/home/en/main/main.do" role="button">ENGLISH</a></li>
+			</ul>
+		</div>
+		<!-- //menuTop -->
+		<div class="totalMenu">
+			<div class="depthOver">
+				<ul>
+					<li><a href="/home/watwedo/overview.do">What We Do</a></li>
+					<li><a href="/home/whoweare/korea.do">Who We Are</a></li>
+					<li><a href="/home/meetourpartners/all.do">Meet Our Partners</a></li>
+					<li><a href="/home/news/news/list.do">News</a></li>
+					<li><a href="/home/contact/contact.do">Contact</a></li>
+					<li><a href="/home/about/about.do">About KTB Group</a></li>
+				</ul>
+				<!--// -->
+			</div>
+			<!--//depthOver -->
+		</div>
+		<!--//totalMenu -->
+		<button type="button" class="menuClose">닫기</button>
+	</section>
+	<!-- //gnb -->

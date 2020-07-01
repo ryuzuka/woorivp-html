@@ -1,0 +1,596 @@
+30-Jun-2020 18:44:57.814 경고 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+30-Jun-2020 18:44:57.838 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.39
+30-Jun-2020 18:44:57.838 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 14 2019 11:24:26 UTC
+30-Jun-2020 18:44:57.838 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.39.0
+30-Jun-2020 18:44:57.838 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+30-Jun-2020 18:44:57.838 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+30-Jun-2020 18:44:57.838 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+30-Jun-2020 18:44:57.839 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre
+30-Jun-2020 18:44:57.839 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_80-b15
+30-Jun-2020 18:44:57.839 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Jun-2020 18:44:57.839 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/yunakim/Sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 18:44:57.839 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/yunakim/Sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 18:44:57.839 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39/conf/logging.properties
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.egd=file:/dev/./urandom
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39/temp
+30-Jun-2020 18:44:57.840 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/yunakim/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+30-Jun-2020 18:44:57.932 정보 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 18:44:57.947 정보 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Jun-2020 18:44:57.970 정보 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 18:44:57.972 정보 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Jun-2020 18:44:57.972 정보 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 617 ms
+30-Jun-2020 18:44:57.994 정보 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Jun-2020 18:44:57.994 정보 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.39
+30-Jun-2020 18:44:58.102 심각 [Catalina-startStop-1] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+ java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5872e796]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 18:44:58.104 심각 [main] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+ java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:793)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:688)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:353)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:493)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5872e796]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 18:44:58.105 심각 [main] org.apache.catalina.startup.Catalina.start The required Server component failed to start so Tomcat is unable to start.
+ org.apache.catalina.LifecycleException: Failed to start component [StandardServer[8005]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:688)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:353)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:493)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:793)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 7 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 13 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5872e796]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 18:44:58.106 정보 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 18:44:58.106 정보 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 18:44:58.106 정보 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Jun-2020 18:44:58.107 정보 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 18:44:58.110 정보 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 18:51:28.673 경고 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.39
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 14 2019 11:24:26 UTC
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.39.0
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_80-b15
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/yunakim/Sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 18:51:28.684 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/yunakim/Sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 18:51:28.685 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39/conf/logging.properties
+30-Jun-2020 18:51:28.685 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Jun-2020 18:51:28.685 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Jun-2020 18:51:28.685 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Jun-2020 18:51:28.685 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+30-Jun-2020 18:51:28.685 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.egd=file:/dev/./urandom
+30-Jun-2020 18:51:28.686 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+30-Jun-2020 18:51:28.686 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 18:51:28.686 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 18:51:28.686 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39/temp
+30-Jun-2020 18:51:28.686 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/yunakim/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+30-Jun-2020 18:51:28.773 정보 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 18:51:28.785 심각 [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[HTTP/1.1-8080]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:552)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:662)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:995)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:463)
+	at sun.nio.ch.Net.bind(Net.java:455)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:219)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1105)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:224)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:581)
+	at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:68)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:993)
+	... 13 more
+
+30-Jun-2020 18:51:28.786 정보 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 18:51:28.788 심각 [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[AJP/1.3-8009]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[AJP/1.3-8009]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:552)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:662)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:995)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:463)
+	at sun.nio.ch.Net.bind(Net.java:455)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:219)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1105)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:224)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:581)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:993)
+	... 13 more
+
+30-Jun-2020 18:51:28.789 정보 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 523 ms
+30-Jun-2020 18:51:28.808 정보 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Jun-2020 18:51:28.808 정보 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.39
+30-Jun-2020 18:51:28.920 심각 [Catalina-startStop-1] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+ java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@1b9ced28]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 18:51:28.921 심각 [main] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+ java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:793)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:688)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:353)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:493)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@1b9ced28]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 18:51:28.922 심각 [main] org.apache.catalina.startup.Catalina.start The required Server component failed to start so Tomcat is unable to start.
+ org.apache.catalina.LifecycleException: Failed to start component [StandardServer[8005]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:688)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:353)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:493)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:793)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 7 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 13 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@1b9ced28]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 18:51:28.923 정보 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 18:51:28.923 정보 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 18:51:28.923 정보 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Jun-2020 18:51:28.924 정보 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 18:51:28.924 정보 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 18:51:28.924 정보 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 18:51:28.924 정보 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 19:01:57.288 경고 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+30-Jun-2020 19:01:57.298 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.39
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 14 2019 11:24:26 UTC
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.39.0
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_80-b15
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Jun-2020 19:01:57.299 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/yunakim/Sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 19:01:57.300 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/yunakim/Sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 19:01:57.300 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39/conf/logging.properties
+30-Jun-2020 19:01:57.300 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Jun-2020 19:01:57.300 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Jun-2020 19:01:57.300 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Jun-2020 19:01:57.300 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+30-Jun-2020 19:01:57.300 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.egd=file:/dev/./urandom
+30-Jun-2020 19:01:57.301 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+30-Jun-2020 19:01:57.301 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 19:01:57.301 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39
+30-Jun-2020 19:01:57.301 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/yunakim/sites/ktb/home/ktbnetwork/apache-tomcat-8.5.39/temp
+30-Jun-2020 19:01:57.301 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/yunakim/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+30-Jun-2020 19:01:57.386 정보 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 19:01:57.400 정보 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Jun-2020 19:01:57.422 정보 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 19:01:57.424 정보 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Jun-2020 19:01:57.424 정보 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 542 ms
+30-Jun-2020 19:01:57.444 정보 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Jun-2020 19:01:57.444 정보 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.39
+30-Jun-2020 19:01:57.548 심각 [Catalina-startStop-1] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+ java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5fc65eb1]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 19:01:57.549 심각 [main] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+ java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:793)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:688)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:353)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:493)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5fc65eb1]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 19:01:57.550 심각 [main] org.apache.catalina.startup.Catalina.start The required Server component failed to start so Tomcat is unable to start.
+ org.apache.catalina.LifecycleException: Failed to start component [StandardServer[8005]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:688)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:353)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:493)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:793)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 7 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 13 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:953)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:872)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:942)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	... 6 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5fc65eb1]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [/System/Volumes/Data/home/ktbnetwork/www] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 9 more
+
+30-Jun-2020 19:01:57.552 정보 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 19:01:57.552 정보 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+30-Jun-2020 19:01:57.552 정보 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Jun-2020 19:01:57.553 정보 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Jun-2020 19:01:57.555 정보 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+<!-- 타일즈 레이아웃 관련 설정 파일 xml -->
+<tiles-definitions>
+
+	<!-- Main Start  -->
+	<!-- PC 국문 기본 레이아웃 정의 -->
+    <definition name="layout_home_ko_basic_main" template="/WEB-INF/jsp/home/kr/common/layout/basic/layout.jsp">
+        <put-attribute name="head"   value="/WEB-INF/jsp/home/kr/common/layout/basic/head.jsp"/>
+        <put-attribute name="header"   value="/WEB-INF/jsp/home/kr/common/layout/basic/header.jsp"/>
+        <put-attribute name="footer"   value="/WEB-INF/jsp/home/kr/common/layout/basic/footer.jsp"/>
+    </definition>
+    
+    <!-- PC 국문 기본 레이아웃 패턴 정의 -->
+    <definition name="home/ko/main" extends="layout_home_ko_basic_main">
+        <put-attribute name="body" expression="/WEB-INF/jsp/home/kr/general/main/main/main.jsp" />
+    </definition>
+    
+    <!-- PC 영문 기본 레이아웃 정의 -->
+    <definition name="layout_home_en_basic_main" template="/WEB-INF/jsp/home/en/common/layout/basic/layout.jsp">
+        <put-attribute name="head"   value="/WEB-INF/jsp/home/en/common/layout/basic/head.jsp"/>
+        <put-attribute name="header"   value="/WEB-INF/jsp/home/en/common/layout/basic/header.jsp"/>
+        <put-attribute name="footer"   value="/WEB-INF/jsp/home/en/common/layout/basic/footer.jsp"/>
+    </definition>
+    
+    <!-- PC 영문 기본 레이아웃 패턴 정의 -->
+    <definition name="home/en/main" extends="layout_home_en_basic_main">
+        <put-attribute name="body" expression="/WEB-INF/jsp/home/en/general/main/main/main.jsp" />
+    </definition>
+    
+    <!-- M 국문 기본 레이아웃 정의 -->
+    <definition name="layout_mobile_ko_basic_main" template="/WEB-INF/jsp/mobile/kr/common/layout/basic/layout.jsp">
+        <put-attribute name="head"   value="/WEB-INF/jsp/mobile/kr/common/layout/basic/head.jsp"/>
+        <put-attribute name="header"   value="/WEB-INF/jsp/mobile/kr/common/layout/basic/header.jsp"/>
+        <put-attribute name="footer"   value="/WEB-INF/jsp/mobile/kr/common/layout/basic/footer.jsp"/>
+    </definition>
+    
+    <!-- M 국문 기본 레이아웃 패턴 정의 -->
+    <definition name="mobile/ko/main" extends="layout_mobile_ko_basic_main">
+        <put-attribute name="body" expression="/WEB-INF/jsp/mobile/kr/general/main/main/main.jsp" />
+    </definition>
+    
+    <!-- M 영문 기본 레이아웃 정의 -->
+    <definition name="layout_mobile_en_basic_main" template="/WEB-INF/jsp/mobile/en/common/layout/basic/layout.jsp">
+        <put-attribute name="head"   value="/WEB-INF/jsp/mobile/en/common/layout/basic/head.jsp"/>
+        <put-attribute name="header"   value="/WEB-INF/jsp/mobile/en/common/layout/basic/header.jsp"/>
+        <put-attribute name="footer"   value="/WEB-INF/jsp/mobile/en/common/layout/basic/footer.jsp"/>
+    </definition>
+    
+    <!-- M 영문 기본 레이아웃 패턴 정의 -->
+    <definition name="mobile/en/main" extends="layout_mobile_en_basic_main">
+        <put-attribute name="body" expression="/WEB-INF/jsp/mobile/en/general/main/main/main.jsp" />
+    </definition>
+    
+    <!-- Main End  -->
+    
+    <!-- Contents  -->
+    <!-- PC 국문 기본 레이아웃 정의 -->
+    <definition name="layout_home_ko_basic" template="/WEB-INF/jsp/home/kr/common/layout/basic/layout.jsp">
+        <put-attribute name="head"   value="/WEB-INF/jsp/home/kr/common/layout/basic/head2.jsp"/>
+        <put-attribute name="header"   value="/WEB-INF/jsp/home/kr/common/layout/basic/header.jsp"/>
+        <put-attribute name="footer"   value="/WEB-INF/jsp/home/kr/common/layout/basic/footer.jsp"/>
+    </definition>
+    
+    <!-- PC 국문 기본 레이아웃 패턴 정의 -->
+    <definition name="home/ko/basic/*/*/*" extends="layout_home_ko_basic">
+        <put-attribute name="body" expression="/WEB-INF/jsp/home/kr/general/{1}/{2}/{3}.jsp" />
+    </definition>
+    
+    <!-- PC 영문 기본 레이아웃 정의 -->
+    <definition name="layout_home_en_basic" template="/WEB-INF/jsp/home/en/common/layout/basic/layout.jsp">
+        <put-attribute name="head"   value="/WEB-INF/jsp/home/en/common/layout/basic/head2.jsp"/>
+        <put-attribute name="header"   value="/WEB-INF/jsp/home/en/common/layout/basic/header.jsp"/>
+        <put-attribute name="footer"   value="/WEB-INF/jsp/home/en/common/layout/basic/footer.jsp"/>
+    </definition>
+    
+    <!-- PC 영문 기본 레이아웃 패턴 정의 -->
+    <definition name="home/en/basic/*/*/*" extends="layout_home_en_basic">
+        <put-attribute name="body" expression="/WEB-INF/jsp/home/en/general/{1}/{2}/{3}.jsp" />
+    </definition>
+    
+    <!-- M 국문 기본 레이아웃 정의 -->
+    <definition name="layout_mobile_ko_basic" template="/WEB-INF/jsp/mobile/kr/common/layout/content/layout.jsp">
+        <put-attribute name="head"   value="/WEB-INF/jsp/mobile/kr/common/layout/content/head.jsp"/>
+        <put-attribute name="header"   value="/WEB-INF/jsp/mobile/kr/common/layout/content/header.jsp"/>
+        <put-attribute name="footer"   value="/WEB-INF/jsp/mobile/kr/common/layout/content/footer.jsp"/>
+    </definition>
+    
+    <!-- M 국문 기본 레이아웃 패턴 정의 -->
+    <definition name="mobile/ko/basic/*/*/*" extends="layout_mobile_ko_basic">
+        <put-attribute name="body" expression="/WEB-INF/jsp/mobile/kr/general/{1}/{2}/{3}.jsp" />
+    </definition>
+    
+    <!-- M 영문 기본 레이아웃 정의 -->
+    <definition name="layout_mobile_en_basic" template="/WEB-INF/jsp/mobile/en/common/layout/content/layout.jsp">
+        <put-attribute name="head"   value="/WEB-INF/jsp/mobile/en/common/layout/content/head.jsp"/>
+        <put-attribute name="header"   value="/WEB-INF/jsp/mobile/en/common/layout/content/header.jsp"/>
+        <put-attribute name="footer"   value="/WEB-INF/jsp/mobile/en/common/layout/content/footer.jsp"/>
+    </definition>
+    
+    <!-- M 영문 기본 레이아웃 패턴 정의 -->
+    <definition name="mobile/en/basic/*/*/*" extends="layout_mobile_en_basic">
+        <put-attribute name="body" expression="/WEB-INF/jsp/mobile/en/general/{1}/{2}/{3}.jsp" />
+    </definition>
+
+</tiles-definitions>

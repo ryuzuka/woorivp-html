@@ -1,0 +1,19 @@
+11-Dec-2019 01:45:39.722 정보 [ajp-nio-8009-exec-2] org.apache.coyote.AbstractProcessor.parseHost The host [xss.fei_5.01.app] is not valid
+ Note: further occurrences of request parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: The character [_] is never valid in a domain name.
+	at org.apache.tomcat.util.http.parser.HttpParser$DomainParseState.next(HttpParser.java:946)
+	at org.apache.tomcat.util.http.parser.HttpParser.readHostDomainName(HttpParser.java:842)
+	at org.apache.tomcat.util.http.parser.Host.parse(Host.java:66)
+	at org.apache.tomcat.util.http.parser.Host.parse(Host.java:40)
+	at org.apache.coyote.AbstractProcessor.parseHost(AbstractProcessor.java:293)
+	at org.apache.coyote.ajp.AjpProcessor.prepareRequest(AjpProcessor.java:931)
+	at org.apache.coyote.ajp.AjpProcessor.service(AjpProcessor.java:455)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+

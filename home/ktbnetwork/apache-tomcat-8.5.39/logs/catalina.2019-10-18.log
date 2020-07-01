@@ -1,0 +1,1 @@
+18-Oct-2019 10:18:46.035 정보 [ajp-nio-8009-exec-2] org.apache.tomcat.util.http.parser.Cookie.logInvalidHeader A cookie header was received [ 19-Oct-2019 01:17:02 GMT; Max-Age=86400; path=/; httponly] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.

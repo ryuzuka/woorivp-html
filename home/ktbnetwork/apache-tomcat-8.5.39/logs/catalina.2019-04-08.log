@@ -1,0 +1,141 @@
+08-Apr-2019 22:27:07.542 WARNING [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+08-Apr-2019 22:27:07.551 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.39
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 14 2019 11:24:26 UTC
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.39.0
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            3.10.0-957.5.1.el7.x86_64
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/java/jdk1.8.0_201-amd64/jre
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_201-b09
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:27:07.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ktbnetwork/apache-tomcat-8.5.39/conf/logging.properties
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ktbnetwork/apache-tomcat-8.5.39/temp
+08-Apr-2019 22:27:07.553 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+08-Apr-2019 22:27:07.641 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:27:07.651 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Apr-2019 22:27:07.662 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:27:07.664 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Apr-2019 22:27:07.664 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 464 ms
+08-Apr-2019 22:27:07.685 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Apr-2019 22:27:07.685 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.39
+08-Apr-2019 22:27:09.076 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Apr-2019 22:27:10.470 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/examples]
+08-Apr-2019 22:27:10.601 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/examples] has finished in [130] ms
+08-Apr-2019 22:27:10.601 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/manager]
+08-Apr-2019 22:27:10.618 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/manager] has finished in [17] ms
+08-Apr-2019 22:27:10.618 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/host-manager]
+08-Apr-2019 22:27:10.631 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/host-manager] has finished in [13] ms
+08-Apr-2019 22:27:10.631 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/docs]
+08-Apr-2019 22:27:10.641 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/docs] has finished in [10] ms
+08-Apr-2019 22:27:10.646 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:27:10.654 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:27:10.659 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2994 ms
+08-Apr-2019 22:32:40.177 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Apr-2019 22:32:40.178 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:32:40.185 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:32:40.191 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Apr-2019 22:32:40.217 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:32:40.221 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:32:40.223 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:32:40.223 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:32:41.817 WARNING [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+08-Apr-2019 22:32:41.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.39
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 14 2019 11:24:26 UTC
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.39.0
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            3.10.0-957.5.1.el7.x86_64
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/java/jdk1.8.0_201-amd64/jre
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_201-b09
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Apr-2019 22:32:41.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ktbnetwork/apache-tomcat-8.5.39/conf/logging.properties
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:32:41.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:32:41.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ktbnetwork/apache-tomcat-8.5.39/temp
+08-Apr-2019 22:32:41.830 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+08-Apr-2019 22:32:41.931 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:32:41.939 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Apr-2019 22:32:41.950 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:32:41.952 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Apr-2019 22:32:41.952 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 506 ms
+08-Apr-2019 22:32:41.969 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Apr-2019 22:32:41.969 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.39
+08-Apr-2019 22:32:43.181 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Apr-2019 22:34:21.342 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [97,928] milliseconds.
+08-Apr-2019 22:34:22.451 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/examples]
+08-Apr-2019 22:34:22.599 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/examples] has finished in [147] ms
+08-Apr-2019 22:34:22.613 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/manager]
+08-Apr-2019 22:34:22.650 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/manager] has finished in [37] ms
+08-Apr-2019 22:34:22.665 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/host-manager]
+08-Apr-2019 22:34:22.694 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/host-manager] has finished in [29] ms
+08-Apr-2019 22:34:22.694 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/docs]
+08-Apr-2019 22:34:22.719 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/docs] has finished in [25] ms
+08-Apr-2019 22:34:22.734 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:34:22.750 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:34:22.757 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 100804 ms
+08-Apr-2019 22:34:29.277 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Apr-2019 22:34:29.277 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:34:29.284 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:34:29.290 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Apr-2019 22:34:29.330 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:34:29.339 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:34:29.360 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:34:29.361 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:35:57.566 WARNING [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+08-Apr-2019 22:35:57.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.39
+08-Apr-2019 22:35:57.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 14 2019 11:24:26 UTC
+08-Apr-2019 22:35:57.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.39.0
+08-Apr-2019 22:35:57.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+08-Apr-2019 22:35:57.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            3.10.0-957.5.1.el7.x86_64
+08-Apr-2019 22:35:57.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Apr-2019 22:35:57.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/java/jdk1.8.0_201-amd64/jre
+08-Apr-2019 22:35:57.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_201-b09
+08-Apr-2019 22:35:57.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Apr-2019 22:35:57.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:35:57.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:35:57.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ktbnetwork/apache-tomcat-8.5.39/conf/logging.properties
+08-Apr-2019 22:35:57.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Apr-2019 22:35:57.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Apr-2019 22:35:57.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Apr-2019 22:35:57.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Apr-2019 22:35:57.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.security.egd=file:/dev/./urandom
+08-Apr-2019 22:35:57.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Apr-2019 22:35:57.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:35:57.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ktbnetwork/apache-tomcat-8.5.39
+08-Apr-2019 22:35:57.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ktbnetwork/apache-tomcat-8.5.39/temp
+08-Apr-2019 22:35:57.577 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+08-Apr-2019 22:35:57.677 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:35:57.686 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Apr-2019 22:35:57.696 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:35:57.698 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Apr-2019 22:35:57.699 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 548 ms
+08-Apr-2019 22:35:57.719 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Apr-2019 22:35:57.719 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.39
+08-Apr-2019 22:35:59.179 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Apr-2019 22:36:00.608 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/examples]
+08-Apr-2019 22:36:00.768 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/examples] has finished in [152] ms
+08-Apr-2019 22:36:00.782 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/manager]
+08-Apr-2019 22:36:00.816 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/manager] has finished in [34] ms
+08-Apr-2019 22:36:00.817 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/host-manager]
+08-Apr-2019 22:36:00.839 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/host-manager] has finished in [22] ms
+08-Apr-2019 22:36:00.840 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/docs]
+08-Apr-2019 22:36:00.875 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ktbnetwork/apache-tomcat-8.5.39/webapps/docs] has finished in [35] ms
+08-Apr-2019 22:36:00.881 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Apr-2019 22:36:00.891 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Apr-2019 22:36:00.896 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3196 ms

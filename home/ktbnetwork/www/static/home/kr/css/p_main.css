@@ -1,0 +1,111 @@
+@charset "utf-8";
+
+/* 공통 */
+.sectionWrap{padding-top:79px}
+
+[class^="section"]{position:relative}
+[class^="section"] .sTit {font-size:50px;font-weight:600;color:#111;text-align:center;letter-spacing:-1px}
+[class^="section"] .sTit em {display:block;margin-top:15px;font-size:18px;font-weight:400;color:#545454;line-height:26px}
+[class^="section"] .sTit .sTxt {display:block;margin-top:10px;font-size:14px;font-weight:400;color:#737373;line-height:22px}
+
+.sectionWrap [class^="section"] .inner{width:1200px;position:absolute;top:50%;left:50%;margin-left:-600px}
+.section1{background:#2c2c92 url(../images/common/bg_visual.jpg) 100% 0 repeat-y}/* section1만 상단 header fixed가 아닌 고정상태이므로 여백값 당겨주기 */
+.section1 .inner{height:658px;margin-top:-329px}
+.section2{background:#f2f2f2}
+.section2 .inner{height:560px;margin-top:-280px;margin-left:-640px}
+.section3{background:#fff}
+.section3 .inner{height:635px;margin-top:-318px}
+
+.main .indicator{position:fixed;top:50%;left:26px;margin-top:-35px;z-index:1}
+.main .indicator li+li{margin-top:10px}
+.main .indicator li{display:block;width:10px;height:10px;border:1px solid #fff;opacity:0.3}
+.main .indicator li span{position:absolute;overflow:hidden;margin:-1px;width:1px;height:1px;clip:rect(0 0 0 0)}
+.main .indicator li.on{opacity:1;width:0;height:0;border-right:9px solid transparent;border-top:10px solid #fff;border-bottom:none}
+.main .indicator[class*="section"]{background:none}
+.main .indicator[class*="section"]:after{display:none}
+.main .indicator.section2 li,.main .indicator.section3 li{border-color:#111}
+.main .indicator.section2 li.on,.main .indicator.section3 li.on{border-right:9px solid transparent;border-top:10px solid #111}
+
+/* section1 메인 비쥬얼, 뉴스 */
+.section1:after{content:'';position:absolute;bottom:69px;right:0;width:80px;height:80px;background:url(../images/common/bg_triangle2.png) 0 0 no-repeat}
+.section1.af:after {bottom:-1px}
+.section1 .mainVisual{position:relative}
+.section1 .mainVisual .visualWrap{width:1200px;margin:0 auto;overflow:hidden}
+.section1 .mainVisual .visualWrap ul:after{display:block;content:'';clear:both}
+.section1 .mainVisual .visualWrap ul li{float:left;width:1200px}
+.section1 .scrollDown{position:absolute;bottom:112px;left:50%;width:62px;height:58px;margin-left:-31px;background:url(../images/main/ico_scroll.png) 0 0 no-repeat}
+.section1 .paging {margin-top:50px}
+.section1 .paging .rolling_btn{display:inline-block;vertical-align:middle}
+.section1 .paging .rolling_btn [class^="btn"]{display:inline-block;background:url(../images/main/ico_paging.png) 0 0 no-repeat}
+.section1 .paging .rolling_btn [class^="btn"] span{position:absolute;overflow:hidden;margin:-1px;width:1px;height:1px;clip:rect(0 0 0 0)}
+.section1 .paging .rolling_btn .btnPrev{width:12px;height:22px}
+.section1 .paging .rolling_btn .btnStop{width:22px;height:22px;background-position:-12px 0;margin:0 9px 0 10px}
+.section1 .paging .rolling_btn .btnPlay{width:22px;height:22px;background-position:-34px 0;margin:0 9px 0 10px}
+.section1 .paging .rolling_btn .btnNext{width:12px;height:22px;background-position:-56px 0}
+.section1 .paging .pageNum{margin-left:40px;vertical-align:middle;font:20px/28px Roboto;color:#acaccd}
+.section1 .paging .pageNum .now{font:bold 30px/38px Roboto;color:#fff}
+
+.newsArea {position:absolute;bottom:0;width:100%;background:#fff}
+.newsArea .newsWrap{overflow:hidden;width:1280px;height:70px;margin:0 auto}
+.newsArea h3 {float:left;padding:26px 28px 0 40px;font-size:20px;font-weight:600;color:#111}
+.newsArea section {float:left}
+.newsArea section .newsBtn {float:left;padding-top:27px}
+.newsArea section .newsBtn button {display:block;width:18px;height:10px;background:url(../images/main/bg_ico_newsBtn.png) 0 0 no-repeat;text-indent:-9999px}
+.newsArea section .newsBtn button.next {background-position:0 -10px}
+.newsArea section .newsBtn button:hover, .newsArea section .newsBtn button:focus {background-position:0 -20px}
+.newsArea section .newsBtn button.next:hover, .newsArea section .newsBtn button.next:focus {background-position:0 -30px}
+.newsArea section ul {overflow:hidden;float:left;height:22px;margin:25px 0 0 20px}
+.newsArea section ul li a {overflow:hidden;display:block;width:1000px;white-space:nowrap;text-overflow:ellipsis;font-size:16px;font-weight:500;color:#333}
+
+/* section2 투자상품보기 */
+.section2 .inner .tabArea {overflow:hidden;width:315px;margin:50px auto 68px}
+.section2 .inner .tabArea li {float:left}
+.section2 .inner .tabArea li a {position:relative;display:block;margin:0 20px;font-size:20px;font-weight:500;color:#737373}
+.section2 .inner .tabArea li a:hover, .section2 .inner .tabArea li a:focus, .section2 .inner .tabArea li a.on {font-weight:600;color:#1b2473;border-bottom:2px solid #1b2473}
+.section2 .inner .tabCon .list {width:1010px;margin:0 auto;padding-bottom:20px}
+.section2 .inner .tabCon .list>ul {margin:0 -15px 30px}
+.section2 .inner .tabCon .list>ul:after{content:'';display:block;clear:both}
+.section2 .inner .tabCon .list>ul>li {float:left;padding:0 15px;color:#333}
+.section2 .inner .tabCon .list>ul>li>dl {display:block;position:relative;width:230px;height:230px;padding:30px 40px 40px 30px;background:#fff}
+.section2 .inner .tabCon .list>ul>li>dl .name {height:45px;font-size:16px;font-weight:normal;line-height:30px;font-weight:500;line-height:24px}
+.section2 .inner .tabCon .list>ul>li>dl .name span{display:block;font-weight:400}
+.section2 .inner .tabCon .list>ul>li>dl .num {margin-top:55px;font-size:52px;font-weight:600;color:#2c2c92;text-align:right}
+.section2 .inner .tabCon .list>ul>li>dl:after{content:'';position:absolute;bottom:0px;right:0px;width:40px;height:40px;background:url(../images/main/bg_box.gif) 0 0 no-repeat}
+.section2 .inner .tabCon .tooltip{position:absolute;bottom:18px;left:50%;margin-left:-46px;background:#fff;}
+
+/* section3 */
+.section3 .imgArea{float:left;width:500px;padding-right:125px}	
+.section3 .conArea{float:right;width:475px;margin-top:120px}
+.section3 .conArea h4{margin-bottom:5px;font-size:26px;color:#111}	
+.section3 .conArea{position:relative}
+.section3 .conArea li{position:relative;padding:25px 0 30px 80px}
+.section3 .conArea li+li{border-top:1px solid #e7e7e7}
+.section3 .conArea li strong{display:block;margin-bottom:5px;font-size:20px}
+.section3 .conArea li:before{content:'';display:block;position:absolute;left:0;top:35px;width:50px;height:50px;;;background:url(../images/main/bg_philosophy.png) no-repeat 0 0}
+.section3 .conArea li+li:before{background-position:0 -50px}
+.section3 .conArea li+li+li:before{background-position:0 -100px}
+.moreBtn{position:absolute;top:3px;right:0;font-size:14px;line-height:22px;color:#2c2c92;padding-left:20px}
+.moreBtn:before{display:block;content:'';position:absolute;top:50%;left:0;width:10px;height:10px;margin-top:-5px;-webkit-margin-before:-6px;background:url(../images/main/bg_btn_more.png) 0 -10px no-repeat}
+
+/* etc */
+.etcArea{position:relative;background:#22223e}
+.etcArea .inner{width:1200px;margin:0 auto}
+.etcArea .inner:before{content:'';display:block;width:100%;position:absolute;top:0;left:50%;margin-left:-100%;background:#f3f3f3;height:290px}
+.etcArea .inner:after{content:'';display:block;clear:both}
+.etcArea .member{position:relative;float:left;width:800px;padding:59px 0 63px;background:#f3f3f3 url(../images/main/bg_member.jpg) no-repeat 400px 20px;z-index:2}
+.etcArea .member p{margin-bottom:19px;font-size:30px;line-height:40px;color:#111}
+.etcArea .member a{color:#2c2e92;font-weight:500;font-size:16px}
+.etcArea .member a:before{content:'';display:inline-block;width:30px;height:2px;margin-right:15px;background:#2c2e92;vertical-align:middle}
+.etcArea .partners{float:right;width:400px;padding:80px 0 0 60px;color:#fff}
+.etcArea .partners p strong{display:block;margin-bottom:5px;font-size:26px}
+.etcArea .partners .moreBtn{display:inline-block;position:relative;margin-top:38px;color:#ffe6bc}
+.etcArea .partners .moreBtn:before{background-position:0 0}
+
+/* header, top */
+.main .headArea{border-bottom:0}
+.main .header.type1{background:#fff;border-bottom:1px solid #e6e6e6}
+.main .header.type1 .logo{background-image:url(../images/common/logo_header_b.png)}
+.main .header.type1 .allMenu dt a:hover{color:#2c2c92;border-bottom:2px solid #2c2c92}
+.main .header.type1 .engBtn, .main .header.type1 .allMenu li a{color:#111}
+.main .pageTop{position:fixed;top:auto;bottom:418px}
+.main .pageTop.fixed{bottom:40px}

@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'notokr';
+    font-weight:100;
+    src: url('../font/notokr-thin.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'notokr';
+	font-weight:400;
+    src: url('../font/notokr-light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'notokr';
+	font-weight:500;
+    src: url('../font/notokr-regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'notokr';
+	font-weight:600;
+    src: url('../font/notokr-medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+	font-weight:400;
+    src: url('../font/Roboto-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+	font-weight:500;
+    src: url('../font/Roboto-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+	font-weight:600;
+    src: url('../font/Roboto-Medium.woff') format('woff');
+}

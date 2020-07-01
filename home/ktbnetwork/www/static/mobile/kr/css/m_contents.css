@@ -1,0 +1,244 @@
+@charset "utf-8";
+
+.swiper-container{overflow:hidden;position:relative}
+.swiper-container .swiper-wrapper{overflow:hidden;display:-webkit-flex;display:flex;height:100% !important}
+.swiper-container .swiper-wrapper .swiper-slide{width:70%;flex-shrink:0}
+
+/* sub layout */
+header h1{display:none}
+header.headFixed ~ .container .pageTit{position:fixed;top:0;left:80px;right:80px;text-align:center;font-size:20px;font-weight:600;color:#111;line-height:60px;z-index:11;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;word-wrap:normal !important}
+header.headFixed ~ .container .pageTit:after{display:none}
+
+.visualArea{position:relative;margin:0 -30px;padding:50px 30px 50px;color:#fff;background:#2c2c92}
+.visualArea:after{content:'';display:block;width:0;position:absolute;right:0;bottom:0;height:0;border-left:40px solid transparent;border-bottom:40px solid #fff}
+.visualArea .pageTit{font-size:30px;line-height:1}
+.visualArea .pageTit:after{content:'';display:block;width:25px;height:2px;margin-top:18px;background:#fff}
+.visualArea .pageTxt{margin-top:22px}
+.visualArea .btnView{color:#ffe6bc;font-size:15px}
+.visualArea .btnView:after{width:17px;height:17px;margin-top:-2px;background-position:-27px 0}
+
+.visualArea .pageSubTit{display:block;margin-top:30px;padding-top:20px;background:url(../images/contents/bg_marks.png) no-repeat;background-size:12px 9px;font-size:20px}
+.visualArea.company{height:607px;background:#2c2c92 url(../images/contents/bg_company.png) no-repeat center bottom;background-size:100%}
+.companyTit{position:relative;display:block;margin-top:60px;color:#111;font-size:25px;line-height:1.2;z-index:0}
+.companyTit .point{display:inline-block;position:relative}
+.companyTit .point:before{content:'';position:absolute;bottom:4px;left:0;width:100%;height:0;border-top:10px solid #ccd3f2;border-right:10px solid transparent;z-index:-1}
+
+/* What we do */
+.companyInfo{line-height:30px}
+.companyInfo li {overflow:hidden;padding-bottom:10px;}
+.companyInfo li strong{float:left;width:50%;color:#111;font-weight:500;text-align:left;}
+.companyInfo li em{float:left;padding-top:5px;width:50%;line-height:20px;}
+.graphImg{margin:30px 0 35px}
+.historyList{margin-top:30px;padding-left:4px;overflow:hidden}
+.historyList > li{display:table;position:relative;padding:0 0 30px 10px;border-left:1px solid #e4e4e4}
+.historyList > li:before{content:'';display:inline-block;position:absolute;top:0;left:-4px;width:8px;height:8px;font-size:10px;line-height:1;text-align:center;border-radius:100%;background:#2c3785}
+.historyList > li:last-child{padding-bottom:0;border:0}
+.historyList .tit{display:block;margin-top:-4px;color:#2c3785;font-weight:600;font-size:15px}
+.historyList .txt{margin-top:10px;font-size:14px}
+.ico_list {overflow:hidden}
+.ico_list li {float:left;width:33.3%;padding-top:30px;text-align:center}
+.ico_list li img {width:40px}
+.ico_list li em {display:block;padding-top:10px;font-size:11px;color:#111}
+/*@media all and (max-width:340px){
+.ico_list li em {font-size:11px}
+}*/
+.introCon{margin:0 -30px;padding:30px 0 0 30px}
+.introCon li+li{border-top:1px solid #dedede}
+.introCon li {position:relative;padding:23px 20px 21px 75px;font-size:14px}
+.introCon li:before{content:'';position:absolute;top:25px;left:10px;display:block;width:40px;height:40px;background:url(../images/contents/bg_ico_introcon.png) no-repeat 0 0;background-size:40px auto}
+.introCon .check02:before{background-position:0 -40px}
+.introCon .check03:before{background-position:0 -80px}
+.introCon li strong{display:block;padding-bottom:5px;font-size:17px;font-weight:500;color:#333}
+
+/* Who we are */
+.personIntro .personList {background:#fdfdfd;margin:0 -30px}
+.personIntro .personList li {border-bottom:1px solid #dedede}
+.personIntro .personList li.line:before {content:'';display:block;width:100%;height:10px;background:#f7f7f7;}
+.personIntro .personList li a {display:table;width:100%}
+.personIntro .personList li strong {display:block;width:100%;padding:30px 0 0 30px;font-weight:600;color:#0b6fc6}
+.personIntro .personList li a span {display:table-cell;width:50%;vertical-align:middle}
+.personIntro .personList li a span img {width:100%}
+.personIntro .personList li a span+span {font-family:notokr;font-size:14px;color:#2c2c92}
+.personIntro .personList li a span em {display:block;font-size:19px;font-weight:600;color:#111}
+.personIntro .personList li a span b {font-family:Roboto;color:#111}
+.personDetail {margin:-35px -30px!important}
+.personDetail img {width:100%}
+.personDetail .deatilCon {padding:30px 30px 60px}
+.personDetail .deatilCon dl dt {padding:35px 0 15px;font-size:19px;font-weight:500;color:#111}
+.personDetail .deatilCon .name {padding:0;font-size:28px}
+.personDetail .deatilCon .position {font-size:14px;color:#2c2c92}
+.btnL {background:#0061af;}
+
+/* meet our partners */
+.partnerList {overflow:hidden;margin:30px -3px 0}
+.partnerList li {float:left;width:50%;padding:0 3px 5px}
+.partnerList li a {display:block;width:100%;padding:20px 10px;border:1px solid #eee;text-align:center}
+.partnerList li a img {width:100px;height:45px;margin:0 auto}
+.partnerList li a em {overflow:hidden;display:inline-block;width:100%;font-size:14px;font-weight:500;color:#111;white-space:nowrap;text-overflow:ellipsis}
+.layerPop .contTit{margin-bottom:20px;padding:20px 0;border-top:1px solid #111;border-bottom:1px solid #dedede;text-align:center}
+.layerPop .contTit.type02 {margin-top:20px !important}
+.layerPop .contTit .logo > img{width:100px}
+.layerPop .contTit .contBtn > a{display:block;margin-top:5px}
+.layerPop .contTit .contBtn > a:after{content:'';display:inline-block;width:5px;height:10px;padding-left:10px;background:url(../images/contents/btn_view.png) no-repeat right center;background-size:5px 10px}
+
+/* news */
+.boardArea{margin:0 -30px -35px}
+.boardList{padding:15px 0 0 30px}
+.boardList li a{overflow:hidden;display:block;padding:20px 20px 20px 0;position:relative;border-top:1px solid #dedede;font-size:15px;font-weight:500;color:#111;white-space:nowrap;text-overflow:ellipsis}
+.boardList li:first-child a{border-top:none}
+.boardList li a em{display:block;color:#737373;font-size:13px}
+.btnMore{display:block;width:100%;color:#737373;font-size:15px;font-weight:500;line-height:60px;text-align:center;border-top:1px solid #dedede;background:#fff}
+.btnMore:after{content:'';display:inline-block;width:7px;height:7px;margin:-7px 0 0 8px;vertical-align:middle;border:solid #737373;border-width:0 1px 1px 0;transform:rotate(45deg)}
+.noData{position:relative;padding:60px 0;text-align:center}
+.noData:before{content:'';display:block;width:100%;height:50px;margin-bottom:15px;background:url(../images/common/ico_nodata.png) no-repeat center center;background-size:50px 50px}
+.board_detail .detailTop {margin-right:-30px;padding-bottom:30px;border-bottom:1px solid #dadada}
+.board_detail .detailTop .titDep3 {margin:0 !important}
+.board_detail .detailTop em {display:block;padding-top:5px;font-size:14px;color:#737373}
+.board_detail .detailCon {padding-top:30px}
+.board_detail .tblH+.tblH {margin-top:20px}
+.board_detail .infoTxt {padding-bottom:110px;text-align:center}
+.board_detail .infoTxt strong {display:block;padding-bottom:15px;font-size:17px;font-weight:600;color:#111;text-align:center}
+.board_detail .topCon {overflow:hidden}
+.board_detail .listTxt {padding-top:25px;font-weight:500;color:#111}
+.board_detail .topCon .listTxt {float:left;padding-top:0}
+.board_detail .topCon em {float:right}
+.board_detail ol li {padding-top:13px}
+.board_detail .fileDown {margin:35px -30px 0}
+.board_detail .fileDown a {position:relative;display:block;padding:20px 30px;background:#f2f2f2}
+.board_detail .fileDown a:after{content:'';display:block;position:absolute;top:50%;right:30px;width:20px;height:20px;margin-top:-10px;background:url(../images/common/btn_file.png) no-repeat;background-size:auto 20px}
+.board_detail .fileDown strong {display:block;padding-bottom:10px;color:#111}
+.board_detail .tblH+.newscon_box {margin-top:35px}
+.newscon_box {position:relative;padding:35px 25px;background:#f7f7f7;text-align:center}
+.newscon_box .tit {padding-bottom:20px;font-size:17px;font-weight:600}
+.newscon_box .txt {font-size:13px;color:#555}
+.newscon_box .txt.type02 {padding-bottom:40px}
+.newscon_box dl {margin:25px 0 40px;border-top:1px solid #dedede;text-align:left}
+.newscon_box dl dt {padding:25px 0 10px;font-weight:500;color:#111}
+.newscon_box:after {content:'';display:block;width:0;position:absolute;right:0;bottom:0;height:0;border-left:35px solid transparent;border-bottom:35px solid #fff}
+.newscon_box .bottomTxt {padding-top:20px;color:#111}
+.newscon_box .bottomTxt>* {display:block}
+.newscon_box .bottomTxt:before {content:'';display:block;width:20px;height:1px;margin:0 auto 20px;background:#111}
+.newscon_box .bottomTxt strong {padding-top:10px;font-size:17px;font-weight:600}
+.opinionTxt {padding-top:25px;font-size:13px;color:#737373}
+.opinionTxt em {display:block;padding-top:15px;color:#111}
+
+/* contact */
+.contact .tglList {border-bottom:1px solid #e0e0e0}
+.contactArea .addr{margin-bottom:20px}
+.contactArea .info {padding-top:20px}
+.contactArea .info li {position:relative;padding-left:80px}
+.contactArea .info li .tit{position:absolute;top:0;left:0}
+.contactArea .map {height:300px;}
+.contactArea .info li .data{display:inline-block;overflow:hidden;margin-left:10px;color:#555}
+.contactArea .info li .data:before{content:'';display:inline-block;width:15px;height:15px;margin:-3px 5px 0 0;background:url(../images/contents/spr_ico.png) no-repeat 0 center;background-position:0 0;background-size:15px auto;vertical-align:middle}
+.contactArea .info li .data.mail:before{background-position:0 -15px}
+.contactArea .info li .data.fax:before{background-position:0 -30px}
+/*.formArea li>* {display:block}
+.formArea li:first-child strong{padding-top:15px}
+.formArea li strong {padding:35px 0 15px;font-weight:600;color:#111}
+.formArea li .btn_file {position:relative;width:100%;height:50px;padding-right:70px}
+.formArea li .btn_file input {width:100%}
+.formArea li .btn_file button {position:absolute;top:50%;right:80px;width:24px;height:24px;margin-top:-12px;background:url(../images/contents/btn_file_delete.png) no-repeat 0 0;font-size:0;color:transparent;line-height:0}
+.formArea li .btn_file label {position:absolute;top:0;right:0;width:63px;height:50px;border:1px solid #dadada;font-weight:500;line-height:50px;text-align:center;}
+.formArea li .btn_file .fileHidden {opacity:0;width:100px}
+.formBtn {display:block;width:100%;margin-top:35px;padding:17px 10px 18px;background:#0061af;border-radius:3pxfont-size:17px;font-weight:500;color:#fff;text-align:center}*/
+
+/* 그룹소개 */
+/* .affArea{position:relative;margin:35px 0 15px}
+.affArea .affList{position:absolute;top:0;left:0;width:100%;height:100%}
+.affArea .affList > li{display:block;width:100%;height:100%}
+.affArea .affList > li > a{display:block;position:absolute;top:0%;left:34%;width:33%;height:17%;text-indent:-9999px}
+.affArea .affList > li+li > a{display:block;position:absolute;top:20%;left:7%;width:33%;height:17%;text-indent:-9999px}
+.affArea .affList > li+li+li > a{left:60%;width:33%}
+.affArea .affList > li+li+li+li > a{top:51%;left:0;width:26%}
+.affArea .affList > li+li+li+li+li > a{left:74%}
+.affArea .affList > li+li+li+li+li+li > a{top:83%;left:5%;width:35%}
+.affArea .affList > li+li+li+li+li+li+li > a{left:60%} */
+/**
+ * KBT New York 추가 됨
+ * 2020-03-26 11:26:27
+*/
+/*.affArea{position: relative;margin: 35px 0 15px;margin-left: auto !important;margin-right: auto !important;width: 84%}.affArea .affList li{position: absolute;display: block}.affArea .affList li a{display: block;background: transparent;width: 100% !important;height: 100% !important;text-align: center;color: rgba(0, 0, 0, 0);left: auto !important;top: auto !important}.affArea .affList li:nth-of-type(1){top: 0%;left: 32.53968254%;width: 35.07936508%;height: 12.5984252%}.affArea .affList li:nth-of-type(2){top: 16.8503937%;left: 7.14285714%;width: 33.49206349%;height: 12.5984252%}.affArea .affList li:nth-of-type(3){top: 16.8503937%;left: 59.68253968%;width: 33.96825397%;height: 12.5984252%}.affArea .affList li:nth-of-type(4){top: 43.62204724%;left: 0%;width: 26.34920635%;height: 12.5984252%}.affArea .affList li:nth-of-type(5){top: 43.62204724%;left: 73.65079365%;width: 26.34920635%;height: 12.5984252%}.affArea .affList li:nth-of-type(6){top: 70.39370079%;left: 5.23809524%;width: 35.3968254%;height: 12.5984252%}.affArea .affList li:nth-of-type(7){top: 70.39370079%;left: 59.68253968%;width: 34.76190476%;height: 12.5984252%}.affArea .affList li:nth-of-type(8){top: 87.4015748%;left: 32.53968254%;width: 35.07936508%;height: 12.5984252%}*/
+/**
+ * 2020-04-01 10:37 계열사 순서 변경 
+*/
+/*.affArea{position:relative;margin:35px 0 15px;margin-left:auto!important;margin-right:auto!important;width:84%}.affArea .affList li{position:absolute;display:block}.affArea .affList li a{display:block;background:0 0;width:100%!important;height:100%!important;text-align:center;color:transparent;left:auto!important;top:auto!important}.affArea .affList li:nth-of-type(1){top:0;left:32.53968254%;width:35.07936508%;height:12.5984252%}.affArea .affList li:nth-of-type(2){top:16.8503937%;left:7.14285714%;width:33.49206349%;height:12.5984252%}.affArea .affList li:nth-of-type(3){top:16.8503937%;left:59.68253968%;width:33.96825397%;height:12.5984252%}.affArea .affList li:nth-of-type(4){top:43.62204724%;left:0;width:26.34920635%;height:12.5984252%}.affArea .affList li:nth-of-type(5){top:43.62204724%;left:73.65079365%;width:26.34920635%;height:12.5984252%}.affArea .affList li:nth-of-type(6){top:70.39370079%;left:59.68253968%;width:34.76190476%;height:12.5984252%}.affArea .affList li:nth-of-type(7){top:70.39370079%;left:5.23809524%;width:35.3968254%;height:12.5984252%}.affArea .affList li:nth-of-type(8){top:87.4015748%;left:32.53968254%;width:35.07936508%;height:12.5984252%}*/
+
+/**
+ * 2020-04-01 15:25 계열사 디자인 변경
+*/
+/*.affArea{position:relative;margin:35px 0 15px;margin-left:auto!important;margin-right:auto!important;width:84.4%}.affArea .affList li{position:absolute;display:block}.affArea .affList li a{display:block;background:0 0;width:100%!important;height:100%!important;text-align:center;color:transparent;left:auto!important;top:auto!important}.affArea .affList li:nth-of-type(1){top:0;left:34.43917852%;width:33.17535545%;height:16.08247423%}.affArea .affList li:nth-of-type(2){top:17.11340206%;left:4.26540284%;width:33.17535545%;height:16.08247423%}.affArea .affList li:nth-of-type(3){top:17.11340206%;left:64.4549763%;width:33.17535545%;height:16.08247423%}.affArea .affList li:nth-of-type(4){top:42.06185567%;left:0;width:33.17535545%;height:16.08247423%}.affArea .affList li:nth-of-type(5){top:42.06185567%;left:68.87835703%;width:30.8056872%;height:16.08247423%}.affArea .affList li:nth-of-type(7){top:66.80412371%;left:4.26540284%;width:33.01737757%;height:16.08247423%}.affArea .affList li:nth-of-type(6){top:66.80412371%;left:64.4549763%;width:33.17535545%;height:16.08247423%}*/
+
+/**
+ * 2020-04-01 16:18 계열사 디자인 변
+*/
+.affArea {
+  position: relative;
+  margin-top: 35px !important;
+  margin-bottom: 15px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 91.73913043%;
+}
+.affArea .affList li {
+  position: absolute;
+  display: block;
+}
+.affArea .affList li a {
+  display: block;
+  background: transparent;
+  width: 100% !important;
+  height: 100% !important;
+  text-align: center;
+  color: rgba(0, 0, 0, 0);
+  left: auto !important;
+  top: auto !important;
+}
+.affArea .affList li:nth-of-type(1) {
+  top: 0%;
+  left: 34.43917852%;
+  width: 33.17535545%;
+  height: 16.08247423%;
+}
+.affArea .affList li:nth-of-type(2) {
+  top: 17.11340206%;
+  left: 4.26540284%;
+  width: 33.17535545%;
+  height: 16.08247423%;
+}
+.affArea .affList li:nth-of-type(3) {
+  top: 17.11340206%;
+  left: 64.4549763%;
+  width: 33.17535545%;
+  height: 16.08247423%;
+}
+.affArea .affList li:nth-of-type(4) {
+  top: 42.06185567%;
+  left: 0%;
+  width: 33.17535545%;
+  height: 16.08247423%;
+}
+.affArea .affList li:nth-of-type(5) {
+  top: 42.06185567%;
+  left: 68.87835703%;
+  width: 30.8056872%;
+  height: 16.08247423%;
+}
+.affArea .affList li:nth-of-type(7) {
+  top: 66.80412371%;
+  left: 4.26540284%;
+  width: 33.01737757%;
+  height: 16.08247423%;
+}
+.affArea .affList li:nth-of-type(6) {
+  top: 66.80412371%;
+  left: 64.4549763%;
+  width: 33.17535545%;
+  height: 16.08247423%;
+}
+
+
+
+.layerPop .contTit .logo.affListImg > img{width:136px}
+.layerPop .info{color:#737373;font-size:13px}
+.layerPop .info:before{content:'* ';display:inline-block;width:6px;margin-right:5px;vertical-align:middle}

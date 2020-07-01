@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+/* main layout */
+.mMain header{background:#2c2c92}
+.mMain header button{background-position:-40px -65px}
+.mMain header h1{display:block}
+.mMain header h1 a{display:block;position:absolute;left:0;top:0;text-indent:-9999px;width:150px;height:60px;background:url(../images/common/logo_w.png) no-repeat 30px 21px;background-size:90px 19px}
+.mMain header.headFixed{position:fixed;top:0;left:0;right:0;background:#fff}
+.mMain header.headFixed h1 a{background:url(../images/common/logo_b.png) no-repeat 30px 21px;background-size:90px 19px}
+.mMain .container{background:none !important}
+.mMain .contents{padding:60px 0 0 !important;margin-bottom:0 !important}
+.mMain .swiper-container .swiper-wrapper .swiper-slide{width:100%;flex-shrink:0}
+
+.indicator .indiList{position:absolute}
+.indicator .indiList button{position:relative;overflow:hidden;text-indent:9999px;width:8px;height:8px;margin-left:4px}
+.indicator .indiList button:first-child{margin-left:0}
+.indicator .indiList button:after{content:'';display:block;position:absolute;left:1px;top:1px;width:6px;height:6px;border-radius:3px;background-color:#6c6cb3}
+.indicator .indiList button.on:after{left:0;top:0;width:8px;height:8px;border-radius:4px;background-color:#fff}
+
+.mainSwipe{position:relative;margin-bottom:-21px;z-index:1}
+.mainSwipe:after{content:'';display:block;width:0;position:absolute;right:0;bottom:20px;height:0;border-left:50px solid transparent;border-bottom:50px solid #fff}
+.mainSwipe .swiper-container{background:#2c2c92}
+.mainSwipe .indicator{display:inline-block;margin:0 auto}
+.mainSwipe .indiList{left:0;bottom:70px;width:100%;text-align:center}
+
+.mainNews dl{padding:22px 30px 20px;color:#111}
+.mainNews dl:after{content:'';display:block;clear:both}				
+.mainNews dt{float:left;width:70px;font-size:16px;font-weight:700}		
+.mainNews dd ul{overflow:hidden;height:18px}	
+.mainNews dd ul li{overflow:hidden;font-size:15px;text-overflow:ellipsis; white-space:nowrap}
+
+.srvIntro{background:#f1f1f1;padding:55px 0 30px}
+.srvIntro .srvTit{padding-left:30px;font-size:25px;color:#111;font-weight:400}
+.srvIntro .srvTit em{display:inline-block;background:url(../images/MA/bg_srvtit.png) no-repeat right 80%;background-size:295px 10px;padding-right:8px}
+.srvIntro .tabCont{display:none;padding:35px 30px 0}
+.srvIntro .tabCont.on{display:block}
+.srvIntro .fundStatus{counter-reset:section;display:-webkit-flex;display:flex;flex-wrap:nowrap;-webkit-flex-wrap:nowrap;overflow-x:auto;z-index:10;-webkit-overflow-scrolling:touch;padding:0 30px;margin:0 -45px 0 -30px}
+.srvIntro .fundStatus::-webkit-scrollbar{display:none;-webkit-appearance:none;appearance:none;background-color:transparent}
+.srvIntro .fundStatus li{position:relative;-webkit-flex:1 100%;flex:1 100%}
+.srvIntro .fundStatus li .contBox{position:relative;padding:25px 40px 0 25px;height:275px;color:#999;min-width:255px;background:url(../images/MA/bg_srvintro.png) no-repeat right top;background-size:700px 300px}
+.srvIntro .fundStatus li:last-child{padding-right:15px}
+
+.srvIntro .fundStatus li .tit {display:block;margin-right:-25px;padding-bottom:10px;font-size:19px;font-weight:600;color:#2c2c92;border-bottom:1px solid #dedede}
+.srvIntro .fundStatus li dl{margin-top:20px}
+.srvIntro .fundStatus li dl:after{content:'';display:block;clear:both}
+.srvIntro .fundStatus li dl dt{float:left;width:50%;line-height:30px;font-size:13px;font-weight:500;color:#111;vertical-align:middle}
+.srvIntro .fundStatus li dl dd{float:left;width:50%;line-height:30px;font-family:'Roboto';font-size:18px;font-weight:600;color:#333;text-align:right}
+.srvIntro .fundStatus li dl dd span {font-family:'notokr';font-size:15px;font-weight:500}
+.srvIntro .fundStatus li .btnView {float:right;margin-top:15px;}
+.srvIntro .fundStatus>li:first-child{margin-left:0}
+.srvIntro .contBox:after{content:'';display:block;position:absolute;left:25px;bottom:60px;width:25px;height:25px;background:url(../images/MA/ico_link.gif) no-repeat;background-size:25px 25px}
+
+.introCon{margin:0 !important;padding:30px 0 10px 30px}
+.introCon .tit{display:inline-block;margin-bottom:5px;padding-right:15px;font-size:20px;color:#111;background:url(../images/MA/img_ico_bl.png) no-repeat right 50%;background-size:6px 12px}
+.introCon li+li{border-top:1px solid #dedede}
+.introCon li a{position:relative;display:block;padding:23px 20px 21px 75px;font-size:14px}
+.introCon li a:before{content:'';position:absolute;top:25px;left:10px;display:block;width:40px;height:40px;background:url(../images/MA/bg_ico_introcon.png) no-repeat 0 0;background-size:40px auto}
+.introCon .check02 a:before{background-position:0 -40px}
+.introCon .check03 a:before{background-position:0 -80px}
+.introCon li a strong{display:block;padding-bottom:5px;font-size:17px;font-weight:500;color:#333}
+
+.menuBanner01 {margin:30px}
+.menuBanner01 a {display:block;padding:30px 80px 30px 25px;background:#f3f3f3 url(../images/MA/img_pic.jpg) no-repeat right bottom;background-size:138px 152px}
+.menuBanner01 strong {display:block;font-size:17px;font-weight:400;color:#111}
+.menuBanner01 p {display:inline-block;margin-top:20px;padding-right:30px;background:url(../images/MA/img_ico_bl01.png) no-repeat right 50%;background-size:20px 10px;font-size:15px;font-weight:600;color:#2c2c92}
+
+.menuBanner02 {margin:30px}
+.menuBanner02 a {display:block;padding:30px 25px;background:#22223e url(../images/MA/img_ico_bl02.png) no-repeat 93% 50%;background-size:6px 12px;color:#fff}
+.menuBanner02 a strong {font-size:17px;font-weight:600}
+.menuBanner02 p {margin-top:10px}
+
+/* 영문 */
+.en .contents{min-height:auto !important}
+.en.mMain header h1 a{width:220px;background:url(../images/common/logo_w_eng.png) no-repeat 30px 21px;background-size:160px 22px}
+.en.mMain header.headFixed h1 a{background-image:url(../images/common/logo_b_eng.png)}
+.en .gnb .menuTop .tit{width:220px;background-image:url(../images/common/logo_w_eng.png);background-size:160px 22px}
+
