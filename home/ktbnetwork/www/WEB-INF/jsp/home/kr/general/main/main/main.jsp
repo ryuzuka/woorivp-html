@@ -189,5 +189,5 @@
 			</article><!-- //content -->
 		</section>
 		<script>
-			window.open('/static/home/kr/ktb_popup.html', '', 'top=0, left=0, width=720, height=1019, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=1')
+			// window.open('/static/home/kr/ktb_popup.html', '', 'top=0, left=0, width=720, height=1019, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=1')
 		</script>
