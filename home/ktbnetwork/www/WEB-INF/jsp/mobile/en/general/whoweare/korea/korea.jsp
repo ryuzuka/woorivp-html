@@ -127,7 +127,7 @@
 								<span><img src="/static/mobile/en/images/contents/img_invest_17.jpg" alt="Seong Kyeong A" /></span>
 								<span>
 									<em>Seong Kyeong A</em>
-									Team Manager
+									Director
 								</span>
 							</a>
 						</li>
@@ -163,7 +163,7 @@
 								<span><img src="/static/mobile/en/images/contents/img_invest_19.jpg" alt="Kim Beomjun" /></span>
 								<span>
 									<em>Kim Beomjun</em>
-									Senior Associate
+									Team Manager
 								</span>
 							</a>
 						</li>
@@ -299,7 +299,7 @@
 								<span><img src="/static/mobile/en/images/contents/img_manage_16.jpg" alt="Cho Eun Sol" /></span>
 								<span>
 									<em>Cho Eun Sol</em>
-									<b>Associate</b>
+									<b>Manager</b>
 								</span>
 							</a>
 						</li>
@@ -319,7 +319,7 @@
 								<span><img src="/static/mobile/en/images/contents/img_manage_15.jpg" alt="Lee Ji Eun" /></span>
 								<span>
 									<em>Lee Ji Eun</em>
-									<b>BI center</b><br>Senior Associate
+									<b>BI center</b><br>Team Manager
 								</span>
 							</a>
 						</li>
@@ -699,7 +699,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Kim Man Sik Senior Associate -->
-	<!-- Seong Kyeong A Team Manager -->
+	<!-- Seong Kyeong A Director -->
 	<div class="fullLayer" id="personDeatail17">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -708,7 +708,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Seong Kyeong A</dt>
-						<dd class="position">KOREA / Investment / Team Manager</dd>
+						<dd class="position">KOREA / Investment / Director</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -723,8 +723,8 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Seong Kyeong A Team Manager -->
-	
+	<!-- //Seong Kyeong A Director -->
+
 	<!-- Heo Jongsoo Team Manager -->
 	<div class="fullLayer" id="personDeatail18">
 		<h2 class="layerTit">Who We Are</h2>
@@ -749,7 +749,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Heo Jongsoo Team Manager -->
-	
+
 						<!-- Cha Seung Jun Team Manager -->
 						<div class="fullLayer" id="person_manageDeatail04">
 							<h2 class="layerTit">Who We Are</h2>
@@ -780,8 +780,8 @@
 							<button type="button" class="layerClose">close</button>
 						</div>
 						<!-- //Cha Seung Jun Team Manager -->
-	
-	<!-- Kim Beomjun Senior Associate -->
+
+	<!-- Kim Beomjun Team Manager -->
 	<div class="fullLayer" id="personDeatail19">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -790,7 +790,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Kim Beomjun</dt>
-						<dd class="position">KOREA / Investment / Senior Associate</dd>
+						<dd class="position">KOREA / Investment / Team Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -805,8 +805,8 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Kim Beomjun Senior Associate -->
-	
+	<!-- //Kim Beomjun Team Manager -->
+
 	<!-- //team investment(L) -->
 
 	<!-- team management(L) -->
@@ -1108,7 +1108,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Lee Sin Hee manager -->
-	<!-- Cho Eun Sol Associate -->
+	<!-- Cho Eun Sol Manager -->
 	<div class="fullLayer" id="person_manageDeatail16">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -1117,7 +1117,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Cho Eun Sol</dt>
-						<dd class="position">KOREA / Management / Associate</dd>
+						<dd class="position">KOREA / Management / Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -1136,7 +1136,7 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Cho Eun Sol Associate -->
+	<!-- //Cho Eun Sol Manager -->
 	<!-- Jung Ga Young Manager -->
 	<div class="fullLayer" id="person_manageDeatail13">
 		<h2 class="layerTit">Who We Are</h2>
@@ -1192,7 +1192,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Lim Dong Hyeon Managing Director -->
-	<!-- Lee Ji Eun Senior Associate -->
+	<!-- Lee Ji Eun Team Manager -->
 	<div class="fullLayer" id="person_manageDeatail15">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -1201,7 +1201,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Lee Ji Eun</dt>
-						<dd class="position">KOREA / Management BI center / Senior Associate</dd>
+						<dd class="position">KOREA / Management BI center / Team Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -1220,5 +1220,5 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Lee Ji Eun Senior Associate -->
+	<!-- //Lee Ji Eun Team Manager -->
 	<!-- //team investment(L) -->

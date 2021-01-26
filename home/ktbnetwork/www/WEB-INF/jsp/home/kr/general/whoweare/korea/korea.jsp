@@ -227,7 +227,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team36.jpg" alt="성경아"></div>
 									<div class="right">
-										<h3>성경아 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
+										<h3>성경아 <span class="pointColor">KOREA / 투자팀 / 이사</span></h3>
 										<dl>
 											<dt>주요경력</dt>
 											<dd>KAIST 생명화학공학 박사<br>(주)LG화학<br>기술보증기금</dd>
@@ -236,7 +236,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team36_off.jpg" alt="성경아"></span>
-									<strong>성경아</strong> 팀장
+									<strong>성경아</strong> 이사
 								</a>
 							</li>
 							<li>
@@ -294,7 +294,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team40.jpg" alt="김범준"></div>
 									<div class="right">
-										<h3>김범준 <span class="pointColor">KOREA / 투자팀 / 대리</span></h3>
+										<h3>김범준 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
 										<dl>
 											<dt>주요경력</dt>
 											<dd>고려대학교 생명공학부</dd>
@@ -305,7 +305,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team40_off.jpg" alt="김범준"></span>
-									<strong>김범준</strong> 대리
+									<strong>김범준</strong> 팀장
 								</a>
 							</li>
 							<li>
@@ -575,7 +575,7 @@
 									<div class="member">
 										<div class="left"><img src="/static/home/kr/images/contents/img_team37.jpg" alt="조은솔"></div>
 										<div class="right">
-											<h3>조은솔 <span class="pointColor">KOREA / 관리팀 / 사원</span></h3>
+											<h3>조은솔 <span class="pointColor">KOREA / 관리팀 / 주임</span></h3>
 											<dl>
 												<dt>주요경력</dt>
 												<dd>이트너스</dd>
@@ -586,7 +586,7 @@
 									</div>
 									<a href="#" class="thumb">
 										<span class="img"><img src="/static/home/kr/images/contents/thumb_team37_off.jpg" alt="조은솔"></span>
-										<strong>조은솔</strong> 사원
+										<strong>조은솔</strong> 주임
 									</a>
 								</li>
 							</ul>
@@ -614,7 +614,7 @@
 									<div class="member">
 										<div class="left"><img src="/static/home/kr/images/contents/img_team29.jpg" alt="이지은"></div>
 										<div class="right">
-											<h3>이지은 <span class="pointColor">KOREA / 관리팀 / 대리</span></h3>
+											<h3>이지은 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
 											<dl>
 												<dt>주요경력</dt>
 												<dd>동서울대 BI센터(보육 매니저)</dd>
@@ -625,7 +625,7 @@
 									</div>
 									<a href="#" class="thumb">
 										<span class="img"><img src="/static/home/kr/images/contents/thumb_team29_off.jpg" alt="이지은"></span>
-										<strong>이지은</strong> 대리
+										<strong>이지은</strong> 팀장
 									</a>
 								</li>
 							</ul>

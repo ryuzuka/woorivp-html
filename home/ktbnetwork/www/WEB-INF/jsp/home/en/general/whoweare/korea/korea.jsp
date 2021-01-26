@@ -221,7 +221,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team36.jpg" alt="Seong Kyeong A"></div>
 									<div class="right">
-										<h3>Seong Kyeong A <span class="pointColor">KOREA / Investment / Team Manager</span></h3>
+										<h3>Seong Kyeong A <span class="pointColor">KOREA / Investment / Director</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd><dd>KAIST Ph.D. (Chemical and Biomolecular Engineering)<br>LG Chem, Ltd.<br>KIBO (Korea Technology Finance Corporation)</dd></dd>
@@ -230,7 +230,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team36_off.jpg" alt="Seong Kyeong A"></span>
-									<strong>Seong Kyeong A</strong> Team Manager
+									<strong>Seong Kyeong A</strong> Director
 								</a>
 							</li>
 							<li>
@@ -288,7 +288,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team40.jpg" alt="Kim Beomjun"></div>
 									<div class="right">
-										<h3>Kim Beomjun <span class="pointColor">Korea / Investment / Senior Associate</span></h3>
+										<h3>Kim Beomjun <span class="pointColor">Korea / Investment / Team Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Korea university division of biotechnology</dd>
@@ -299,7 +299,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team40_off.jpg" alt="Kim Beomjun"></span>
-									<strong>Kim Beomjun</strong> Senior Associate
+									<strong>Kim Beomjun</strong> Team Manager
 								</a>
 							</li>
 							<li>
@@ -547,7 +547,7 @@
 									<div class="member">
 										<div class="left"><img src="/static/home/en/images/contents/img_team37.jpg" alt="Cho Eun Sol"></div>
 										<div class="right">
-											<h3>Cho Eun Sol <span class="pointColor">KOREA / Management / Associate</span></h3>
+											<h3>Cho Eun Sol <span class="pointColor">KOREA / Management / Manager</span></h3>
 											<dl>
 												<dt>Career</dt>
 												<dd>Etners</dd>
@@ -558,7 +558,7 @@
 									</div>
 									<a href="#" class="thumb">
 										<span class="img"><img src="/static/home/en/images/contents/thumb_team37_off.jpg" alt="Cho Eun Sol"></span>
-										<strong>Cho Eun Sol</strong> Associate
+										<strong>Cho Eun Sol</strong> Manager
 									</a>
 								</li>
 							</ul>
@@ -586,7 +586,7 @@
 									<div class="member">
 										<div class="left"><img src="/static/home/en/images/contents/img_team29.jpg" alt="Lee Ji Eun"></div>
 										<div class="right">
-											<h3>Lee Ji Eun <span class="pointColor">KOREA / Management BI center / Senior Associate</span></h3>
+											<h3>Lee Ji Eun <span class="pointColor">KOREA / Management BI center / Team Manager</span></h3>
 											<dl>
 												<dt>Career</dt>
 												<dd>Dong Seoul University BI Center</dd>
@@ -597,7 +597,7 @@
 									</div>
 									<a href="#" class="thumb">
 										<span class="img"><img src="/static/home/en/images/contents/thumb_team29_off.jpg" alt="Lee Ji Eun"></span>
-										<strong>Lee Ji Eun</strong> Senior Associate
+										<strong>Lee Ji Eun</strong> Team Manager
 									</a>
 								</li>
 							</ul>
