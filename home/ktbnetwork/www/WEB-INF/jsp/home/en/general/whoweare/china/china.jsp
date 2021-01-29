@@ -65,7 +65,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team32_on.jpg" alt="Chihoon Hyun"></span>
-									<strong>Chihoon Hyun</strong> Managing Director<br>(Head of China)
+									<strong>Chihoon Hyun</strong> Managing Director
 								</a>
 							</li>
 							<!-- 0415 수정 -->

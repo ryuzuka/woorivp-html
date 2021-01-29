@@ -37,8 +37,7 @@
 							<a href="#personDeatail03" role="button">
 								<span><img src="/static/mobile/en/images/contents/img_china_invest_03.jpg" alt="Chihoon Hyun" /></span>
 								<span>
-									<em>Chihoon Hyun</em>
-									Managing Director<br>(Head of China)
+									<em>Chihoon Hyun</em>Managing Director
 								</span>
 							</a>
 						</li>
