@@ -273,6 +273,16 @@
 								</span>
 							</a>
 						</li>
+            <li>
+              <strong class="hidden">Management</strong>
+              <a href="#person_manageDeatail15" role="button">
+                <span><img src="/static/mobile/en/images/contents/img_manage_15.jpg" alt="Lee Ji Eun" /></span>
+                <span>
+									<em>Lee Ji Eun</em>
+									<b>Team Manager</b>
+								</span>
+              </a>
+            </li>
 						<li>
 							<strong class="hidden">Management</strong>
 							<a href="#person_manageDeatail12" role="button">
@@ -303,6 +313,7 @@
 								</span>
 							</a>
 						</li>
+            <!-- // 20210129 BI Center 삭제
 						<li class="line">
 							<strong>BI center</strong>
 							<a href="#person_manageDeatail14" role="button">
@@ -313,16 +324,7 @@
 								</span>
 							</a>
 						</li>
-						<li>
-							<strong class="hidden">BI center</strong>
-							<a href="#person_manageDeatail15" role="button">
-								<span><img src="/static/mobile/en/images/contents/img_manage_15.jpg" alt="Lee Ji Eun" /></span>
-								<span>
-									<em>Lee Ji Eun</em>
-									<b>BI center</b><br>Team Manager
-								</span>
-							</a>
-						</li>
+						-->
 					</ul>
 				</div>
 				<!-- //Management -->
@@ -1201,7 +1203,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Lee Ji Eun</dt>
-						<dd class="position">KOREA / Management BI center / Team Manager</dd>
+						<dd class="position">KOREA / Management / Team Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -1211,7 +1213,7 @@
 						<dt>Responsibilities</dt>
 						<dd>
 							<ul class="listDep1">
-								<li>BI Center Manager</li>
+								<li>Human resource management</li>
 							</ul>
 						</dd>
 					</dl>

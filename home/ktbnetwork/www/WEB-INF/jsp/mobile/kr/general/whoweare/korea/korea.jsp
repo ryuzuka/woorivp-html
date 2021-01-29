@@ -290,6 +290,16 @@
 								</span>
 							</a>
 						</li>
+            <li>
+              <strong class="hidden">Management</strong>
+              <a href="#person_manageDeatail15" role="button">
+                <span><img src="/static/mobile/kr/images/contents/img_manage_15.jpg" alt="이지은 팀장 사진" /></span>
+                <span>
+									<em>이지은</em>
+									팀장
+								</span>
+              </a>
+            </li>
 						<li>
 							<strong class="hidden">Management</strong>
 							<a href="#person_manageDeatail12" role="button">
@@ -320,6 +330,7 @@
 								</span>
 							</a>
 						</li>
+            <!-- // 20210129 BI Center 삭제
 						<li class="line">
 							<strong>BI center</strong>
 							<a href="#person_manageDeatail14" role="button">
@@ -330,16 +341,7 @@
 								</span>
 							</a>
 						</li>
-						<li>
-							<strong class="hidden">BI center</strong>
-							<a href="#person_manageDeatail15" role="button">
-								<span><img src="/static/mobile/kr/images/contents/img_manage_15.jpg" alt="이지은 팀장 사진" /></span>
-								<span>
-									<em>이지은</em>
-									팀장
-								</span>
-							</a>
-						</li>
+						-->
 					</ul>
 				</div>
 				<!-- //Management -->
@@ -433,6 +435,7 @@
 	</div>
 	<!-- //이승호 전무 -->
 	<!-- 임동현 전무 -->
+  <!--
 	<div class="fullLayer" id="personDeatail04">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -458,6 +461,7 @@
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
+  -->
 	<!-- //임동현 전무 -->
 	<!-- 박선배 전무 -->
 	<div class="fullLayer" id="personDeatail05">
@@ -1218,7 +1222,7 @@
 						<dt>업무</dt>
 						<dd>
 							<ul class="listDep1">
-								<li>BI센터 업무</li>
+								<li>인사총무</li>
 							</ul>
 						</dd>
 					</dl>

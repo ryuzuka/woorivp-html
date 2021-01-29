@@ -535,6 +535,24 @@
 										<strong>고은비</strong> 팀장
 									</a>
 								</li>
+                <li>
+                  <div class="member">
+                    <div class="left"><img src="/static/home/kr/images/contents/img_team29.jpg" alt="이지은"></div>
+                    <div class="right">
+                      <h3>이지은 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
+                      <dl>
+                        <dt>주요경력</dt>
+                        <dd>동서울대 BI센터(보육 매니저)</dd>
+                        <dt>업무</dt>
+                        <dd>인사총무</dd>
+                      </dl>
+                    </div>
+                  </div>
+                  <a href="#" class="thumb">
+                    <span class="img"><img src="/static/home/kr/images/contents/thumb_team29_off.jpg" alt="이지은"></span>
+                    <strong>이지은</strong> 팀장
+                  </a>
+                </li>
 								<li>
 									<div class="member">
 										<div class="left"><img src="/static/home/kr/images/contents/img_team26.jpg" alt="이신희"></div>
@@ -591,6 +609,7 @@
 								</li>
 							</ul>
 						</div>
+            <!-- // 20210129 BI Center 삭제
 						<div class="memberInner">
 							<h3 class="title">BI Center</h3>
 							<ul>
@@ -610,24 +629,7 @@
 										<strong>임동현</strong> 전무
 									</a>
 								</li>
-								<li>
-									<div class="member">
-										<div class="left"><img src="/static/home/kr/images/contents/img_team29.jpg" alt="이지은"></div>
-										<div class="right">
-											<h3>이지은 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
-											<dl>
-												<dt>주요경력</dt>
-												<dd>동서울대 BI센터(보육 매니저)</dd>
-												<dt>업무</dt>
-												<dd>BI센터 업무</dd>
-											</dl>
-										</div>
-									</div>
-									<a href="#" class="thumb">
-										<span class="img"><img src="/static/home/kr/images/contents/thumb_team29_off.jpg" alt="이지은"></span>
-										<strong>이지은</strong> 팀장
-									</a>
-								</li>
+								-->
 							</ul>
 						</div>
 					</div>

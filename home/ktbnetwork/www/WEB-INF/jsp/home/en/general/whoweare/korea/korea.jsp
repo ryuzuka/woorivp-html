@@ -507,6 +507,24 @@
 										<strong>Ko Eun Bi</strong> Team Manager
 									</a>
 								</li>
+                <li>
+                  <div class="member">
+                    <div class="left"><img src="/static/home/en/images/contents/img_team29.jpg" alt="Lee Ji Eun"></div>
+                    <div class="right">
+                      <h3>Lee Ji Eun <span class="pointColor">KOREA / Management / Team Manager</span></h3>
+                      <dl>
+                        <dt>Career</dt>
+                        <dd>Dong Seoul University BI Center</dd>
+                        <dt>Responsibilities</dt>
+                        <dd>Human resource management</dd>
+                      </dl>
+                    </div>
+                  </div>
+                  <a href="#" class="thumb">
+                    <span class="img"><img src="/static/home/en/images/contents/thumb_team29_off.jpg" alt="Lee Ji Eun"></span>
+                    <strong>Lee Ji Eun</strong> Team Manager
+                  </a>
+                </li>
 								<li>
 									<div class="member">
 										<div class="left"><img src="/static/home/en/images/contents/img_team26.jpg" alt="Lee Sin Heer"></div>
@@ -563,6 +581,7 @@
 								</li>
 							</ul>
 						</div>
+            <!-- // 20210129 BI Center 삭제
 						<div class="memberInner">
 							<h3 class="title">BI Center</h3>
 							<ul>
@@ -582,28 +601,11 @@
 										<strong>Lim Dong Hyeon</strong> Executive Managing Director
 									</a>
 								</li>
-								<li>
-									<div class="member">
-										<div class="left"><img src="/static/home/en/images/contents/img_team29.jpg" alt="Lee Ji Eun"></div>
-										<div class="right">
-											<h3>Lee Ji Eun <span class="pointColor">KOREA / Management BI center / Team Manager</span></h3>
-											<dl>
-												<dt>Career</dt>
-												<dd>Dong Seoul University BI Center</dd>
-												<dt>Responsibilities</dt>
-												<dd>BI Center Manager</dd>
-											</dl>
-										</div>
-									</div>
-									<a href="#" class="thumb">
-										<span class="img"><img src="/static/home/en/images/contents/thumb_team29_off.jpg" alt="Lee Ji Eun"></span>
-										<strong>Lee Ji Eun</strong> Team Manager
-									</a>
-								</li>
 							</ul>
 						</div>
 					</div>
 				</div>
+				-->
 				<!-- //Management -->
 			</div>
 		</section>
