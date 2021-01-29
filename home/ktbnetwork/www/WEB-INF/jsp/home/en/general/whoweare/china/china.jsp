@@ -56,7 +56,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team32.jpg" alt="Chihoon Hyun"></div>
 									<div class="right">
-										<h3>Chihoon Hyun <span class="pointColor">CHINA / Investment / Director</span></h3>
+										<h3>Chihoon Hyun <span class="pointColor">CHINA / Investment / Managing Director</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Yonsei University (Economics)<br>IMM Investment<br>KTB Network</dd>
@@ -65,7 +65,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team32_on.jpg" alt="Chihoon Hyun"></span>
-									<strong>Chihoon Hyun</strong> Director(Head of China)
+									<strong>Chihoon Hyun</strong> Managing Director<br>(Head of China)
 								</a>
 							</li>
 							<!-- 0415 수정 -->

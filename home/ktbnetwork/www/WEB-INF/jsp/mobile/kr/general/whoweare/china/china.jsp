@@ -35,10 +35,10 @@
 						</li>
 						<li>
 							<a href="#personDeatail03" role="button">
-								<span><img src="/static/mobile/kr/images/contents/img_china_invest_03.jpg" alt="현지훈 이사 사진" /></span>
+								<span><img src="/static/mobile/kr/images/contents/img_china_invest_03.jpg" alt="현지훈 상무 사진" /></span>
 								<span>
 									<em>현지훈</em>
-									이사(소장)
+									상무(소장)
 								</span>
 							</a>
 						</li>
@@ -125,16 +125,16 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- //Amy Yeh 전무 -->
-	<!-- 현지훈 이사 -->
+	<!-- 현지훈 상무 -->
 	<div class="fullLayer" id="personDeatail03">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
 			<div class="personDetail">
-				<span><img src="/static/mobile/kr/images/contents/img_china_invest_pop03.jpg" alt="현지훈 이사 사진" /></span>
+				<span><img src="/static/mobile/kr/images/contents/img_china_invest_pop03.jpg" alt="현지훈 상무 사진" /></span>
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">현지훈</dt>
-						<dd class="position">CHINA / 투자팀 / 이사</dd>
+						<dd class="position">CHINA / 투자팀 / 상무</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">
@@ -149,7 +149,7 @@
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //현지훈 이사 -->
+	<!-- //현지훈 상무 -->
 	<!-- //팀원소개 investment(L) -->
 
 	<!-- 팀원소개 management(L) -->
@@ -241,4 +241,4 @@
 	</div>
 	<!-- //유재하 대리 -->
 	<!-- //팀원소개 investment(L) -->
-	
+

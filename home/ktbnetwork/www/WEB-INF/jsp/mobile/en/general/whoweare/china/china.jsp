@@ -38,7 +38,7 @@
 								<span><img src="/static/mobile/en/images/contents/img_china_invest_03.jpg" alt="Chihoon Hyun" /></span>
 								<span>
 									<em>Chihoon Hyun</em>
-									Director(Head of China)
+									Managing Director<br>(Head of China)
 								</span>
 							</a>
 						</li>
@@ -125,7 +125,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Amy Yeh Senior Managing Director -->
-	<!-- Chihoon Hyun Director -->
+	<!-- Chihoon Hyun Managing Director -->
 	<div class="fullLayer" id="personDeatail03">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -134,7 +134,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Chihoon Hyun</dt>
-						<dd class="position">CHINA / Investment / Director</dd>
+						<dd class="position">CHINA / Investment / Managing Director</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -149,7 +149,7 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Chihoon Hyun Director -->
+	<!-- //Chihoon Hyun Managing Director -->
 	<!-- //team investment(L) -->
 
 	<!-- team management(L) -->
@@ -241,4 +241,4 @@
 	</div>
 	<!-- //Yu Jae Ha  Senior Associate  -->
 	<!-- //team investment(L) -->
-	
+

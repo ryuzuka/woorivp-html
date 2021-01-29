@@ -35,7 +35,7 @@
 				</div>
 				<!-- Investment -->
 				<div class="inner tabCont on"><!-- 탭 활성화시 class="on" -->
-					<h2 class="hidden">CHINA Investment</h2><!-- 탭 타이틀 -->					
+					<h2 class="hidden">CHINA Investment</h2><!-- 탭 타이틀 -->
 					<div class="memberList">
 						<ul>
 							<li>
@@ -48,27 +48,27 @@
 											<dd>University of Maryland MBA<br>Softbank China VC, PWC</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team31_off.jpg" alt="Amy Yeh"></span>
 									<strong>Amy Yeh</strong>  전무
-								</a>							
+								</a>
 							</li>
 							<li class="active">
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team32.jpg" alt="현지훈"></div>
 									<div class="right">
-										<h3>현지훈 <span class="pointColor">CHINA / 투자팀 / 이사</span></h3>
+										<h3>현지훈 <span class="pointColor">CHINA / 투자팀 / 상무</span></h3>
 										<dl>
 											<dt>주요경력</dt>
 											<dd>연세대학교 경제학과<br>IMM 인베스트먼트<br>KTB네트워크</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team32_on.jpg" alt="현지훈"></span>
-									<strong>현지훈</strong> 이사(소장)
-								</a>							
+									<strong>현지훈</strong> 상무(소장)
+								</a>
 							</li>
 							<!-- 0415 수정 -->
 							<li>
@@ -83,11 +83,11 @@
 											<dd>펀드 및 투자관리</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team35_off.jpg" alt="Xu Tingting"></span>
 									<strong>Xu Tingting</strong> 팀장
-								</a>							
+								</a>
 							</li>
 							<!-- //0415 수정 -->
 							<li>
@@ -100,13 +100,13 @@
 											<dd>Peking University 경제학과<br>KB증권</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team38_off.jpg" alt="유재하"></span>
 									<strong>유재하</strong> 대리
-								</a>							
+								</a>
 							</li>
-						</ul>					
+						</ul>
 					</div>
 					<div class="btnArea">
 						<a href="http://ktbchina.com/index.html" target="_blank" role="button" class="btnXL">중국 사이트 바로가기</a>
@@ -115,7 +115,7 @@
 				<!-- //Investment -->
 				<!-- Management -->
 				<div class="inner tabCont">
-					<h2 class="hidden">CHINA Management</h2><!-- 탭 타이틀 -->					
+					<h2 class="hidden">CHINA Management</h2><!-- 탭 타이틀 -->
 					<div class="memberList">
 						<ul>
 							<li class="active">
@@ -130,15 +130,15 @@
 											<dd>행정/재무관리</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team34_on.jpg" alt="박연화"></span>
-									<!-- 
-										활성화시 이미지, hover시 이미지  
-										src="/static/home/kr/images/contents/thumb_team34_off.jpg" 
+									<!--
+										활성화시 이미지, hover시 이미지
+										src="/static/home/kr/images/contents/thumb_team34_off.jpg"
 									-->
 									<strong>박연화</strong> 팀장
-								</a>							
+								</a>
 							</li>
 							<!-- 0415 수정 -->
 							<!--<li>
@@ -153,14 +153,14 @@
 											<dd>펀드 및 투자관리</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team35_off.jpg" alt="Xu Tingting"></span>
 									<strong>Xu Tingting</strong> 팀장
-								</a>							
+								</a>
 							</li>-->
 							<!-- //0415 수정 -->
-						</ul>				
+						</ul>
 					</div>
 					<div class="btnArea">
 						<a href="http://ktbchina.com/index.html" target="_blank" role="button" class="btnXL">중국 사이트 바로가기</a>
