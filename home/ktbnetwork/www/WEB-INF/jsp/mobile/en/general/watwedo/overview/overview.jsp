@@ -62,7 +62,7 @@
 					</ul>
 
 					<h3 class="titDep2">Year-on-year changes in AUM</h3>
-					<div class="graphImg"><img src="/static/mobile/en/images/contents/img_graph_eng_v2.png" alt=""></div>
+					<div class="graphImg"><img src="/static/mobile/en/images/contents/img_graph_210215_mo.png" alt=""></div>
 					<table class="tblH">
 						<caption>Year-on-year changes in AUM</caption>
 						<colgroup><col style="width:50%" span="2"></colgroup>
@@ -104,17 +104,20 @@
 							</tr>
 							<tr>
 								<th scope="row" id="tb-0-10">2018</th>
-								<td headers="tb-0-0 tb-0-1 tb-0-10">751</td>
+								<td headers="tb-0-0 tb-0-1 tb-0-10">769</td>
 							</tr>
 							<!-- //0416 수정 -->
 							<tr>
 								<th scope="row" id="tb-0-11">2019</th>
-								<td headers="tb-0-0 tb-0-1 tb-0-10">763</td>
+								<td headers="tb-0-0 tb-0-1 tb-0-11">781</td>
 							</tr>
+              <tr>
+                <th scope="row" id="tb-0-12">2020</th>
+                <td headers="tb-0-0 tb-0-1 tb-0-12">1,070</td>
+              </tr>
 						</tbody>
 					</table>
 				</div>
 			</div>
 		</div><!-- //contents -->
 	</section>
-	

@@ -19,14 +19,21 @@
 					<h2 class="hidden">History</h2>
 					<div class="tabType2 tabToggle tabFixed">
 						<ul>
-							<li class="on"><a href="#tabName1" aria-selected="true">2019~2012</a></li>
+							<li class="on"><a href="#tabName1" aria-selected="true">2020~2012</a></li>
 							<li><a href="#tabName2">2011~1981</a></li>
 						</ul>
 					</div>
 
 					<div id="tabName1" class="tabCont" style="display:block">
-						<h3 class="titDep2">2019~2012</h3> <!-- 해당 탭 타이틀 -->
+						<h3 class="titDep2">2020~2012</h3> <!-- 해당 탭 타이틀 -->
 						<ol class="historyList">
+              <li>
+                <strong class="tit">2020.12</strong>
+                <p class="txt">
+                  KTBN 18 Venture Investment Fund(USD 258 Million) established<br>
+                  reaching AUM USD 1,070 Million
+                </p>
+              </li>
 							<li>
 								<strong class="tit">2019.08</strong>
 								<p class="txt">KTBN GI PEF(USD 10 Million) established</p>

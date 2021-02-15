@@ -87,7 +87,7 @@
 										<span class="msg">
 											<strong class="tit">Documentation Criteria</strong>
 											<span class="txt">
-												- The present 2019.12.31
+												- The present 2020.12.31
 												<br>- Fully liquidated fund since Jan, 2000
 												<br>- IRR : Include Performance Remuneration, &nbsp;&nbsp;Weighted average return on payments
 											</span>
@@ -103,25 +103,25 @@
 										<li>
 											<dl>
 												<dt class="name">Funds Active</dt>
-												<dd class="num">17</dd>
+												<dd class="num">18</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">Fund Size</dt>
-												<dd class="num">763</dd>
+												<dd class="num">1,070</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">Portfolio Companies</dt>
-												<dd class="num">297</dd>
+												<dd class="num">328</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name" style="white-space: nowrap;">Total Amount Invested</dt>
-												<dd class="num">588</dd>
+												<dd class="num">573</dd>
 											</dl>
 										</li>
 										<!-- <li>
@@ -149,7 +149,7 @@
 										<span class="msg">
 											<strong class="tit">Documentation Criteria</strong>
 											<span class="txt">
-												- The present 2019.12.31
+												- The present 2020.12.31
 											</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
 										</span>

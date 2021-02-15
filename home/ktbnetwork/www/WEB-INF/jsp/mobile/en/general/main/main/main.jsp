@@ -38,10 +38,10 @@
 							<div class="contBox">
 								<strong class="tit">Funds Active</strong>
 								<dl>
-									<dt>Funds Active<em>&nbsp;</em></dt><dd class="num01">17</dd>
-									<dt>Funds Size<em>&nbsp;</em></dt><dd class="num01">763</dd>
-									<dt style="white-space: nowrap">Portfolio Companies</dt><dd class="num01">297</dd>
-									<dt>Total Amount<br>Invested<em></em></dt><dd class="num02">588</dd>
+									<dt>Funds Active<em>&nbsp;</em></dt><dd class="num01">18</dd>
+									<dt>Funds Size<em>&nbsp;</em></dt><dd class="num01">1,070</dd>
+									<dt style="white-space: nowrap">Portfolio Companies</dt><dd class="num01">328</dd>
+									<dt>Total Amount<br>Invested<em></em></dt><dd class="num02">573</dd>
 									<!-- <dt>Capital Pledged<em>(Unit : USDMillion)</em></dt><dd class="num02">756</dd>
 									<dt>Capital Deployed<em>(Unit : USDMillion)</em></dt><dd class="num02">520</dd>
 									<dt>IRR(e)<em>(Unit : %)</em></dt><dd class="num02">16.22</dd> -->
@@ -88,7 +88,7 @@
 			<h2 class="layerTit">Documentation Criteria</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-					<li>The present 2019.12.31</li>
+					<li>The present 2020.12.31</li>
 					<li>Fully liquidated fund since Jan, 2000</li>
 					<li>IRR : Include Performance Remuneration, Weighted average return on payments</li>
 				</ul>
@@ -101,7 +101,7 @@
 			<h2 class="layerTit">Documentation Criteria</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-					<li>The present 2019.12.31</li>
+					<li>The present 2020.12.31</li>
 				</ul>
 			</div>
 		</div>

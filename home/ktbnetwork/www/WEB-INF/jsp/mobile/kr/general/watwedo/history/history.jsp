@@ -19,14 +19,21 @@
 					<h2 class="hidden">History</h2>
 					<div class="tabType2 tabToggle tabFixed">
 						<ul>
-							<li class="on"><a href="#tabName1" aria-selected="true">2018~2012</a></li>
+							<li class="on"><a href="#tabName1" aria-selected="true">2020~2012</a></li>
 							<li><a href="#tabName2">2011~1981</a></li>
 						</ul>
 					</div>
 
 					<div id="tabName1" class="tabCont" style="display:block">
-						<h3 class="titDep2">2019~2012</h3> <!-- 해당 탭 타이틀 -->
+						<h3 class="titDep2">2020~2012</h3> <!-- 해당 탭 타이틀 -->
 						<ol class="historyList">
+							<li>
+								<strong class="tit">2020.12</strong>
+								<p class="txt">
+                  KTBN18호 벤처투자포함(약정규모 2,810억원) 결성<br>
+                  운용펀드 약정액 규모 1조 1,645억원으로 증가
+                </p>
+							</li>
 							<li>
 								<strong class="tit">2019.08</strong>
 								<p class="txt">KTBN GI PEF(약정규모 100억원)결성</p>

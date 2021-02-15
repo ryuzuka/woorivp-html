@@ -51,10 +51,10 @@
 							<div class="contBox">
 								<strong class="tit">운용펀드 현황</strong>
 								<dl>
-									<dt>펀드 수</dt><dd>17<span>개</span></dd>
-									<dt>약정총액</dt><dd>8,835<span>억원</span></dd>
-									<dt>투자기업수</dt><dd>297</dd>
-									<dt>투자총액</dt><dd>6,807<span>억원</span></dd>
+									<dt>펀드 수</dt><dd>18<span>개</span></dd>
+									<dt>약정총액</dt><dd>11,645<span>억원</span></dd>
+									<dt>투자기업수</dt><dd>328</dd>
+									<dt>투자총액</dt><dd>6,229<span>억원</span></dd>
 								</dl>
 								<a href="#MAL2" role="button" class="btnView">작성기준</a>
 							</div>
@@ -98,7 +98,7 @@
 			<h2 class="layerTit">작성기준</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-					<li>2019.12.31 현재</li>
+					<li>2020.12.31 현재</li>
 					<li>2000.01.01 이후 청산한 퍼드 기준</li>
 					<li>IRR: 성과보수 포함, 납입금액 가중평균 수익률</li>
 				</ul>
@@ -111,7 +111,7 @@
 			<h2 class="layerTit">작성기준</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-					<li>2019.12.31 현재</li>
+					<li>2020.12.31 현재</li>
 				</ul>
 			</div>
 		</div>

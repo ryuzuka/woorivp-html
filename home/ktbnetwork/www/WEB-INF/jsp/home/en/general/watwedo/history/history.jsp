@@ -17,7 +17,7 @@
 						<li class="sub on"><a href="/home/en/watwedo/history.do" aria-selected="true">History</a>
 							<div class="subTab">
 								<ul class="inner">
-									<li class="on"><a href="#" aria-selected="true">2018~2012</a></li>
+									<li class="on"><a href="#" aria-selected="true">2020~2012</a></li>
 									<li><a href="#">2011~1981</a></li>
 								</ul>
 							</div>
@@ -25,11 +25,23 @@
 						<li><a href="/home/en/watwedo/philosophy.do">Philosophy</a></li>
 					</ul>
 				</div>
-				<div class="inner tabCont on">	
-					<h2 class="hidden">History 2019~2012</h2><!-- 탭 타이틀 -->				
+				<div class="inner tabCont on">
+					<h2 class="hidden">History 2019~2012</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
-							<li class="year on">
+              <li class="year on">
+                <strong class="num">2020</strong>
+                <ol class="list">
+                  <li>
+                    <strong class="tit">2020.12</strong>
+                    <p class="txt">
+                      KTBN 18 Venture Investment Fund(USD 258 Million) established<br>
+                      reaching AUM USD 1,070 Million
+                    </p>
+                  </li>
+                </ol>
+              </li>
+							<li class="year">
 								<strong class="num">2019</strong>
 								<ol class="list">
 									<li>
@@ -125,8 +137,8 @@
 						</ol>
 					</div>
 				</div>
-				<div class="inner tabCont">	
-					<h2 class="hidden">History 2011~1981</h2><!-- 탭 타이틀 -->				
+				<div class="inner tabCont">
+					<h2 class="hidden">History 2011~1981</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
 							<li class="year">
@@ -213,4 +225,3 @@
 				</div>
 			</div>
 		</section>
-		

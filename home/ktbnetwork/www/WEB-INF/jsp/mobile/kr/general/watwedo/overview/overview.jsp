@@ -18,6 +18,9 @@
 				<div class="tabCont"  style="display:block">
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">회사개요</h3>
+          <p style="margin-top:-35px;margin-bottom:14px;padding-right:20px;color:#111;text-align:right;font-size:12px">
+            <b>2019년말 기준</b>
+          </p>
 					<!-- 수정 0405 -->
 					<ul class="companyInfo">
 						<li>
@@ -56,7 +59,7 @@
 					<!-- //수정 0405 -->
 
 					<h3 class="titDep2">연도별 운용펀드 자산규모 증감현황</h3>
-					<div class="graphImg"><img src="/static/mobile/kr/images/contents/img_graph_200325.png" alt=""></div>
+					<div class="graphImg"><img src="/static/mobile/kr/images/contents/img_graph_210215_mo.png" alt=""></div>
 					<table class="tblH">
 						<caption>연도별 운용펀드 자산규모 증감현황</caption>
 						<colgroup><col style="width:50%" span="2"></colgroup>
@@ -97,12 +100,16 @@
 							</tr>
 							<tr>
 								<th scope="row" id="tb-0-10">2018</th><!-- 0415 수정 -->
-								<td headers="tb-0-0 tb-0-1 tb-0-10">8,535</td><!-- 0415 수정 -->
+								<td headers="tb-0-0 tb-0-1 tb-0-10">8,735</td><!-- 0415 수정 -->
 							</tr>
-							<tr><!-- `20-03-26 추가 -->
+							<tr><!-- 20-03-26 추가 -->
 								<th scope="row" id="tb-0-11">2019</th>
-								<td headers="tb-0-0 tb-0-1 tb-0-10">8,635</td>
+								<td headers="tb-0-0 tb-0-1 tb-0-11">8,835</td>
 							</tr>
+              <tr><!-- 21-02-15 추가 -->
+                <th scope="row" id="tb-0-12">2020</th>
+                <td headers="tb-0-0 tb-0-1 tb-0-12">11,645</td>
+              </tr>
 						</tbody>
 					</table>
 				</div>

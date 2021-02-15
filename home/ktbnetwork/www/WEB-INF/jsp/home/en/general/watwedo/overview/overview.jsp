@@ -20,7 +20,7 @@
 				</div>
 				<div class="inner">
 					<h2 class="hidden">Overview</h2>
-					<h3 class="titDep2">Company Overview</h3>	
+					<h3 class="titDep2">Company Overview</h3>
 					<ul class="infoList">
 						<li>Company Name<span class="data">KTB Network Co., Ltd</span></li>
 						<li>Capital Stock/Owner's Capital<span class="data">USD 35 Million / 100 Million</span></li>
@@ -33,10 +33,10 @@
 					</ul>
 
 					<h3 class="titDep2">Year-on-year changes in AUM</h3>
-					<div class="imgInfo"><img src="/static/home/en/images/contents/img_chart_eng_v2.jpg" alt=""></div>
+					<div class="imgInfo"><img src="/static/home/en/images/contents/img_chart_210215_pc.jpg" alt=""></div>
 					<table class="tblH">
 						<caption>Year-on-year changes in AUM</caption>
-						<colgroup><col style="width:16%"><col style="width:9.333333333333334%" span="9"></colgroup>
+						<colgroup><col style="width:16%"><col style="width:8.333333333333334%" span="10"></colgroup>
 						<thead>
 							<tr>
 								<th scope="col">Year</th><!-- 0412 수정 -->
@@ -49,6 +49,7 @@
 								<th scope="col">2017</th>
 								<th scope="col">2018</th><!-- 0415 수정 -->
 								<th scope="col">2019</th>
+								<th scope="col">2020</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -62,8 +63,9 @@
 								<td>269</td>
 								<td>491</td>
 								<td>566</td>
-								<td>751</td><!-- //0416 수정 -->
-								<td>763</td>
+								<td>769</td><!-- //0416 수정 -->
+								<td>781</td>
+								<td>1,070</td>
 							</tr>
 						</tbody>
 					</table>

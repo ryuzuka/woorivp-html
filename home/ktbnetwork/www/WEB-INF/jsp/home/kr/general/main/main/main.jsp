@@ -103,7 +103,7 @@
 										<a href="#" class="tipOpen"><span>도움말</span></a><!-- 클릭 시 class="on" 추가 -->
 										<span class="msg">
 											<strong class="tit">작성기준</strong>
-											<span class="txt">- 2019.12.31 현재</span>
+											<span class="txt">- 2020.12.31 현재</span>
 											<span class="txt">- 2000.01.01 이후 청산한 퍼드 기준</span>
 											<span class="txt">- IRR: 성과보수 포함, 납입금액 가중평균 수익률</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
@@ -118,25 +118,25 @@
 										<li>
 											<dl>
 												<dt class="name">펀드수</dt>
-												<dd class="num">17</dd>
+												<dd class="num">18</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">약정총액<span>(단위 : 억원)</span></dt>
-												<dd class="num">8,835</dd>
+												<dd class="num">11,645</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">투자기업수</dt>
-												<dd class="num">297</dd>
+												<dd class="num">328</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">투자총액<span>(단위 : 억원)</span></dt>
-												<dd class="num">6,807</dd>
+												<dd class="num">6,229</dd>
 											</dl>
 										</li>
 									</ul>
@@ -145,7 +145,7 @@
 										<a href="#" class="tipOpen"><span>도움말</span></a><!-- 클릭 시 class="on" 추가 -->
 										<span class="msg">
 											<strong class="tit">작성기준</strong>
-											<span class="txt">- 2019.12.31 현재</span>
+											<span class="txt">- 2020.12.31 현재</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
 										</span>
 									</span>

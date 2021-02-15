@@ -20,7 +20,10 @@
 				</div>
 				<div class="inner">
 					<h2 class="hidden">Overview</h2>
-					<h3 class="titDep2">회사개요</h3>	
+					<h3 class="titDep2">회사개요</h3>
+          <p style="margin-top:-20px;margin-bottom:-10px;padding-right:20px;color:#111;text-align:right;">
+            <b style="font-size:14px">2019년말 기준</b>
+          </p>
 					<ul class="infoList">
 						<li>회사명<span class="data">KTB네트워크㈜</span></li>
 						<li>자본금 / 자기자본<span class="data">400억원/1,163억원</span></li>
@@ -33,10 +36,10 @@
 					</ul>
 
 					<h3 class="titDep2">연도별 운용펀드 자산규모 증감현황</h3>
-					<div class="imgInfo"><img src="/static/home/kr/images/contents/img_chart_200325.jpg" alt=""></div>
+					<div class="imgInfo"><img src="/static/home/kr/images/contents/img_chart_210215_pc.jpg" alt=""></div>
 					<table class="tblH">
 						<caption>연도별 운용펀드 자산규모 증감현황</caption>
-						<colgroup><col style="width:16%"><col style="width:9.333333333333334%" span="9"></colgroup>
+						<colgroup><col style="width:16%"><col style="width:8.333333333333334%" span="10"></colgroup>
 						<thead>
 							<tr>
 								<th scope="col">구분</th>
@@ -48,7 +51,8 @@
 								<th scope="col">2016</th>
 								<th scope="col">2017</th>
 								<th scope="col">2018</th><!-- 0415 수정 -->
-								<th scope="col">2019</th><!-- `20-03-26 추가 -->
+								<th scope="col">2019</th><!-- 20-03-26 추가 -->
+								<th scope="col">2020</th><!-- 21-02-15 추가 -->
 							</tr>
 						</thead>
 						<tbody>
@@ -61,8 +65,9 @@
 								<td>3,062</td>
 								<td>5,582</td>
 								<td>6,432</td>
-								<td>8,535</td><!-- 0415 수정 -->
-								<td>8,635</td><!-- `20-03-26 추가 -->
+								<td>8,735</td><!-- 0415 수정 -->
+								<td>8,835</td><!-- 20-03-26 추가 -->
+								<td>11,645</td><!-- 21-02-15 추가 -->
 							</tr>
 						</tbody>
 					</table>
