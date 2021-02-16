@@ -21,6 +21,9 @@
 				<div class="inner">
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">Company Overview</h3>
+          <p style="margin-top:-20px;margin-bottom:-10px;padding-right:20px;color:#111;text-align:right;">
+            <b style="font-size:14px">As of the end of 2019</b>
+          </p>
 					<ul class="infoList">
 						<li>Company Name<span class="data">KTB Network Co., Ltd</span></li>
 						<li>Capital Stock/Owner's Capital<span class="data">USD 35 Million / 100 Million</span></li>
@@ -33,7 +36,7 @@
 					</ul>
 
 					<h3 class="titDep2">Year-on-year changes in AUM</h3>
-					<div class="imgInfo"><img src="/static/home/en/images/contents/img_chart_210215_pc.jpg" alt=""></div>
+					<div class="imgInfo"><img src="/static/home/en/images/contents/img_chart_210215_pc_EN.jpg" alt=""></div>
 					<table class="tblH">
 						<caption>Year-on-year changes in AUM</caption>
 						<colgroup><col style="width:16%"><col style="width:8.333333333333334%" span="10"></colgroup>

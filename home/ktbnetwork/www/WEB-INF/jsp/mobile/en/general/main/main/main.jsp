@@ -39,9 +39,9 @@
 								<strong class="tit">Funds Active</strong>
 								<dl>
 									<dt>Funds Active<em>&nbsp;</em></dt><dd class="num01">18</dd>
-									<dt>Funds Size<em>&nbsp;</em></dt><dd class="num01">1,070</dd>
+									<dt>Funds Size<em style="white-space: nowrap">(Unit : USD  Million)</em></dt><dd class="num01">1,070</dd>
 									<dt style="white-space: nowrap">Portfolio Companies</dt><dd class="num01">328</dd>
-									<dt>Total Amount<br>Invested<em></em></dt><dd class="num02">573</dd>
+									<dt>Total Amount<br>Invested<em style="white-space: nowrap">(Unit : USD  Million)</em></dt><dd class="num02">573</dd>
 									<!-- <dt>Capital Pledged<em>(Unit : USDMillion)</em></dt><dd class="num02">756</dd>
 									<dt>Capital Deployed<em>(Unit : USDMillion)</em></dt><dd class="num02">520</dd>
 									<dt>IRR(e)<em>(Unit : %)</em></dt><dd class="num02">16.22</dd> -->

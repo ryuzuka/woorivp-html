@@ -18,6 +18,9 @@
 				<div class="tabCont"  style="display:block">
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">Company Overview</h3>
+          <p style="margin-top:-34px;margin-bottom:13px;padding-right:20px;color:#111;text-align:right;">
+            <b style="font-size:12px">As of the end of 2019</b>
+          </p>
 					<ul class="companyInfo">
 						<li>
 							<strong>Company Name</strong>
@@ -62,7 +65,7 @@
 					</ul>
 
 					<h3 class="titDep2">Year-on-year changes in AUM</h3>
-					<div class="graphImg"><img src="/static/mobile/en/images/contents/img_graph_210215_mo.png" alt=""></div>
+					<div class="graphImg"><img src="/static/mobile/en/images/contents/img_graph_210215_mo_EN.jpg" alt=""></div>
 					<table class="tblH">
 						<caption>Year-on-year changes in AUM</caption>
 						<colgroup><col style="width:50%" span="2"></colgroup>

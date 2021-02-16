@@ -108,7 +108,7 @@
 										</li>
 										<li>
 											<dl>
-												<dt class="name">Fund Size</dt>
+												<dt class="name">Fund Size<span>(Unit : USD Million)</span></dt>
 												<dd class="num">1,070</dd>
 											</dl>
 										</li>
@@ -120,7 +120,7 @@
 										</li>
 										<li>
 											<dl>
-												<dt class="name" style="white-space: nowrap;">Total Amount Invested</dt>
+												<dt class="name" style="white-space: nowrap;">Total Amount Invested<span>(Unit : USD Million)</span></dt>
 												<dd class="num">573</dd>
 											</dl>
 										</li>
