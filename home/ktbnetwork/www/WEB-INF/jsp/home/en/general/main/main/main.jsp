@@ -64,13 +64,13 @@
 										</li>
 										<li>
 											<dl>
-												<dt class="name">Capital Raised<span>(Unit : USD Million)</span></dt>
+												<dt class="name">Capital Raised<span>(Unit : USD Billion)</span></dt>
 												<dd class="num">1.1</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
-												<dt class="name">Total Paid Out<span>(Unit : USD Million)</span></dt>
+												<dt class="name">Total Paid Out<span>(Unit : USD Billion)</span></dt>
 												<dd class="num">1.7</dd>
 											</dl>
 										</li>

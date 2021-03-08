@@ -27,8 +27,8 @@
 								<strong class="tit">Funds Exited</strong>
 								<dl>
 									<dt>Funds exited</dt><dd class="num01">53</dd>
-									<dt>Capital Raised<em style="white-space: nowrap">(Unit : USD  Million)</em></dt><dd class="num02">1.1</dd>
-									<dt>Total Paid Out<em style="white-space: nowrap">(Unit : USD  Million)</em></dt><dd class="num02">1.7</dd>
+									<dt>Capital Raised<em style="white-space: nowrap">(Unit : USD  billion)</em></dt><dd class="num02">1.1</dd>
+									<dt>Total Paid Out<em style="white-space: nowrap">(Unit : USD  billion)</em></dt><dd class="num02">1.7</dd>
 									<dt>IRR<em>(Unit : %)</em></dt><dd class="num02">19.75</dd>
 								</dl>
 								<a href="#MAL1" role="button" class="btnView">Documentation Criteria</a>
