@@ -8,10 +8,10 @@
 				<strong class="pageSubTit">Growing with our Clients</strong>
 
 				<p role="text" class="pageTxt">
-					In order to honor our clients’ confidence 
-					in us and to consistently deliver optimum 
-					results, KTB will strive to lead innovation 
-					in the financial markets, while adhering 
+					In order to honor our clients’ confidence
+					in us and to consistently deliver optimum
+					results, KTB will strive to lead innovation
+					in the financial markets, while adhering
 					to a strict ethical code.
 				</p>
 			</div>
@@ -27,17 +27,17 @@
 			<div id="CI1T1" class="tabCont" style="display:block">
 				<h2 class="hidden">History</h2>
 				<p class="mtM">
-					Originally founded in 1981 as Korea Technology 
-					Development Company, a government-funded 
+					Originally founded in 1981 as Korea Technology
+					Development Company, a government-funded
 					investment vehicle specializing in<br>
-					technology-related investment opportunities, 
-					KTB Financial Group(“KTB”) has since grown 
-					into a comprehensive financial group offering 
-					a wide range of financial services, including 
-					securities, asset management, venture capital 
+					technology-related investment opportunities,
+					KTB Financial Group(“KTB”) has since grown
+					into a comprehensive financial group offering
+					a wide range of financial services, including
+					securities, asset management, venture capital
 					and private equity.<br>
-					We, KTB, also have expanded our global network 
-					by actively entering overseas markets includes 
+					We, KTB, also have expanded our global network
+					by actively entering overseas markets includes
 					the United States, China and Thailand.
 				</p>
 
@@ -75,6 +75,12 @@
 							<br>(Spin-off from KTB Investment &amp; Securities PE Division)
 						</p>
 					</li>
+          <li>
+            <strong class="tit">JUL. 2019</strong>
+            <p class="txt">
+              Established KTB New York
+            </p>
+          </li>
 				</ol>
 			</div>
 			<!-- //History(T) -->
@@ -130,34 +136,18 @@
 						<a href="tel:+82-2-788-8259">+82-2-788-8259</a>
 					</div>
 				</div>
-				KTB Asset Management has shown steady
-				growth for more than 20 years since it was
-				first founded in 1999. As of the end of June
-				2019, its assets under management (AUM)
-				reached USD 10.1 billion*.<br>
-				In particular, the company has distinguished
-				itself in new business development, with
-				successful launches of Multi-Asset
-				Department and Alternative Investment
-				Division in 2016.<br><br>
-
-				By launching and operating a number of 
-				successful public funds, such as First Class 
-				Stock Fund, KOSDAQ Venture Fund, and
-				KONEX High-Yield Fund, KTB Asset 
-				Management continues to play a leading 
-				role in the market, and is expanding its 
-				unique portfolio of medium-risk and 
-				medium-return products such as EMP, NPL, 
-				and the asset allocation fund.<br><br>
-
-				The Alternative Investment Division has 
-				closed USD 1.1 billion-worth deals in 
-				major commercial districts around the 
-				world in 2019, and is operating USD 
-				3.2 billion-worth of alternative investments 
-				as of the end of 2019.<br><br>
-				<p class="info">Source : Korea Financial Investment Association</p>
+        As of the end of 2020, its assets under management (AUM) reached USD 11.6 billion*.
+        In particular, the company has distinguished itself in new business development, with successful launches of Multi-Asset Department and Alternative Investment Division in 2016.
+        By launching and operating a number of successful public funds,
+        such as First Class Stock Fund(Industry 4.0/China/ESG),
+        Multi-Asset Income EMP, and Block-Deal High-Yield Fund,
+        KTB Asset Management continues to play a leading role in the market,
+        and is expanding its unique portfolio of medium-risk and medium-return products such as NPL, and the asset allocation fund.
+        <br><br>
+        The Alternative Investment Division has focused on expanding various investment assets and areas
+        and succeeded in establishing all businesses sectors not only as domestic and foreign real estate
+        but also as aircraft, ships, and infrastructure.
+        It is operating USD 3.2 billion-worth of alternative investments as of the end of 2020.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
@@ -173,25 +163,22 @@
 						<a href="tel:+82-31-628-6400">+82-31-628-6400</a>
 					</div>
 				</div>
-				KTB Network is Korea's leading venture 
-				capital company with the longest history 
-				and investment track record, boasting an 
-				AUM of approx.<br>
-				USD 763 million at the end of 2019.
-				KTB Network was ranked first in VC 
-				investment performance in 2017*.<br><br>
-				
+        KTB Network is Korea's leading venture capital company with the longest history and investment track record.
+        As of the end of 2020, its assets under management (AUM) reached USD 1.1 billion,
+        and the size of newly formed fund last year was about USD 0.3 billion based on the commitment.<br>
+				KTB Network was ranked first in VC investment performance in 2017*.<br><br>
+
 				KTB Network became the first Korean venture
-				capital firm to participate in the Chinese 
-				venture capital market, making its initial 
-				investment in China as early as the year 2000.  
+				capital firm to participate in the Chinese
+				venture capital market, making its initial
+				investment in China as early as the year 2000.
 				KTB Network has taken advantage of its
-				 “First Mover” status in China, generating 
-				consistent investment results year after year.  
+				 “First Mover” status in China, generating
+				consistent investment results year after year.
 				It has ranked among top 50 venture capital
-				firms in China for nine years in a row. 
-				Furthermore, it boasts a wide-ranging global 
-				investment track record and strong network 
+				firms in China for nine years in a row.
+				Furthermore, it boasts a wide-ranging global
+				investment track record and strong network
 				in the US, Japan and Southeast Asia.<br><br>
 				<p class="info">Source :  Korean Venture Capital Association<br>(Including PEF)</p>
 			</div>
@@ -227,25 +214,25 @@
 						<a href="tel:+66-02-648-1111">+66-02-648-1111</a>
 					</div>
 				</div>
-				
-				Acquired by KTB Investment & Securities in 
+
+				Acquired by KTB Investment & Securities in
 				August 2008, KTB Securities Thailand
-				(&quot;KTB ST&quot;) is a securities company based 
+				(&quot;KTB ST&quot;) is a securities company based
 				in Thailand.<br><br>
-				Recent expansion efforts in Wealth 
-				Management, ECM, DCM and 
-				Investment Banking business lines have 
-				bolstered asset management capabilities 
-				KTB ST, transforming the company into 
-				a comprehensive securities company 
-				offering a complete range of financial 
+				Recent expansion efforts in Wealth
+				Management, ECM, DCM and
+				Investment Banking business lines have
+				bolstered asset management capabilities
+				KTB ST, transforming the company into
+				a comprehensive securities company
+				offering a complete range of financial
 				products.<br><br>
-				KTB ST has continued to expand its 
-				footprint as the only Korean financial 
-				investment company in Thailand. At the 
-				end of 2019, KTB ST has been changed 
-				a holding company that has securities, 
-				asset management and Reits management 
+				KTB ST has continued to expand its
+				footprint as the only Korean financial
+				investment company in Thailand. At the
+				end of 2019, KTB ST has been changed
+				a holding company that has securities,
+				asset management and Reits management
 				subsidiaries.
 			</div>
 		</div>
@@ -283,26 +270,22 @@
 						<a href="tel:+82-2-721-6900">+82-2-721-6900</a>
 					</div>
 				</div>
-				KTB Credit Service (&quot;KTB Credit&quot;), 
-				which first began as Nara Credit Service 
-				in 1999, became an affiliate of 
+				KTB Credit Service (&quot;KTB Credit&quot;),
+				which first began as Nara Credit Service
+				in 1999, became an affiliate of
 				KTB Investment &amp; Securities in 2001.<br><br>
-				
-				Services provided by KTB Credit include 
-				debt collection, credit investigation, 
-				issuance of civil affair documents 
+
+				Services provided by KTB Credit include
+				debt collection, credit investigation,
+				issuance of civil affair documents
 				and real estate management.<br>
-				KTB Credit has been a clear market leader 
-				in the field of debt collection and related 
-				information services, as seen in its role as 
-				the primary debt collection agency for the 
-				Korea Deposit Insurance Corporation for 
+				KTB Credit has been a clear market leader
+				in the field of debt collection and related
+				information services, as seen in its role as
+				the primary debt collection agency for the
+				Korea Deposit Insurance Corporation for
 				nearly 20 years.<br><br>
-				<p class="info">
-				Served as the debt collector for the Korea 
-				Deposit Insurance Corporation from 2001 
-				to Mar. 2020
-				</p>
+				<p class="info">* Served as the debt collector for the Korea Deposit Insurance Corporation from 2001 to Mar. 2021</p>
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
