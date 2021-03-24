@@ -41,12 +41,14 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team01.jpg" alt="신진호"></div>
 									<div class="right">
-										<h3>신진호 <span class="pointColor">KOREA / 대표이사</span></h3>
+										<h3>신진호 <span class="pointColor">KOREA / 대표이사 / 부회장</span></h3>
 										<dl>
 											<dt>주요경력</dt>
 											<dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> KTB네트워크</dd>
-											<dt>업무</dt>
+											<!--
+                      <dt>업무</dt>
 											<dd>경영총괄</dd>
+											-->
 										</dl>
 									</div>
 								</div>
@@ -63,7 +65,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team02.jpg" alt="김창규"></div>
 									<div class="right">
-										<h3>김창규 <span class="pointColor">KOREA / 투자팀 / 부사장</span></h3>
+										<h3>김창규 <span class="pointColor">KOREA / 대표이사 / 사장</span></h3>
 										<dl>
 											<dt>주요경력</dt>
 											<dd>연세대학교 경제학과<br>연세대학교 경제학 대학원<br>동남리스<br>KTB네트워크</dd>
@@ -72,7 +74,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team02_off.jpg" alt="김창규"></span>
-									<strong>김창규</strong> 부사장
+									<strong>김창규</strong> 대표이사
 								</a>
 							</li>
 							<li>
@@ -352,35 +354,54 @@
 				<div class="inner tabCont">
 					<h2 class="hidden">KOREA Management</h2><!-- 탭 타이틀 -->
 					<div class="memberList">
-						<div class="memberWrap">
-							<div class="memberInner">
-								<h3 class="title">CEO</h3>
-								<ul>
-									<li class="active">
-										<div class="member">
-											<div class="left"><img src="/static/home/kr/images/contents/img_team01.jpg" alt="신진호"></div>
-											<div class="right">
-												<h3>신진호 <span class="pointColor">KOREA / 대표이사</span></h3>
-												<dl>
-													<dt>주요경력</dt>
-													<dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> KTB네트워크</dd>
-													<dt>업무</dt>
-													<dd>경영총괄</dd>
-												</dl>
-											</div>
-										</div>
-										<a href="#" class="thumb">
-											<span class="img"><img src="/static/home/kr/images/contents/thumb_team01_on.jpg" alt="신진호"></span>
-											<!--
-												활성화시 이미지, hover시 이미지
-												src="/static/home/kr/images/contents/thumb_team01_off.jpg"
-											-->
-											<strong>신진호</strong> 대표이사
-										</a>
-									</li>
-								</ul>
-							</div>
-						</div>
+<%--						<div class="memberWrap">--%>
+            <div class="memberInner">
+              <h3 class="title">CEO</h3>
+              <ul>
+                <li class="active">
+                  <div class="member">
+                    <div class="left"><img src="/static/home/kr/images/contents/img_team01.jpg" alt="신진호"></div>
+                    <div class="right">
+                      <h3>신진호 <span class="pointColor">KOREA / 대표이사 / 부회장</span></h3>
+                      <dl>
+                        <dt>주요경력</dt>
+                        <dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> KTB네트워크</dd>
+                        <!--
+                        <dt>업무</dt>
+                        <dd>경영총괄</dd>
+                        -->
+                      </dl>
+                    </div>
+                  </div>
+                  <a href="#" class="thumb">
+                    <span class="img"><img src="/static/home/kr/images/contents/thumb_team01_on.jpg" alt="신진호"></span>
+                    <!--
+                      활성화시 이미지, hover시 이미지
+                      src="/static/home/kr/images/contents/thumb_team01_off.jpg"
+                    -->
+                    <strong>신진호</strong> 대표이사
+                  </a>
+                </li>
+
+                <li>
+                  <div class="member">
+                    <div class="left"><img src="/static/home/kr/images/contents/img_team02.jpg" alt="김창규"></div>
+                    <div class="right">
+                      <h3>김창규 <span class="pointColor">KOREA / 대표이사 / 사장</span></h3>
+                      <dl>
+                        <dt>주요경력</dt>
+                        <dd>연세대학교 경제학과<br>연세대학교 경제학 대학원<br>동남리스<br>KTB네트워크</dd>
+                      </dl>
+                    </div>
+                  </div>
+                  <a href="#" class="thumb">
+                    <span class="img"><img src="/static/home/kr/images/contents/thumb_team02_off.jpg" alt="김창규"></span>
+                    <strong>김창규</strong> 대표이사
+                  </a>
+                </li>
+              </ul>
+            </div>
+<%--						</div>--%>
 						<div class="memberInner">
 							<h3 class="title">Compliance</h3>
 							<ul>

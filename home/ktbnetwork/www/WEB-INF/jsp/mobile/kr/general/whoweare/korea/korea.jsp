@@ -26,7 +26,7 @@
 					<ul class="personList">
 						<li>
 							<a href="#personDeatail01" role="button">
-								<span><img src="/static/mobile/kr/images/contents/img_invest_01.jpg" alt="신진호 대표이사 사진" /></span>
+								<span><img src="/static/mobile/kr/images/contents/img_invest_01.jpg" alt="신진호 부회장 사진" /></span>
 								<span>
 									<em>신진호</em>
 									대표이사
@@ -35,10 +35,10 @@
 						</li>
 						<li>
 							<a href="#personDeatail02" role="button">
-								<span><img src="/static/mobile/kr/images/contents/img_invest_02.jpg" alt="김창규 부사장 사진" /></span>
+								<span><img src="/static/mobile/kr/images/contents/img_invest_02.jpg" alt="김창규 사장 사진" /></span>
 								<span>
 									<em>김창규</em>
-									부사장
+									대표이사
 								</span>
 							</a>
 						</li>
@@ -208,6 +208,15 @@
 								</span>
 							</a>
 						</li>
+            <li>
+              <a href="#person_manageDeatail02" role="button">
+                <span><img src="/static/mobile/kr/images/contents/img_invest_02.jpg" alt="김창규 사장 사진" /></span>
+                <span>
+									<em>김창규</em>
+									대표이사
+								</span>
+              </a>
+            </li>
 						<li class="line">
 							<strong>Compliance</strong>
 							<a href="#person_manageDeatail03" role="button">
@@ -359,7 +368,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">신진호</dt>
-						<dd class="position">KOREA / 대표이사</dd>
+						<dd class="position">KOREA / 대표이사 / 부회장</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">
@@ -369,12 +378,14 @@
 								<li>KTB네트워크</li>
 							</ul>
 						</dd>
+            <!--
 						<dt>업무</dt>
 						<dd>
 							<ul class="listDep1">
 								<li>경영총괄</li>
 							</ul>
 						</dd>
+						-->
 					</dl>
 				</div>
 			</div>
@@ -391,7 +402,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">김창규</dt>
-						<dd class="position">KOREA / 투자팀 / 부사장</dd>
+						<dd class="position">KOREA / 대표이사 / 사장</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">
@@ -850,7 +861,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">신진호</dt>
-						<dd class="position">KOREA / 대표이사</dd>
+						<dd class="position">KOREA / 대표이사 / 부회장</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">
@@ -860,12 +871,14 @@
 								<li>KTB네트워크</li>
 							</ul>
 						</dd>
+            <!--
 						<dt>업무</dt>
 						<dd>
 							<ul class="listDep1">
 								<li>경영총괄</li>
 							</ul>
 						</dd>
+						-->
 					</dl>
 				</div>
 			</div>
@@ -873,6 +886,32 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- //신진호 대표이사 -->
+  <!-- 김창규 사장 -->
+  <div class="fullLayer" id="person_manageDeatail02">
+    <h2 class="layerTit">Who We Are</h2>
+    <div class="layerCont" tabindex="0">
+      <div class="personDetail">
+        <span><img src="/static/mobile/kr/images/contents/img_invest_pop02.jpg" alt="김창규 사장 사진" /></span>
+        <div class="deatilCon">
+          <dl>
+            <dt class="name">김창규</dt>
+            <dd class="position">KOREA / 대표이사 / 사장</dd>
+            <dt>주요경력</dt>
+            <dd>
+              <ul class="listDep1">
+                <li>연세대학교 경제학과</li>
+                <li>연세대학교 경제학 대학원</li>
+                <li>동남리스</li>
+                <li>KTB네트워크</li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- //김창규 사장 -->
 	<!-- 금경환 팀장 -->
 	<div class="fullLayer" id="person_manageDeatail03">
 		<h2 class="layerTit">Who We Are</h2>

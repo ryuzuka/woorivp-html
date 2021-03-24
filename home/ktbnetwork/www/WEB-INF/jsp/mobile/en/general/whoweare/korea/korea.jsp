@@ -37,7 +37,7 @@
 								<span><img src="/static/mobile/en/images/contents/img_invest_02.jpg" alt="Kim Chang Kyu" /></span>
 								<span>
 									<em>Kim Chang Kyu</em>
-									Vice President
+									CEO
 								</span>
 							</a>
 						</li>
@@ -203,6 +203,15 @@
 								</span>
 							</a>
 						</li>
+            <li>
+              <a href="#person_manageDeatail02" role="button">
+                <span><img src="/static/mobile/en/images/contents/img_invest_02.jpg" alt="Kim Chang Kyu"/></span>
+                <span>
+									<em>Kim Chang Kyu</em>
+									<b>CEO</b>
+								</span>
+              </a>
+            </li>
 						<li class="line">
 							<strong>Compliance</strong>
 							<a href="#person_manageDeatail03" role="button">
@@ -342,7 +351,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Shin Jin Ho</dt>
-						<dd class="position">KOREA / CEO</dd>
+						<dd class="position">KOREA / CEO / Vice Chairman</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -359,7 +368,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Shin Jin Ho CEO -->
-	<!-- Kim Chang Kyu Vice President -->
+	<!-- Kim Chang Kyu President -->
 	<div class="fullLayer" id="personDeatail02">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -368,7 +377,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Kim Chang Kyu</dt>
-						<dd class="position">KOREA / Investment / Vice President</dd>
+						<dd class="position">KOREA / CEO / President</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -384,7 +393,7 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Kim Chang Kyu Vice President -->
+	<!-- //Kim Chang Kyu President -->
 	<!-- Lee Seung Ho Executive Managing Director -->
 	<div class="fullLayer" id="personDeatail03">
 		<h2 class="layerTit">Who We Are</h2>
@@ -752,36 +761,36 @@
 	</div>
 	<!-- //Heo Jongsoo Team Manager -->
 
-						<!-- Cha Seung Jun Team Manager -->
-						<div class="fullLayer" id="person_manageDeatail04">
-							<h2 class="layerTit">Who We Are</h2>
-							<div class="layerCont" tabindex="0">
-								<div class="personDetail">
-									<span><img src="/static/mobile/en/images/contents/img_manage_pop04.jpg" alt="Cha Seung Jun" /></span>
-									<div class="deatilCon">
-										<dl>
-											<dt class="name">Cha Seung Jun</dt>
-											<dd class="position">KOREA / Investment / Team Manager</dd>
-											<dt>Career</dt>
-											<dd>
-												<ul class="listDep1">
-													<li>KAIST (Mechanical engineering)</li>
-													<li>Lawschool, Chung Ang University</li>
-												</ul>
-											</dd>
-											<dt>Responsibilities</dt>
-											<dd>
-												<ul class="listDep1">
-													<li>Deal Sourcing &amp; Deal Diligence</li>
-												</ul>
-											</dd>
-										</dl>
-									</div>
-								</div>
-							</div>
-							<button type="button" class="layerClose">close</button>
-						</div>
-						<!-- //Cha Seung Jun Team Manager -->
+  <!-- Cha Seung Jun Team Manager -->
+  <div class="fullLayer" id="person_manageDeatail04">
+    <h2 class="layerTit">Who We Are</h2>
+    <div class="layerCont" tabindex="0">
+      <div class="personDetail">
+        <span><img src="/static/mobile/en/images/contents/img_manage_pop04.jpg" alt="Cha Seung Jun" /></span>
+        <div class="deatilCon">
+          <dl>
+            <dt class="name">Cha Seung Jun</dt>
+            <dd class="position">KOREA / Investment / Team Manager</dd>
+            <dt>Career</dt>
+            <dd>
+              <ul class="listDep1">
+                <li>KAIST (Mechanical engineering)</li>
+                <li>Lawschool, Chung Ang University</li>
+              </ul>
+            </dd>
+            <dt>Responsibilities</dt>
+            <dd>
+              <ul class="listDep1">
+                <li>Deal Sourcing &amp; Deal Diligence</li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+    <button type="button" class="layerClose">close</button>
+  </div>
+  <!-- //Cha Seung Jun Team Manager -->
 
 	<!-- Kim Beomjun Team Manager -->
 	<div class="fullLayer" id="personDeatail19">
@@ -821,7 +830,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Shin Jin Ho</dt>
-						<dd class="position">KOREA / CEO</dd>
+						<dd class="position">KOREA / CEO / Vice Chairman</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -838,6 +847,32 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Shin Jin Ho CEO -->
+  <!-- Kim Chang Kyu President -->
+  <div class="fullLayer" id="person_manageDeatail02">
+    <h2 class="layerTit">Who We Are</h2>
+    <div class="layerCont" tabindex="0">
+      <div class="personDetail">
+        <span><img src="/static/mobile/en/images/contents/img_invest_pop02.jpg" alt="Kim Chang Kyu" /></span>
+        <div class="deatilCon">
+          <dl>
+            <dt class="name">Kim Chang Kyu</dt>
+            <dd class="position">KOREA / CEO / President</dd>
+            <dt>Career</dt>
+            <dd>
+              <ul class="listDep1">
+                <li>Yonsei University (Economics)</li>
+                <li>Yonsei Graduate School of Economics</li>
+                <li>Dong Nam Lease</li>
+                <li>KTB Network</li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+    <button type="button" class="layerClose">close</button>
+  </div>
+  <!-- //Kim Chang Kyu President -->
 	<!-- Kum Kyunghwan Team Manager -->
 	<div class="fullLayer" id="person_manageDeatail03">
 		<h2 class="layerTit">Who We Are</h2>

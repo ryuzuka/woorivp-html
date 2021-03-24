@@ -41,7 +41,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team01.jpg" alt="Shin Jin Ho"></div>
 									<div class="right">
-										<h3>Shin Jin Ho <span class="pointColor">KOREA / CEO</span></h3>
+										<h3 style="width: 500px">Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>KTB Network</dd>
@@ -61,7 +61,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team02.jpg" alt="Kim Chang Kyu"></div>
 									<div class="right">
-										<h3>Kim Chang Kyu <span class="pointColor">KOREA / Investment / Vice President</span></h3>
+                    <h3 style="width: 500px">Kim Chang Kyu <span class="pointColor">KOREA / CEO / President</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Yonsei University (Economics)<br>Yonsei Graduate School of Economics<br>Dong Nam Lease<br>KTB Network</dd>
@@ -70,7 +70,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team02_off.jpg" alt="Kim Chang Kyu"></span>
-									<strong>Kim Chang Kyu</strong> Vice President
+									<strong>Kim Chang Kyu</strong> CEO
 								</a>
 							</li>
 							<li>
@@ -346,33 +346,50 @@
 				<div class="inner tabCont">
 					<h2 class="hidden">KOREA Management</h2><!-- 탭 타이틀 -->
 					<div class="memberList">
-						<div class="memberWrap">
-							<div class="memberInner">
-								<h3 class="title">CEO</h3>
-								<ul>
-									<li class="active">
-										<div class="member">
-											<div class="left"><img src="/static/home/en/images/contents/img_team01.jpg" alt="Shin Jin Ho"></div>
-											<div class="right">
-												<h3>Shin Jin Ho <span class="pointColor">KOREA / CEO</span></h3>
-												<dl>
-													<dt>Career</dt>
-													<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>KTB Network</dd>
-												</dl>
-											</div>
-										</div>
-										<a href="#" class="thumb">
-											<span class="img"><img src="/static/home/en/images/contents/thumb_team01_on.jpg" alt="Shin Jin Ho"></span>
-											<!--
-												활성화시 이미지, hover시 이미지
-												src="/static/home/en/images/contents/thumb_team01_off.jpg"
-											-->
-											<strong>Shin Jin Ho</strong> CEO
-										</a>
-									</li>
-								</ul>
-							</div>
-						</div>
+<%--						<div class="memberWrap">--%>
+            <div class="memberInner">
+              <h3 class="title">CEO</h3>
+              <ul>
+                <li class="active">
+                  <div class="member">
+                    <div class="left"><img src="/static/home/en/images/contents/img_team01.jpg" alt="Shin Jin Ho"></div>
+                    <div class="right">
+                      <h3 style="width: 500px">Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
+                      <dl>
+                        <dt>Career</dt>
+                        <dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>KTB Network</dd>
+                      </dl>
+                    </div>
+                  </div>
+                  <a href="#" class="thumb">
+                    <span class="img"><img src="/static/home/en/images/contents/thumb_team01_on.jpg" alt="Shin Jin Ho"></span>
+                    <!--
+                      활성화시 이미지, hover시 이미지
+                      src="/static/home/en/images/contents/thumb_team01_off.jpg"
+                    -->
+                    <strong>Shin Jin Ho</strong> CEO
+                  </a>
+                </li>
+
+                <li>
+                  <div class="member">
+                    <div class="left"><img src="/static/home/en/images/contents/img_team02.jpg" alt="Kim Chang Kyu"></div>
+                    <div class="right">
+                      <h3 style="width: 500px">Kim Chang Kyu <span class="pointColor">KOREA / CEO / President</span></h3>
+                      <dl>
+                        <dt>Career</dt>
+                        <dd>Yonsei University (Economics)<br>Yonsei Graduate School of Economics<br>Dong Nam Lease<br>KTB Network</dd>
+                      </dl>
+                    </div>
+                  </div>
+                  <a href="#" class="thumb">
+                    <span class="img"><img src="/static/home/en/images/contents/thumb_team02_off.jpg" alt="Kim Chang Kyu"></span>
+                    <strong>Kim Chang Kyu</strong> CEO
+                  </a>
+                </li>
+              </ul>
+            </div>
+<%--						</div>--%>
 						<div class="memberInner">
 							<h3 class="title">Compliance</h3>
 							<ul>
