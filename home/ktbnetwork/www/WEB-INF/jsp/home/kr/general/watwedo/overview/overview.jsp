@@ -22,14 +22,14 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">회사개요</h3>
           <p style="margin-top:-20px;margin-bottom:-10px;padding-right:20px;color:#111;text-align:right;">
-            <b style="font-size:14px">2019년말 기준</b>
+            <b style="font-size:14px">2020년말 기준</b>
           </p>
 					<ul class="infoList">
 						<li>회사명<span class="data">KTB네트워크㈜</span></li>
-						<li>자본금 / 자기자본<span class="data">400억원/1,163억원</span></li>
+						<li>자본금 / 자기자본<span class="data">400억원/1,520억원</span></li>
 						<li>설립일자<span class="data">1981년</span></li>
-						<li>매출액 / 영업이익<span class="data">292억원/159억원</span></li>
-						<li>대표이사<span class="data">신진호</span></li>
+						<li>매출액 / 영업이익<span class="data">670억원/446억원</span></li>
+						<li>대표이사<span class="data">신진호, 김창규</span></li>
 						<li>홈페이지<span class="data">http://www.ktbnetwork.com/</span></li>
 						<li>자본금<span class="data">KTB투자증권㈜(100%)</span></li>
 						<li>대표전화<span class="data">031-628-6400</span></li>

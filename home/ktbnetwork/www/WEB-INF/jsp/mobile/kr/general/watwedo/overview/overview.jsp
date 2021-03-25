@@ -19,7 +19,7 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">회사개요</h3>
           <p style="margin-top:-35px;margin-bottom:14px;padding-right:20px;color:#111;text-align:right;font-size:12px">
-            <b>2019년말 기준</b>
+            <b>2020년말 기준</b>
           </p>
 					<!-- 수정 0405 -->
 					<ul class="companyInfo">
@@ -33,7 +33,7 @@
 						</li>
 						<li>
 							<strong>대표이사</strong>
-							<em>신진호</em>
+							<em>신진호, 김창규</em>
 						</li>
 						<li>
 							<strong>최대주주</strong>
@@ -41,11 +41,11 @@
 						</li>
 						<li>
 							<strong>자본금/자기자본</strong>
-							<em>400억원/1,163억원</em>
+							<em>400억원/1,520억원</em>
 						</li>
 						<li>
 							<strong>매출액/영업이익</strong>
-							<em>292억원/159억원</em>
+							<em>670억원/446억원</em>
 						</li>
 						<li>
 							<strong>홈페이지</strong>

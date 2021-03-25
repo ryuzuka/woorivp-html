@@ -41,7 +41,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team01.jpg" alt="Shin Jin Ho"></div>
 									<div class="right">
-										<h3 style="width: 500px">Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
+										<h3>Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>KTB Network</dd>
@@ -61,7 +61,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team02.jpg" alt="Kim Chang Kyu"></div>
 									<div class="right">
-                    <h3 style="width: 500px">Kim Chang Kyu <span class="pointColor">KOREA / CEO / President</span></h3>
+                    <h3>Kim Chang Kyu <span class="pointColor">KOREA / CEO / President</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Yonsei University (Economics)<br>Yonsei Graduate School of Economics<br>Dong Nam Lease<br>KTB Network</dd>
@@ -306,7 +306,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team14.jpg" alt="Kim Hye Sung"></div>
 									<div class="right">
-										<h3>Kim Hye Sung <span class="pointColor">KOREA / Investment / Senior Associate</span></h3>
+										<h3>Kim Hye Sung <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>University of Chicago (Economics)<br>Freenters Co-founder&amp;CEO<br>Sparklabs<br>EarlierCare Co-founder&amp;CSO</dd>
@@ -317,14 +317,14 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team14_off.jpg" alt="Kim Hye Sung"></span>
-									<strong>Kim Hye Sung</strong> Senior Associate
+									<strong>Kim Hye Sung</strong> Investment Manager
 								</a>
 							</li>
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team15.jpg" alt="Kim Man Sik"></div>
 									<div class="right">
-										<h3>Kim Man Sik <span class="pointColor">KOREA / Investment / Senior Associate</span></h3>
+										<h3>Kim Man Sik <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Seoul National University (Pharmacy)<br>Korea Eisai</dd>
@@ -335,7 +335,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team15_off.jpg" alt="Kim Man Sik"></span>
-									<strong>Kim Man Sik</strong> Senior Associate
+									<strong>Kim Man Sik</strong> Investment Manager
 								</a>
 							</li>
 						</ul>
@@ -354,7 +354,7 @@
                     <div class="member">
                       <div class="left"><img src="/static/home/en/images/contents/img_team01.jpg" alt="Shin Jin Ho"></div>
                       <div class="right">
-                        <h3 style="width: 500px">Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
+                        <h3>Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
                         <dl>
                           <dt>Career</dt>
                           <dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>KTB Network</dd>
@@ -375,7 +375,7 @@
                     <div class="member">
                       <div class="left"><img src="/static/home/en/images/contents/img_team02.jpg" alt="Kim Chang Kyu"></div>
                       <div class="right">
-                        <h3 style="width: 500px">Kim Chang Kyu <span class="pointColor">KOREA / CEO / President</span></h3>
+                        <h3>Kim Chang Kyu <span class="pointColor">KOREA / CEO / President</span></h3>
                         <dl>
                           <dt>Career</dt>
                           <dd>Yonsei University (Economics)<br>Yonsei Graduate School of Economics<br>Dong Nam Lease<br>KTB Network</dd>

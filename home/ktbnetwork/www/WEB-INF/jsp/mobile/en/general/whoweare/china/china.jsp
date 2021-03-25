@@ -133,7 +133,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Chihoon Hyun</dt>
-						<dd class="position">CHINA / Investment / Managing Director</dd>
+						<dd class="position">CHINA / Managing Director</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -192,7 +192,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Xu Tingting</dt>
-						<dd class="position">CHINA / Management / Team Manager</dd>
+						<dd class="position">CHINA / Investment / Team Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">

@@ -174,19 +174,19 @@
 
 						<li>
 							<a href="#personDeatail15" role="button">
-								<span><img src="/static/mobile/kr/images/contents/img_invest_15.jpg" alt="김혜성 대리 사진" /></span>
+								<span><img src="/static/mobile/kr/images/contents/img_invest_15.jpg" alt="김혜성 심사역 사진" /></span>
 								<span>
 									<em>김혜성</em>
-									대리
+									심사역
 								</span>
 							</a>
 						</li>
 						<li>
 							<a href="#personDeatail16" role="button">
-								<span><img src="/static/mobile/kr/images/contents/img_invest_16.jpg" alt="김만식 대리 사진" /></span>
+								<span><img src="/static/mobile/kr/images/contents/img_invest_16.jpg" alt="김만식 심사역 사진" /></span>
 								<span>
 									<em>김만식</em>
-									대리
+									심사역
 								</span>
 							</a>
 						</li>
@@ -682,11 +682,11 @@
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
 			<div class="personDetail">
-				<span><img src="/static/mobile/kr/images/contents/img_invest_pop15.jpg" alt="김혜성 대리 사진" /></span>
+				<span><img src="/static/mobile/kr/images/contents/img_invest_pop15.jpg" alt="김혜성 심사역 사진" /></span>
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">김혜성</dt>
-						<dd class="position">KOREA / 투자팀 / 대리</dd>
+						<dd class="position">KOREA / 투자팀 / 심사역</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">
@@ -710,16 +710,16 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- //김혜성 심사역 -->
-	<!-- 김만식 대리 -->
+	<!-- 김만식 심사역 -->
 	<div class="fullLayer" id="personDeatail16">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
 			<div class="personDetail">
-				<span><img src="/static/mobile/kr/images/contents/img_invest_pop16.jpg" alt="김만식 대리 사진" /></span>
+				<span><img src="/static/mobile/kr/images/contents/img_invest_pop16.jpg" alt="김만식 심사역 사진" /></span>
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">김만식</dt>
-						<dd class="position">KOREA / 투자팀 / 대리</dd>
+						<dd class="position">KOREA / 투자팀 / 심사역</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">
@@ -740,7 +740,7 @@
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //김만식 대리 -->
+	<!-- //김만식 심사역 -->
 	<!-- 성경아 이사 -->
 	<div class="fullLayer" id="personDeatail17">
 		<h2 class="layerTit">Who We Are</h2>

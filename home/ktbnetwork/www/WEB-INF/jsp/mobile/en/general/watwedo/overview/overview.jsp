@@ -19,7 +19,7 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">Company Overview</h3>
           <p style="margin-top:-34px;margin-bottom:13px;padding-right:20px;color:#111;text-align:right;">
-            <b style="font-size:12px">As of the end of 2019</b>
+            <b style="font-size:12px">As of the end of 2020</b>
           </p>
 					<ul class="companyInfo">
 						<li>
@@ -32,7 +32,7 @@
 						</li>
 						<li>
 							<strong>CEO</strong>
-							<em>Shin Jin Ho</em>
+							<em>Shin Jin Ho<br>Kim Chang Kyu</em>
 						</li>
 						<li>
 							<strong>Key Shareholders</strong>
@@ -44,7 +44,7 @@
 						</li>
 						<li>
 							<strong>Owner's Capital</strong>
-							<em>USD 100 Million</em>
+							<em>USD 140 Million</em>
 						</li>
 						<li>
 							<strong>Sales Account</strong>
@@ -52,7 +52,7 @@
 						</li>
 						<li>
 							<strong>Operating Profit</strong>
-							<em>USD 14 Million</em>
+							<em>USD 41 Million</em>
 						</li>
 						<li>
 							<strong>Website</strong>

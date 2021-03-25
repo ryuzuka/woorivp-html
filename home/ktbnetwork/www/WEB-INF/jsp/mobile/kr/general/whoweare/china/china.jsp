@@ -38,7 +38,7 @@
 								<span><img src="/static/mobile/kr/images/contents/img_china_invest_03.jpg" alt="현지훈 상무 사진" /></span>
 								<span>
 									<em>현지훈</em>
-									상무(소장)
+									상무
 								</span>
 							</a>
 						</li>
@@ -134,7 +134,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">현지훈</dt>
-						<dd class="position">CHINA / 투자팀 / 상무</dd>
+						<dd class="position">CHINA / 상해사무소장 / 상무</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">
@@ -193,7 +193,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Xu Tingting</dt>
-						<dd class="position">CHINA / 관리팀 / 팀장</dd>
+						<dd class="position">CHINA / 투자팀 / 팀장</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">

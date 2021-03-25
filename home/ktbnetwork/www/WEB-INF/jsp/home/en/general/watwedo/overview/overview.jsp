@@ -22,14 +22,14 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">Company Overview</h3>
           <p style="margin-top:-20px;margin-bottom:-10px;padding-right:20px;color:#111;text-align:right;">
-            <b style="font-size:14px">As of the end of 2019</b>
+            <b style="font-size:14px">As of the end of 2020</b>
           </p>
 					<ul class="infoList">
 						<li>Company Name<span class="data">KTB Network Co., Ltd</span></li>
-						<li>Capital Stock/Owner's Capital<span class="data">USD 35 Million / 100 Million</span></li>
+						<li>Capital Stock/Owner's Capital<span class="data">USD 37 Million / 140 Million</span></li>
 						<li>Establishment<span class="data">1981</span></li>
-						<li>Sales Account/Operating Profit<span class="data">USD 25 Million / 14 Million</span></li>
-						<li>CEO<span class="data">Shin Jin Ho</span></li>
+						<li>Sales Account/Operating Profit<span class="data">USD 62 Million / 41 Million</span></li>
+						<li>CEO<span class="data">Shin Jin Ho, Kim Chang Kyu</span></li>
 						<li>Website<span class="data">http://www.ktbnetwork.com/</span></li>
 						<li>Key Shareholders<span class="data">KTB Investment &amp; Securities(100%)</span></li>
 						<li>Contact Info.<span class="data">+82 31-628-6400</span></li>

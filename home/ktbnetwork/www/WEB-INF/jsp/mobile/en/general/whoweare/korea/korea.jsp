@@ -172,7 +172,7 @@
 								<span><img src="/static/mobile/en/images/contents/img_invest_15.jpg" alt="Kim Hye Sung" /></span>
 								<span>
 									<em>Kim Hye Sung</em>
-									Senior Associate
+									Investment Manager
 								</span>
 							</a>
 						</li>
@@ -181,7 +181,7 @@
 								<span><img src="/static/mobile/en/images/contents/img_invest_16.jpg" alt="Kim Man Sik" /></span>
 								<span>
 									<em>Kim Man Sik</em>
-									Senior Associate
+									Investment Manager
 								</span>
 							</a>
 						</li>
@@ -646,7 +646,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Jeun Kyung Mi Team Manager -->
-	<!-- Kim Hye Sung Senior Associate -->
+	<!-- Kim Hye Sung Investment Manager -->
 	<div class="fullLayer" id="personDeatail15">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -655,7 +655,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Kim Hye Sung</dt>
-						<dd class="position">KOREA / Investment / Senior Associate</dd>
+						<dd class="position">KOREA / Investment / Investment Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -678,8 +678,8 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Kim Hye Sung Senior Associate -->
-	<!-- Kim Man Sik Senior Associate -->
+	<!-- //Kim Hye Sung Investment Manager -->
+	<!-- Kim Man Sik Investment Manager -->
 	<div class="fullLayer" id="personDeatail16">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -688,7 +688,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Kim Man Sik</dt>
-						<dd class="position">KOREA / Investment / Senior Associate</dd>
+						<dd class="position">KOREA / Investment / Investment Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -709,7 +709,7 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Kim Man Sik Senior Associate -->
+	<!-- //Kim Man Sik Investment Manager -->
 	<!-- Seong Kyeong A Director -->
 	<div class="fullLayer" id="personDeatail17">
 		<h2 class="layerTit">Who We Are</h2>

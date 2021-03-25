@@ -104,7 +104,7 @@
 										<span class="msg">
 											<strong class="tit">작성기준</strong>
 											<span class="txt">- 2020.12.31 현재</span>
-											<span class="txt">- 2000.01.01 이후 청산한 퍼드 기준</span>
+											<span class="txt">- 2000.01.01 이후 청산한 펀드 기준</span>
 											<span class="txt">- IRR: 성과보수 포함, 납입금액 가중평균 수익률</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
 										</span>

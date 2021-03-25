@@ -56,7 +56,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team32.jpg" alt="Chihoon Hyun"></div>
 									<div class="right">
-										<h3>Chihoon Hyun <span class="pointColor">CHINA / Investment / Managing Director</span></h3>
+										<h3>Chihoon Hyun <span class="pointColor">CHINA / Managing Director</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Yonsei University (Economics)<br>IMM Investment<br>KTB Network</dd>
@@ -73,7 +73,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team35.jpg" alt="Xu Tingting"></div>
 									<div class="right">
-										<h3>Xu Tingting <span class="pointColor">CHINA / Management / Team Manager</span></h3>
+										<h3>Xu Tingting <span class="pointColor">CHINA / Investment / Team Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Kyung Hee University (Korean)<br>Kyung Hee University, Graduate School of Korean<br>Art100 Gallery<br>Woori Bank</dd>

@@ -58,7 +58,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team32.jpg" alt="현지훈"></div>
 									<div class="right">
-										<h3>현지훈 <span class="pointColor">CHINA / 투자팀 / 상무</span></h3>
+										<h3>현지훈 <span class="pointColor">CHINA / 상해사무소장 / 상무</span></h3>
 										<dl>
 											<dt>주요경력</dt>
 											<dd>연세대학교 경제학과<br>IMM 인베스트먼트<br>KTB네트워크</dd>
@@ -67,7 +67,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team32_on.jpg" alt="현지훈"></span>
-									<strong>현지훈</strong> 상무(소장)
+									<strong>현지훈</strong> 상무
 								</a>
 							</li>
 							<!-- 0415 수정 -->
@@ -75,7 +75,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team35.jpg" alt="Xu Tingting"></div>
 									<div class="right">
-										<h3>Xu Tingting <span class="pointColor">CHINA / 관리팀 / 팀장</span></h3>
+										<h3>Xu Tingting <span class="pointColor">CHINA / 투자팀 / 팀장</span></h3>
 										<dl>
 											<dt>주요경력</dt>
 											<dd>경희대학교 한국어학과<br>경희대학교 한국어학 대학원<br>Art100 Gallery <br>우리은행</dd>

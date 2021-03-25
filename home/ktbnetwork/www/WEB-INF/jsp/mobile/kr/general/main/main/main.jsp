@@ -99,7 +99,7 @@
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
 					<li>2020.12.31 현재</li>
-					<li>2000.01.01 이후 청산한 퍼드 기준</li>
+					<li>2000.01.01 이후 청산한 펀드 기준</li>
 					<li>IRR: 성과보수 포함, 납입금액 가중평균 수익률</li>
 				</ul>
 			</div>
