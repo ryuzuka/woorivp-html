@@ -20,12 +20,12 @@
 								<span class="date">2020.03.13</span>
 							</div>
 						</div>
-						<div class="viewCon">							
+						<div class="viewCon">
 
 							<!-- NEWS CONTENTS -->
 							<p class="tright">금액(단위:원)</p>
 
-<table class="tblH">
+              <table class="tblH">
 								<caption>제 12기 결산공고 계정과목에 따른 금액</caption>
 								<colgroup><col style="width:25%" span="4"></colgroup>
 								<thead>
@@ -36,7 +36,7 @@
 										<th scope="col">금액</th>
 									</tr>
 								</thead>
-								<tfoot>														
+								<tfoot>
 									<tr>
 										<th scope="row" class="tleft">자산총계</th>
 										<td class="tright">144,484,538,507</td>
@@ -110,7 +110,7 @@
 										<td class="tright"></td>
 										<th scope="row" class="tleft tfoot">자본총계</th>
 										<td class="tright tfoot">116,331,632,538</td>
-									</tr>		
+									</tr>
 								</tbody>
 							</table>
 
@@ -119,22 +119,28 @@
 								<span class="dateTxt">2020년 03월 13일</span>
 								<strong class="ceoTxt">케이티비네트워크주식회사 대표이사 신진호</strong>
 							</div>
-							
-							[감사의견] 회사의 재무제표는 2019년 12월 31일 현재의 재무상태와 동일로 종료되는 보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라, 
+
+							[감사의견] 회사의 재무제표는 2019년 12월 31일 현재의 재무상태와 동일로 종료되는 보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라,
 							중요성의 관점에서 공정하게 표시하고 있습니다.
 
 							<br>
-							
+
 							<strong>삼정회계법인 대표이사 김교태</strong>
 							<!-- // NEWS CONTENTS -->
 
 						</div>
 					</div>
 					<ul class="baordIndex">
+            <li>
+              <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=1">
+                <div class="arrow prev">다음글</div>
+                <div class="tit">제 11기 결산공고</div>
+              </a>
+            </li>
 						<li>
-							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=1">
+							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=21">
 								<div class="arrow prev">이전글</div>
-								<div class="tit">제 11기 결산공고</div>
+								<div class="tit">제 13기 결산공고</div>
 							</a>
 						</li>
 					</ul>

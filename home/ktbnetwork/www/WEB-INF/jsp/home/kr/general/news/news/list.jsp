@@ -12,9 +12,15 @@
 						<p class="pageTxt">KTB네트워크의 공지사항을 안내해드립니다.</p>
 					</div>
 				</div>
-				<div class="inner">					
+				<div class="inner">
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
+              <li>
+                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=21">
+                  <strong class="tit">제 13기 결산공고</strong>
+                  <div class="con"><span class="date">2021.03.19</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=20">
 									<strong class="tit">제 12기 결산공고</strong>
@@ -139,9 +145,9 @@
 								</a>
 							</li>
 						</c:if>
-						
-						
-						
+
+
+
 					</ul>
 					<div class="paginate">
 						<a href="/home/news/news/list.do?page=1" class="arrow first">처음페이지로 이동</a>
@@ -152,7 +158,7 @@
 						</span>
 						<a href="/home/news/news/list.do?page=2" class="arrow next">다음페이지로 이동</a>
 						<a href="/home/news/news/list.do?page=2" class="arrow end">마지막페이지로 이동</a>
-					</div>					
+					</div>
 				</div>
 			</div>
 		</section>
