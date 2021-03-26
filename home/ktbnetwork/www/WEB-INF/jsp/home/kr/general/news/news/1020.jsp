@@ -138,7 +138,7 @@
               </a>
             </li>
 						<li>
-							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=21">
+							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=19">
 								<div class="arrow prev">이전글</div>
 								<div class="tit">제 13기 결산공고</div>
 							</a>

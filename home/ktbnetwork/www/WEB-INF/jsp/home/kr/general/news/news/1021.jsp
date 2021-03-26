@@ -133,7 +133,7 @@
 					<ul class="baordIndex">
 						<li>
 							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=20">
-								<div class="arrow prev">이전글</div>
+								<div class="arrow prev">다음글</div>
 								<div class="tit">제 12기 결산공고</div>
 							</a>
 						</li>

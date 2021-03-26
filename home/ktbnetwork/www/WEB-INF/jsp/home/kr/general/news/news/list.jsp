@@ -16,7 +16,7 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=21">
+                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=19">
                   <strong class="tit">제 13기 결산공고</strong>
                   <div class="con"><span class="date">2021.03.19</span></div>
                 </a>
@@ -75,15 +75,15 @@
 									<div class="con"><span class="date">2015.03.20</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=9">
-									<strong class="tit">제 6기 결산공고</strong>
-									<div class="con"><span class="date">2014.03.17</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '2'}">
+              <li>
+                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=9">
+                  <strong class="tit">제 6기 결산공고</strong>
+                  <div class="con"><span class="date">2014.03.17</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=10">
 									<strong class="tit">미크론정공(주) 주식 공매 공고</strong>
@@ -138,12 +138,14 @@
 									<div class="con"><span class="date">2011.01.24</span></div>
 								</a>
 							</li>
+              <%--
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=19">
 									<strong class="tit">상호 및 공고방법 변경</strong>
 									<div class="con"><span class="date">2010.10.29</span></div>
 								</a>
 							</li>
+              --%>
 						</c:if>
 
 
