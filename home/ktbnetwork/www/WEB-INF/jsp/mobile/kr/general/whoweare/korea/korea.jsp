@@ -190,6 +190,24 @@
 								</span>
 							</a>
 						</li>
+            <li>
+              <a href="#personDeatail20" role="button">
+                <span><img src="/static/mobile/kr/images/contents/img_invest_20.jpg" alt="김신영 심사역 사진" /></span>
+                <span>
+									<em>김신영</em>
+									심사역
+								</span>
+              </a>
+            </li>
+            <li>
+              <a href="#personDeatail21" role="button">
+                <span><img src="/static/mobile/kr/images/contents/img_invest_21.jpg" alt="이태규 심사역 사진" /></span>
+                <span>
+									<em>이태규</em>
+									심사역
+								</span>
+              </a>
+            </li>
 					</ul>
 				</div>
 				<!-- //Investment -->
@@ -699,8 +717,7 @@
 						<dt>업무</dt>
 						<dd>
 							<ul class="listDep1">
-								<li>회사 발굴&amp;심사</li>
-								<li>투자집행</li>
+                <li>회사 발굴&심사 및 투자집행</li>
 							</ul>
 						</dd>
 					</dl>
@@ -730,8 +747,7 @@
 						<dt>업무</dt>
 						<dd>
 							<ul class="listDep1">
-								<li>회사 발굴&amp;심사</li>
-								<li>투자집행</li>
+                <li>회사 발굴&심사 및 투자집행</li>
 							</ul>
 						</dd>
 					</dl>
@@ -848,6 +864,72 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //김범준 팀장 -->
+
+<!-- 김신영 심사역 -->
+<div class="fullLayer" id="personDeatail20">
+  <h2 class="layerTit">Who We Are</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="personDetail">
+      <span><img src="/static/mobile/kr/images/contents/img_invest_pop20.jpg" alt="김신영" /></span>
+      <div class="deatilCon">
+        <dl>
+          <dt class="name">김신영</dt>
+          <dd class="position">KOREA / 투자팀  / 심사역</dd>
+          <dt>주요경력</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>UC 버클리 생화학과</li>
+              <li>데일리파트너스</li>
+              <li>JW 중외제약</li>
+              <li>종근당</li>
+            </ul>
+          </dd>
+          <dt>업무</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>회사 발굴&심사 및 투자집행</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="layerClose">close</button>
+</div>
+<!-- //김신영 심사역 -->
+
+<!-- 이태규 심사역 -->
+<div class="fullLayer" id="personDeatail21">
+  <h2 class="layerTit">Who We Are</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="personDetail">
+      <span><img src="/static/mobile/kr/images/contents/img_invest_pop21.jpg" alt="이태규" /></span>
+      <div class="deatilCon">
+        <dl>
+          <dt class="name">이태규</dt>
+          <dd class="position">KOREA / 투자팀  / 심사역</dd>
+          <dt>주요경력</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>UC 샌디에고 경제학과</li>
+              <li>Bespin Global</li>
+              <li>Carssum Mobility</li>
+              <li>ActnerLAB</li>
+            </ul>
+          </dd>
+          <dt>업무</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>회사 발굴&심사 및 투자집행</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="layerClose">close</button>
+</div>
+<!-- //이태규 심사역 -->
 
 	<!-- //팀원소개 investment(L) -->
 
@@ -1285,6 +1367,7 @@
 						<dd>
 							<ul class="listDep1">
 								<li>이트너스</li>
+								<li>성균관대학교 경영전문대학원 경영학과</li>
 							</ul>
 						</dd>
 						<dt>업무</dt>

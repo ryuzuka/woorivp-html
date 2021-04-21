@@ -266,24 +266,24 @@
 									<strong>Heo Jongsoo</strong> Team Manager
 								</a>
 							</li>
-								<li>
-									<div class="member">
-										<div class="left"><img src="/static/home/en/images/contents/img_team18.jpg" alt="Cha Seung Jun"></div>
-										<div class="right">
-											<h3>Cha Seung Jun <span class="pointColor">KOREA / Investment  / Team Manager</span></h3>
-											<dl>
-												<dt>Career</dt>
-												<dd>KAIST (Mechanical engineering)<br>Lawschool, Chung Ang University</dd>
-												<dt>Responsibilities</dt>
-												<dd>Deal Sourcing &amp; Deal Diligence</dd>
-											</dl>
-										</div>
-									</div>
-									<a href="#" class="thumb">
-										<span class="img"><img src="/static/home/en/images/contents/thumb_team18_off.jpg" alt="Cha Seung Jun"></span>
-										<strong>Cha Seung Jun</strong> Team Manager
-									</a>
-								</li>
+              <li>
+                <div class="member">
+                  <div class="left"><img src="/static/home/en/images/contents/img_team18.jpg" alt="Cha Seung Jun"></div>
+                  <div class="right">
+                    <h3>Cha Seung Jun <span class="pointColor">KOREA / Investment  / Team Manager</span></h3>
+                    <dl>
+                      <dt>Career</dt>
+                      <dd>KAIST (Mechanical engineering)<br>Lawschool, Chung Ang University</dd>
+                      <dt>Responsibilities</dt>
+                      <dd>Deal Sourcing &amp; Deal Diligence</dd>
+                    </dl>
+                  </div>
+                </div>
+                <a href="#" class="thumb">
+                  <span class="img"><img src="/static/home/en/images/contents/thumb_team18_off.jpg" alt="Cha Seung Jun"></span>
+                  <strong>Cha Seung Jun</strong> Team Manager
+                </a>
+              </li>
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team40.jpg" alt="Kim Beomjun"></div>
@@ -338,6 +338,52 @@
 									<strong>Kim Man Sik</strong> Investment Manager
 								</a>
 							</li>
+              <li>
+                <div class="member">
+                  <div class="left"><img src="/static/home/en/images/contents/img_team41.jpg" alt="Kim Shin Young"></div>
+                  <div class="right">
+                    <h3>Kim Shin Young <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
+                    <dl>
+                      <dt>Career</dt>
+                      <dd>
+                        University of California, Berkeley (Molecular Cell Biology, Biochemistry)<br>
+                        Daily Partners<br>
+                        JW Pharmaceutical<br>
+                        Chong Kun Dang Holdings
+                      </dd>
+                      <dt>Responsibilities</dt>
+                      <dd>Deal Sourcing&amp;Deal Diligence</dd>
+                    </dl>
+                  </div>
+                </div>
+                <a href="#" class="thumb">
+                  <span class="img"><img src="/static/home/en/images/contents/thumb_team41_off.jpg" alt="Kim Shin Young"></span>
+                  <strong>Kim Shin Young</strong> Investment Manager
+                </a>
+              </li>
+              <li>
+                <div class="member">
+                  <div class="left"><img src="/static/home/en/images/contents/img_team42.jpg" alt="Lee Tea Kue"></div>
+                  <div class="right">
+                    <h3>Lee Tea Kue <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
+                    <dl>
+                      <dt>Career</dt>
+                      <dd>
+                        University of California, San Diego (Economics)<br>
+                        Bespin Global<br>
+                        Carssum Mobility<br>
+                        ActnerLAB
+                      </dd>
+                      <dt>Responsibilities</dt>
+                      <dd>Deal Sourcing&amp;Deal Diligence</dd>
+                    </dl>
+                  </div>
+                </div>
+                <a href="#" class="thumb">
+                  <span class="img"><img src="/static/home/en/images/contents/thumb_team42_off.jpg" alt="Lee Tea Kue"></span>
+                  <strong>Lee Tea Kue</strong> Investment Manager
+                </a>
+              </li>
 						</ul>
 					</div>
 				</div>
@@ -585,7 +631,7 @@
 											<h3>Cho Eun Sol <span class="pointColor">KOREA / Management / Manager</span></h3>
 											<dl>
 												<dt>Career</dt>
-												<dd>Etners</dd>
+												<dd>Etners<br>Sung Kyun Kwan University, Graduate School of Business</dd>
 												<dt>Responsibilities</dt>
 												<dd>Investment management</dd>
 											</dl>

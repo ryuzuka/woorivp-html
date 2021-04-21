@@ -346,6 +346,49 @@
 									<strong>김만식</strong> 심사역
 								</a>
 							</li>
+              <li>
+                <div class="member">
+                  <div class="left"><img src="/static/home/kr/images/contents/img_team41.jpg" alt="김신영"></div>
+                  <div class="right">
+                    <h3>김신영 <span class="pointColor">KOREA / 투자팀 / 심사역</span></h3>
+                    <dl>
+                      <dt>주요경력</dt>
+                      <dd>UC 버클리 생화학과<br>
+                        데일리파트너스<br>
+                        JW 중외제약<br>
+                        종근당</dd>
+                      <dt>업무</dt>
+                      <dd>회사 발굴&심사 및 투자집행</dd>
+                    </dl>
+                  </div>
+                </div>
+                <a href="#" class="thumb">
+                  <span class="img"><img src="/static/home/kr/images/contents/thumb_team41_off.jpg" alt="김신영"></span>
+                  <strong>김신영</strong> 심사역
+                </a>
+              </li>
+              <li>
+                <div class="member">
+                  <div class="left"><img src="/static/home/kr/images/contents/img_team42.jpg" alt="이태규"></div>
+                  <div class="right">
+                    <h3>이태규 <span class="pointColor">KOREA / 투자팀 / 심사역</span></h3>
+                    <dl>
+                      <dt>주요경력</dt>
+                      <dd>UC 샌디에고 경제학과<br>
+                        Bespin Global<br>
+                        Carssum Mobility<br>
+                        ActnerLAB
+                      </dd>
+                      <dt>업무</dt>
+                      <dd>회사 발굴&심사 및 투자집행</dd>
+                    </dl>
+                  </div>
+                </div>
+                <a href="#" class="thumb">
+                  <span class="img"><img src="/static/home/kr/images/contents/thumb_team42_off.jpg" alt="이태규"></span>
+                  <strong>이태규</strong> 심사역
+                </a>
+              </li>
 						</ul>
 					</div>
 				</div>
@@ -617,7 +660,7 @@
 											<h3>조은솔 <span class="pointColor">KOREA / 관리팀 / 주임</span></h3>
 											<dl>
 												<dt>주요경력</dt>
-												<dd>이트너스</dd>
+												<dd>이트너스<br>성균관대학교 경영전문대학원 경영학과</dd>
 												<dt>업무</dt>
 												<dd>투자관리</dd>
 											</dl>

@@ -185,6 +185,24 @@
 								</span>
 							</a>
 						</li>
+            <li>
+              <a href="#personDeatail20" role="button">
+                <span><img src="/static/mobile/en/images/contents/img_invest_20.jpg" alt="Kim Shin Young" /></span>
+                <span>
+									<em>Kim Shin Young</em>
+									Investment Manager
+								</span>
+              </a>
+            </li>
+            <li>
+              <a href="#personDeatail21" role="button">
+                <span><img src="/static/mobile/en/images/contents/img_invest_21.jpg" alt="Lee Tea Kue" /></span>
+                <span>
+									<em>Lee Tea Kue</em>
+									Investment Manager
+								</span>
+              </a>
+            </li>
 					</ul>
 				</div>
 				<!-- //Investment -->
@@ -668,8 +686,7 @@
 						<dt>Responsibilities</dt>
 						<dd>
 							<ul class="listDep1">
-								<li>Deal Sourcing</li>
-								<li>Deal Diligence</li>
+                <li>Deal Sourcing &amp; Deal Diligence</li>
 							</ul>
 						</dd>
 					</dl>
@@ -699,8 +716,7 @@
 						<dt>Responsibilities</dt>
 						<dd>
 							<ul class="listDep1">
-								<li>Deal Sourcing</li>
-								<li>Deal Diligence</li>
+                <li>Deal Sourcing &amp; Deal Diligence</li>
 							</ul>
 						</dd>
 					</dl>
@@ -818,6 +834,71 @@
 	</div>
 	<!-- //Kim Beomjun Team Manager -->
 
+<!-- Kim Shin Young Investment Manager -->
+<div class="fullLayer" id="personDeatail20">
+  <h2 class="layerTit">Who We Are</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="personDetail">
+      <span><img src="/static/mobile/en/images/contents/img_invest_pop20.jpg" alt="Kim Shin Young" /></span>
+      <div class="deatilCon">
+        <dl>
+          <dt class="name">Kim Shin Young</dt>
+          <dd class="position">KOREA / Investment / Team Manager</dd>
+          <dt>Career</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>University of California, Berkeley (Molecular Cell Biology, Biochemistry)</li>
+              <li>Daily Partners</li>
+              <li>JW Pharmaceutical</li>
+              <li>Chong Kun Dang Holdings</li>
+            </ul>
+          </dd>
+          <dt>Responsibilities</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>Deal Sourcing &amp; Deal Diligence</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="layerClose">close</button>
+</div>
+<!-- //Kim Shin Young Investment Manager -->
+
+<!-- Lee Tea Kue Investment Manager -->
+<div class="fullLayer" id="personDeatail21">
+  <h2 class="layerTit">Who We Are</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="personDetail">
+      <span><img src="/static/mobile/en/images/contents/img_invest_pop21.jpg" alt="Lee Tea Kue" /></span>
+      <div class="deatilCon">
+        <dl>
+          <dt class="name">Lee Tea Kue</dt>
+          <dd class="position">KOREA / Investment / Team Manager</dd>
+          <dt>Career</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>University of California, San Diego (Economics)</li>
+              <li>Bespin Global</li>
+              <li>Carssum Mobility</li>
+              <li>ActnerLAB</li>
+            </ul>
+          </dd>
+          <dt>Responsibilities</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>Deal Sourcing &amp; Deal Diligence</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="layerClose">close</button>
+</div>
+<!-- //Lee Tea Kue Investment Manager -->
 	<!-- //team investment(L) -->
 
 	<!-- team management(L) -->
@@ -1159,6 +1240,7 @@
 						<dd>
 							<ul class="listDep1">
 								<li>Etners</li>
+								<li>Sung Kyun Kwan University, Graduate School of Business</li>
 							</ul>
 						</dd>
 						<dt>Responsibilities</dt>
