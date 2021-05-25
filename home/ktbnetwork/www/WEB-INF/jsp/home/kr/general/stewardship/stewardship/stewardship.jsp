@@ -1,11 +1,16 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
-
 <section id="container" class="container">
-    <h1 class="hidden">stewardship</h1>
-    <article class="content">
-        <div class="sectionWrap" style="">
-            stewardship kr
+    <nav class="nav">
+        <ol class="navArea"><li>HOME</li><li>Stewardship Code</li></ol>
+    </nav>
+    <div class="content">
+        <div class="visualArea">
+            <div class="inner">
+                <h1 class="pageTit">Stewardship Code</h1>
+                <p class="pageTxt"></p>
+            </div>
         </div>
-    </article>
+        stewardship kr
+    </div>
 </section>
