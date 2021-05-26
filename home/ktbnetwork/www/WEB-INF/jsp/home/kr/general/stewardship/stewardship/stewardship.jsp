@@ -7,14 +7,14 @@
   <div class="content">
     <div class="visualArea">
       <div class="inner">
-        <h1 class="pageTit">스튜어드십코드</h1>
+        <h1 class="pageTit">스튜어드십 코드</h1>
         <p class="pageTxt">KTB 네트워크에서 스튜어드십 코드를 공지합니다.</p>
       </div>
     </div>
     <div class="inner">
-      <h2 class="hidden">스튜어드십코드</h2>
+      <h2 class="hidden">스튜어드십 코드</h2>
       <h3 class="titDep2" style="text-align: center">케이티비네트워크 주식회사의 수탁자 책임에 관한 원칙 <br>< 한국 스튜어드십 코드 ></h3>
-      <p class="txtInfo"><b>케이티비네트워크 주식회사(이하 ‘당사’)는 한국기업지배구조원의 스튜어드십코드 제정위원회가 2016년 제정·공표한 「기관투자자의 수탁자 책임에 관한 원칙」(한국 스튜어드십 코드, 이하 ‘코드’)을 수용하고 다음과 같이 시행합니다.</b></p>
+      <p class="txtInfo"><b>케이티비네트워크 주식회사(이하 ‘당사’)는 한국기업지배구조원의 스튜어드십 코드 제정위원회가 2016년 제정·공표한 「기관투자자의 수탁자 책임에 관한 원칙」(한국 스튜어드십 코드, 이하 ‘코드’)을 수용하고 다음과 같이 시행합니다.</b></p>
       <p class="txtInfo" style="text-align: right"><b>시행일 2021년 6월 1일</b></p>
       <br>
 

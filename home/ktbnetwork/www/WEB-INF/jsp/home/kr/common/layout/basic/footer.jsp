@@ -4,12 +4,13 @@
 			<div class="footArea">
 				<div class="policyList">
 					<address>
+            <span><a href="/home/stewardship/stewardship.do">스튜어드십 코드</a></span>
 						<span>고객상담 031-628-6400</span>
 						<span>팩스 031-628-6499</span>
 						<span>이메일 <a href="mailto: webmaster@ktbnetwork.com"> webmaster@ktbnetwork.com</a></span><br>
 						<span>Pankyo [13494] 경기도 성남시 분당구 대왕판교로 670(삼평동 682) 유스페이스 2A동 10층</span>
 					</address>
-					<p class="copyRight">COPYRIGHT&copy;KTB Network. ALL RIGHTS RESERVED.</p>					
+					<p class="copyRight">COPYRIGHT&copy;KTB Network. ALL RIGHTS RESERVED.</p>
 				</div>
 				<div class="familySite">
 					<span class="frmSelect">
