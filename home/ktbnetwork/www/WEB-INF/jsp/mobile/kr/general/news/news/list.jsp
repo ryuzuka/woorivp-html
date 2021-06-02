@@ -37,6 +37,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop22" role="button" title="상세내용 보기">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내<em>2021.06.09</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop21" role="button" title="상세내용 보기">제 13기 결산공고<em>2021.03.19</em></a>
             </li>
 						<li>
@@ -107,6 +110,41 @@ jQuery(window).load(function() {
 		</div><!-- //contents -->
 	</section>
 <!-- 뉴스 상세 레이어팝업(L) -->
+
+  <!-- 제13기 결산공고 -->
+  <div class="fullLayer" id="newsDetail_pop22">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h3>
+          <em class="date">2021.06.09</em>
+        </div>
+
+        <div class="detailCon">
+          <div class="newscon_box">
+            <h4 class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h4>
+            <p style="text-align: left">2019.09.16일 「주식·사채 등의 전자등록에 관한 법률(이하 “전자증권법”)」이 시행됨에 따라 당사의 전자증권 전환 대상 주권 권리자를 보호하기 위하여 전자증권법 부칙 제3조 3항에 근거하여 아래의 사항을 통지합니다.</p>
+            <dl>
+              <dt>1. 전자증권법 시행(2019.09.16) 이후, 당사 전자등록 시행 예정일(2021.07.13) 부터 주주(권리자)가 소유중인 실물증권(전환 대상 주권)은 효력을 잃게 됩니다.</dt>
+              <dd></dd>
+              <dt>2. 따라서, 주주(권리자)는 당사의 전자등록 시행 예정일 3영업일 전(2021.07.08)까지 증권회사 계좌(주식 등이 전자등록되는 전자등록계좌)를 통지하고 소유중인 실물증권(전환 대상 주권)을 제출해야 합니다.</dt>
+              <dd></dd>
+              <dt>3. 증권계좌에 이미 주식을 입고하신 주주님께서는 별도의 조치사항이 없습니다.</dt>
+              <dd></dd>
+            </dl>
+            <p style="text-align: left; font-size: 12px">[참고] 당사(발행인)은 전자등록 시행일 직전 영업일(2021.07.12)의 주주명부에 기재된 권리자를 기준으로 전자등록이 되도록 전자등록기관(한국예탁결제원)에 요청할 예정입니다.</p>
+            <div class="bottomTxt">
+              <em>2021년 06월 09일</em>
+              <strong>케이티비네트워크주식회사<br>대표이사 신진호</strong>
+            </div>
+          </div><!-- //newscon_box -->
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- //제13기 결산공고 -->
 
   <!-- 제13기 결산공고 -->
   <div class="fullLayer" id="newsDetail_pop21">
