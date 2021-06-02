@@ -111,7 +111,7 @@ jQuery(window).load(function() {
 	</section>
 <!-- 뉴스 상세 레이어팝업(L) -->
 
-  <!-- 제13기 결산공고 -->
+  <!-- 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
   <div class="fullLayer" id="newsDetail_pop22">
     <h2 class="layerTit">NEWS</h2>
     <div class="layerCont" tabindex="0" >
@@ -144,7 +144,7 @@ jQuery(window).load(function() {
     </div>
     <button type="button" class="layerClose">닫기</button>
   </div>
-  <!-- //제13기 결산공고 -->
+  <!-- //전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
 
   <!-- 제13기 결산공고 -->
   <div class="fullLayer" id="newsDetail_pop21">
