@@ -193,3 +193,10 @@
 				</div><!-- //sectionWrap -->
 			</article><!-- //content -->
 		</section>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+<script>
+	let date = parseInt(moment().format('YYYYMMDD'))
+	if (20210609 <= date && date <= 20210731 ) {
+		window.open('/static/home/en/ktb_popup.html', '', 'top=0, left=0, width=720, height=721, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+	}
+</script>
