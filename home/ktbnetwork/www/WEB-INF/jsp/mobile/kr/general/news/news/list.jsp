@@ -144,7 +144,7 @@ jQuery(window).load(function() {
     </div>
     <button type="button" class="layerClose">닫기</button>
   </div>
-  <!-- //전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
+  <!-- // 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
 
   <!-- 제13기 결산공고 -->
   <div class="fullLayer" id="newsDetail_pop21">
@@ -286,7 +286,7 @@ jQuery(window).load(function() {
     </div>
     <button type="button" class="layerClose">닫기</button>
   </div>
-  <!-- //제13기 결산공고 -->
+  <!-- // 제13기 결산공고 -->
 
 	<!-- 제12기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop20">
@@ -428,7 +428,7 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제12기 결산공고 -->
+	<!-- // 제12기 결산공고 -->
 
 	<!-- 제11기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop01">
@@ -561,7 +561,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제11기 결산공고 -->
+	<!-- // 제11기 결산공고 -->
+
 	<!-- 액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고 -->
 	<div class="fullLayer" id="newsDetail_pop02">
 		<h2 class="layerTit">NEWS</h2>
@@ -595,7 +596,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고 -->
+	<!-- // 액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고 -->
+
 	<!-- 외부감사인 선임 공고 -->
 	<div class="fullLayer" id="newsDetail_pop03">
 		<h2 class="layerTit">NEWS</h2>
@@ -619,7 +621,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //외부감사인 선임 공고 -->
+	<!-- // 외부감사인 선임 공고 -->
+
 	<!-- 제10기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop04">
 		<h2 class="layerTit">NEWS</h2>
@@ -751,7 +754,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제10기 결산공고 -->
+	<!-- // 제10기 결산공고 -->
+
 	<!-- 제9기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop05">
 		<h2 class="layerTit">NEWS</h2>
@@ -883,7 +887,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제9기 결산공고 -->
+	<!-- // 제9기 결산공고 -->
+
 	<!-- 제8기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop06">
 		<h2 class="layerTit">NEWS</h2>
@@ -1015,7 +1020,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제8기 결산공고 -->
+	<!-- // 제8기 결산공고 -->
+
 	<!-- 외부감사인 선임 공고 -->
 	<div class="fullLayer" id="newsDetail_pop07">
 		<h2 class="layerTit">NEWS</h2>
@@ -1039,7 +1045,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //외부감사인 선임 공고 -->
+	<!-- // 외부감사인 선임 공고 -->
+
 	<!-- 제7기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop08">
 		<h2 class="layerTit">NEWS</h2>
@@ -1175,7 +1182,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제7기 결산공고 -->
+	<!-- // 제7기 결산공고 -->
+
 	<!-- 제6기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop09">
 		<h2 class="layerTit">NEWS</h2>
@@ -1307,7 +1315,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제6기 결산공고 -->
+	<!-- // 제6기 결산공고 -->
+
 	<!-- 미크론정공(주) 주식 공매 공고 -->
 	<div class="fullLayer" id="newsDetail_pop10">
 		<h2 class="layerTit">NEWS</h2>
@@ -1367,7 +1376,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //미크론정공(주) 주식 공매 공고 -->
+	<!-- // 미크론정공(주) 주식 공매 공고 -->
+
 	<!-- 외부감사인 선임 공고 -->
 	<div class="fullLayer" id="newsDetail_pop11">
 		<h2 class="layerTit">NEWS</h2>
@@ -1391,7 +1401,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //외부감사인 선임 공고 -->
+	<!-- // 외부감사인 선임 공고 -->
+
 	<!-- 제5기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop12">
 		<h2 class="layerTit">NEWS</h2>
@@ -1519,7 +1530,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제5기 결산공고 -->
+	<!-- // 제5기 결산공고 -->
+
 	<!-- 제4기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop13">
 		<h2 class="layerTit">NEWS</h2>
@@ -1655,7 +1667,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제4기 결산공고 -->
+	<!-- // 제4기 결산공고 -->
+
 	<!-- (주)다림비젼 주식 공매 공고 -->
 	<div class="fullLayer" id="newsDetail_pop14">
 		<h2 class="layerTit">NEWS</h2>
@@ -1714,7 +1727,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //(주)다림비젼 주식 공매 공고 -->
+	<!-- // (주)다림비젼 주식 공매 공고 -->
+
 	<!-- 제3기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop15">
 		<h2 class="layerTit">NEWS</h2>
@@ -1842,7 +1856,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //제3기 결산공고 -->
+	<!-- // 제3기 결산공고 -->
+
 	<!-- 주권제출 공고 -->
 	<div class="fullLayer" id="newsDetail_pop16">
 		<h2 class="layerTit">NEWS</h2>
@@ -1866,7 +1881,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //주권제출 공고 -->
+	<!-- // 주권제출 공고 -->
+
 	<!-- 채권자 이의제출 공고 -->
 	<div class="fullLayer" id="newsDetail_pop17">
 		<h2 class="layerTit">NEWS</h2>
@@ -1890,7 +1906,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //채권자 이의제출 공고 -->
+	<!-- // 채권자 이의제출 공고 -->
+
 	<!-- 케이티비네트워크 상반기 가결산 공시 -->
 	<div class="fullLayer" id="newsDetail_pop18">
 		<h2 class="layerTit">NEWS</h2>
@@ -1976,7 +1993,8 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //케이티비네트워크 상반기 가결산 공시 -->
+	<!-- // 케이티비네트워크 상반기 가결산 공시 -->
+
 	<!-- 상호 및 공고방법 변경 -->
 	<div class="fullLayer" id="newsDetail_pop19">
 		<h2 class="layerTit">NEWS</h2>
@@ -2023,5 +2041,5 @@ jQuery(window).load(function() {
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //상호 및 공고방법 변경 -->
+	<!-- // 상호 및 공고방법 변경 -->
 <!-- 뉴스 상세 레이어팝업(L) -->
