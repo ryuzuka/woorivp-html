@@ -84,7 +84,7 @@
           <td style="width:20%">책임자</td>
           <td>금경환</td>
           <td>준법감시인</td>
-          <td style="width: 50%"><a style="color: #2c2d93; text-decoration: underline" href="mailto:eunb@ktbnetwork.com">kunkh@ktbnetwork.com</a>, 031-628-6431</td>
+          <td style="width: 50%"><a style="color: #2c2d93; text-decoration: underline" href="mailto:eunb@ktbnetwork.com">kumkh@ktbnetwork.com</a>, 031-628-6431</td>
         </tr>
         <tr>
           <td>담당자</td>
