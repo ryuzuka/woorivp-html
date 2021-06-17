@@ -190,8 +190,11 @@
 </section>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
-  let date = parseInt(moment().format('YYYYMMDD'))
-  if (20210609 <= date && date <= 20210731 ) {
-    window.open('/static/home/kr/ktb_popup.html', '', 'top=0, left=0, width=720, height=801, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+  let date = parseInt(moment().format('YYYYMMDDhhmm'))
+  if (202106090000 <= date && date <= 202107319999 ) {
+    window.open('/static/home/kr/ktb_popup.html?popup=20210609', '', 'top=0, left=0, width=720, height=801, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+  }
+  if (202106211200 <= date) {
+    window.open('/static/home/kr/ktb_popup.html?popup=20210621', '', 'top=0, left=720, width=720, height=586, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
 </script>

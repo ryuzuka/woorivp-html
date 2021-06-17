@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
+  <script type="text/javascript" src="/static/home/kr/js/jquery-1.11.1.min.js"></script>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>KTB 네트워크</title>
 	<style>
@@ -19,8 +20,23 @@
 </head>
 <body class="main">
 	<div>
-    <!--<img src="/static/home/kr/images/popup/20210319.png" alt="제 13기 결산공고">-->
-    <img src="/static/home/kr/images/popup/20210609.png" alt="전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내">
+    <img src="" alt="KTBNETWORK NOTICE">
 	</div>
+
+  <script>
+    $.urlParam = function(name){
+      let results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+      if (results==null){
+        return null;
+      }
+      else{
+        return results[1] || 0;
+      }
+    }
+    let popImgPath = $.urlParam('popup')
+
+    $('.main img').attr('src', '/static/home/kr/images/popup/' + popImgPath + '.png')
+
+  </script>
 </body>
 </html>
