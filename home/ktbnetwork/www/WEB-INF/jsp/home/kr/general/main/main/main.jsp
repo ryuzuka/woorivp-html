@@ -194,7 +194,7 @@
   if (202106090000 <= date && date <= 202107319999 ) {
     window.open('/static/home/kr/ktb_popup.html?popup=20210609', '', 'top=0, left=0, width=720, height=801, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
-  // if (202106211200 <= date) {
-  //   window.open('/static/home/kr/ktb_popup.html?popup=20210621', '', 'top=0, left=720, width=720, height=586, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
-  // }
+  if (202106211200 <= date) {
+    window.open('/static/home/kr/ktb_popup.html?popup=20210621', '', 'top=0, left=720, width=720, height=587, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+  }
 </script>
