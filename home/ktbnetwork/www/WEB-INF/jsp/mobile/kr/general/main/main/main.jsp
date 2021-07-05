@@ -118,3 +118,64 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<div class="dimmed"></div>
+
+  <!-- 메인 팝업 -->
+  <div class="fullLayer" id="pop01" style="display: block">
+    <%--<h2 class="layerTit"></h2>--%>
+    <div class="layerCont" tabindex="0" style="padding: 0 30px">
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">주식 1차공매 공고</h3>
+          <%--<em class="date">2017.03.02</em>--%>
+        </div>
+        <div class="detailCon">
+          <p>당사가 보유한 주식을 아래와 같이 공매처분코자 하오니 관심있는 분들은 응찰하여 주시기 바랍니다.</p>
+          <table class="tblV">
+            <caption>미크론정공(주) 주식 공매 공고</caption>
+            <colgroup><col style="width:130px"><col style="width:auto"></colgroup>
+            <tbody>
+            <tr>
+              <th scope="row">01. 공매대상 주식</th>
+              <td>미크론정공㈜ 보통주 37,078주</td>
+            </tr>
+            <tr>
+              <th scope="row">02. 최저 입찰가</th>
+              <td>200,000,000원<br>(상증법상 주당가치 5,382원 반영)</td>
+            </tr>
+            <tr>
+              <th scope="row">03. 일시</th>
+              <td>
+                <ul class="listDep1">
+                  <li>1차 2013년12월13일 오전 10시 최저입찰가 <br>200,000,000원</li>
+                  <li>2차 2013년12월13일 오전 11시 최저입찰가<br>180,000,000원(1차의 90%)</li>
+                  <li>3차 2013년12월13일 오후 1시 최저입찰가<br> 160,000,000원(1차의 80%)</li>
+                  <li>4차 2013년12월13일 오후 2시 최저입찰가<br>140,000,000원(1차의 70%)</li>
+                  <li>5차 2013년12월13일 오후 3시 최저입찰가<br>120,000,000원(1차의 60%)</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">04. 장소</th>
+              <td>KTB네트워크㈜ 본사 회의실</td>
+            </tr>
+            <tr>
+              <th scope="row">05. 입찰방법</th>
+              <td>
+                <ul class="listDep1">
+                  <li>2~5차 공매는 선순위 공매 유찰시 단계별 시행</li>
+                  <li>입찰시 보증금 10% 납부, 주식 인수시 잔금 90% 납부</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">06. 담당</th>
+              <td>KTB네트워크㈜ 신태광 이사<br><a href="tel:031-628-6410">(TEL 031-628-6410)</a></td>
+            </tr>
+            </tbody>
+          </table>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose" style="background-position-x: -110px">닫기</button>
+  </div>
+  <!-- // 메인 팝업 -->
