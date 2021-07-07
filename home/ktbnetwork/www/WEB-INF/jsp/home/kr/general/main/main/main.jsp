@@ -191,13 +191,23 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
   let date = parseInt(moment().format('YYYYMMDDHHmm'))
-  if (202106090000 <= date && date <= 202107319999 ) {
-    window.open('/static/home/kr/ktb_popup.html?popup=20210609', '', 'top=0, left=0, width=720, height=801, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+
+  if (202107071300 <= date && date < 202107121700) {
+    window.open('/static/home/kr/ktb_popup.html?popup=20210706', '', 'top=0, left=0, width=720, height=772, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+  } else if (202107121700 <= date && date < 202107131700) {
+    window.open('/static/home/kr/ktb_popup.html?popup=20210712', '', 'top=0, left=0, width=720, height=772, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+  } else if (202107131700 <= date && date < 202107141700) {
+    window.open('/static/home/kr/ktb_popup.html?popup=20210713', '', 'top=0, left=0, width=720, height=772, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
-  if (202106211200 <= date && date <= 202109249999) {
-    window.open('/static/home/kr/ktb_popup.html?popup=20210621', '', 'top=0, left=720, width=720, height=587, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+
+  if (202107011500 <= date && date < 202107301500) {
+    window.open('/static/home/kr/k-venture_popup.html', '', 'top=0, left=720, width=900, height=900, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
-  if (202107011500 <= date && date <= 202107301500) {
-    window.open('/static/home/kr/k-venture_popup.html', '', 'top=0, left=1440, width=900, height=900, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
-  }
+
+  // if (202106211200 <= date && date < 202109249999) {
+  //   window.open('/static/home/kr/ktb_popup.html?popup=20210621', '', 'top=0, left=720, width=720, height=587, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+  // }
+  // if (202106090000 <= date && date < 202107319999 ) {
+  //   window.open('/static/home/kr/ktb_popup.html?popup=20210609', '', 'top=0, left=0, width=720, height=801, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+  // }
 </script>

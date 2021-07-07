@@ -134,19 +134,73 @@
             <caption>바이텍씨스템(주) 주식 공매 공고</caption>
             <colgroup><col style="width:130px"><col style="width:auto"></colgroup>
             <tbody>
+              <tr>
+                <th scope="row">01. 공매대상 주식</th>
+                <td>㈜바이텍씨스템 보통주 1,212,500주</td>
+              </tr>
+              <tr>
+                <th scope="row">02. 최저 입찰가</th>
+                <td>1,746,751,871원<br>(상증법상 주당가치 1,440.6201원 반영)</td>
+              </tr>
+              <tr>
+                <th scope="row">03. 일시</th>
+                <td>2021년 7월12일<br>오전 10시 ~ 오후 5시</td>
+              </tr>
+              <tr>
+                <th scope="row">04. 장소</th>
+                <td>KTB네트워크㈜ 본사 회의실</td>
+              </tr>
+              <tr>
+                <th scope="row">05. 입찰방법</th>
+                <td>
+                  입찰시 보증금 10% 납부, 주식 인수시 잔금 90% 납부<br>
+                  (보증금 및 잔금 납부계좌 : kb국민은행, 092337-04-002861)
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">06</th>
+                <td>본건 유찰시 2차공매 공고예정<br>(공고예정일 2021년 7월12일 오후 6시경)</td>
+              </tr>
+              <tr>
+                <th scope="row">07. 담당</th>
+                <td>KTB네트워크㈜ 정 도 전무<br><a href="tel:031-628-6404">(TEL 031-628-6404)</a></td>
+              </tr>
+            </tbody>
+          </table>
+          <div class="newscon_box" style="margin: 15px 0 15px; padding: 25px 25px; background: #fff">
+            <strong>케이티비네트워크 주식회사<br>대표이사 김창규</strong>
+          </div>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+
+  <div class="fullLayer" id="pop02">
+    <h2 class="layerTit">주식 2차공매 공고</h2>
+    <div class="layerCont" tabindex="0" style="padding: 0 30px">
+      <div class="board_detail">
+        <%--<div class="detailTop">
+          <h3 class="titDep3">주식 1차공매 공고</h3>
+          <em class="date">2017.03.02</em>
+        </div>--%>
+        <div class="detailCon">
+          <p>당사가 보유한 주식을 아래와 같이 공매처분코자 하오니 관심있는 분들은 응찰하여 주시기 바랍니다.</p>
+          <table class="tblV">
+            <caption>바이텍씨스템(주) 주식 공매 공고</caption>
+            <colgroup><col style="width:130px"><col style="width:auto"></colgroup>
+            <tbody>
             <tr>
               <th scope="row">01. 공매대상 주식</th>
               <td>㈜바이텍씨스템 보통주 1,212,500주</td>
             </tr>
             <tr>
               <th scope="row">02. 최저 입찰가</th>
-              <td>1,746,751,871원<br>(상증법상 주당가치 1,440.6201원 반영)</td>
+              <td>1,222,726,310원<br>(상증법상 주당가치 1,440.6201원 반영)</td>
             </tr>
             <tr>
               <th scope="row">03. 일시</th>
-              <td>
-			  	2021년 7월12일<br>오전 10시 ~ 오후 5시
-              </td>
+              <td>2021년 7월13일<br>오전 10시 ~ 오후 5시</td>
             </tr>
             <tr>
               <th scope="row">04. 장소</th>
@@ -155,26 +209,94 @@
             <tr>
               <th scope="row">05. 입찰방법</th>
               <td>
-			  	입찰시 보증금 10% 납부, 주식 인수시 잔금 90% 납부<br>
-			  	(보증금 및 잔금 납부계좌 : kb국민은행, 092337-04-002861)
+                입찰시 보증금 10% 납부, 주식 인수시 잔금 90% 납부<br>
+                (보증금 및 잔금 납부계좌 : kb국민은행, 092337-04-002861)
               </td>
             </tr>
-			<tr>
-				<th scope="row">06. 예정일</th>
-				<td>본건 유찰시 2차공매 공고예정<br>(공고예정일 2021년 7월12일 오후 6시경)</td>
-			</tr>
+            <tr>
+              <th scope="row">06</th>
+              <td>본건 유찰시 3차공매 공고예정<br>(공고예정일 2021년 7월13일 오후 6시경)</td>
+            </tr>
             <tr>
               <th scope="row">07. 담당</th>
               <td>KTB네트워크㈜ 정 도 전무<br><a href="tel:031-628-6404">(TEL 031-628-6404)</a></td>
             </tr>
             </tbody>
           </table>
-		  <div class="newscon_box" style="margin: 15px 0 15px; padding: 25px 25px">
-		    <strong>케이티비네트워크 주식회사<br>대표이사 신진호</strong>
-		  </div>
+          <div class="newscon_box" style="margin: 15px 0 15px; padding: 25px 25px; background: #fff">
+            <strong>케이티비네트워크 주식회사<br>대표이사 김창규</strong>
+          </div>
         </div><!-- //detailCon -->
       </div>
     </div>
     <button type="button" class="layerClose">닫기</button>
   </div>
-  <!-- // 주식 공매 공고 -->
+
+  <div class="fullLayer" id="pop03">
+  <h2 class="layerTit">주식 3차공매 공고</h2>
+  <div class="layerCont" tabindex="0" style="padding: 0 30px">
+    <div class="board_detail">
+      <%--<div class="detailTop">
+        <h3 class="titDep3">주식 1차공매 공고</h3>
+        <em class="date">2017.03.02</em>
+      </div>--%>
+      <div class="detailCon">
+        <p>당사가 보유한 주식을 아래와 같이 공매처분코자 하오니 관심있는 분들은 응찰하여 주시기 바랍니다.</p>
+        <table class="tblV">
+          <caption>바이텍씨스템(주) 주식 공매 공고</caption>
+          <colgroup><col style="width:130px"><col style="width:auto"></colgroup>
+          <tbody>
+          <tr>
+            <th scope="row">01. 공매대상 주식</th>
+            <td>㈜바이텍씨스템 보통주 1,212,500주</td>
+          </tr>
+          <tr>
+            <th scope="row">02. 최저 입찰가</th>
+            <td>855,908,41<br>(2차 최저입찰가의 70%)</td>
+          </tr>
+          <tr>
+            <th scope="row">03. 일시</th>
+            <td>2021년 7월14일<br>오전 10시 ~ 오후 5시</td>
+          </tr>
+          <tr>
+            <th scope="row">04. 장소</th>
+            <td>KTB네트워크㈜ 본사 회의실</td>
+          </tr>
+          <tr>
+            <th scope="row">05. 입찰방법</th>
+            <td>
+              입찰시 보증금 10% 납부, 주식 인수시 잔금 90% 납부<br>
+              (보증금 및 잔금 납부계좌 : kb국민은행, 092337-04-002861)
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">06</th>
+            <td>본건은 최종 공고이며, 유찰시 공매절차 종료예정</td>
+          </tr>
+          <tr>
+            <th scope="row">07. 담당</th>
+            <td>KTB네트워크㈜ 정 도 전무<br><a href="tel:031-628-6404">(TEL 031-628-6404)</a></td>
+          </tr>
+          </tbody>
+        </table>
+        <div class="newscon_box" style="margin: 15px 0 15px; padding: 25px 25px; background: #fff">
+          <strong>케이티비네트워크 주식회사<br>대표이사 김창규</strong>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // 주식 공매 공고 -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+<script>
+  let date = parseInt(moment().format('YYYYMMDDHHmm'))
+  if (202107071300 <= date && date < 202107121700 ) {
+    $('#pop01').show()
+  } else if (202107121700 <= date && date < 202107131700 ) {
+    $('#pop02').show()
+  } else if (202107131700 <= date && date < 202107141700 ) {
+    $('#pop03').show()
+  }
+</script>
