@@ -16,6 +16,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=23">
+                  <strong class="tit">주식명의개서정지공고</strong>
+                  <div class="con"><span class="date">2021.06.21</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=22">
                   <strong class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</strong>
                   <div class="con"><span class="date">2021.06.09</span></div>

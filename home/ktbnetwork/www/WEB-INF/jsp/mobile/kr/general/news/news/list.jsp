@@ -37,6 +37,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop23" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.06.21</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop22" role="button" title="상세내용 보기">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내<em>2021.06.09</em></a>
             </li>
             <li>
@@ -110,6 +113,35 @@ jQuery(window).load(function() {
 		</div><!-- //contents -->
 	</section>
 <!-- 뉴스 상세 레이어팝업(L) -->
+  <!-- 주식명의개서정지공고 -->
+  <div class="fullLayer" id="newsDetail_pop23">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">주식명의개서정지공고</h3>
+          <em class="date">2021.06.21</em>
+        </div>
+
+        <div class="detailCon">
+          <div class="newscon_box">
+            <h4 class="tit">주식명의개서정지공고</h4>
+            <p style="text-align: left">임시주주총회를 위해 상법 제 354조 및 당사 정관 제 16조에 의거 2021년 7월 6일 주주명부에 등재되어 있는 주주에게 의결권을 부여하며, 권리주 주의 확정을 위하여 2021년 7월 7일부터 2021년 7월 13일 까지 주식명의개서, 질권등록 및 말소 등 주주명부의 기재사항 변경을 정지하고자 공고합니다.</p>
+            <div class="bottomTxt">
+              <em>2021년 6월 21일</em>
+              <strong>케이티비네트워크 주식회사</strong>
+              <span style="font-size: small">경기도 성남시 분당구 대왕판교로 670(삼평동), 유스페이스 2A동 10층</span>
+              <br>
+              <strong class="ceoTxt">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
+              <strong class="ceoTxt">명의개서대리인 KB국민은행 은행장 <span style="font-weight: bolder">허 인</span></strong>
+            </div>
+          </div><!-- //newscon_box -->
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // 주식명의개서정지공고 -->
 
   <!-- 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
   <div class="fullLayer" id="newsDetail_pop22">
