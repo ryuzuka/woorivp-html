@@ -158,7 +158,7 @@
                 </td>
               </tr>
               <tr>
-                <th scope="row">06</th>
+                <th scope="row">06. 예정</th>
                 <td>본건 유찰시 2차공매 공고예정<br>(공고예정일 2021년 7월12일 오후 6시경)</td>
               </tr>
               <tr>
@@ -214,7 +214,7 @@
               </td>
             </tr>
             <tr>
-              <th scope="row">06</th>
+              <th scope="row">06. 예정</th>
               <td>본건 유찰시 3차공매 공고예정<br>(공고예정일 2021년 7월13일 오후 6시경)</td>
             </tr>
             <tr>
@@ -270,7 +270,7 @@
             </td>
           </tr>
           <tr>
-            <th scope="row">06</th>
+            <th scope="row">06. 예정</th>
             <td>본건은 최종 공고이며, 유찰시 공매절차 종료예정</td>
           </tr>
           <tr>
