@@ -290,7 +290,7 @@
           $('#pop02').show()
       } else if (202107131700 <= date && date < 202107141700) {
           $('#pop03').show()
-      } else if (202107141700 <= date) {
+      } else if (202107141700 <= date && date < 202107151700) {
         commonJs.popupShow('#pop20210714')
       }
   })
