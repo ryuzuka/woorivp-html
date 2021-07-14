@@ -93,26 +93,17 @@
 		</div>
 	</section>
 
-	<div class="layerPop open" id="MAL1">
+	<div class="layerPop open" id="pop20210714">
 		<div class="layerContainer">
-			<h2 class="layerTit">작성기준</h2>
-			<div class="layerCont" tabindex="0">
-				<ul class="listDep2">
-					<li>2020.12.31 현재</li>
-					<li>2000.01.01 이후 청산한 펀드 기준</li>
-					<li>IRR: 성과보수 포함, 납입금액 가중평균 수익률</li>
-				</ul>
-			</div>
-		</div>
-		<button type="button" class="layerClose">닫기</button>
-	</div>
-	<div class="layerPop open" id="MAL2">
-		<div class="layerContainer">
-			<h2 class="layerTit">작성기준</h2>
-			<div class="layerCont" tabindex="0">
-				<ul class="listDep2">
-					<li>2020.12.31 현재</li>
-				</ul>
+			<h2 class="layerTit" style="text-align: center">주식 공매 공고</h2>
+			<div class="layerCont newscon_box" tabindex="0" style="padding-top: 0px; background-color: #fff">
+                <p style="text-align: center">
+                7월12~14일 진행된<br>(주)바이텍씨스템 주식 공매의 건은<br>응찰자가 없어 최종 유찰되었음을 알려드립니다.
+                </p>
+                <div class="bottomTxt" style="color: #555">
+                    <strong style="font-weight:500">케이티비네트워크 주식회사</strong>
+                    <strong style="font-weight:500" class="ceoTxt">대표이사 <span style="font-weight: bolder; color: #111">김 창 규</span></strong>
+                </div>
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
@@ -291,12 +282,17 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
-  let date = parseInt(moment().format('YYYYMMDDHHmm'))
-  if (202107071300 <= date && date < 202107121700 ) {
-    $('#pop01').show()
-  } else if (202107121700 <= date && date < 202107131700 ) {
-    $('#pop02').show()
-  } else if (202107131700 <= date && date < 202107141700 ) {
-    $('#pop03').show()
-  }
+  $(window).on('jsLoad', function () {
+      let date = parseInt(moment().format('YYYYMMDDHHmm'))
+      if (202107071300 <= date && date < 202107121700) {
+          $('#pop01').show()
+      } else if (202107121700 <= date && date < 202107131700) {
+          $('#pop02').show()
+      } else if (202107131700 <= date && date < 202107141700) {
+          $('#pop03').show()
+      } else if (202107131700 <= date) {
+        commonJs.popupShow('#pop20210714')
+      }
+  })
+
 </script>
