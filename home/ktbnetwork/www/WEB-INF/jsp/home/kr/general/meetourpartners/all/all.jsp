@@ -88,8 +88,7 @@
 							alt="B2LINK 로고"><span>B2LINK</span></a></li>
 					<li><a href="#OP11T33L"><img
 							src="/static/home/kr/images/contents/img_partners_33_off.gif"
-							alt="BRAVOWHALE TECHNOLOGY 로고"><span>BRAVOWHALE
-								TECHNOLOGY</TECHNOLOGYspan></a></li>
+							alt="BRAVOWHALE TECHNOLOGY 로고"><span>BRAVOWHALE TECHNOLOGY</span></a></li>
 
 					<li><a href="#OP11T34L"><img
 							src="/static/home/kr/images/contents/img_partners_34_off.gif"
@@ -267,13 +266,15 @@
 					<li><a href="#OP11T98L"><img
 							src="/static/home/kr/images/contents/img_partners_98_off.gif" alt="㈜상화 로고"><span>㈜상화</span></a></li>
 					<li><a href="#OP11T99L"><img src="/static/home/kr/images/contents/img_partners_99_off.gif" alt="스타일쉐어 로고"><span>스타일쉐어</span></a></li><!-- 0417 추가 -->
-					
+
 					<!-- 0503 추가 -->
 					<li><a href="#OP11T100L"><img src="/static/home/kr/images/contents/img_partners_100_off.gif" alt="Grab 로고"><span>Grab</span></a></li>
 					<li><a href="#OP11T101L"><img src="/static/home/kr/images/contents/img_partners_101_off.gif" alt="Nobroker 로고"><span>Nobroker</span></a></li>
 					<li><a href="#OP11T102L"><img src="/static/home/kr/images/contents/img_partners_102_off.gif" alt="MissFresh 로고"><span>MissFresh</span></a></li>
 					<!-- //0503 추가 -->
-					
+
+					<li><a href="#OP11T103L"><img src="/static/home/kr/images/contents/img_partners_103_off.png" alt="(주)파블로항공 로고"><span>(주)파블로항공</span></a></li>
+
 				</ul>
 			</div>
 		</div>
@@ -2173,7 +2174,7 @@
 				<h2 class="layerTit">스타일쉐어</h2>
 				<div class="layerCont" tabindex="0">
 					<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_99_on.gif" alt="스타일쉐어 로고"></div>
-					<p class="mtS">스타일쉐어는 콘텐츠 기반의 커머스 플랫폼을 제공하는 회사입니다. 
+					<p class="mtS">스타일쉐어는 콘텐츠 기반의 커머스 플랫폼을 제공하는 회사입니다.
 					대한민국 Z세대 3명 중 1명이 사용하는 패션앱 StyleShare를 운영하고 있으며, 2535 타겟의 패션 라이프스타일 편집샵 29CM를 자회사로 두고 있습니다. 월 100만명 이상의 사용자가 하루 수만 건의 패션 콘텐츠를 공유하며 2,000여곳 이상의 브랜드가 입점하여 판매하고 있습니다. </p>
 					<div class="link"><p class="site"><a href="https://about.stylesha.re/" target="_blank" title="새창열기">https://about.stylesha.re/</a></p></div>
 				</div>
@@ -2222,7 +2223,21 @@
 			</div>
 			<button type="button" class="layerClose">닫기</button>
 		</div>
-		<!-- Missfresh//(L) -->
+	<!-- Missfresh//(L) -->
 <!-- //0503 추가 -->
+
+	<!-- (주)파블로항공 -->
+	<div class="layerPop layerS" id="OP11T103L">
+		<div class="layerContainer">
+			<h2 class="layerTit">(주)파블로항공</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_103_on.png" alt="(주)파블로항공 로고"></div>
+				<p class="mtS">파블로항공은 독자적인 관제, 군집 비행 역량을 기반으로 물류 드론 서비스 플랫폼을 제공하고 있습니다. 현재 K-드론시스템 실증사업에 참여하고 있으며 향후 국내 도서 지역과 미국 등 해외시장으로 드론 물류사업을 추진할 계획입니다.</p>
+				<div class="link"><p class="site"><a href="http://www.pabloair.com/" target="_blank" title="새창열기">http://www.pabloair.com/</a></p></div>
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- (주)파블로항공 -->
 
 <div class="dimmed"></div>
