@@ -340,18 +340,16 @@
 							</span>
 						</a>
 					</li>
-					<!-- // 20210129 BI Center 삭제
-					<li class="line">
-						<strong>BI center</strong>
-						<a href="#person_manageDeatail14" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_14.jpg" alt="Lim Dong Hyeon" /></span>
-							<span>
-								<em>Lim Dong Hyeon</em>
-								<b>BI center</b><br>Executive Managing Director
+          <li>
+            <strong class="hidden">Management</strong>
+            <a href="#person_manageDeatail18" role="button">
+              <span><img src="/static/mobile/en/images/contents/img_manage_18.jpg" alt="Park Ji Soo" /></span>
+              <span>
+								<em>Park Ji Soo</em>
+								<b>Manager</b>
 							</span>
-						</a>
-					</li>
-					-->
+            </a>
+          </li>
 				</ul>
 			</div>
 			<!-- //Management -->
@@ -1287,6 +1285,35 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Cho Eun Sol Manager -->
+<!-- Park Ji Soo Manager -->
+<div class="fullLayer" id="person_manageDeatail18">
+  <h2 class="layerTit">Who We Are</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="personDetail">
+      <span><img src="/static/mobile/en/images/contents/img_manage_pop18.jpg" alt="Park Ji Soo" /></span>
+      <div class="deatilCon">
+        <dl>
+          <dt class="name">Park Ji Soo</dt>
+          <dd class="position">KOREA / Management / Manager</dd>
+          <dt>Career</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>SOPOONG</li>
+            </ul>
+          </dd>
+          <dt>Responsibilities</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>investment management</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="layerClose">close</button>
+</div>
+<!-- //Park Ji Soo Manager -->
 <!-- Lim Dong Hyeon Managing Director -->
 <div class="fullLayer" id="person_manageDeatail14">
 	<h2 class="layerTit">Who We Are</h2>

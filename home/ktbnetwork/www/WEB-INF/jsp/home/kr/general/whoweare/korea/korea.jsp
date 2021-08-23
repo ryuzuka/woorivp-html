@@ -675,31 +675,26 @@
 								<strong>조은솔</strong> 주임
 							</a>
 						</li>
+            <li>
+              <div class="member">
+                <div class="left"><img src="/static/home/kr/images/contents/img_team38.jpg" alt="박지수"></div>
+                <div class="right">
+                  <h3>박지수 <span class="pointColor">KOREA / 관리팀 / 주임</span></h3>
+                  <dl>
+                    <dt>주요경력</dt>
+                    <dd>SOPOONG</dd>
+                    <dt>업무</dt>
+                    <dd>투자관리</dd>
+                  </dl>
+                </div>
+              </div>
+              <a href="#" class="thumb">
+                <span class="img"><img src="/static/home/kr/images/contents/thumb_team38_off.jpg" alt="박지수"></span>
+                <strong>박지수</strong> 주임
+              </a>
+            </li>
 					</ul>
-				</div>
-				<!-- // 20210129 BI Center 삭제
-				<div class="memberInner">
-					<h3 class="title">BI Center</h3>
-					<ul>
-						<li>
-							<div class="member">
-								<div class="left"><img src="/static/home/kr/images/contents/img_team04.jpg" alt="임동현"></div>
-								<div class="right">
-									<h3>임동현 <span class="pointColor">KOREA / 투자팀 / 전무</span></h3>
-									<dl>
-										<dt>주요경력</dt>
-										<dd>고려대학교 경영학과<br>고려대학교 경영학 대학원<br>나라종금 <br>삼정KPMG</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team04_off.jpg" alt="임동현"></span>
-								<strong>임동현</strong> 전무
-							</a>
-						</li>
-						-->
-					</ul>
-				</div>
+        </div>
 			</div>
 		</div>
 		<!-- //Management -->

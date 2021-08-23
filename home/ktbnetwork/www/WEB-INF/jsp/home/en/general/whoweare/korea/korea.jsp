@@ -646,6 +646,24 @@
 									<strong>Cho Eun Sol</strong> Manager
 								</a>
 							</li>
+              <li>
+                <div class="member">
+                  <div class="left"><img src="/static/home/en/images/contents/img_team38.jpg" alt="Park Ji Soo"></div>
+                  <div class="right">
+                    <h3>Park Ji Soo <span class="pointColor">KOREA / Management / Manager</span></h3>
+                    <dl>
+                      <dt>Career</dt>
+                      <dd>SOPOONG</dd>
+                      <dt>Responsibilities</dt>
+                      <dd>Investment management</dd>
+                    </dl>
+                  </div>
+                </div>
+                <a href="#" class="thumb">
+                  <span class="img"><img src="/static/home/en/images/contents/thumb_team38_off.jpg" alt="Park Ji Soo"></span>
+                  <strong>Park Ji Soo</strong> Manager
+                </a>
+              </li>
 						</ul>
 					</div>
 				</div>

@@ -161,8 +161,8 @@
 							</span>
 						</a>
 					</li>
-					<li>
-						<a href="#personDeatail19" role="button">
+					<li>button
+						<a href="#personDeatail19" role="">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_19.jpg" alt="김범준 팀장 사진" /></span>
 							<span>
 								<em>김범준</em>
@@ -356,18 +356,16 @@
 							</span>
 						</a>
 					</li>
-					<!-- // 20210129 BI Center 삭제
-					<li class="line">
-						<strong>BI center</strong>
-						<a href="#person_manageDeatail14" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_14.jpg" alt="임동현 전무 사진" /></span>
-							<span>
-								<em>임동현</em>
-								전무
+          <li>
+            <strong class="hidden">Management</strong>
+            <a href="#person_manageDeatail18" role="button">
+              <span><img src="/static/mobile/kr/images/contents/img_manage_18.jpg" alt="박지수 주임 사진" /></span>
+              <span>
+								<em>박지수</em>
+                주임
 							</span>
-						</a>
-					</li>
-					-->
+            </a>
+          </li>
 				</ul>
 			</div>
 			<!-- //Management -->
@@ -1349,5 +1347,34 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //조은솔 주임 -->
+<!-- 박지수 주임 -->
+<div class="fullLayer" id="person_manageDeatail18">
+  <h2 class="layerTit">Who We Are</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="personDetail">
+      <span><img src="/static/mobile/kr/images/contents/img_manage_pop18.jpg" alt="박지수 주임 사진" /></span>
+      <div class="deatilCon">
+        <dl>
+          <dt class="name">박지수</dt>
+          <dd class="position">KOREA / 관리팀 / 주임</dd>
+          <dt>주요경력</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>SOPOONG</li>
+            </ul>
+          </dd>
+          <dt>업무</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>투자관리</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //박지수 주임 -->
 <!-- //팀원소개 investment(L) -->
 <footer></footer>
