@@ -677,7 +677,7 @@
 						</li>
             <li>
               <div class="member">
-                <div class="left"><img src="/static/home/kr/images/contents/img_team38.jpg" alt="박지수"></div>
+                <div class="left"><img src="/static/home/kr/images/contents/img_team44.jpg" alt="박지수"></div>
                 <div class="right">
                   <h3>박지수 <span class="pointColor">KOREA / 관리팀 / 주임</span></h3>
                   <dl>
@@ -689,7 +689,7 @@
                 </div>
               </div>
               <a href="#" class="thumb">
-                <span class="img"><img src="/static/home/kr/images/contents/thumb_team38_off.jpg" alt="박지수"></span>
+                <span class="img"><img src="/static/home/kr/images/contents/thumb_team44_off.jpg" alt="박지수"></span>
                 <strong>박지수</strong> 주임
               </a>
             </li>
