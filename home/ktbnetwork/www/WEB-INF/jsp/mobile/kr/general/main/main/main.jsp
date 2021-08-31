@@ -93,24 +93,7 @@
 		</div>
 	</section>
 
-	<div class="layerPop open" id="pop20210714">
-		<div class="layerContainer">
-			<h2 class="layerTit" style="text-align: center">주식 공매 공고</h2>
-			<div class="layerCont newscon_box" tabindex="0" style="padding-top: 0px; background-color: #fff">
-                <p style="text-align: center">
-                7월12~14일 진행된<br>(주)바이텍씨스템 주식 공매의 건은<br>응찰자가 없어 최종 유찰되었음을 알려드립니다.
-                </p>
-                <div class="bottomTxt" style="color: #555">
-                    <strong style="font-weight:500">케이티비네트워크 주식회사</strong>
-                    <strong style="font-weight:500" class="ceoTxt">대표이사 <span style="font-weight: bolder; color: #111">김 창 규</span></strong>
-                </div>
-			</div>
-		</div>
-		<button type="button" class="layerClose">닫기</button>
-	</div>
-	<div class="dimmed"></div>
-
-  <!-- 주식 공매 공고 -->
+	<!-- 주식 공매 공고 -->
   <div class="fullLayer" id="pop01">
     <h2 class="layerTit">주식 1차공매 공고</h2>
     <div class="layerCont" tabindex="0" style="padding: 0 30px">
@@ -278,18 +261,46 @@
   </div>
   <button type="button" class="layerClose">닫기</button>
 </div>
-<!-- // 주식 공매 공고 -->
+  <!-- // 주식 공매 공고 -->
+
+  <div class="layerPop open" id="pop20210901">
+    <div class="layerContainer" style="padding: 80px 0px 15px">
+      <h2 class="layerTit" style="text-align: center; font-size: 18px">주식명의개서정지공고</h2>
+      <div class="layerCont newscon_box" tabindex="0" style="padding-top: 0px; background-color: #fff">
+        <p style="text-align: center">
+          임시주주총회를 위해 상법 제 354조 및 당사 정관 제 16조에 의거 2021년 9월 16일 주주명부에 등재되어 있는 주주에게 의결권을 부여하며,
+          권리주 주의 확정을 위하여 2021년 9월 17일부터 2021년 9월 28일 까지 주식명의개서, 질권등록 및 말소 등 주주명부의 기재사항 변경을 정지하고자 공고합니다.
+        </p>
+        <div class="bottomTxt" style="color: #555; padding-top: 30px">
+          <strong style="font-weight:500; font-size: 16px">2021년 9월 1일</strong>
+          <strong style="font-weight:500; font-size: 16px; padding-top: 20px">케이티비네트워크 주식회사</strong>
+          <strong style="font-weight:400; font-size: 13px; padding-top: 3px">경기도 성남시 분당구 대왕판교로 670(삼평동), 유스페이스 2A동 10층</strong>
+          <strong style="font-weight:500; font-size: 16px; padding-top: 25px" class="ceoTxt">대표이사 <span style="font-weight: bolder; color: #111">김 창 규</span></strong>
+          <strong style="font-weight:500; font-size: 16px" class="ceoTxt">명의개서대리인 KB국민은행 은행장 <br><span style="font-weight: bolder; color: #111">허 인</span></strong>
+        </div>
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+
+  <div class="dimmed"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
   $(window).on('jsLoad', function () {
       let date = parseInt(moment().format('YYYYMMDDHHmm'))
+
+      commonJs.popupShow('#pop20210901')
+      if (202109011200 <= date && date < 202110010000) {
+        commonJs.popupShow('#pop20210901')
+      }
+
       if (202107071300 <= date && date < 202107121700) {
-          $('#pop01').show()
+        $('#pop01').show()
       } else if (202107121700 <= date && date < 202107131700) {
-          $('#pop02').show()
+        $('#pop02').show()
       } else if (202107131700 <= date && date < 202107141700) {
-          $('#pop03').show()
+        $('#pop03').show()
       } else if (202107141700 <= date && date < 202107151700) {
         commonJs.popupShow('#pop20210714')
       }
