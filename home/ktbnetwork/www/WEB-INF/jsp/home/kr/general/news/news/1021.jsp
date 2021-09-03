@@ -132,16 +132,16 @@
         </div>
       </div>
       <ul class="baordIndex">
+	      <li>
+		      <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=22">
+			      <div class="arrow next">다음글</div>
+			      <div class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</div>
+		      </a>
+	      </li>
         <li>
           <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=20">
-            <div class="arrow next">다음글</div>
-            <div class="tit">제 12기 결산공고</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=22">
             <div class="arrow prev">이전글</div>
-            <div class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</div>
+            <div class="tit">제 12기 결산공고</div>
           </a>
         </li>
       </ul>

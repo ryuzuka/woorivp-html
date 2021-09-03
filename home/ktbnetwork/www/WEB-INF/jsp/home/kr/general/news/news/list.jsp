@@ -15,6 +15,12 @@
 				<div class="inner">
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=24">
+									<strong class="tit">주식명의개서정지공고</strong>
+									<div class="con"><span class="date">2021.09.01</span></div>
+								</a>
+							</li>
               <li>
                 <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=23">
                   <strong class="tit">주식명의개서정지공고</strong>
