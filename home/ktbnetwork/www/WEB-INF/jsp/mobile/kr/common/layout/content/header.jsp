@@ -24,6 +24,7 @@
 					<li><a href="/home/watwedo/overview.do">What We Do</a></li>
 					<li><a href="/home/whoweare/korea.do">Who We Are</a></li>
 					<li><a href="/home/meetourpartners/all.do">Meet Our Partners</a></li>
+					<li><a href="https://ktbnetwork.irpage.co.kr/" target="_blank">IR</a></li>
 					<li><a href="/home/news/news/list.do">News</a></li>
 					<li><a href="/home/contact/contact.do">Contact</a></li>
 					<li><a href="/home/about/about.do">About KTB Group</a></li>
