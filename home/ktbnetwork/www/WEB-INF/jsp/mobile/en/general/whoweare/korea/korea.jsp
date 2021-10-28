@@ -302,6 +302,16 @@
 					</li>
 					<li>
 						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail19" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_19.jpg" alt="Soon Won Kwon" /></span>
+							<span>
+								<em>Soon Won Kwon</em>
+								<b>Team Manager</b>
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail11" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_manage_11.jpg" alt="Ko Eun Bi" /></span>
 							<span>
@@ -1197,6 +1207,35 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Hong Ji Won Team Manager -->
+<!-- Soon Won Kwon Team Manager -->
+<div class="fullLayer" id="person_manageDeatail19">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop19.jpg" alt="Soon Won Kwon" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Soon Won Kwon</dt>
+					<dd class="position">KOREA / Management / Team Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>KTB investment & securities</li>
+						</ul>
+					</dd>
+					<dt>Responsibilities</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Management planning</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Soon Won Kwon Team Manager -->
 <!-- Ko Eun Bi Team Manager -->
 <div class="fullLayer" id="person_manageDeatail11">
 	<h2 class="layerTit">Who We Are</h2>

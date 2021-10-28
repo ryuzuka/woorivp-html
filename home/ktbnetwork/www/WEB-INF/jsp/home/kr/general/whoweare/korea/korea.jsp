@@ -605,6 +605,24 @@
 						</li>
 						<li>
 							<div class="member">
+								<div class="left"><img src="/static/home/kr/images/contents/img_team45.jpg" alt="권순원"></div>
+								<div class="right">
+									<h3>권순원 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
+									<dl>
+										<dt>주요경력</dt>
+										<dd>KTB투자증권</dd>
+										<dt>업무</dt>
+										<dd>경영기획 및 관리</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team45_off.jpg" alt="권순원"></span>
+								<strong>권순원</strong> 팀장
+							</a>
+						</li>
+						<li>
+							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team25.jpg" alt="고은비"></div>
 								<div class="right">
 									<h3>고은비 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>

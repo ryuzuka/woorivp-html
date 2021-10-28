@@ -318,6 +318,16 @@
 					</li>
 					<li>
 						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail19" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_19.jpg" alt="권순원 팀장 사진" /></span>
+							<span>
+								<em>권순원</em>
+								팀장
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail11" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_manage_11.jpg" alt="고은비 팀장 사진" /></span>
 							<span>
@@ -1204,6 +1214,35 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //홍지원 팀장 -->
+<!-- 권순원 팀장 -->
+<div class="fullLayer" id="person_manageDeatail19">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop19.jpg" alt="권순원 팀장 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">권순원</dt>
+					<dd class="position">KOREA / 관리팀 / 팀장</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>KTB투자증권</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>경영기획 및 관리</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //권순원 팀장 -->
 <!-- 고은비 팀장 -->
 <div class="fullLayer" id="person_manageDeatail11">
 	<h2 class="layerTit">Who We Are</h2>

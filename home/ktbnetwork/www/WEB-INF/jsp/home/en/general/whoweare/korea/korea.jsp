@@ -576,6 +576,24 @@
 							</li>
 							<li>
 								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team45.jpg" alt="Soon Won Kwon"></div>
+									<div class="right">
+										<h3>Soon Won Kwon <span class="pointColor">KOREA / Management / Team Manager</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>KTB investment & securities</dd>
+											<dt>Responsibilities</dt>
+											<dd>Management planning</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team45_off.jpg" alt="Soon Won Kwon"></span>
+									<strong>Soon Won Kwon</strong> Team Manager
+								</a>
+							</li>
+							<li>
+								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team25.jpg" alt="Ko Eun Bi"></div>
 									<div class="right">
 										<h3>Ko Eun Bi <span class="pointColor">KOREA / Management / Team Manager</span></h3>
