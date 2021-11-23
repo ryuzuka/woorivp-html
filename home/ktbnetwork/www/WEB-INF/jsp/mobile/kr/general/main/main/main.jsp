@@ -263,7 +263,8 @@
 	</div>
   <!-- // 주식 공매 공고 -->
 
-  <div class="layerPop open" id="pop20210901">
+	<!-- 20210901 주식명의개서정지공고-->
+  <div class="layerPop" id="pop20210901">
     <div class="layerContainer" style="padding: 80px 0px 15px">
       <h2 class="layerTit" style="text-align: center; font-size: 18px">주식명의개서정지공고</h2>
       <div class="layerCont newscon_box" tabindex="0" style="padding-top: 0px; background-color: #fff">
@@ -283,13 +284,85 @@
     <button type="button" class="layerClose">닫기</button>
   </div>
 
-  <div class="dimmed"></div>
+	<!-- 20211124 신주발행공고 -->
+	<div class="fullLayer" id="pop20211124">
+		<h2 class="layerTit">신주발행공고</h2>
+		<div class="layerCont" tabindex="0" style="padding: 0 10px">
+			<div class="board_detail">
+				<div class="detailCon">
+					<p>2021년 11월 02일 개최한 당사 이사회에서 코스닥시장 상장을 위하여 당사 정관 제10조 제2항 제8호에 따라
+						제3자 배정방식의 신주발행을 결의하였기에 상법 제418조 제4항에 의거 아래와 같이 공고합니다.</p>
+					<div style="text-align: center; padding: 20px 0px 0px 0px">- 아 래 -</div>
+					<table class="tblV">
+						<caption>신주발행공고</caption>
+						<colgroup><col style="width:168px"><col style="width:auto"></colgroup>
+						<tbody>
+						<tr>
+							<th scope="row">01. 신주의 종류와 수</th>
+							<td>기명식 보통주 20,000,000주</td>
+						</tr>
+						<tr>
+							<th scope="row">02. 신주의 액면가액</th>
+							<td>1주당 500원</td>
+						</tr>
+						<tr>
+							<th scope="row">03. 신주의 발행가액</th>
+							<td>1주당 5,800원 ~ 7,200원(예정)<br>(「증권 인수업무 등에 관한 규정」을 준용한 수요예측 결과를 반영하여 당사의 코스닥시장 상장주관회사인 한국투자증권㈜와 협의하여 최종 공모(발행)가액을 결정할 예정임)</td>
+						</tr>
+						<tr>
+							<th scope="row">04. 신주의 인수방법</th>
+							<td>- 당사 정관 제11조 제2항 제8호에 의거 제3자에게 배정함<br>
+								- 신주모집 주식에 대하여 대표주관회사 및 인수단에 총액인수 및 모집할 것을 위탁하며, 신주모집하는 주식은 「증권 인수업무 등에 관한 규정」 제9조(주식의 배정)에 의거하여 배정함
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">05. 신주의 납입(예정)기일</th>
+							<td>
+								2021년 12월 09일(목)
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">06. 무액면주식 발행여부</th>
+							<td>
+								해당사항 없음
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">07. 현물출자 여부</th>
+							<td>
+								해당사항 없음
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">08. 기타사항</th>
+							<td>
+								기타 세부사항은 대표이사에게 위임함
+							</td>
+						</tr>
+						</tbody>
+					</table>
+					<div class="newscon_box" style="margin: 15px 0 15px; padding: 25px 25px; background: #fff">
+						<strong style="font-weight:500; font-size: 14px">2021년 11월 24일</strong><br><br>
+						<strong>케이티비네트워크 주식회사<br>대표이사 <b style="font-weight:1000;">김창규</b></strong>
+					</div>
+				</div><!-- //detailCon -->
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+
+	<div class="dimmed"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
   $(window).on('jsLoad', function () {
     let date = parseInt(moment().format('YYYYMMDDHHmm'))
 
+  	if (202111240800 <= date && date < 202112080000) {
+			commonJs.popupShow('#pop20211124')
+  	}
+
+		/**
     if (202109011200 <= date && date < 202110010000) {
       commonJs.popupShow('#pop20210901')
     }
@@ -303,5 +376,6 @@
     } else if (202107141700 <= date && date < 202107151700) {
       commonJs.popupShow('#pop20210714')
     }
+    **/
   })
 </script>
