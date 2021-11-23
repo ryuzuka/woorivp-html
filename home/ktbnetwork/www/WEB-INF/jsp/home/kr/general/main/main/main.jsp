@@ -196,6 +196,7 @@
     window.open('/static/home/kr/ktb_popup.html?popup=20211124', '', 'top=0, left=0, width=720, height=958, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
 
+  /**
   if (202109011200 <= date && date < 202110010000) {
     window.open('/static/home/kr/ktb_popup.html?popup=20210901', '', 'top=0, left=0, width=720, height=612, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
@@ -213,6 +214,5 @@
   if (202107011500 <= date && date < 202107301500) {
     window.open('/static/home/kr/k-venture_popup.html', '', 'top=0, left=720, width=900, height=900, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
-  /**
   **/
 </script>
