@@ -151,7 +151,7 @@ jQuery(window).load(function() {
 							</li>
 						</ul>
 						<div class="new-view" style="font-size:13px">
-							<p>KTB네트워크 주식회사는 다음과 같이 주식을 모집하오니 청약사무취급처(한국투자증권㈜, NH투자증권㈜, 삼성증권㈜, 유진투자증권㈜, 하이투자증권㈜, KB증권㈜ 본,지점)에 비치된 투자설명서를 검토하신 후에 청약하여 주시기 바랍니다.</p>
+							<p style="text-align: left">KTB네트워크 주식회사는 다음과 같이 주식을 모집하오니 청약사무취급처(한국투자증권㈜, NH투자증권㈜, 삼성증권㈜, 유진투자증권㈜, 하이투자증권㈜, KB증권㈜ 본,지점)에 비치된 투자설명서를 검토하신 후에 청약하여 주시기 바랍니다.</p>
 							<ul class="list">
 								<li>1. 발행회사의 상호: KTB네트워크 주식회사</li>
 								<li>2. 회사가 발행한 주식의 총수: 보통주 80,000,000주(납입자본금 40,000,000,000원)</li>
@@ -255,13 +255,6 @@ jQuery(window).load(function() {
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- // KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내 -->
-<script>
-	$(function () {
-    setTimeout(() => {
-      $('.boardList li:eq(0) a').trigger('click')
-    }, 100)
-	})
-</script>
 
 	<!-- 주식명의개서정지공고 -->
 	<div class="fullLayer" id="newsDetail_pop24">
