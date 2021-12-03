@@ -225,14 +225,14 @@ jQuery(window).load(function() {
 							<p class="text">2021년 12월 09일(목) 대표주관회사인 한국투자증권㈜의 홈페이지(<a href="www.truefriend.com" target="_blank" title="새창열림">www.truefriend.com</a>) 및 인수회사인 NH투자증권㈜의 홈페이지 (<a href="http://www.nhqv.com" target="_blank" title="새창열림">http://www.nhqv.com</a>), 삼성증권㈜의 홈페이지(<a href="http://www.samsungpop.com" target="_blank" title="새창열림">http://www.samsungpop.com</a>), 유진투자증권㈜의 홈페이지(<a href="http://www.eugenefn.com" target="_blank" title="새창열림">http://www.eugenefn.com</a>	), 하이투자증권㈜의 홈페이지(<a href="http://www.hi-ib.com" target="_blank" title="새창열림">http://www.hi-ib.com</a>), KB증권㈜의 홈페이지(<a href="http://www.kbsec.com" target="_blank" title="새창열림">http://www.kbsec.com</a>)에 게시함으로써 개별통지에 갈음합니다.</p>
 						</div>
 						<style type="text/css">
-							.new-view {}
+							.new-view {text-align:left;}
 							.new-view table {margin-top:5px;border-collapse:collapse;}
 							.new-view table thead th {background:#e5e5e5;}
 							.new-view table tbody td {}
 							.new-view table tbody .left {text-align:left;}
 							.new-view table thead th,
 							.new-view table tbody td {padding:5px;border:1px solid #ddd;text-align:center;}
-							.new-view .list {margin-top:20px;text-align:left;}
+							.new-view .list {margin-top:20px;}
 							.new-view .list > li {margin-top:5px;}
 							.new-view .list > li:first-child {margin-top:0;}
 							.new-view .list > li ul {margin-top:10px;}
@@ -240,7 +240,7 @@ jQuery(window).load(function() {
 							.new-view .list > li ul > li:first-child {margin-top:0;}
 							.new-view .list > li ul > li > p {margin-top:5px;}
 							.new-view .list > li .number li {padding-left:16px;text-indent:-16px;}
-							.new-view .text {margin-top:10px;text-align:left;}
+							.new-view .text {margin-top:10px;}
 						</style>
 						<br>
 						<div class="bottomTxt" style="text-align: center">
