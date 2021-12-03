@@ -16,6 +16,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=25">
+									<strong class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</strong>
+									<div class="con"><span class="date">2021.12.03</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=24">
 									<strong class="tit">주식명의개서정지공고</strong>
 									<div class="con"><span class="date">2021.09.01</span></div>
@@ -87,15 +93,15 @@
 									<div class="con"><span class="date">2016.02.24</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2'}">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=8">
 									<strong class="tit">제 7기 결산공고</strong>
 									<div class="con"><span class="date">2015.03.20</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2'}">
               <li>
                 <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=9">
                   <strong class="tit">제 6기 결산공고</strong>
