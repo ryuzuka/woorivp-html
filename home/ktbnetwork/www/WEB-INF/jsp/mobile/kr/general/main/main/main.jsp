@@ -351,6 +351,42 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
+	<!-- 20211203 코스닥 상장 주식공모 청약 안내 -->
+	<div class="layerPop" id="pop20211203">
+		<div class="layerContainer" style="padding: 80px 0px 15px">
+			<h2 class="layerTit" style="text-align: center; font-size: 18px">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</h2>
+			<div class="layerCont newscon_box" tabindex="0" style="padding-left: 10px; padding-right: 10px; padding-top: 0px; background-color: #fff; text-align: left">
+				<br>
+				<div class="detailCon" style=" border: 1px solid #000">
+					<ul style="padding: 10px 10px">
+						<li style="font-size: 15px">
+							<b>· 청약일</b><br>2021년 12월 06일(월) ~ 07일(화)
+						</li><br>
+						<li style="font-size: 15px">
+							<b>· 1주당 공모가액</b><br>[5,800]원
+						</li><br>
+						<li style="font-size: 15px">
+							<b>· 공모금액</b><br>[116,000,000,000]원<br>(공모주식 20,000,000주)
+						</li><br>
+						<li style="font-size: 15px">
+							<b>· 대표주관회사</b><br>한국투자증권<br>(홈페이지 www.truefriend.com / 문의전화 1544-5000)
+						</li><br>
+						<li style="font-size: 15px">
+							<b>· KTB네트워크 주식회사의 기업 IR 자료 및 동영상은 한국IR협의회 홈페이지 (https://www.kirs.or.kr/information/broadcast.html)에 게시되어 있으니 참고하시기 바랍니다.</b>
+						</li>
+					</ul>
+				</div>
+				<p style="padding-top:10px; font-size: 13px">* 기타 자세한 사항은 당사 홈페이지 내 NEWS를 참조해 주시기 바랍니다</p>
+				<div class="bottomTxt" style="color: #555; padding-top: 30px; text-align: center">
+					<strong style="font-weight:500; font-size: 16px">2021년 12월 03일</strong>
+					<strong style="font-weight:500; font-size: 16px; padding-top: 15px">케이티비네트워크 주식회사</strong>
+					<strong style="font-weight:500; font-size: 16px; padding-top: 0px" class="ceoTxt">대표이사 <span style="font-weight: bolder; color: #111">김 창 규</span></strong>
+				</div>
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+
 	<div class="dimmed"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
@@ -359,8 +395,11 @@
     let date = parseInt(moment().format('YYYYMMDDHHmm'))
 
   	if (202111240800 <= date && date < 202112080000) {
-			commonJs.popupShow('#pop20211124')
+			commonJs.popupShow('#pop20211124') // 신주발행공고
   	}
+    if (202112030900 <= date) {
+      commonJs.popupShow('#pop20211203') // 코스닥 상장 주식공모 청약 안내
+    }
 
 		/**
     if (202109011200 <= date && date < 202110010000) {

@@ -37,6 +37,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
 						<li>
+							<a href="#newsDetail_pop25" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
+						</li>
+						<li>
 							<a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
 						</li>
             <li>
@@ -115,7 +118,104 @@ jQuery(window).load(function() {
 			</div>
 		</div><!-- //contents -->
 	</section>
-<!-- 뉴스 상세 레이어팝업(L) -->
+
+	<!-- 뉴스 상세 레이어팝업(L) -->
+	<!-- KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내 -->
+	<div class="fullLayer" id="newsDetail_pop25">
+		<h2 class="layerTit">NEWS</h2>
+		<div class="layerCont" tabindex="0" >
+			<div class="board_detail">
+				<div class="detailTop">
+					<h3 class="titDep3">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</h3>
+					<em class="date">2021.12.03</em>
+				</div>
+				<div class="detailCon">
+					<div class="newscon_box" style="padding: 15px 25px">
+						<h4 class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</h4>
+						
+						<ul style="padding: 10px 10px">
+							<li style="font-size: 15px; padding-bottom: 15px">
+								<b>· 청약일</b><br>2021년 12월 06일(월) ~ 07일(화)
+							</li>
+							<li style="font-size: 15px; padding-bottom: 15px">
+								<b>· 1주당 공모가액</b><br>[5,800]원
+							</li>
+							<li style="font-size: 15px; padding-bottom: 15px">
+								<b>· 공모금액</b><br>[116,000,000,000]원<br>(공모주식 20,000,000주)
+							</li>
+							<li style="font-size: 15px; padding-bottom: 15px">
+								<b>· 대표주관회사</b><br>한국투자증권<br>(홈페이지 www.truefriend.com / 문의전화 1544-5000)
+							</li>
+							<li style="font-size: 15px; padding-bottom: 15px">
+								<b>· KTB네트워크 주식회사의 기업 IR 자료 및 동영상은 한국IR협의회 홈페이지 (https://www.kirs.or.kr/information/broadcast.html)에 게시되어 있으니 참고하시기 바랍니다.</b>
+							</li>
+						</ul>
+					</div><!-- //newscon_box -->
+					<br>
+					<div style="font-size:13px">
+						<p>KTB네트워크 주식회사는 다음과 같이 주식을 모집하오니 청약사무취급처(한국투자증권㈜, NH투자증권㈜, 삼성증권㈜, 유진투자증권㈜, 하이투자증권㈜, KB증권㈜ 본,지점)에 비치된 투자설명서를 검토하신 후에 청약하여 주시기 바랍니다.</p>
+						<ul style="padding: 10px 10px">
+							<li>1. 발행회사의 상호: KTB네트워크 주식회사</li>
+							<li>2. 회사가 발행한 주식의 총수: 보통주 80,000,000주(납입자본금 40,000,000,000원)</li>
+							<li>3. 1주당 공모가액: [5,800]원(액면가 500원)</li>
+							<li>
+								<p>4. 공모할 주식에 관한 사항</p>
+								<ul>
+									<li>(1) 주식의 종류: 기명식 보통주식</li>
+									<li>(2) 공모주식수: 20,000,000주</li>
+									<li>(3) 배정비율
+										<table>
+											<colgroup>
+												<col style="width:%">
+												<col style="width:%">
+												<col style="width:%">
+											</colgroup>
+											<thead>
+											<tr>
+												<th scope="col" colspan="2">청약자격</th>
+												<th scope="col">배정주수(비율)</th>
+											</tr>
+											</thead>
+											<tbody>
+											<tr>
+												<td>기관투자자</td>
+												<td>증권 인수업무 등에 관한 규정 제2조 제8항에 의한 투자자</td>
+												<td>15,000,000주<br>(75.0%)</td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											</tbody>
+										</table>
+									</li>
+									<li>(4) 주식의 청약단위</li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+					
+					<br>
+					<div class="bottomTxt" style="text-align: center">
+						<div><em>2021년 12월 03일</em></div>
+						<strong>케이티비네트워크 주식회사</strong><br>
+						<strong class="ceoTxt" style="margin-top:-10px">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
+					</div>
+				</div><!-- //detailCon -->
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내 -->
+<script>
+	$(function () {
+    setTimeout(() => {
+      $('.boardList li:eq(0) a').trigger('click')
+    }, 100)
+	})
+</script>
+
 	<!-- 주식명의개서정지공고 -->
 	<div class="fullLayer" id="newsDetail_pop24">
 		<h2 class="layerTit">NEWS</h2>
