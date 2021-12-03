@@ -232,7 +232,7 @@ jQuery(window).load(function() {
 							.new-view table tbody .left {text-align:left;}
 							.new-view table thead th,
 							.new-view table tbody td {padding:5px;border:1px solid #ddd;text-align:center;}
-							.new-view .list {margin-top:20px;}
+							.new-view .list {margin-top:20px;text-align:left;}
 							.new-view .list > li {margin-top:5px;}
 							.new-view .list > li:first-child {margin-top:0;}
 							.new-view .list > li ul {margin-top:10px;}
@@ -240,7 +240,7 @@ jQuery(window).load(function() {
 							.new-view .list > li ul > li:first-child {margin-top:0;}
 							.new-view .list > li ul > li > p {margin-top:5px;}
 							.new-view .list > li .number li {padding-left:16px;text-indent:-16px;}
-							.new-view .text {margin-top:10px;}
+							.new-view .text {margin-top:10px;text-align:left;}
 						</style>
 						<br>
 						<div class="bottomTxt" style="text-align: center">
