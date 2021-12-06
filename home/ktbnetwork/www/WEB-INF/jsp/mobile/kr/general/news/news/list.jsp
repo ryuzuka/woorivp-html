@@ -40,7 +40,7 @@ jQuery(window).load(function() {
 							<a href="#newsDetail_pop26" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
 						</li>
 						<li>
-							<a href="#newsDetail_pop25" role="button" title="상세내용 보기">신주발행공고<em>2021.11.23</em></a>
+							<a href="#newsDetail_pop25" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
 						</li>
 						<li>
 							<a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
