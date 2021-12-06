@@ -191,14 +191,14 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
   let date = parseInt(moment().format('YYYYMMDDHHmm'))
-  
+
   if (202111240800 <= date && date < 202112080000) {
     // 신주발행공고
-    window.open('/static/home/kr/ktb_popup.html?popup=20211124', '', 'top=0, left=0, width=720, height=958, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+    window.open('/static/home/kr/ktb_popup.html?popup=20211124', '', 'top=0, left=720, width=720, height=960, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
-  if (202112030900 <= date) {
+  if (202112030800 <= date) {
     // 코스닥 상장 주식공모 청약 안내
-    window.open('/static/home/kr/ktb_popup.html?popup=20211203', '', 'top=0, left=720, width=720, height=958, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+    window.open('/static/home/kr/ktb_popup.html?popup=20211203', '', 'top=0, left=0, width=720, height=721, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
 
   /**
