@@ -37,20 +37,23 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
 						<li>
-							<a href="#newsDetail_pop25" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
+							<a href="#newsDetail_pop26" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
+						</li>
+						<li>
+							<a href="#newsDetail_pop25" role="button" title="상세내용 보기">신주발행공고<em>2021.11.23</em></a>
 						</li>
 						<li>
 							<a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
 						</li>
-            <li>
-              <a href="#newsDetail_pop23" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.06.21</em></a>
-            </li>
-            <li>
-              <a href="#newsDetail_pop22" role="button" title="상세내용 보기">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내<em>2021.06.09</em></a>
-            </li>
-            <li>
-              <a href="#newsDetail_pop21" role="button" title="상세내용 보기">제 13기 결산공고<em>2021.03.19</em></a>
-            </li>
+						<li>
+						  <a href="#newsDetail_pop23" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.06.21</em></a>
+						</li>
+						<li>
+						  <a href="#newsDetail_pop22" role="button" title="상세내용 보기">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내<em>2021.06.09</em></a>
+						</li>
+						<li>
+						  <a href="#newsDetail_pop21" role="button" title="상세내용 보기">제 13기 결산공고<em>2021.03.19</em></a>
+						</li>
 						<li>
 							<a href="#newsDetail_pop20" role="button" title="상세내용 보기">제 12기 결산공고<em>2020.03.13</em></a>
 						</li>
@@ -121,7 +124,7 @@ jQuery(window).load(function() {
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
 	<!-- KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내 -->
-	<div class="fullLayer" id="newsDetail_pop25">
+	<div class="fullLayer" id="newsDetail_pop26">
 		<h2 class="layerTit">NEWS</h2>
 		<div class="layerCont" tabindex="0" >
 			<div class="board_detail">
@@ -255,6 +258,88 @@ jQuery(window).load(function() {
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- // KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내 -->
+
+	<!-- 신주발행공고 -->
+	<div class="fullLayer" id="newsDetail_pop25">
+		<h2 class="layerTit">NEWS</h2>
+		<div class="layerCont" tabindex="0" >
+			<div class="board_detail">
+				<div class="detailTop">
+					<h3 class="titDep3">신주발행공고</h3>
+					<em class="date">2021.11.24</em>
+				</div>
+				<style type="text/css">
+					#newsDetail_pop25 .tblV + .newscon_box {margin-top:30px;}
+					#newsDetail_pop25 .tblV tbody td .list li {padding-left:9px;text-indent:-9px;}
+				</style>
+				<div class="detailCon">
+					<p>2021년 11월 02일 개최한 당사 이사회에서 코스닥시장 상장을 위하여 당사 정관 제10조 제2항 제8
+						호에 따라 제3자 배정방식의 신주발행을 결의하였기에 상법 제418조 제4항에 의거 아래와 같이
+						공고합니다.</p>
+
+					<table class="tblV">
+						<caption>신주발행공고 정보</caption>
+						<colgroup>
+							<col style="width:130px">
+							<col style="width:auto">
+						</colgroup>
+						<tbody>
+						<tr>
+							<th scope="row">01. 신주의 종류와 수</th>
+							<td>기명식 보통주 20,000,000주</td>
+						</tr>
+						<tr>
+							<th scope="row">02. 신주의 액면가액</th>
+							<td>1주당 500원</td>
+						</tr>
+						<tr>
+							<th scope="row">03. 신주의 발행가액</th>
+							<td>1주당 5,800원 ~ 7,200원(예정) (「증권 인수업무 등에 관한 규정」을 준용한
+								수요예측 결과를 반영하여 당사의 코스닥시장 상장주관회사인 한국투자증권(주)와 협의하여 최종 공모(
+								발행)가액을 결정할 예정임)</td>
+						</tr>
+						<tr>
+							<th scope="row">04. 신주의 인수방법</th>
+							<td>
+								<ul class="list">
+									<li>- 당사 정관 제11조 제2항 제8호에 의거 제3자에게 배정함</li>
+									<li>- 신주모집 주식에 대하여 대표주관회사 및 인수단에 총액인수 및 모집할 것을 위탁하며, 신주모집하는
+									주식은 「증권 인수업무 등에 관한 규정」 제9조(주식의 배정)에 의거하여 배정함</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">05. 신주의 납입(예정)기일</th>
+							<td>2021년 12월 09일(목)</td>
+						</tr>
+						<tr>
+							<th scope="row">06. 무액면주식 발행여부</th>
+							<td>해당사항 없음</td>
+						</tr>
+						<tr>
+							<th scope="row">07. 현물출자 여부</th>
+							<td>해당사항 없음</td>
+						</tr>
+						<tr>
+							<th scope="row">08. 기타사항</th>
+							<td>기타 세부사항은 대표이사에게 위임함</td>
+						</tr>
+						</tbody>
+					</table>
+
+					<div class="newscon_box" style="padding: 15px 25px">
+						<div class="bottomTxt" style="text-align: center">
+							<div><em>2021년 11월 24일</em></div>
+							<strong>케이티비네트워크 주식회사</strong><br>
+							<strong class="ceoTxt" style="margin-top:-10px">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
+						</div>
+					</div><!-- //newscon_box -->
+				</div><!-- //detailCon -->
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 신주발행공고 -->
 
 	<!-- 주식명의개서정지공고 -->
 	<div class="fullLayer" id="newsDetail_pop24">
