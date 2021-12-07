@@ -37,13 +37,25 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
 						<li>
-							<a href="#newsDetail_pop26" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
+							<a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
 						</li>
 						<li>
-							<a href="#newsDetail_pop25" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
+							<a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
 						</li>
 						<li>
-							<a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
+							<a href="#newsDetail_pop28" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
+						</li>
+						<li>
+							<a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
+						</li>
+						<li>
+							<a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
+						</li>
+						<li>
+							<a href="#newsDetail_pop25" role="button" title="상세내용 보기">주식 2차공매 공고<em>2021.07.12</em></a>
+						</li>
+						<li>
+							<a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식 1차공매 공고<em>2021.07.06</em></a>
 						</li>
 						<li>
 						  <a href="#newsDetail_pop23" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.06.21</em></a>
@@ -124,7 +136,7 @@ jQuery(window).load(function() {
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
 	<!-- KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내 -->
-	<div class="fullLayer" id="newsDetail_pop26">
+	<div class="fullLayer" id="newsDetail_pop30">
 		<h2 class="layerTit">NEWS</h2>
 		<div class="layerCont" tabindex="0" >
 			<div class="board_detail">
@@ -260,7 +272,7 @@ jQuery(window).load(function() {
 	<!-- // KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내 -->
 
 	<!-- 신주발행공고 -->
-	<div class="fullLayer" id="newsDetail_pop25">
+	<div class="fullLayer" id="newsDetail_pop29">
 		<h2 class="layerTit">NEWS</h2>
 		<div class="layerCont" tabindex="0" >
 			<div class="board_detail">
@@ -342,7 +354,7 @@ jQuery(window).load(function() {
 	<!-- // 신주발행공고 -->
 
 	<!-- 주식명의개서정지공고 -->
-	<div class="fullLayer" id="newsDetail_pop24">
+	<div class="fullLayer" id="newsDetail_pop28">
 		<h2 class="layerTit">NEWS</h2>
 		<div class="layerCont" tabindex="0" >
 			<div class="board_detail">
@@ -350,7 +362,7 @@ jQuery(window).load(function() {
 					<h3 class="titDep3">주식명의개서정지공고</h3>
 					<em class="date">2021.09.01</em>
 				</div>
-				
+
 				<div class="detailCon">
 					<div class="newscon_box">
 						<h4 class="tit">주식명의개서정지공고</h4>
@@ -371,212 +383,441 @@ jQuery(window).load(function() {
 	</div>
 	<!-- // 주식명의개서정지공고 -->
 
-  <!-- 주식명의개서정지공고 -->
-  <div class="fullLayer" id="newsDetail_pop23">
-    <h2 class="layerTit">NEWS</h2>
-    <div class="layerCont" tabindex="0" >
-      <div class="board_detail">
-        <div class="detailTop">
-          <h3 class="titDep3">주식명의개서정지공고</h3>
-          <em class="date">2021.06.21</em>
-        </div>
+	<!-- 주식 공매 공고 -->
+	<div class="fullLayer" id="newsDetail_pop27">
+		<h2 class="layerTit">NEWS</h2>
+		<div class="layerCont" tabindex="0" >
+			<div class="board_detail">
+				<div class="detailTop">
+					<h3 class="titDep3">주식 공매 공고</h3>
+					<em class="date">2021.07.14</em>
+				</div>
+				<div class="detailCon">
+					<div class="newscon_box">
+						<h4 class="tit">주식 공매 공고</h4>
+						<p class="txt type02">7월 12~14일 진행된 (주)바이텍씨스템 공식 공매의 건은 응찰자가 없어 최종 유찰되었음을 알려드립니다.</p>
+						<div class="bottomTxt">
+							<em>2021년 07월 14일</em>
+							<strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
+						</div>
+					</div><!-- //newscon_box -->
+				</div><!-- //detailCon -->
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 주식 공매 공고 -->
 
-        <div class="detailCon">
-          <div class="newscon_box">
-            <h4 class="tit">주식명의개서정지공고</h4>
-            <p style="text-align: left">임시주주총회를 위해 상법 제 354조 및 당사 정관 제 16조에 의거 2021년 7월 6일 주주명부에 등재되어 있는 주주에게 의결권을 부여하며, 권리주 주의 확정을 위하여 2021년 7월 7일부터 2021년 7월 13일 까지 주식명의개서, 질권등록 및 말소 등 주주명부의 기재사항 변경을 정지하고자 공고합니다.</p>
-            <div class="bottomTxt">
-              <em>2021년 6월 21일</em>
-              <strong>케이티비네트워크 주식회사</strong>
-              <span style="font-size: small">경기도 성남시 분당구 대왕판교로 670(삼평동), 유스페이스 2A동 10층</span>
-              <br>
-              <strong class="ceoTxt">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
-              <strong class="ceoTxt">명의개서대리인 KB국민은행 은행장 <span style="font-weight: bolder">허 인</span></strong>
-            </div>
-          </div><!-- //newscon_box -->
-        </div><!-- //detailCon -->
-      </div>
-    </div>
-    <button type="button" class="layerClose">닫기</button>
-  </div>
-  <!-- // 주식명의개서정지공고 -->
+	<!-- 주식 3차공매 공고 -->
+	<div class="fullLayer" id="newsDetail_pop26">
+		<h2 class="layerTit">NEWS</h2>
+		<div class="layerCont" tabindex="0" >
+			<div class="board_detail">
+				<div class="detailTop">
+					<h3 class="titDep3">주식 3차공매 공고</h3>
+					<em class="date">2021.07.13</em>
+				</div>
+				<style type="text/css">
+					#newsDetail_pop25 .tblV + .newscon_box {margin-top:30px;}
+				</style>
+				<div class="detailCon">
+					<p>당사가 보유한 주식을 아래와 같이 공매처분코자 하오니 관심있는 분들은 응찰하여 주시기 바랍니다.</p>
 
-  <!-- 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
-  <div class="fullLayer" id="newsDetail_pop22">
-    <h2 class="layerTit">NEWS</h2>
-    <div class="layerCont" tabindex="0" >
-      <div class="board_detail">
-        <div class="detailTop">
-          <h3 class="titDep3">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h3>
-          <em class="date">2021.06.09</em>
-        </div>
+					<table class="tblV">
+						<caption>주식 3차공매 공고 정보</caption>
+						<colgroup>
+							<col style="width:130px">
+							<col style="width:auto">
+						</colgroup>
+						<tbody>
+						<tr>
+							<th scope="row">01. 공매대상 주식</th>
+							<td>(주)바이텍씨스템 보통주 1,212,500주</td>
+						</tr>
+						<tr>
+							<th scope="row">02. 최저 입찰가</th>
+							<td>855,908,417원 (2차 최저입찰가의 70%)</td>
+						</tr>
+						<tr>
+							<th scope="row">03. 일시</th>
+							<td>2021년 7월 14일 오전 10시 ~ 오후 5시</td>
+						</tr>
+						<tr>
+							<th scope="row">04. 장소</th>
+							<td>KTB네트워크(주) 본사 회의실</td>
+						</tr>
+						<tr>
+							<th scope="row">05. 입찰방법</th>
+							<td>입찰시 보증금 10% 납부, 주식 인수시 잔금90% 납부<br>(보증금 및 잔금 납부계좌 : kb국민은행, 092337-04-002861)
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">06. 예정</th>
+							<td>본건은 최종 공고이며, 유찰시 공매절차 종료예정</td>
+						</tr>
+						<tr>
+							<th scope="row">07. 담당</th>
+							<td>KTB네트워크(주) 정 도 전무<br>(TEL 031-628-6404)</td>
+						</tr>
+						</tbody>
+					</table>
 
-        <div class="detailCon">
-          <div class="newscon_box">
-            <h4 class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h4>
-            <p style="text-align: left">2019.09.16일 「주식·사채 등의 전자등록에 관한 법률(이하 “전자증권법”)」이 시행됨에 따라 당사의 전자증권 전환 대상 주권 권리자를 보호하기 위하여 전자증권법 부칙 제3조 3항에 근거하여 아래의 사항을 통지합니다.</p>
-            <dl>
-              <dt>1. 전자증권법 시행(2019.09.16) 이후, 당사 전자등록 시행 예정일(2021.07.13) 부터 주주(권리자)가 소유중인 실물증권(전환 대상 주권)은 효력을 잃게 됩니다.</dt>
-              <dd></dd>
-              <dt>2. 따라서, 주주(권리자)는 당사의 전자등록 시행 예정일 3영업일 전(2021.07.08)까지 증권회사 계좌(주식 등이 전자등록되는 전자등록계좌)를 통지하고 소유중인 실물증권(전환 대상 주권)을 제출해야 합니다.</dt>
-              <dd></dd>
-              <dt>3. 증권계좌에 이미 주식을 입고하신 주주님께서는 별도의 조치사항이 없습니다.</dt>
-              <dd></dd>
-            </dl>
-            <p style="text-align: left; font-size: 12px">[참고] 당사(발행인)은 전자등록 시행일 직전 영업일(2021.07.12)의 주주명부에 기재된 권리자를 기준으로 전자등록이 되도록 전자등록기관(한국예탁결제원)에 요청할 예정입니다.</p>
-            <div class="bottomTxt">
-              <em>2021년 06월 09일</em>
-              <strong>케이티비네트워크주식회사<br>대표이사 신진호</strong>
-            </div>
-          </div><!-- //newscon_box -->
-        </div><!-- //detailCon -->
-      </div>
-    </div>
-    <button type="button" class="layerClose">닫기</button>
-  </div>
-  <!-- // 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
+					<div class="newscon_box" style="padding: 15px 25px">
+						<div class="bottomTxt" style="text-align: center">
+							<div><em>2021년 07월 13일</em></div>
+							<strong>케이티비네트워크 주식회사</strong><br>
+							<strong class="ceoTxt" style="margin-top:-10px">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
+						</div>
+					</div><!-- //newscon_box -->
+				</div><!-- //detailCon -->
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 주식 3차공매 공고 -->
 
-  <!-- 제13기 결산공고 -->
-  <div class="fullLayer" id="newsDetail_pop21">
-    <h2 class="layerTit">NEWS</h2>
-    <div class="layerCont" tabindex="0" >
-      <div class="board_detail">
-        <div class="detailTop">
-          <h3 class="titDep3">제13기 결산공고</h3>
-          <em class="date">2021.03.19</em>
-        </div>
-        <div class="detailCon">
+	<!-- 주식 2차공매 공고 -->
+	<div class="fullLayer" id="newsDetail_pop25">
+		<h2 class="layerTit">NEWS</h2>
+		<div class="layerCont" tabindex="0" >
+			<div class="board_detail">
+				<div class="detailTop">
+					<h3 class="titDep3">주식 2차공매 공고</h3>
+					<em class="date">2021.07.12</em>
+				</div>
+				<style type="text/css">
+					#newsDetail_pop25 .tblV + .newscon_box {margin-top:30px;}
+				</style>
+				<div class="detailCon">
+					<p>당사가 보유한 주식을 아래와 같이 공매처분코자 하오니 관심있는 분들은 응찰하여 주시기 바랍니다.</p>
 
-          <table class="tblH">
-            <caption>제13기 결산공고</caption>
-            <colgroup><col style="width:50%" span="2"></colgroup>
-            <thead>
-            <tr>
-              <th scope="col">계정과목</th>
-              <th scope="col">금액</th>
-            </tr>
-            </thead>
-            <tfoot>
-            <tr><th scope="row" class="tleft">자산총계</th>
-              <td class="tright">185,827,068,972</td>
-            </tr></tfoot>
-            <tbody>
-            <tr>
-              <td class="tleft"><strong class="color01">자산</strong></td>
-              <td class="tright">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅰ. 유동자산</strong></td>
-              <td>&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="tleft">1. 현금 및 현금성자산</td>
-              <td class="tright">1,984,588,110</td>
-            </tr>
-            <tr>
-              <td class="tleft">2. 단기금융상품</td>
-              <td class="tright">25,000,000,000</td>
-            </tr>
-            <tr>
-              <td class="tleft">3. 기타의 유동자산</td>
-              <td class="tright">5,945,135,966</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅱ. 창업투자자산</strong></td>
-              <td>&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="tleft">1. 투자실적자산</td>
-              <td class="tright">128,007,233,764</td>
-            </tr>
-            <tr>
-              <td class="tleft">2. 경영지원자산</td>
-              <td class="tright">5,745,283,066</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅲ. 비유동자산</strong></td>
-              <td class="tright">19,144,828,066</td>
-            </tr>
-            </tbody>
-          </table>
+					<table class="tblV">
+						<caption>주식 2차공매 공고 정보</caption>
+						<colgroup>
+							<col style="width:130px">
+							<col style="width:auto">
+						</colgroup>
+						<tbody>
+						<tr>
+							<th scope="row">01. 공매대상 주식</th>
+							<td>(주)바이텍씨스템 보통주 1,212,500주</td>
+						</tr>
+						<tr>
+							<th scope="row">02. 최저 입찰가</th>
+							<td>1,222,726,310원 (1차 최저입찰가의 70%)</td>
+						</tr>
+						<tr>
+							<th scope="row">03. 일시</th>
+							<td>2021년 7월 13일 오전 10시 ~ 오후 5시</td>
+						</tr>
+						<tr>
+							<th scope="row">04. 장소</th>
+							<td>KTB네트워크(주) 본사 회의실</td>
+						</tr>
+						<tr>
+							<th scope="row">05. 입찰방법</th>
+							<td>입찰시 보증금 10% 납부, 주식 인수시 잔금90% 납부<br>(보증금 및 잔금 납부계좌 : kb국민은행, 092337-04-002861)
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">06. 예정</th>
+							<td>본건 유찰시 3차공매 공고예정<br>(공고예정일 2021년 7월13일 오후 6시경)</td>
+						</tr>
+						<tr>
+							<th scope="row">07. 담당</th>
+							<td>KTB네트워크(주) 정 도 전무<br>(TEL 031-628-6404)</td>
+						</tr>
+						</tbody>
+					</table>
 
-          <table class="tblH">
-            <caption>제12기 결산공고</caption>
-            <colgroup><col style="width:50%" span="2"></colgroup>
-            <thead>
-            <tr>
-              <th scope="col">계정과목</th>
-              <th scope="col">금액</th>
-            </tr>
-            </thead>
-            <tfoot>
-            <tr><th scope="row" class="tleft">부채 및 자본총계</th>
-              <td class="tright">185,827,068,972</td>
-            </tr></tfoot>
-            <tbody>
-            <tr>
-              <td class="tleft"><strong class="color01">부채</strong></td>
-              <td class="tright">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅰ. 유동부채</strong></td>
-              <td class="tright">31,397,480,192</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅱ. 비유동부채</strong></td>
-              <td class="tright">2,382,721,165</td>
-            </tr>
-            <tr class="foot">
-              <td class="tleft">부채총계</td>
-              <td class="tright">33,780,201,357</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color01">자본</strong></td>
-              <td class="tright">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅰ. 자본금</strong></td>
-              <td class="tright">40,000,000,000</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅱ. 기타불입자본</strong></td>
-              <td class="tright">42,553,032,105</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅲ. 이익잉여금</strong></td>
-              <td class="tright">69,513,320,735</td>
-            </tr>
-            <tr>
-              <td class="tleft"><strong class="color02">Ⅳ. 기타자본구성요소</strong></td>
-              <td class="tright">(19,485,225)</td>
-            </tr>
-            <tr class="foot">
-              <td class="tleft">자본총계</td>
-              <td class="tright">152,046,867,615</td>
-            </tr>
-            </tbody>
-          </table>
+					<div class="newscon_box" style="padding: 15px 25px">
+						<div class="bottomTxt" style="text-align: center">
+							<div><em>2021년 07월 12일</em></div>
+							<strong>케이티비네트워크 주식회사</strong><br>
+							<strong class="ceoTxt" style="margin-top:-10px">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
+						</div>
+					</div><!-- //newscon_box -->
+				</div><!-- //detailCon -->
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 주식 2차공매 공고 -->
 
-          <div class="newscon_box">
-            <p class="txt">위와 같이 공고합니다.</p>
-            <div class="bottomTxt">
-              <em>2021년 03월 19일</em>
-              <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
-            </div>
-          </div><!-- //newscon_box -->
+	<!-- 주식 1차공매 공고 -->
+	<div class="fullLayer" id="newsDetail_pop24">
+		<h2 class="layerTit">NEWS</h2>
+		<div class="layerCont" tabindex="0" >
+			<div class="board_detail">
+				<div class="detailTop">
+					<h3 class="titDep3">주식 1차공매 공고</h3>
+					<em class="date">2021.07.06</em>
+				</div>
+				<style type="text/css">
+					#newsDetail_pop25 .tblV + .newscon_box {margin-top:30px;}
+				</style>
+				<div class="detailCon">
+					<p>당사가 보유한 주식을 아래와 같이 공매처분코자 하오니 관심있는 분들은 응찰하여 주시기 바랍니다.</p>
 
-          <p class="opinionTxt">
-            [감사의견] 회사의 재무제표는 2020년 12월 31일 현재의 재무상태와 동일로 종료되는 보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라, 중요성의 관점에서 공정하게 표시하고 있습니다.
-            <em>삼정회계법인 대표이사 김교태</em>
-          </p>
-          <!--  // .opinionTxt -->
+					<table class="tblV">
+						<caption>주식 1차공매 공고 정보</caption>
+						<colgroup>
+							<col style="width:130px">
+							<col style="width:auto">
+						</colgroup>
+						<tbody>
+						<tr>
+							<th scope="row">01. 공매대상 주식</th>
+							<td>(주)바이텍씨스템 보통주 1,212,500주</td>
+						</tr>
+						<tr>
+							<th scope="row">02. 최저 입찰가</th>
+							<td>1,746,751,871원 (상증법상 주당가치 1,440,6201원 반영)</td>
+						</tr>
+						<tr>
+							<th scope="row">03. 일시</th>
+							<td>2021년 7월 12일 오전 10시 ~ 오후 5시</td>
+						</tr>
+						<tr>
+							<th scope="row">04. 장소</th>
+							<td>KTB네트워크(주) 본사 회의실</td>
+						</tr>
+						<tr>
+							<th scope="row">05. 입찰방법</th>
+							<td>입찰시 보증금 10% 납부, 주식 인수시 잔금90% 납부<br>(보증금 및 잔금 납부계좌 : kb국민은행, 092337-04-002861)
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">06. 예정</th>
+							<td>본건 유찰시 2차공매 공고예정<br>(공고예정일 2021년 7월12일 오후 6시경)</td>
+						</tr>
+						<tr>
+							<th scope="row">07. 담당</th>
+							<td>KTB네트워크(주) 정 도 전무<br>(TEL 031-628-6404)</td>
+						</tr>
+						</tbody>
+					</table>
 
-        </div><!-- //detailCon -->
-      </div>
-    </div>
-    <button type="button" class="layerClose">닫기</button>
-  </div>
-  <!-- // 제13기 결산공고 -->
+					<div class="newscon_box" style="padding: 15px 25px">
+						<div class="bottomTxt" style="text-align: center">
+							<div><em>2021년 07월 06일</em></div>
+							<strong>케이티비네트워크 주식회사</strong><br>
+							<strong class="ceoTxt" style="margin-top:-10px">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
+						</div>
+					</div><!-- //newscon_box -->
+				</div><!-- //detailCon -->
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 주식 1차공매 공고 -->
+
+	<!-- 주식명의개서정지공고 -->
+	<div class="fullLayer" id="newsDetail_pop23">
+	<h2 class="layerTit">NEWS</h2>
+	<div class="layerCont" tabindex="0" >
+	<div class="board_detail">
+	<div class="detailTop">
+	  <h3 class="titDep3">주식명의개서정지공고</h3>
+	  <em class="date">2021.06.21</em>
+	</div>
+
+	<div class="detailCon">
+	  <div class="newscon_box">
+		<h4 class="tit">주식명의개서정지공고</h4>
+		<p style="text-align: left">임시주주총회를 위해 상법 제 354조 및 당사 정관 제 16조에 의거 2021년 7월 6일 주주명부에 등재되어 있는 주주에게 의결권을 부여하며, 권리주 주의 확정을 위하여 2021년 7월 7일부터 2021년 7월 13일 까지 주식명의개서, 질권등록 및 말소 등 주주명부의 기재사항 변경을 정지하고자 공고합니다.</p>
+		<div class="bottomTxt">
+		  <em>2021년 6월 21일</em>
+		  <strong>케이티비네트워크 주식회사</strong>
+		  <span style="font-size: small">경기도 성남시 분당구 대왕판교로 670(삼평동), 유스페이스 2A동 10층</span>
+		  <br>
+		  <strong class="ceoTxt">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
+		  <strong class="ceoTxt">명의개서대리인 KB국민은행 은행장 <span style="font-weight: bolder">허 인</span></strong>
+		</div>
+	  </div><!-- //newscon_box -->
+	</div><!-- //detailCon -->
+	</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 주식명의개서정지공고 -->
+
+	<!-- 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
+	<div class="fullLayer" id="newsDetail_pop22">
+	<h2 class="layerTit">NEWS</h2>
+	<div class="layerCont" tabindex="0" >
+	<div class="board_detail">
+	<div class="detailTop">
+	  <h3 class="titDep3">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h3>
+	  <em class="date">2021.06.09</em>
+	</div>
+
+	<div class="detailCon">
+	  <div class="newscon_box">
+		<h4 class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h4>
+		<p style="text-align: left">2019.09.16일 「주식·사채 등의 전자등록에 관한 법률(이하 “전자증권법”)」이 시행됨에 따라 당사의 전자증권 전환 대상 주권 권리자를 보호하기 위하여 전자증권법 부칙 제3조 3항에 근거하여 아래의 사항을 통지합니다.</p>
+		<dl>
+		  <dt>1. 전자증권법 시행(2019.09.16) 이후, 당사 전자등록 시행 예정일(2021.07.13) 부터 주주(권리자)가 소유중인 실물증권(전환 대상 주권)은 효력을 잃게 됩니다.</dt>
+		  <dd></dd>
+		  <dt>2. 따라서, 주주(권리자)는 당사의 전자등록 시행 예정일 3영업일 전(2021.07.08)까지 증권회사 계좌(주식 등이 전자등록되는 전자등록계좌)를 통지하고 소유중인 실물증권(전환 대상 주권)을 제출해야 합니다.</dt>
+		  <dd></dd>
+		  <dt>3. 증권계좌에 이미 주식을 입고하신 주주님께서는 별도의 조치사항이 없습니다.</dt>
+		  <dd></dd>
+		</dl>
+		<p style="text-align: left; font-size: 12px">[참고] 당사(발행인)은 전자등록 시행일 직전 영업일(2021.07.12)의 주주명부에 기재된 권리자를 기준으로 전자등록이 되도록 전자등록기관(한국예탁결제원)에 요청할 예정입니다.</p>
+		<div class="bottomTxt">
+		  <em>2021년 06월 09일</em>
+		  <strong>케이티비네트워크주식회사<br>대표이사 신진호</strong>
+		</div>
+	  </div><!-- //newscon_box -->
+	</div><!-- //detailCon -->
+	</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
+
+	<!-- 제13기 결산공고 -->
+	<div class="fullLayer" id="newsDetail_pop21">
+	<h2 class="layerTit">NEWS</h2>
+	<div class="layerCont" tabindex="0" >
+	<div class="board_detail">
+	<div class="detailTop">
+	  <h3 class="titDep3">제13기 결산공고</h3>
+	  <em class="date">2021.03.19</em>
+	</div>
+	<div class="detailCon">
+
+	  <table class="tblH">
+		<caption>제13기 결산공고</caption>
+		<colgroup><col style="width:50%" span="2"></colgroup>
+		<thead>
+		<tr>
+		  <th scope="col">계정과목</th>
+		  <th scope="col">금액</th>
+		</tr>
+		</thead>
+		<tfoot>
+		<tr><th scope="row" class="tleft">자산총계</th>
+		  <td class="tright">185,827,068,972</td>
+		</tr></tfoot>
+		<tbody>
+		<tr>
+		  <td class="tleft"><strong class="color01">자산</strong></td>
+		  <td class="tright">&nbsp;</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅰ. 유동자산</strong></td>
+		  <td>&nbsp;</td>
+		</tr>
+		<tr>
+		  <td class="tleft">1. 현금 및 현금성자산</td>
+		  <td class="tright">1,984,588,110</td>
+		</tr>
+		<tr>
+		  <td class="tleft">2. 단기금융상품</td>
+		  <td class="tright">25,000,000,000</td>
+		</tr>
+		<tr>
+		  <td class="tleft">3. 기타의 유동자산</td>
+		  <td class="tright">5,945,135,966</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅱ. 창업투자자산</strong></td>
+		  <td>&nbsp;</td>
+		</tr>
+		<tr>
+		  <td class="tleft">1. 투자실적자산</td>
+		  <td class="tright">128,007,233,764</td>
+		</tr>
+		<tr>
+		  <td class="tleft">2. 경영지원자산</td>
+		  <td class="tright">5,745,283,066</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅲ. 비유동자산</strong></td>
+		  <td class="tright">19,144,828,066</td>
+		</tr>
+		</tbody>
+	  </table>
+
+	  <table class="tblH">
+		<caption>제12기 결산공고</caption>
+		<colgroup><col style="width:50%" span="2"></colgroup>
+		<thead>
+		<tr>
+		  <th scope="col">계정과목</th>
+		  <th scope="col">금액</th>
+		</tr>
+		</thead>
+		<tfoot>
+		<tr><th scope="row" class="tleft">부채 및 자본총계</th>
+		  <td class="tright">185,827,068,972</td>
+		</tr></tfoot>
+		<tbody>
+		<tr>
+		  <td class="tleft"><strong class="color01">부채</strong></td>
+		  <td class="tright">&nbsp;</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅰ. 유동부채</strong></td>
+		  <td class="tright">31,397,480,192</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅱ. 비유동부채</strong></td>
+		  <td class="tright">2,382,721,165</td>
+		</tr>
+		<tr class="foot">
+		  <td class="tleft">부채총계</td>
+		  <td class="tright">33,780,201,357</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color01">자본</strong></td>
+		  <td class="tright">&nbsp;</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅰ. 자본금</strong></td>
+		  <td class="tright">40,000,000,000</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅱ. 기타불입자본</strong></td>
+		  <td class="tright">42,553,032,105</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅲ. 이익잉여금</strong></td>
+		  <td class="tright">69,513,320,735</td>
+		</tr>
+		<tr>
+		  <td class="tleft"><strong class="color02">Ⅳ. 기타자본구성요소</strong></td>
+		  <td class="tright">(19,485,225)</td>
+		</tr>
+		<tr class="foot">
+		  <td class="tleft">자본총계</td>
+		  <td class="tright">152,046,867,615</td>
+		</tr>
+		</tbody>
+	  </table>
+
+	  <div class="newscon_box">
+		<p class="txt">위와 같이 공고합니다.</p>
+		<div class="bottomTxt">
+		  <em>2021년 03월 19일</em>
+		  <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
+		</div>
+	  </div><!-- //newscon_box -->
+
+	  <p class="opinionTxt">
+		[감사의견] 회사의 재무제표는 2020년 12월 31일 현재의 재무상태와 동일로 종료되는 보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라, 중요성의 관점에서 공정하게 표시하고 있습니다.
+		<em>삼정회계법인 대표이사 김교태</em>
+	  </p>
+	  <!--  // .opinionTxt -->
+
+	</div><!-- //detailCon -->
+	</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 제13기 결산공고 -->
 
 	<!-- 제12기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop20">

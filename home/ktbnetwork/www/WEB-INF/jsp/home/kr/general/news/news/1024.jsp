@@ -15,27 +15,57 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">주식명의개서정지공고</strong>
+          <strong class="tit">주식 1차공매 공고</strong>
           <div class="con">
-            <span class="date">2021.09.01</span>
+            <span class="date">2021.07.06</span>
           </div>
         </div>
         <div class="viewCon">
-          <dl class="noticeBox">
-            <dt>주식명의개서정지공고</dt>
-            <dd>
-              <p>임시주주총회를 위해 상법 제 354조 및 당사 정관 제 16조에 의거 2021년 9월 16일 주주명부에 등재되어 있는 주주에게 의결권을 부여하며, 권리주 주의 확정을 위하여 2021년 9월 17일부터 2021년 9월 28일 까지 주식명의개서, 질권등록 및 말소 등 주주명부의 기재사항 변경을 정지하고자 공고합니다.</p>
-              <br>
-              <div class="tcenter mtS">
-                <span class="dateTxt">2021년 9월 1일</span>
-                <strong class="ceoTxt">케이티비네트워크 주식회사</strong><br>
-                <p>경기도 성남시 분당구 대왕판교로 670(삼평동), 유스페이스 2A동 10층</p>
-                <br>
-                <strong class="ceoTxt">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong><br>
-                <strong class="ceoTxt">명의개서대리인 KB국민은행 은행장 <span style="font-weight: bolder">허 인</span></strong>
-              </div>
-            </dd>
-          </dl>
+          <p>당사가 보유한 주식을 아래와 같이 공매처분코자 하오니 관심있는 분들은 응찰하여 주시기 바랍니다.</p>
+
+          <table class="tblV">
+            <caption>주식 1차공매 공고 정보</caption>
+            <colgroup>
+              <col style="width:25%;">
+              <col style="width:75%;">
+            </colgroup>
+            <tbody>
+            <tr>
+              <th scope="row">01. 공매대상 주식</th>
+              <td>(주)바이텍씨스템 보통주 1,212,500주</td>
+            </tr>
+            <tr>
+              <th scope="row">02. 최저 입찰가</th>
+              <td>1,746,751,871원 (상증법상 주당가치 1,440,6201원 반영)</td>
+            </tr>
+            <tr>
+              <th scope="row">03. 일시</th>
+              <td>2021년 7월 12일 오전 10시 ~ 오후 5시</td>
+            </tr>
+            <tr>
+              <th scope="row">04. 장소</th>
+              <td>KTB네트워크(주) 본사 회의실</td>
+            </tr>
+            <tr>
+              <th scope="row">05. 입찰방법</th>
+              <td>입찰시 보증금 10% 납부, 주식 인수시 잔금90% 납부<br>(보증금 및 잔금 납부계좌 : kb국민은행, 092337-04-002861)</td>
+            </tr>
+            <tr>
+              <th scope="row">06. 예정</th>
+              <td>본건 유찰시 2차공매 공고예정<br>(공고예정일 2021년 7월12일 오후 6시경)</td>
+            </tr>
+            <tr>
+              <th scope="row">07. 담당</th>
+              <td>KTB네트워크(주) 정 도 전무<br>(TEL 031-628-6404)</td>
+            </tr>
+            </tbody>
+          </table>
+
+          <div class="noticeBox">
+            <span class="dateTxt">2021년 7월 6일</span>
+            <strong class="ceoTxt">케이티비네트워크 주식회사</strong><br>
+            <strong class="ceoTxt">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong><br>
+          </div>
         </div>
       </div>
       <ul class="baordIndex">

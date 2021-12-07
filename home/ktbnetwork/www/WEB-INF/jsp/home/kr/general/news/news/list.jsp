@@ -16,41 +16,65 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
-								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=26">
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=30">
 									<strong class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</strong>
 									<div class="con"><span class="date">2021.12.03</span></div>
 								</a>
 							</li>
 							<li>
-								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=25">
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=29">
 									<strong class="tit">신주발행공고</strong>
 									<div class="con"><span class="date">2021.11.24</span></div>
 								</a>
 							</li>
 							<li>
-								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=24">
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=28">
 									<strong class="tit">주식명의개서정지공고</strong>
 									<div class="con"><span class="date">2021.09.01</span></div>
 								</a>
 							</li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=23">
-                  <strong class="tit">주식명의개서정지공고</strong>
-                  <div class="con"><span class="date">2021.06.21</span></div>
-                </a>
-              </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=22">
-                  <strong class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</strong>
-                  <div class="con"><span class="date">2021.06.09</span></div>
-                </a>
-              </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=21">
-                  <strong class="tit">제 13기 결산공고</strong>
-                  <div class="con"><span class="date">2021.03.19</span></div>
-                </a>
-              </li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=27">
+									<strong class="tit">주식 공매 공고</strong>
+									<div class="con"><span class="date">2021.07.14</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=26">
+									<strong class="tit">주식 3차공매 공고</strong>
+									<div class="con"><span class="date">2021.07.13</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=25">
+									<strong class="tit">주식 2차공매 공고</strong>
+									<div class="con"><span class="date">2021.07.12</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=24">
+									<strong class="tit">주식 1차공매 공고</strong>
+									<div class="con"><span class="date">2021.07.06</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=23">
+								  <strong class="tit">주식명의개서정지공고</strong>
+								  <div class="con"><span class="date">2021.06.21</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=22">
+								  <strong class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</strong>
+								  <div class="con"><span class="date">2021.06.09</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=21">
+								  <strong class="tit">제 13기 결산공고</strong>
+								  <div class="con"><span class="date">2021.03.19</span></div>
+								</a>
+							</li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=20">
 									<strong class="tit">제 12기 결산공고</strong>
