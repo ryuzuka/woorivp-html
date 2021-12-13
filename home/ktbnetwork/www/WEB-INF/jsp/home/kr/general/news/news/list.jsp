@@ -59,22 +59,25 @@
 							</li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=23">
-								  <strong class="tit">주식명의개서정지공고</strong>
-								  <div class="con"><span class="date">2021.06.21</span></div>
+									<strong class="tit">주식명의개서정지공고</strong>
+									<div class="con"><span class="date">2021.06.21</span></div>
 								</a>
 							</li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=22">
-								  <strong class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</strong>
-								  <div class="con"><span class="date">2021.06.09</span></div>
+									<strong class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</strong>
+									<div class="con"><span class="date">2021.06.09</span></div>
 								</a>
 							</li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=21">
-								  <strong class="tit">제 13기 결산공고</strong>
-								  <div class="con"><span class="date">2021.03.19</span></div>
+									<strong class="tit">제 13기 결산공고</strong>
+									<div class="con"><span class="date">2021.03.19</span></div>
 								</a>
 							</li>
+						</c:if>
+						
+						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=20">
 									<strong class="tit">제 12기 결산공고</strong>
@@ -123,21 +126,21 @@
 									<div class="con"><span class="date">2016.02.24</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2'}">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=8">
 									<strong class="tit">제 7기 결산공고</strong>
 									<div class="con"><span class="date">2015.03.20</span></div>
 								</a>
 							</li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=9">
-                  <strong class="tit">제 6기 결산공고</strong>
-                  <div class="con"><span class="date">2014.03.17</span></div>
-                </a>
-              </li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=9">
+									<strong class="tit">제 6기 결산공고</strong>
+									<div class="con"><span class="date">2014.03.17</span></div>
+								</a>
+							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3'}">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=10">
 									<strong class="tit">미크론정공(주) 주식 공매 공고</strong>
@@ -202,15 +205,55 @@
 					</ul>
 					<div class="paginate">
 						<a href="/home/news/news/list.do?page=1" class="arrow first">처음페이지로 이동</a>
-						<a href="/home/news/news/list.do?page=1" class="arrow prev">이전페이지로 이동</a>
+						<a href="#" class="arrow prev">이전페이지로 이동</a>
 						<span class="num">
 							<a href="/home/news/news/list.do?page=1" <c:if test="${vo.page eq '1'}">class="on"</c:if>>1</a>
 							<a href="/home/news/news/list.do?page=2" <c:if test="${vo.page eq '2'}">class="on"</c:if>>2</a>
+							<a href="/home/news/news/list.do?page=3" <c:if test="${vo.page eq '3'}">class="on"</c:if>>3</a>
 						</span>
-						<a href="/home/news/news/list.do?page=2" class="arrow next">다음페이지로 이동</a>
-						<a href="/home/news/news/list.do?page=2" class="arrow end">마지막페이지로 이동</a>
+						<a href="#" class="arrow next">다음페이지로 이동</a>
+						<a href="/home/news/news/list.do?page=3" class="arrow end">마지막페이지로 이동</a>
 					</div>
 				</div>
 			</div>
 		</section>
+
+		<script>
+			$(function () {
+        let $paging = $('.paginate')
+				
+				let pIdx = 0
+        let pagingIndex = 0
+				let pagingLength = 0
+				
+				$paging.find('.num a').each(function (index) {
+          if ($(this).hasClass('on')) {
+            pIdx = index + 1
+            pagingIndex = index + 1
+          }
+          pagingLength = index + 1
+				})
+				
+				$paging.find('.prev, .next').on('click', function (e) {
+          let $arrow =$(this)
+          if ($arrow.hasClass('prev')) {
+            pagingIndex--;
+            if (pagingIndex < 1) {
+              pagingIndex = 1
+            }
+          } else if ($arrow.hasClass('next')) {
+            pagingIndex++;
+            if (pagingIndex > pagingLength) {
+              pagingIndex = pagingLength
+            }
+          }
+          
+          if (pagingIndex === pIdx) {
+            return false
+          } else {
+            window.location.href = '/home/news/news/list.do?page=' + pagingIndex
+          }
+				})
+			})
+		</script>
 </form>

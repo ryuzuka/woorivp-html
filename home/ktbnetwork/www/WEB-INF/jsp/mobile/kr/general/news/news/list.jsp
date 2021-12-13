@@ -644,178 +644,178 @@ jQuery(window).load(function() {
 
 	<!-- 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
 	<div class="fullLayer" id="newsDetail_pop22">
-	<h2 class="layerTit">NEWS</h2>
-	<div class="layerCont" tabindex="0" >
-	<div class="board_detail">
-	<div class="detailTop">
-	  <h3 class="titDep3">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h3>
-	  <em class="date">2021.06.09</em>
-	</div>
-
-	<div class="detailCon">
-	  <div class="newscon_box">
-		<h4 class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h4>
-		<p style="text-align: left">2019.09.16일 「주식·사채 등의 전자등록에 관한 법률(이하 “전자증권법”)」이 시행됨에 따라 당사의 전자증권 전환 대상 주권 권리자를 보호하기 위하여 전자증권법 부칙 제3조 3항에 근거하여 아래의 사항을 통지합니다.</p>
-		<dl>
-		  <dt>1. 전자증권법 시행(2019.09.16) 이후, 당사 전자등록 시행 예정일(2021.07.13) 부터 주주(권리자)가 소유중인 실물증권(전환 대상 주권)은 효력을 잃게 됩니다.</dt>
-		  <dd></dd>
-		  <dt>2. 따라서, 주주(권리자)는 당사의 전자등록 시행 예정일 3영업일 전(2021.07.08)까지 증권회사 계좌(주식 등이 전자등록되는 전자등록계좌)를 통지하고 소유중인 실물증권(전환 대상 주권)을 제출해야 합니다.</dt>
-		  <dd></dd>
-		  <dt>3. 증권계좌에 이미 주식을 입고하신 주주님께서는 별도의 조치사항이 없습니다.</dt>
-		  <dd></dd>
-		</dl>
-		<p style="text-align: left; font-size: 12px">[참고] 당사(발행인)은 전자등록 시행일 직전 영업일(2021.07.12)의 주주명부에 기재된 권리자를 기준으로 전자등록이 되도록 전자등록기관(한국예탁결제원)에 요청할 예정입니다.</p>
-		<div class="bottomTxt">
-		  <em>2021년 06월 09일</em>
-		  <strong>케이티비네트워크주식회사<br>대표이사 신진호</strong>
+		<h2 class="layerTit">NEWS</h2>
+		<div class="layerCont" tabindex="0" >
+		<div class="board_detail">
+		<div class="detailTop">
+		  <h3 class="titDep3">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h3>
+		  <em class="date">2021.06.09</em>
 		</div>
-	  </div><!-- //newscon_box -->
-	</div><!-- //detailCon -->
-	</div>
-	</div>
-	<button type="button" class="layerClose">닫기</button>
+	
+		<div class="detailCon">
+		  <div class="newscon_box">
+			<h4 class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h4>
+			<p style="text-align: left">2019.09.16일 「주식·사채 등의 전자등록에 관한 법률(이하 “전자증권법”)」이 시행됨에 따라 당사의 전자증권 전환 대상 주권 권리자를 보호하기 위하여 전자증권법 부칙 제3조 3항에 근거하여 아래의 사항을 통지합니다.</p>
+			<dl>
+			  <dt>1. 전자증권법 시행(2019.09.16) 이후, 당사 전자등록 시행 예정일(2021.07.13) 부터 주주(권리자)가 소유중인 실물증권(전환 대상 주권)은 효력을 잃게 됩니다.</dt>
+			  <dd></dd>
+			  <dt>2. 따라서, 주주(권리자)는 당사의 전자등록 시행 예정일 3영업일 전(2021.07.08)까지 증권회사 계좌(주식 등이 전자등록되는 전자등록계좌)를 통지하고 소유중인 실물증권(전환 대상 주권)을 제출해야 합니다.</dt>
+			  <dd></dd>
+			  <dt>3. 증권계좌에 이미 주식을 입고하신 주주님께서는 별도의 조치사항이 없습니다.</dt>
+			  <dd></dd>
+			</dl>
+			<p style="text-align: left; font-size: 12px">[참고] 당사(발행인)은 전자등록 시행일 직전 영업일(2021.07.12)의 주주명부에 기재된 권리자를 기준으로 전자등록이 되도록 전자등록기관(한국예탁결제원)에 요청할 예정입니다.</p>
+			<div class="bottomTxt">
+			  <em>2021년 06월 09일</em>
+			  <strong>케이티비네트워크주식회사<br>대표이사 신진호</strong>
+			</div>
+		  </div><!-- //newscon_box -->
+		</div><!-- //detailCon -->
+		</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- // 전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내 -->
 
 	<!-- 제13기 결산공고 -->
 	<div class="fullLayer" id="newsDetail_pop21">
-	<h2 class="layerTit">NEWS</h2>
-	<div class="layerCont" tabindex="0" >
-	<div class="board_detail">
-	<div class="detailTop">
-	  <h3 class="titDep3">제13기 결산공고</h3>
-	  <em class="date">2021.03.19</em>
-	</div>
-	<div class="detailCon">
-
-	  <table class="tblH">
-		<caption>제13기 결산공고</caption>
-		<colgroup><col style="width:50%" span="2"></colgroup>
-		<thead>
-		<tr>
-		  <th scope="col">계정과목</th>
-		  <th scope="col">금액</th>
-		</tr>
-		</thead>
-		<tfoot>
-		<tr><th scope="row" class="tleft">자산총계</th>
-		  <td class="tright">185,827,068,972</td>
-		</tr></tfoot>
-		<tbody>
-		<tr>
-		  <td class="tleft"><strong class="color01">자산</strong></td>
-		  <td class="tright">&nbsp;</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅰ. 유동자산</strong></td>
-		  <td>&nbsp;</td>
-		</tr>
-		<tr>
-		  <td class="tleft">1. 현금 및 현금성자산</td>
-		  <td class="tright">1,984,588,110</td>
-		</tr>
-		<tr>
-		  <td class="tleft">2. 단기금융상품</td>
-		  <td class="tright">25,000,000,000</td>
-		</tr>
-		<tr>
-		  <td class="tleft">3. 기타의 유동자산</td>
-		  <td class="tright">5,945,135,966</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅱ. 창업투자자산</strong></td>
-		  <td>&nbsp;</td>
-		</tr>
-		<tr>
-		  <td class="tleft">1. 투자실적자산</td>
-		  <td class="tright">128,007,233,764</td>
-		</tr>
-		<tr>
-		  <td class="tleft">2. 경영지원자산</td>
-		  <td class="tright">5,745,283,066</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅲ. 비유동자산</strong></td>
-		  <td class="tright">19,144,828,066</td>
-		</tr>
-		</tbody>
-	  </table>
-
-	  <table class="tblH">
-		<caption>제12기 결산공고</caption>
-		<colgroup><col style="width:50%" span="2"></colgroup>
-		<thead>
-		<tr>
-		  <th scope="col">계정과목</th>
-		  <th scope="col">금액</th>
-		</tr>
-		</thead>
-		<tfoot>
-		<tr><th scope="row" class="tleft">부채 및 자본총계</th>
-		  <td class="tright">185,827,068,972</td>
-		</tr></tfoot>
-		<tbody>
-		<tr>
-		  <td class="tleft"><strong class="color01">부채</strong></td>
-		  <td class="tright">&nbsp;</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅰ. 유동부채</strong></td>
-		  <td class="tright">31,397,480,192</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅱ. 비유동부채</strong></td>
-		  <td class="tright">2,382,721,165</td>
-		</tr>
-		<tr class="foot">
-		  <td class="tleft">부채총계</td>
-		  <td class="tright">33,780,201,357</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color01">자본</strong></td>
-		  <td class="tright">&nbsp;</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅰ. 자본금</strong></td>
-		  <td class="tright">40,000,000,000</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅱ. 기타불입자본</strong></td>
-		  <td class="tright">42,553,032,105</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅲ. 이익잉여금</strong></td>
-		  <td class="tright">69,513,320,735</td>
-		</tr>
-		<tr>
-		  <td class="tleft"><strong class="color02">Ⅳ. 기타자본구성요소</strong></td>
-		  <td class="tright">(19,485,225)</td>
-		</tr>
-		<tr class="foot">
-		  <td class="tleft">자본총계</td>
-		  <td class="tright">152,046,867,615</td>
-		</tr>
-		</tbody>
-	  </table>
-
-	  <div class="newscon_box">
-		<p class="txt">위와 같이 공고합니다.</p>
-		<div class="bottomTxt">
-		  <em>2021년 03월 19일</em>
-		  <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
+		<h2 class="layerTit">NEWS</h2>
+		<div class="layerCont" tabindex="0" >
+		<div class="board_detail">
+		<div class="detailTop">
+		  <h3 class="titDep3">제13기 결산공고</h3>
+		  <em class="date">2021.03.19</em>
 		</div>
-	  </div><!-- //newscon_box -->
-
-	  <p class="opinionTxt">
-		[감사의견] 회사의 재무제표는 2020년 12월 31일 현재의 재무상태와 동일로 종료되는 보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라, 중요성의 관점에서 공정하게 표시하고 있습니다.
-		<em>삼정회계법인 대표이사 김교태</em>
-	  </p>
-	  <!--  // .opinionTxt -->
-
-	</div><!-- //detailCon -->
-	</div>
-	</div>
-	<button type="button" class="layerClose">닫기</button>
+		<div class="detailCon">
+	
+		  <table class="tblH">
+			<caption>제13기 결산공고</caption>
+			<colgroup><col style="width:50%" span="2"></colgroup>
+			<thead>
+			<tr>
+			  <th scope="col">계정과목</th>
+			  <th scope="col">금액</th>
+			</tr>
+			</thead>
+			<tfoot>
+			<tr><th scope="row" class="tleft">자산총계</th>
+			  <td class="tright">185,827,068,972</td>
+			</tr></tfoot>
+			<tbody>
+			<tr>
+			  <td class="tleft"><strong class="color01">자산</strong></td>
+			  <td class="tright">&nbsp;</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅰ. 유동자산</strong></td>
+			  <td>&nbsp;</td>
+			</tr>
+			<tr>
+			  <td class="tleft">1. 현금 및 현금성자산</td>
+			  <td class="tright">1,984,588,110</td>
+			</tr>
+			<tr>
+			  <td class="tleft">2. 단기금융상품</td>
+			  <td class="tright">25,000,000,000</td>
+			</tr>
+			<tr>
+			  <td class="tleft">3. 기타의 유동자산</td>
+			  <td class="tright">5,945,135,966</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅱ. 창업투자자산</strong></td>
+			  <td>&nbsp;</td>
+			</tr>
+			<tr>
+			  <td class="tleft">1. 투자실적자산</td>
+			  <td class="tright">128,007,233,764</td>
+			</tr>
+			<tr>
+			  <td class="tleft">2. 경영지원자산</td>
+			  <td class="tright">5,745,283,066</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅲ. 비유동자산</strong></td>
+			  <td class="tright">19,144,828,066</td>
+			</tr>
+			</tbody>
+		  </table>
+	
+		  <table class="tblH">
+			<caption>제12기 결산공고</caption>
+			<colgroup><col style="width:50%" span="2"></colgroup>
+			<thead>
+			<tr>
+			  <th scope="col">계정과목</th>
+			  <th scope="col">금액</th>
+			</tr>
+			</thead>
+			<tfoot>
+			<tr><th scope="row" class="tleft">부채 및 자본총계</th>
+			  <td class="tright">185,827,068,972</td>
+			</tr></tfoot>
+			<tbody>
+			<tr>
+			  <td class="tleft"><strong class="color01">부채</strong></td>
+			  <td class="tright">&nbsp;</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅰ. 유동부채</strong></td>
+			  <td class="tright">31,397,480,192</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅱ. 비유동부채</strong></td>
+			  <td class="tright">2,382,721,165</td>
+			</tr>
+			<tr class="foot">
+			  <td class="tleft">부채총계</td>
+			  <td class="tright">33,780,201,357</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color01">자본</strong></td>
+			  <td class="tright">&nbsp;</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅰ. 자본금</strong></td>
+			  <td class="tright">40,000,000,000</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅱ. 기타불입자본</strong></td>
+			  <td class="tright">42,553,032,105</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅲ. 이익잉여금</strong></td>
+			  <td class="tright">69,513,320,735</td>
+			</tr>
+			<tr>
+			  <td class="tleft"><strong class="color02">Ⅳ. 기타자본구성요소</strong></td>
+			  <td class="tright">(19,485,225)</td>
+			</tr>
+			<tr class="foot">
+			  <td class="tleft">자본총계</td>
+			  <td class="tright">152,046,867,615</td>
+			</tr>
+			</tbody>
+		  </table>
+	
+		  <div class="newscon_box">
+			<p class="txt">위와 같이 공고합니다.</p>
+			<div class="bottomTxt">
+			  <em>2021년 03월 19일</em>
+			  <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
+			</div>
+		  </div><!-- //newscon_box -->
+	
+		  <p class="opinionTxt">
+			[감사의견] 회사의 재무제표는 2020년 12월 31일 현재의 재무상태와 동일로 종료되는 보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라, 중요성의 관점에서 공정하게 표시하고 있습니다.
+			<em>삼정회계법인 대표이사 김교태</em>
+		  </p>
+		  <!--  // .opinionTxt -->
+	
+		</div><!-- //detailCon -->
+		</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- // 제13기 결산공고 -->
 
