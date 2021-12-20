@@ -394,18 +394,16 @@
   $(window).on('jsLoad', function () {
     let date = parseInt(moment().format('YYYYMMDDHHmm'))
 
+    /**
   	if (202111240800 <= date && date < 202112080000) {
 			commonJs.popupShow('#pop20211124') // 신주발행공고
   	}
     if (202112030900 <= date) {
       commonJs.popupShow('#pop20211203') // 코스닥 상장 주식공모 청약 안내
     }
-
-		/**
     if (202109011200 <= date && date < 202110010000) {
       commonJs.popupShow('#pop20210901')
     }
-
     if (202107071300 <= date && date < 202107121700) {
       $('#pop01').show()
     } else if (202107121700 <= date && date < 202107131700) {

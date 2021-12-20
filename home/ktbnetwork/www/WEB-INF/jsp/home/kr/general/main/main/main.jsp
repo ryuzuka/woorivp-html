@@ -192,6 +192,7 @@
 <script>
   let date = parseInt(moment().format('YYYYMMDDHHmm'))
 
+  /**
   if (202111240800 <= date && date < 202112080000) {
     // 신주발행공고
     window.open('/static/home/kr/ktb_popup.html?popup=20211124', '', 'top=0, left=720, width=720, height=960, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
@@ -200,12 +201,9 @@
     // 코스닥 상장 주식공모 청약 안내
     window.open('/static/home/kr/ktb_popup.html?popup=20211203', '', 'top=0, left=0, width=720, height=721, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
-
-  /**
   if (202109011200 <= date && date < 202110010000) {
     window.open('/static/home/kr/ktb_popup.html?popup=20210901', '', 'top=0, left=0, width=720, height=612, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
-
   if (202107071300 <= date && date < 202107121700) {
     window.open('/static/home/kr/ktb_popup.html?popup=20210706', '', 'top=0, left=0, width=720, height=772, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   } else if (202107121700 <= date && date < 202107131700) {
