@@ -13,7 +13,7 @@
 				</div>
 				<div class="tabArea">
 					<ul class="pageTab">
-						<li class="on"><a href="/home/en/watwedo/overview" aria-selected="true">Overview</a></li>
+						<li class="on"><a href="/home/en/watwedo/overview.do" aria-selected="true">Overview</a></li>
 						<li><a href="/home/en/watwedo/history.do">History</a></li>
 						<li><a href="/home/en/watwedo/philosophy.do">Philosophy</a></li>
 					</ul>
