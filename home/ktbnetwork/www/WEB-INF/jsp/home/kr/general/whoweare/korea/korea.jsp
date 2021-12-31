@@ -156,7 +156,22 @@
 							<strong>김재한</strong> 상무
 						</a>
 					</li>
-					<!-- 0411 수정 -->
+					<li>
+						<div class="member">
+							<div class="left"><img src="/static/home/kr/images/contents/img_team10.jpg" alt="경국현"></div>
+							<div class="right">
+								<h3>경국현 <span class="pointColor">KOREA / 투자팀 / 상무</span></h3>
+								<dl>
+									<dt>주요경력</dt>
+									<dd>서울대학교 조선해양공학과<br>SKC&amp;C<br>NHN</dd>
+								</dl>
+							</div>
+						</div>
+						<a href="#" class="thumb">
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team10_off.jpg" alt="경국현"></span>
+							<strong>경국현</strong> 상무
+						</a>
+					</li>
 					<li>
 						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team08.jpg" alt="김은숙"></div>
@@ -173,23 +188,6 @@
 						<a href="#" class="thumb">
 							<span class="img"><img src="/static/home/kr/images/contents/thumb_team08_off.jpg" alt="김은숙"></span>
 							<strong>김은숙</strong> 이사
-						</a>
-					</li>
-					<!-- //0411 수정 -->
-					<li>
-						<div class="member">
-							<div class="left"><img src="/static/home/kr/images/contents/img_team10.jpg" alt="경국현"></div>
-							<div class="right">
-								<h3>경국현 <span class="pointColor">KOREA / 투자팀 / 이사</span></h3>
-								<dl>
-									<dt>주요경력</dt>
-									<dd>서울대학교 조선해양공학과<br>SKC&amp;C<br>NHN</dd>
-								</dl>
-							</div>
-						</div>
-						<a href="#" class="thumb">
-							<span class="img"><img src="/static/home/kr/images/contents/thumb_team10_off.jpg" alt="경국현"></span>
-							<strong>경국현</strong> 이사
 						</a>
 					</li>
 					<li>
@@ -497,7 +495,7 @@
 							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team19.jpg" alt="정도"></div>
 								<div class="right">
-									<h3>정도 <span class="pointColor">KOREA / 관리팀 / 전무</span></h3>
+									<h3>정도 <span class="pointColor">KOREA / 관리팀 / 부사장</span></h3>
 									<dl>
 										<dt>주요경력</dt>
 										<dd>서울대학교 국제경제학과<br>㈜대우<br>KTB네트워크</dd>
@@ -508,7 +506,7 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/kr/images/contents/thumb_team19_off.jpg" alt="정도"></span>
-								<strong>정도</strong> 전무
+								<strong>정도</strong> 부사장
 							</a>
 						</li>
 						<!-- 2019.08.12 cancel
@@ -533,6 +531,24 @@
 						-->
 						<li>
 							<div class="member">
+								<div class="left"><img src="/static/home/kr/images/contents/img_team22.jpg" alt="황문철"></div>
+								<div class="right">
+									<h3>황문철 <span class="pointColor">KOREA / 관리팀 / 상무</span></h3>
+									<dl>
+										<dt>주요경력</dt>
+										<dd>삼일회계법인<br>행복마루법률사무소&amp;컨설팅<br>KTB투자증권</dd>
+										<dt>업무</dt>
+										<dd>경영기획 및 회계</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team22_off.jpg" alt="황문철"></span>
+								<strong>황문철</strong> 상무
+							</a>
+						</li>
+						<li>
+							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team08.jpg" alt="김은숙"></div>
 								<div class="right">
 									<h3>김은숙 <span class="pointColor">KOREA / 관리팀 / 이사</span></h3>
@@ -547,24 +563,6 @@
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/kr/images/contents/thumb_team08_off.jpg" alt="김은숙"></span>
 								<strong>김은숙</strong> 이사
-							</a>
-						</li>
-						<li>
-							<div class="member">
-								<div class="left"><img src="/static/home/kr/images/contents/img_team22.jpg" alt="황문철"></div>
-								<div class="right">
-									<h3>황문철 <span class="pointColor">KOREA / 관리팀 / 이사</span></h3>
-									<dl>
-										<dt>주요경력</dt>
-										<dd>삼일회계법인<br>행복마루법률사무소&amp;컨설팅<br>KTB투자증권</dd>
-										<dt>업무</dt>
-										<dd>경영기획 및 회계</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team22_off.jpg" alt="황문철"></span>
-								<strong>황문철</strong> 이사
 							</a>
 						</li>
 						<li>

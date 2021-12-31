@@ -154,6 +154,22 @@
 						</li>
 						<li>
 							<div class="member">
+								<div class="left"><img src="/static/home/en/images/contents/img_team10.jpg" alt="Kyung Kuk Hyun"></div>
+								<div class="right">
+									<h3>Kyung Kuk Hyun <span class="pointColor">KOREA / Investment / Managing Director</span></h3>
+									<dl>
+										<dt>Career</dt>
+										<dd>Seoul National University<br>(Naval Architecture &amp; Ocean Engineering)<br>SK C&amp;C<br>KTB Network</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team10_off.jpg" alt="Kyung Kuk Hyun"></span>
+								<strong>Kyung Kuk Hyun</strong> Managing Director
+							</a>
+						</li>
+						<li>
+							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team08.jpg" alt="Kim Eun Sook"></div>
 								<div class="right">
 									<h3>Kim Eun Sook <span class="pointColor">KOREA / Investment / Director</span></h3>
@@ -166,22 +182,6 @@
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/en/images/contents/thumb_team08_off.jpg" alt="Kim Eun Sook"></span>
 								<strong>Kim Eun Sook</strong> Director
-							</a>
-						</li>
-						<li>
-							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team10.jpg" alt="Kyung Kuk Hyun"></div>
-								<div class="right">
-									<h3>Kyung Kuk Hyun <span class="pointColor">KOREA / Investment / Director</span></h3>
-									<dl>
-										<dt>Career</dt>
-										<dd>Seoul National University<br>(Naval Architecture &amp; Ocean Engineering)<br>SK C&amp;C<br>KTB Network</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team10_off.jpg" alt="Kyung Kuk Hyun"></span>
-								<strong>Kyung Kuk Hyun</strong> Director
 							</a>
 						</li>
 						<li>
@@ -488,7 +488,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team19.jpg" alt="Chung Do"></div>
 									<div class="right">
-										<h3>Chung Do <span class="pointColor">KOREA / Management / Senior Managing Director</span></h3>
+										<h3>Chung Do <span class="pointColor">KOREA / Management / Executive Vice Presideng</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Seoul National University (International Economics)<br>Daewoo<br>KTB Network</dd>
@@ -499,7 +499,25 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team19_off.jpg" alt="Chung Do"></span>
-									<strong>Chung Do</strong> Senior Managing Director
+									<strong>Chung Do</strong> Executive Vice Presideng
+								</a>
+							</li>
+							<li>
+								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team22.jpg" alt="Hwang Moon Chul"></div>
+									<div class="right">
+										<h3>Hwang Moon Chul <span class="pointColor">KOREA / Management  / Managing Director</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>Samil PwC Assurance/Deal<br>HM consulting Inc<br>KTB Investment &amp; Securities</dd>
+											<dt>Responsibilities</dt>
+											<dd>Management planning and Accounting</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team22_off.jpg" alt="Hwang Moon Chul"></span>
+									<strong>Hwang Moon Chul</strong> Managing Director
 								</a>
 							</li>
 							<li>
@@ -518,24 +536,6 @@
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team08_off.jpg" alt="Kim Eun Sook"></span>
 									<strong>Kim Eun Sook</strong> Director
-								</a>
-							</li>
-							<li>
-								<div class="member">
-									<div class="left"><img src="/static/home/en/images/contents/img_team22.jpg" alt="Hwang Moon Chul"></div>
-									<div class="right">
-										<h3>Hwang Moon Chul <span class="pointColor">KOREA / Management  / Director</span></h3>
-										<dl>
-											<dt>Career</dt>
-											<dd>Samil PwC Assurance/Deal<br>HM consulting Inc<br>KTB Investment &amp; Securities</dd>
-											<dt>Responsibilities</dt>
-											<dd>Management planning and Accounting</dd>
-										</dl>
-									</div>
-								</div>
-								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team22_off.jpg" alt="Hwang Moon Chul"></span>
-									<strong>Hwang Moon Chul</strong> Director
 								</a>
 							</li>
 							<li>

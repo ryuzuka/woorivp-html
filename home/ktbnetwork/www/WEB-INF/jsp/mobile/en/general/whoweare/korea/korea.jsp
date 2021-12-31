@@ -87,19 +87,19 @@
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail08" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_08.jpg" alt="Kim Eun Sook" /></span>
-							<span>
-								<em>Kim Eun Sook</em>
-								Director
-							</span>
-						</a>
-					</li>
-					<li>
 						<a href="#personDeatail11" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_11.jpg" alt="Kyung Kuk Hyun" /></span>
 							<span>
 								<em>Kyung Kuk Hyun</em>
+								Managing Director
+							</span>
+						</a>
+					</li>
+					<li>
+						<a href="#personDeatail08" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_invest_08.jpg" alt="Kim Eun Sook" /></span>
+							<span>
+								<em>Kim Eun Sook</em>
 								Director
 							</span>
 						</a>
@@ -256,17 +256,7 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_05.jpg" alt="Chung Do" /></span>
 							<span>
 								<em>Chung Do</em>
-								<b>Senior Managing Director</b>
-							</span>
-						</a>
-					</li>
-					<li>
-						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail07" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_07.jpg" alt="Kim Eun Sook" /></span>
-							<span>
-								<em>Kim Eun Sook</em>
-								<b>Director</b>
+								<b>Executive Vice Presideng</b>
 							</span>
 						</a>
 					</li>
@@ -276,6 +266,16 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_08.jpg" alt="Hwang Moon Chul" /></span>
 							<span>
 								<em>Hwang Moon Chul</em>
+								<b>Director</b>
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail07" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_07.jpg" alt="Kim Eun Sook" /></span>
+							<span>
+								<em>Kim Eun Sook</em>
 								<b>Director</b>
 							</span>
 						</a>
@@ -571,7 +571,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Kim Eun Sook Director -->
-<!-- Kyung Kuk Hyun Director -->
+<!-- Kyung Kuk Hyun Managing Director -->
 <div class="fullLayer" id="personDeatail11">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -580,7 +580,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Kyung Kuk Hyun</dt>
-					<dd class="position">KOREA / Investment / Director</dd>
+					<dd class="position">KOREA / Investment / Managing Director</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -596,7 +596,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- // Kyung Kuk Hyun Director -->
+<!-- // Kyung Kuk Hyun Managing Director -->
 <!-- Jang Sung Yeop Director -->
 <div class="fullLayer" id="personDeatail12">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1053,7 +1053,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Cha Seung Jun Team Manager -->
-<!-- Chung Do Senior Managing Director -->
+<!-- Chung Do Executive Vice Presideng -->
 <div class="fullLayer" id="person_manageDeatail05">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1062,7 +1062,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Chung Do</dt>
-					<dd class="position">KOREA / Management / Senior Managing Director</dd>
+					<dd class="position">KOREA / Management / Executive Vice Presideng</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1083,7 +1083,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Chung Do Senior Managing Director -->
+<!-- //Chung Do Executive Vice Presideng -->
 <!-- Kim Eun Sook Director -->
 <div class="fullLayer" id="person_manageDeatail07">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1115,7 +1115,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Kim Eun Sook Director -->
-<!-- Hwang Moon Chul Director -->
+<!-- Hwang Moon Managing Director -->
 <div class="fullLayer" id="person_manageDeatail08">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1124,7 +1124,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Hwang Moon Chul</dt>
-					<dd class="position">KOREA / Management / Director</dd>
+					<dd class="position">KOREA / Management / Managing Director</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1145,7 +1145,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Hwang Moon Chul Director -->
+<!-- //Hwang Moon Managing Director -->
 <!-- Lee Ji Hyun Team Manager -->
 <div class="fullLayer" id="person_manageDeatail09">
 	<h2 class="layerTit">Who We Are</h2>

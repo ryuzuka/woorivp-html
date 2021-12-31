@@ -87,19 +87,19 @@
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail08" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_08.jpg" alt="김은숙 이사 사진" /></span>
+						<a href="#personDeatail11" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_invest_11.jpg" alt="경국현 상무 사진" /></span>
 							<span>
-								<em>김은숙</em>
-								이사
+								<em>경국현</em>
+								상무
 							</span>
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail11" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_11.jpg" alt="경국현 이사 사진" /></span>
+						<a href="#personDeatail08" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_invest_08.jpg" alt="김은숙 이사 사진" /></span>
 							<span>
-								<em>경국현</em>
+								<em>김은숙</em>
 								이사
 							</span>
 						</a>
@@ -257,10 +257,20 @@
 					<li class="line">
 						<strong>Management</strong>
 						<a href="#person_manageDeatail05" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_05.jpg" alt="정도 전무 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_manage_05.jpg" alt="정도 부사장 사진" /></span>
 							<span>
 								<em>정도</em>
-								전무
+								부사장
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail08" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_08.jpg" alt="황문철 상무 사진" /></span>
+							<span>
+								<em>황문철</em>
+								상무
 							</span>
 						</a>
 					</li>
@@ -282,16 +292,6 @@
 							<span><img src="/static/mobile/kr/images/contents/img_manage_07.jpg" alt="김은숙 이사 사진" /></span>
 							<span>
 								<em>김은숙</em>
-								이사
-							</span>
-						</a>
-					</li>
-					<li>
-						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail08" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_08.jpg" alt="황문철 이사 사진" /></span>
-							<span>
-								<em>황문철</em>
 								이사
 							</span>
 						</a>
@@ -602,16 +602,16 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //김은숙 이사 -->
-<!-- 경국현 이사 -->
+<!-- 경국현 상무 -->
 <div class="fullLayer" id="personDeatail11">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_invest_pop11.jpg" alt="경국현 이사 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_invest_pop11.jpg" alt="경국현 상무 사진" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">경국현</dt>
-					<dd class="position">KOREA / 투자팀 / 이사</dd>
+					<dd class="position">KOREA / 투자팀 / 상무</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -626,7 +626,7 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //경국현 이사 -->
+<!-- //경국현 상무 -->
 <!-- 장성엽 이사 -->
 <div class="fullLayer" id="personDeatail12">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1060,16 +1060,16 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //금경환 팀장 -->
-<!-- 정도 전무 -->
+<!-- 정도 부사장 -->
 <div class="fullLayer" id="person_manageDeatail05">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop05.jpg" alt="정도 전무 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop05.jpg" alt="정도 부사장 사진" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">정도</dt>
-					<dd class="position">KOREA / 관리팀 / 전무</dd>
+					<dd class="position">KOREA / 관리팀 / 부사장</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1090,7 +1090,38 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //정도 전무 -->
+<!-- //정도 부사장 -->
+<!-- 황문철 상무 -->
+<div class="fullLayer" id="person_manageDeatail08">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop08.jpg" alt="황문철 상무 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">황문철</dt>
+					<dd class="position">KOREA / 관리팀 / 상무</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>삼일회계법인</li>
+							<li>행복마루법률사무소&amp;컨설팅</li>
+							<li>KTB투자증권</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>경영기획 및 회계</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //황문철 상무 -->
 <!-- 김은숙 이사 -->
 <div class="fullLayer" id="person_manageDeatail07">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1122,37 +1153,6 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //김은숙 이사 -->
-<!-- 황문철 이사 -->
-<div class="fullLayer" id="person_manageDeatail08">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop08.jpg" alt="황문철 이사 사진" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">황문철</dt>
-					<dd class="position">KOREA / 관리팀 / 이사</dd>
-					<dt>주요경력</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>삼일회계법인</li>
-							<li>행복마루법률사무소&amp;컨설팅</li>
-							<li>KTB투자증권</li>
-						</ul>
-					</dd>
-					<dt>업무</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>경영기획 및 회계</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">닫기</button>
-</div>
-<!-- //황문철 이사 -->
 <!-- 이지현 팀장 -->
 <div class="fullLayer" id="person_manageDeatail09">
 	<h2 class="layerTit">Who We Are</h2>
