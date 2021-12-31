@@ -17,8 +17,8 @@
 						<li class="sub on"><a href="/home/watwedo/history.do" aria-selected="true">History</a>
 							<div class="subTab">
 								<ul class="inner">
-									<li class="on"><a href="#" aria-selected="true">2020~2012</a></li>
-									<li><a href="#">2011~1981</a></li>
+									<li class="on"><a href="#" aria-selected="true">2021~1981</a></li>
+									<!--<li><a href="#">2011~1981</a></li> 2021.12.31 수정 -->
 								</ul>
 							</div>
 						</li>
@@ -26,125 +26,59 @@
 					</ul>
 				</div>
 				<div class="inner tabCont on">
-					<h2 class="hidden">History 2020~2012</h2><!-- 탭 타이틀 -->
+					<h2 class="hidden">History 2021~2012</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
-              <li class="year on">
-                <strong class="num">2020</strong>
-                <ol class="list">
-                  <li>
-                    <strong class="tit">2020.12</strong>
-                    <p class="txt">
-                      KTBN18호 벤처투자포함(약정규모 2,810억원) 결성<br>
-                      운용펀드 약정액 규모 1조 1,645억원으로 증가
-                    </p>
-                  </li>
-                </ol>
-              </li>
-							<li class="year">
-								<strong class="num">2019</strong>
+							<!--
+							<li class="year on">
+								<strong class="num">2020</strong>
 								<ol class="list">
 									<li>
-										<strong class="tit">2019.08</strong>
-										<p class="txt">KTBN GI PEF(약정규모 100억원)결성</p>
+										<strong class="tit">2020.12</strong>
+										<p class="txt">
+											KTBN18호 벤처투자포함(약정규모 2,810억원) 결성<br>
+											운용펀드 약정액 규모 1조 1,645억원으로 증가
+										</p>
 									</li>
 								</ol>
 							</li>
-							<li class="year">
-								<strong class="num">2018</strong>
+							-->
+							<li class="year on">
+								<strong class="num">2021</strong>
 								<ol class="list">
-									<!-- 0415 수정 -->
-									<li>
-										<strong class="tit">2018.12</strong>
-										<p class="txt">운용자산규모 8,535억원 달성</p>
-									</li>
-									<!-- //0415 수정 -->
-									<li>
-										<strong class="tit">2018.06</strong>
-										<p class="txt">VC펀드를 통해 운용자산규모는 약 4,595억원 달성</p>
-									</li>
-									<li>
-										<strong class="tit">2018.01</strong>
-										<p class="txt">KTBN14호 벤처투자조합(약정규모 53억원)을 추가 결성하여 운용펀드의 약정액 규모가 6,485억원으로 증가</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2017</strong>
-								<ol class="list">
-									<li>
-										<strong class="tit">2017.12</strong>
-										<p class="txt">KTBN13호 벤처투자조합 (약정규모 510억원) 결성</p>
-									</li>
-									<li>
-										<strong class="tit">2017.05</strong>
-										<p class="txt">NAVER-KTB 오디오콘텐츠 전문투자조합 (약정규모 340억원) 결성</p>
-									</li>
-									<li>
-										<strong class="tit">2017.02</strong>
-										<p class="txt">KTBN 11호 한중시너지펀드(약정규모 1,660억원) 최종 결성</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2016</strong>
-								<ol class="list">
-									<li>
-										<strong class="tit">2016.11</strong>
-										<p class="txt">KTBN 방송영상콘텐츠 전문투자조합 (약정규모 100억원) 결성</p>
-									</li>
-									<li>
-										<strong class="tit">2016.03</strong>
-										<p class="txt">KTBN 8호 투자조합(약정규모 460억원) KTBN 9호 디지털콘텐츠코리아투자조합(약정규모 300억원) 결성</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2014</strong>
-								<ol class="list">
-									<li>
-										<strong class="tit">2014.04</strong>
-										<p class="txt">KTBN 7호 벤처투자조합(약정규모 682억원) 결성</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2013</strong>
-								<ol class="list">
-									<li>
-										<strong class="tit">2013.08</strong>
-										<p class="txt">IBK-KTB 문화콘텐츠 IP투자조합(약정규모 200억원) 결성</p>
-									</li>
-									<li>
-										<strong class="tit">2013.07</strong>
-										<p class="txt">KTB 해외진출 Platform펀드(약정규모 1,150억원) 결성</p>
+									<li class="noMonth">
+										<p class="txt">
+											「KOREA VC AWARDS 2021」 최우수 운용사 선정, 중소벤처기업부장관 표창 수상
+											<br>코스닥 상장
+										</p>
 									</li>
 								</ol>
 							</li>
 							<li class="year">
 								<strong class="num">2012</strong>
 								<ol class="list">
-									<li>
-										<strong class="tit">2012.12</strong>
-										<p class="txt">KTB-Korus 펀드(약정규모 80억원) 결성</p>
-									</li>
-									<li>
-										<strong class="tit">2012.02</strong>
-										<p class="txt">KTB-NHN China PEF(약정규모 300억원) 결성</p>
+									<li class="noMonth">
+										<p class="txt">
+											경기지방중소기업청 창업보육센터 사업자 지정, 창업보육센터 개소
+										</p>
 									</li>
 								</ol>
 							</li>
-						</ol>
-					</div>
-				</div>
-				<div class="inner tabCont">
-					<h2 class="hidden">History 2011~1981</h2><!-- 탭 타이틀 -->
-					<div class="historyArea">
-						<ol class="historyList">
 							<li class="year">
 								<strong class="num">2011</strong>
 								<ol class="list">
-									<li class="noMonth"><p class="txt">KoFC-KTBN Pioneer Champ 2011-5호(약정규모 450억원) 결성<br>신기술사업금융 반납 및 창투사 인가</p>
+									<li class="noMonth">
+										<p class="txt">
+											중소기업창업투자회사 등록, 1호 VC 펀드 결성
+										</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2010</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">KTB네트워크(주) 사명 변경</p>
 									</li>
 								</ol>
 							</li>
@@ -152,7 +86,7 @@
 								<strong class="num">2008</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">KTB네트워크 물적분할(VC, CRC 부분)</p>
+										<p class="txt">물적분할(VC, CRC부분), KTB캐피탈(주) 사명 변경</p>
 									</li>
 								</ol>
 							</li>
@@ -160,15 +94,7 @@
 								<strong class="num">2006</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">상하이 사무소 설립</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2002</strong>
-								<ol class="list">
-									<li class="noMonth">
-										<p class="txt">중국투자 실시</p>
+										<p class="txt">중국(상해) 사무소 설립</p>
 									</li>
 								</ol>
 							</li>
@@ -176,7 +102,7 @@
 								<strong class="num">2000</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">미주사무소 법인 전환</p>
+										<p class="txt">미국 사무소 법인 전환, KTB네트워크 사명 변경</p>
 									</li>
 								</ol>
 							</li>
@@ -184,7 +110,7 @@
 								<strong class="num">1999</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">민영화 이후, 기업구조조정전문회사(CRC: Corporate Restructuring Company) 면허를 취득</p>
+										<p class="txt">한국종합기술금융주식회사법 폐지 및 민영화, 기업구조조정전문회사(CRC) 등록</p>
 									</li>
 								</ol>
 							</li>
@@ -200,7 +126,7 @@
 								<strong class="num">1988</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">미주사무소 설립(Palo Alto,CA)</p>
+										<p class="txt">미국(캘리포니아) 사무소 설립</p>
 									</li>
 								</ol>
 							</li>
@@ -208,7 +134,7 @@
 								<strong class="num">1987</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">신기술사업금융 인가</p>
+										<p class="txt">「여신전문금융업법」상 신기술사업금융업 등록</p>
 									</li>
 								</ol>
 							</li>
@@ -216,10 +142,122 @@
 								<strong class="num">1981</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">한국기술개발주식회사 설립</p>
+										<p class="txt">한국기술개발 주식회사 출범</p>
 									</li>
 								</ol>
 							</li>
+						</ol>
+					</div>
+				</div>
+				<div class="inner tabCont">
+					<h2 class="hidden">History 2011~1981</h2><!-- 탭 타이틀 -->
+					<div class="historyArea">
+						<ol class="historyList">
+							<!-- 2021.12.31 수정
+							<li class="year">
+								<strong class="num">2021</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">
+											「KOREA VC AWARDS 2021」 최우수 운용사 선정, 중소벤처기업부장관 표창 수상
+											<br>코스닥 상장
+										</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2012</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">
+											경기지방중소기업청 창업보육센터 사업자 지정, 창업보육센터 개소
+										</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2011</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">
+											중소기업창업투자회사 등록, 1호 VC 펀드 결성
+										</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2010</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">KTB네트워크(주) 사명 변경</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2008</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">물적분할(VC, CRC부분), KTB캐피탈(주) 사명 변경</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2006</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">중국(상해) 사무소 설립</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2000</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">미국 사무소 법인 전환, KTB네트워크 사명 변경</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">1999</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">한국종합기술금융주식회사법 폐지 및 민영화, 기업구조조정전문회사(CRC) 등록</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">1996</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">증권거래소 상장</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">1988</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">미국(캘리포니아) 사무소 설립</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">1987</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">「여신전문금융업법」상 신기술사업금융업 등록</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">1981</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">한국기술개발 주식회사 출범</p>
+									</li>
+								</ol>
+							</li>
+							-->
 						</ol>
 					</div>
 				</div>

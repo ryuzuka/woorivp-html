@@ -19,17 +19,17 @@
 					</ul>
 				</div>
 				<div class="inner">
-					<h2 class="hidden">Philosophy</h2>	
-					<h3 class="titDep2">운용철학</h3>	
+					<h2 class="hidden">Philosophy</h2>
+					<h3 class="titDep2">운용철학</h3>
 					<div class="Philosophy">
 						<div class="imgArea"><img src="/static/home/kr/images/main/img_goal.png" alt="Compliance, Active Value Creation, Alignment of Interest"></div>
 						<div class="conArea">
 							<ul>
-								<li><strong>Alignment of Interest</strong>펀드 참여자 간의 이해관계 일치를 통한 공동의 목표 부여</li>
 								<li><strong>Active Value Creation</strong>투자업체 지원 및 가치창출 활동을 통해 지속 가능한 성장도모, <br>투자업체 성공과 목표수익 달성</li>
 								<li><strong>Compliance</strong>Compliance 체계 및 점검활동 통한 펀드 운용위험 통제, <br>Moral Hazard 예방</li>
-							</ul>								
-						</div>						
+								<li><strong>Alignment of Interest</strong>펀드 참여자 간의 이해관계 일치를 통한 공동의 목표 부여</li>
+							</ul>
+						</div>
 					</div>
 					<h3 class="titDep2">STAGES</h3>	
 					<p class="txtInfo">KTB네트워크의 투자는 어느 한 기업의 성장 단계에 국한되지 않습니다. 기업들이 지속적으로 팀을 만들고, 사업 모델을 구상하며, IPO를 준비하고, 사모채권에 대해 고려할 수 있도록 지원하고 그 안에서의 가치를 찾는 역할을 하겠습니다.</p>

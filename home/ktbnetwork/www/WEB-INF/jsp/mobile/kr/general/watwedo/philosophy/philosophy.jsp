@@ -22,13 +22,13 @@
 					<img src="/static/mobile/kr/images/contents/img_introcon_txt.png" alt="Compliance Active Value Creation Alignment of Interest">
 					<ul class="introCon">
 						<li class="check01">
-							<strong>Alignment of Interest</strong>펀드 참여자 간의 이해관계 일치를 통한 공동의 목표 부여
-						</li>
-						<li class="check02">
 							<strong>Active Value Creation</strong>투자업체 지원 및 가치창출 활동을 통해 지속 가능한 성장도모, 투자업체 성공과 목표수익 달성
 						</li>
-						<li class="check03">
+						<li class="check02">
 							<strong>Compliance</strong>Compliance 체계 및 점검활동 통한 펀드 운용위험 통제, Moral Hazard 예방
+						</li>
+						<li class="check03">
+							<strong>Alignment of Interest</strong>펀드 참여자 간의 이해관계 일치를 통한 공동의 목표 부여
 						</li>
 					</ul>
 					<h3 class="titDep2">STAGES</h3>

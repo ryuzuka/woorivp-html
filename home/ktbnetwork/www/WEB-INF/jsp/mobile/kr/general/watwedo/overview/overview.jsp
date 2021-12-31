@@ -19,44 +19,19 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">회사개요</h3>
           <p style="margin-top:-35px;margin-bottom:14px;padding-right:20px;color:#111;text-align:right;font-size:12px">
-            <b>2020년말 기준</b>
+            <b>2021년말 기준</b>
           </p>
-					<!-- 수정 0405 -->
+
 					<ul class="companyInfo">
-						<li>
-							<strong>회사명</strong>
-							<em>KTB네트워크㈜</em>
-						</li>
-						<li>
-							<strong>설립일자</strong>
-							<em>1981년</em>
-						</li>
-						<li>
-							<strong>대표이사</strong>
-							<em>신진호, 김창규</em>
-						</li>
-						<li>
-							<strong>최대주주</strong>
-							<em>KTB투자증권㈜(100%)</em>
-						</li>
-						<li>
-							<strong>자본금/자기자본</strong>
-							<em>400억원/1,520억원</em>
-						</li>
-						<li>
-							<strong>매출액/영업이익</strong>
-							<em>670억원/446억원</em>
-						</li>
-						<li>
-							<strong>홈페이지</strong>
-							<em>http://www.ktbnetwork.com</em>
-						</li>
-						<li>
-							<strong>대표전화</strong>
-							<em>031-628-6400</em>
-						</li>
+						<li><strong>회사명</strong><em>KTB네트워크(주)</em></li>
+						<li><strong>설립일</strong><em>2008년 6월</em></li>
+						<li><strong>대표이사</strong><em>신진호, 김창규</em></li>
+						<li><strong>소재지</strong><em>경기도 성남시 분당구 삼평동</em></li>
+						<li><strong>펀드운용업무 개시일</strong><em>1987년 1월</em></li>
+						<li><strong>누적 운용 펀드수</strong><em>75개</em></li>
+						<li><strong>인력현황</strong><em>38명(펀드운용인력 24명)</em></li>
+						<li><strong>대표전화</strong><em>031-628-6400<br>031-628-6480(IR Contact)</em></li>
 					</ul>
-					<!-- //수정 0405 -->
 
 					<h3 class="titDep2">연도별 운용펀드 자산규모 증감현황</h3>
 					<div class="graphImg"><img src="/static/mobile/kr/images/contents/img_graph_210215_mo.png" alt=""></div>
@@ -110,6 +85,10 @@
                 <th scope="row" id="tb-0-12">2020</th>
                 <td headers="tb-0-0 tb-0-1 tb-0-12">11,645</td>
               </tr>
+							<tr>
+								<th scope="row" id="tb-0-13">2021</th>
+								<td headers="tb-0-0 tb-0-1 tb-0-13"></td>
+							</tr>
 						</tbody>
 					</table>
 				</div>
