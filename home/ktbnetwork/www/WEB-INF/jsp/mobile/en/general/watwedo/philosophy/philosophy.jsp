@@ -21,17 +21,17 @@
 					<img src="/static/mobile/en/images/contents/img_introcon_txt.png" alt="Compliance Active Value Creation Alignment of Interest">
 					<ul class="introCon">
 						<li class="check01">
-							<strong>Alignment of Interest</strong>We align our partners towards a common goal.
-						</li>
-						<li class="check02">
 							<strong>Active Value Creation</strong>We support our portfolio companies through value-creating activities to achieve sustainable growth, the companies’ success and attaining returns
 						</li>
-						<li class="check03">
+						<li class="check02">
 							<strong>Compliance</strong>We actively maintain our compliance system to control operational risk and prevent moral hazard
+						</li>
+						<li class="check03">
+							<strong>Alignment of Interest</strong>We align our partners towards a common goal.
 						</li>
 					</ul>
 					<h3 class="titDep2">STAGES</h3>
-					<p class="txtInfo">Our investment is not limited to any one of companies’ growth stage, We believe that we can find our role in supporting and providing values whether the company is still building its team, devising its business model, preparing for IPO or considering private placements.</p>	
+					<p class="txtInfo">Our investment is not limited to any one of companies’ growth stage, We believe that we can find our role in supporting and providing values whether the company is still building its team, devising its business model, preparing for IPO or considering private placements.</p>
 					<h4 class="titDep3">Stage Investment</h4>
 					<ul class="ico_list">
 						<li>

@@ -20,19 +20,19 @@
 					</ul>
 				</div>
 				<div class="inner">
-					<h2 class="hidden">Philosophy</h2>	
-					<h3 class="titDep2">STAGES</h3>	
+					<h2 class="hidden">Philosophy</h2>
+					<h3 class="titDep2">STAGES</h3>
 					<div class="Philosophy">
 						<div class="imgArea"><img src="/static/home/en/images/main/img_goal.png" alt="Compliance, Active Value Creation, Alignment of Interest"></div>
 						<div class="conArea">
 							<ul>
-								<li><strong>Alignment of Interest</strong>We align our partners towards a common goal</li>
 								<li><strong>Active Value Creation</strong>We support our portfolio companies through value-creating activities to achieve sustainable growth, the companies’ success and attaining returns</li>
 								<li><strong>Compliance</strong>We actively maintain our compliance system to control operational risk and prevent moral hazard</li>
-							</ul>								
-						</div>						
+								<li><strong>Alignment of Interest</strong>We align our partners towards a common goal</li>
+							</ul>
+						</div>
 					</div>
-					<h3 class="titDep2">STAGES</h3>	
+					<h3 class="titDep2">STAGES</h3>
 					<p class="txtInfo">Our investment is not limited to any one of companies’ growth stage, We believe that we can find our role in supporting and providing values whether the company is still building its team, devising its business model, preparing for IPO or considering private placements.</p>
 					<h4 class="titDep3">Stage Investment</h4>
 					<ul class="plopList">
@@ -42,7 +42,7 @@
 						<li><img src="/static/home/en/images/contents/ico_philosophy04.png" alt=""><span>Pre-IPO</span></li>
 						<li><img src="/static/home/en/images/contents/ico_philosophy05.png" alt=""><span>PIPE</span></li>
 					</ul>
-					<h3 class="titDep2">SECTORS</h3>	
+					<h3 class="titDep2">SECTORS</h3>
 					<p class="txtInfo">We look for opportunities in all market segments. But over the years we have accrued experience and expertise in finding new opportunities in consumer service, medical/healthcare, education, digital media, entertainment and internet/mobile sectors.</p>
 					<h4 class="titDep3">Investment Sectors</h4>
 					<ul class="plopList">
