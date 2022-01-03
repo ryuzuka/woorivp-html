@@ -41,7 +41,6 @@
 								</span>
 							</a>
 						</li>
-						<!-- 0415 수정 -->
 						<li>
 							<a href="#person_manageDeatail02" role="button">
 								<span><img src="/static/mobile/en/images/contents/img_china_manage_02.jpg" alt="Xu Tingting" /></span>
@@ -51,13 +50,12 @@
 								</span>
 							</a>
 						</li>
-						<!-- //0415 수정 -->
 						<li>
 							<a href="#person_manageDeatail03" role="button">
 								<span><img src="/static/mobile/en/images/contents/img_china_manage_03.jpg" alt="Yu Jae Ha" /></span>
 								<span>
 									<em>Yu Jae Ha</em>
-									Senior Associate
+									Team Manager
 								</span>
 							</a>
 						</li>
@@ -215,7 +213,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Xu Tingting Team Manager -->
-	<!-- Yu Jae Ha  Senior Associate -->
+	<!-- Yu Jae Ha  Team Manager -->
 	<div class="fullLayer" id="person_manageDeatail03">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -224,7 +222,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Yu Jae Ha</dt>
-						<dd class="position">CHINA / Investment / Senior Associate</dd>
+						<dd class="position">CHINA / Investment / Team Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -238,6 +236,6 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Yu Jae Ha  Senior Associate  -->
+	<!-- //Yu Jae Ha  Team Manager  -->
 	<!-- //team investment(L) -->
 

@@ -68,7 +68,6 @@
 									<strong>Chihoon Hyun</strong> Managing Director
 								</a>
 							</li>
-							<!-- 0415 수정 -->
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team35.jpg" alt="Xu Tingting"></div>
@@ -87,12 +86,11 @@
 									<strong>Xu Tingting</strong> Team Manager
 								</a>
 							</li>
-							<!-- //0415 수정 -->
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team38.jpg" alt="Yu Jae Ha"></div>
 									<div class="right">
-										<h3>Yu Jae Ha <span class="pointColor">CHINA / Investment / Senior Associate</span></h3>
+										<h3>Yu Jae Ha <span class="pointColor">CHINA / Investment / Team Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Peking University (Economics)<br>KB Securities</dd>
@@ -101,7 +99,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team38_off.jpg" alt="Yu Jae Ha"></span>
-									<strong>Yu Jae Ha</strong> Senior Associate
+									<strong>Yu Jae Ha</strong> Team Manager
 								</a>
 							</li>
 						</ul>

@@ -305,7 +305,7 @@
 							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team14.jpg" alt="Kim Hye Sung"></div>
 								<div class="right">
-									<h3>Kim Hye Sung <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
+									<h3>Kim Hye Sung <span class="pointColor">KOREA / Investment / Team Manager</span></h3>
 									<dl>
 										<dt>Career</dt>
 										<dd>University of Chicago (Economics)<br>Freenters Co-founder&amp;CEO<br>Sparklabs<br>EarlierCare Co-founder&amp;CSO</dd>
@@ -316,14 +316,14 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/en/images/contents/thumb_team14_off.jpg" alt="Kim Hye Sung"></span>
-								<strong>Kim Hye Sung</strong> Investment Manager
+								<strong>Kim Hye Sung</strong> Team Manager
 							</a>
 						</li>
 						<li>
 							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team15.jpg" alt="Kim Man Sik"></div>
 								<div class="right">
-									<h3>Kim Man Sik <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
+									<h3>Kim Man Sik <span class="pointColor">KOREA / Investment / Team Manager</span></h3>
 									<dl>
 										<dt>Career</dt>
 										<dd>Seoul National University (Pharmacy)<br>Korea Eisai</dd>
@@ -334,7 +334,7 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/en/images/contents/thumb_team15_off.jpg" alt="Kim Man Sik"></span>
-								<strong>Kim Man Sik</strong> Investment Manager
+								<strong>Kim Man Sik</strong> Team Manager
 							</a>
 						</li>
 						<li>
@@ -630,9 +630,9 @@
 							</li>
 							<li>
 								<div class="member">
-									<div class="left"><img src="/static/home/en/images/contents/img_team26.jpg" alt="Lee Sin Heer"></div>
+									<div class="left"><img src="/static/home/en/images/contents/img_team26.jpg" alt="Lee Sin Hee"></div>
 									<div class="right">
-										<h3>Lee Sin Hee <span class="pointColor">KOREA / Management / Manager</span></h3>
+										<h3>Lee Sin Hee <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>KTB Network</dd>
@@ -643,7 +643,25 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team26_off.jpg" alt="Lee Sin Heer"></span>
-									<strong>Lee Sin Hee</strong> Manager
+									<strong>Lee Sin Hee</strong> Assistant Manager
+								</a>
+							</li>
+							<li>
+								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team44.jpg" alt="Park Ji Soo"></div>
+									<div class="right">
+										<h3>Park Ji Soo <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>SOPOONG</dd>
+											<dt>Responsibilities</dt>
+											<dd>Investment management</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team44_off.jpg" alt="Park Ji Soo"></span>
+									<strong>Park Ji Soo</strong> Assistant Manager
 								</a>
 							</li>
 							<li>
@@ -664,24 +682,6 @@
 									<strong>Cho Eun Sol</strong> Manager
 								</a>
 							</li>
-              <li>
-                <div class="member">
-                  <div class="left"><img src="/static/home/en/images/contents/img_team44.jpg" alt="Park Ji Soo"></div>
-                  <div class="right">
-                    <h3>Park Ji Soo <span class="pointColor">KOREA / Management / Manager</span></h3>
-                    <dl>
-                      <dt>Career</dt>
-                      <dd>SOPOONG</dd>
-                      <dt>Responsibilities</dt>
-                      <dd>Investment management</dd>
-                    </dl>
-                  </div>
-                </div>
-                <a href="#" class="thumb">
-                  <span class="img"><img src="/static/home/en/images/contents/thumb_team44_off.jpg" alt="Park Ji Soo"></span>
-                  <strong>Park Ji Soo</strong> Manager
-                </a>
-              </li>
 						</ul>
 					</div>
 				</div>

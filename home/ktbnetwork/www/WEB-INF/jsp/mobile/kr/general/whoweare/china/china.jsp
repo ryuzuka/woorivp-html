@@ -42,7 +42,6 @@
 								</span>
 							</a>
 						</li>
-						<!-- 0415 수정 -->
 						<li>
 							<a href="#person_manageDeatail02" role="button">
 								<span><img src="/static/mobile/kr/images/contents/img_china_manage_02.jpg" alt="Xu Tingting 팀장 사진" /></span>
@@ -52,13 +51,12 @@
 								</span>
 							</a>
 						</li>
-						<!-- //0415 수정 -->
 						<li>
 							<a href="#person_manageDeatail03" role="button">
-								<span><img src="/static/mobile/kr/images/contents/img_china_manage_03.jpg" alt="유재하 대리 사진" /></span>
+								<span><img src="/static/mobile/kr/images/contents/img_china_manage_03.jpg" alt="유재하 팀장 사진" /></span>
 								<span>
 									<em>유재하</em>
-									대리
+									팀장
 								</span>
 							</a>
 						</li>
@@ -216,16 +214,16 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- //Xu Tingting 팀장 -->
-	<!-- 유재하 대리 -->
+	<!-- 유재하 팀장 -->
 	<div class="fullLayer" id="person_manageDeatail03">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
 			<div class="personDetail">
-				<span><img src="/static/mobile/kr/images/contents/img_china_manage_pop03.jpg" alt="유재하 대리 사진" /></span>
+				<span><img src="/static/mobile/kr/images/contents/img_china_manage_pop03.jpg" alt="유재하 팀장 사진" /></span>
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">유재하</dt>
-						<dd class="position">CHINA / 투자팀 / 대리</dd>
+						<dd class="position">CHINA / 투자팀 / 팀장</dd>
 						<dt>주요경력</dt>
 						<dd>
 							<ul class="listDep1">
@@ -239,6 +237,6 @@
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-	<!-- //유재하 대리 -->
+	<!-- //유재하 팀장 -->
 	<!-- //팀원소개 investment(L) -->
 

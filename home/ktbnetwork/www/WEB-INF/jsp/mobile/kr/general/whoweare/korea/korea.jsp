@@ -161,7 +161,7 @@
 							</span>
 						</a>
 					</li>
-					<li>button
+					<li>
 						<a href="#personDeatail19" role="">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_19.jpg" alt="김범준 팀장 사진" /></span>
 							<span>
@@ -173,19 +173,19 @@
 
 					<li>
 						<a href="#personDeatail15" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_15.jpg" alt="김혜성 심사역 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_invest_15.jpg" alt="김혜성 팀장 사진" /></span>
 							<span>
 								<em>김혜성</em>
-								심사역
+								팀장
 							</span>
 						</a>
 					</li>
 					<li>
 						<a href="#personDeatail16" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_16.jpg" alt="김만식 심사역 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_invest_16.jpg" alt="김만식 팀장 사진" /></span>
 							<span>
 								<em>김만식</em>
-								심사역
+								팀장
 							</span>
 						</a>
 					</li>
@@ -349,10 +349,20 @@
 					<li>
 						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail12" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_12.jpg" alt="이신희 팀장 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_manage_12.jpg" alt="이신희 대리 사진" /></span>
 							<span>
 								<em>이신희</em>
-								주임
+								대리
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail18" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_18.jpg" alt="박지수 대리 사진" /></span>
+							<span>
+								<em>박지수</em>
+                대리
 							</span>
 						</a>
 					</li>
@@ -366,16 +376,6 @@
 							</span>
 						</a>
 					</li>
-          <li>
-            <strong class="hidden">Management</strong>
-            <a href="#person_manageDeatail18" role="button">
-              <span><img src="/static/mobile/kr/images/contents/img_manage_18.jpg" alt="박지수 주임 사진" /></span>
-              <span>
-								<em>박지수</em>
-                주임
-							</span>
-            </a>
-          </li>
 				</ul>
 			</div>
 			<!-- //Management -->
@@ -700,16 +700,16 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //전경미 팀장 -->
-<!-- 김혜성 심사역 -->
+<!-- 김혜성 팀장 -->
 <div class="fullLayer" id="personDeatail15">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_invest_pop15.jpg" alt="김혜성 심사역 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_invest_pop15.jpg" alt="김혜성 팀장 사진" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">김혜성</dt>
-					<dd class="position">KOREA / 투자팀 / 심사역</dd>
+					<dd class="position">KOREA / 투자팀 / 팀장</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -731,17 +731,17 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //김혜성 심사역 -->
-<!-- 김만식 심사역 -->
+<!-- //김혜성 팀장 -->
+<!-- 김만식 팀장 -->
 <div class="fullLayer" id="personDeatail16">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_invest_pop16.jpg" alt="김만식 심사역 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_invest_pop16.jpg" alt="김만식 팀장 사진" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">김만식</dt>
-					<dd class="position">KOREA / 투자팀 / 심사역</dd>
+					<dd class="position">KOREA / 투자팀 / 팀장</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -761,7 +761,7 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //김만식 심사역 -->
+<!-- //김만식 팀장 -->
 <!-- 성경아 이사 -->
 <div class="fullLayer" id="personDeatail17">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1272,16 +1272,16 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //고은비 팀장 -->
-<!-- 이신희 주임 -->
+<!-- 이신희 대리 -->
 <div class="fullLayer" id="person_manageDeatail12">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop12.jpg" alt="이신희 주임 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop12.jpg" alt="이신희 대리 사진" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">이신희</dt>
-					<dd class="position">KOREA / 관리팀 / 주임</dd>
+					<dd class="position">KOREA / 관리팀 / 대리</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1300,7 +1300,7 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //이신희 주임 -->
+<!-- //이신희 대리 -->
 <!-- 임동현 전무 -->
 <div class="fullLayer" id="person_manageDeatail14">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1386,16 +1386,16 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //조은솔 주임 -->
-<!-- 박지수 주임 -->
+<!-- 박지수 대리 -->
 <div class="fullLayer" id="person_manageDeatail18">
   <h2 class="layerTit">Who We Are</h2>
   <div class="layerCont" tabindex="0">
     <div class="personDetail">
-      <span><img src="/static/mobile/kr/images/contents/img_manage_pop18.jpg" alt="박지수 주임 사진" /></span>
+      <span><img src="/static/mobile/kr/images/contents/img_manage_pop18.jpg" alt="박지수 대리 사진" /></span>
       <div class="deatilCon">
         <dl>
           <dt class="name">박지수</dt>
-          <dd class="position">KOREA / 관리팀 / 주임</dd>
+          <dd class="position">KOREA / 관리팀 / 대리</dd>
           <dt>주요경력</dt>
           <dd>
             <ul class="listDep1">
@@ -1414,6 +1414,6 @@
   </div>
   <button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //박지수 주임 -->
+<!-- //박지수 대리 -->
 <!-- //팀원소개 investment(L) -->
 <footer></footer>

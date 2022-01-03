@@ -172,7 +172,7 @@
 							<span><img src="/static/mobile/en/images/contents/img_invest_15.jpg" alt="Kim Hye Sung" /></span>
 							<span>
 								<em>Kim Hye Sung</em>
-								Investment Manager
+								Team Manager
 							</span>
 						</a>
 					</li>
@@ -181,7 +181,7 @@
 							<span><img src="/static/mobile/en/images/contents/img_invest_16.jpg" alt="Kim Man Sik" /></span>
 							<span>
 								<em>Kim Man Sik</em>
-								Investment Manager
+								Team Manager
 							</span>
 						</a>
 					</li>
@@ -336,7 +336,17 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_12.jpg" alt="Lee Sin Hee" /></span>
 							<span>
 								<em>Lee Sin Hee</em>
-								<b>Manager</b>
+								<b>Assistant Manager</b>
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail18" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_18.jpg" alt="Park Ji Soo" /></span>
+							<span>
+								<em>Park Ji Soo</em>
+								<b>Assistant Manager</b>
 							</span>
 						</a>
 					</li>
@@ -350,16 +360,6 @@
 							</span>
 						</a>
 					</li>
-          <li>
-            <strong class="hidden">Management</strong>
-            <a href="#person_manageDeatail18" role="button">
-              <span><img src="/static/mobile/en/images/contents/img_manage_18.jpg" alt="Park Ji Soo" /></span>
-              <span>
-								<em>Park Ji Soo</em>
-								<b>Manager</b>
-							</span>
-            </a>
-          </li>
 				</ul>
 			</div>
 			<!-- //Management -->
@@ -671,7 +671,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Jeun Kyung Mi Team Manager -->
-<!-- Kim Hye Sung Investment Manager -->
+<!-- Kim Hye Sung Team Manager -->
 <div class="fullLayer" id="personDeatail15">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -680,7 +680,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Kim Hye Sung</dt>
-					<dd class="position">KOREA / Investment / Investment Manager</dd>
+					<dd class="position">KOREA / Investment / Team Manager</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -702,8 +702,8 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Kim Hye Sung Investment Manager -->
-<!-- Kim Man Sik Investment Manager -->
+<!-- //Kim Hye Sung Team Manager -->
+<!-- Kim Man Sik Team Manager -->
 <div class="fullLayer" id="personDeatail16">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -712,7 +712,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Kim Man Sik</dt>
-					<dd class="position">KOREA / Investment / Investment Manager</dd>
+					<dd class="position">KOREA / Investment / Team Manager</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -732,7 +732,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Kim Man Sik Investment Manager -->
+<!-- //Kim Man Sik Team Manager -->
 <!-- Seong Kyeong A Director -->
 <div class="fullLayer" id="personDeatail17">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1265,7 +1265,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Ko Eun Bi Team Manager -->
-<!-- Lee Sin Hee manager -->
+<!-- Lee Sin Hee Assistant Manager -->
 <div class="fullLayer" id="person_manageDeatail12">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1274,7 +1274,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Lee Sin Hee</dt>
-					<dd class="position">KOREA / Management / Manager</dd>
+					<dd class="position">KOREA / Management / Assistant Manager</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1293,7 +1293,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Lee Sin Hee manager -->
+<!-- //Lee Sin Hee Assistant Manager -->
 <!-- Cho Eun Sol Manager -->
 <div class="fullLayer" id="person_manageDeatail16">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1324,7 +1324,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Cho Eun Sol Manager -->
-<!-- Park Ji Soo Manager -->
+<!-- Park Ji Soo Assistant Manager -->
 <div class="fullLayer" id="person_manageDeatail18">
   <h2 class="layerTit">Who We Are</h2>
   <div class="layerCont" tabindex="0">
@@ -1333,7 +1333,7 @@
       <div class="deatilCon">
         <dl>
           <dt class="name">Park Ji Soo</dt>
-          <dd class="position">KOREA / Management / Manager</dd>
+          <dd class="position">KOREA / Management / Assistant Manager</dd>
           <dt>Career</dt>
           <dd>
             <ul class="listDep1">
@@ -1352,7 +1352,7 @@
   </div>
   <button type="button" class="layerClose">close</button>
 </div>
-<!-- //Park Ji Soo Manager -->
+<!-- //Park Ji Soo Assistant Manager -->
 <!-- Lim Dong Hyeon Managing Director -->
 <div class="fullLayer" id="person_manageDeatail14">
 	<h2 class="layerTit">Who We Are</h2>
