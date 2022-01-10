@@ -17,17 +17,18 @@
         <div class="viewTit">
           <strong class="tit">주식명의개서정지공고</strong>
           <div class="con">
-            <span class="date">2021.09.01</span>
+            <span class="date">2021.12.16</span>
           </div>
         </div>
         <div class="viewCon">
           <dl class="noticeBox">
             <dt>주식명의개서정지공고</dt>
             <dd>
-              <p>임시주주총회를 위해 상법 제 354조 및 당사 정관 제 16조에 의거 2021년 9월 16일 주주명부에 등재되어 있는 주주에게 의결권을 부여하며, 권리주 주의 확정을 위하여 2021년 9월 17일부터 2021년 9월 28일 까지 주식명의개서, 질권등록 및 말소 등 주주명부의 기재사항 변경을 정지하고자 공고합니다.</p>
+              <p>정기주주총회를 위해 상법 제 354조 및 당사 정관 제 16조에 의거 2021년 12월 31일 주주명부에 등재되어 있는 주주에게 의결권을 부여하며,<br>
+                권리주주의 확정을 위하여 주식명의개서, 질권등록 및 말소 등 주주명부의 기재사항 변경을 정지하고자 공고합니다.</p>
               <br>
               <div class="tcenter mtS">
-                <span class="dateTxt">2021년 9월 1일</span>
+                <span class="dateTxt">2021년 12월 16일</span>
                 <strong class="ceoTxt">케이티비네트워크 주식회사</strong><br>
                 <p>경기도 성남시 분당구 대왕판교로 670(삼평동), 유스페이스 2A동 10층</p>
                 <br>
@@ -40,9 +41,9 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=32">
+          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=41">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대"</div>
+            <div class="tit">사외이사의선임ㆍ해임또는중도퇴임에관한신고</div>
           </a>
         </li>
       </ul>

@@ -70,9 +70,9 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=23">
+          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=24">
             <div class="arrow prev">이전글</div>
-            <div class="tit">주식명의개서정지공고</div>
+            <div class="tit">주식 1차공매 공고</div>
           </a>
         </li>
       </ul>
