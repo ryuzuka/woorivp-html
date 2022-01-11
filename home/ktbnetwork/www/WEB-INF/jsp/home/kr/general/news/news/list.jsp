@@ -75,42 +75,45 @@
                   <div class="con"><span class="date">2021.12.09</span></div>
                 </a>
               </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
-                  <strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
-                  <div class="con"><span class="date">2021.12.09</span></div>
-                </a>
-              </li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
+									<strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
+									<div class="con"><span class="date">2021.12.09</span></div>
+								</a>
+							</li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=30">
 									<strong class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</strong>
 									<div class="con"><span class="date">2021.12.03</span></div>
 								</a>
 							</li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=36">
-                  <strong class="tit">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공</strong>
-                  <div class="con"><span class="date">2021.12.02</span></div>
-                </a>
-              </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=35">
-                  <strong class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</strong>
-                  <div class="con"><span class="date">2021.12.02</span></div>
-                </a>
-              </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=34">
-                  <strong class="tit">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약</strong>
-                  <div class="con"><span class="date">2021.11.29</span></div>
-                </a>
-              </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=33">
-                  <strong class="tit">[IPO] 케이티비네트워크 온라인 기업설명회 안내!</strong>
-                  <div class="con"><span class="date">2021.11.25</span></div>
-                </a>
-              </li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=36">
+									<strong class="tit">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공</strong>
+									<div class="con"><span class="date">2021.12.02</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=35">
+									<strong class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</strong>
+									<div class="con"><span class="date">2021.12.02</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=34">
+									<strong class="tit">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약</strong>
+									<div class="con"><span class="date">2021.11.29</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=33">
+									<strong class="tit">[IPO] 케이티비네트워크 온라인 기업설명회 안내!</strong>
+									<div class="con"><span class="date">2021.11.25</span></div>
+								</a>
+							</li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=29">
 									<strong class="tit">신주발행공고</strong>
@@ -123,18 +126,21 @@
 									<div class="con"><span class="date">2021.09.01</span></div>
 								</a>
 							</li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=32">
-                  <strong class="tit">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대"</strong>
-                  <div class="con"><span class="date">2021.08.19</span></div>
-                </a>
-              </li>
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=32">
+									<strong class="tit">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대"</strong>
+									<div class="con"><span class="date">2021.08.19</span></div>
+								</a>
+							</li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=27">
 									<strong class="tit">주식 공매 공고</strong>
 									<div class="con"><span class="date">2021.07.14</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=26">
 									<strong class="tit">주식 3차공매 공고</strong>
@@ -177,9 +183,6 @@
 									<div class="con"><span class="date">2021.03.19</span></div>
 								</a>
 							</li>
-						</c:if>
-						
-						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=20">
 									<strong class="tit">제 12기 결산공고</strong>
@@ -198,6 +201,9 @@
 									<div class="con"><span class="date">2018.08.01</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=3">
 									<strong class="tit">외부감사인 선임 공고</strong>
@@ -240,9 +246,6 @@
 									<div class="con"><span class="date">2014.03.17</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3'}">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=10">
 									<strong class="tit">미크론정공(주) 주식 공매 공고</strong>
@@ -261,6 +264,9 @@
 									<div class="con"><span class="date">2013.05.20</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '5'}">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=13">
 									<strong class="tit">제 4기 결산공고</strong>
@@ -312,9 +318,11 @@
 							<a href="/home/news/news/list.do?page=1" <c:if test="${vo.page eq '1'}">class="on"</c:if>>1</a>
 							<a href="/home/news/news/list.do?page=2" <c:if test="${vo.page eq '2'}">class="on"</c:if>>2</a>
 							<a href="/home/news/news/list.do?page=3" <c:if test="${vo.page eq '3'}">class="on"</c:if>>3</a>
+							<a href="/home/news/news/list.do?page=4" <c:if test="${vo.page eq '4'}">class="on"</c:if>>4</a>
+							<a href="/home/news/news/list.do?page=3" <c:if test="${vo.page eq '5'}">class="on"</c:if>>5</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
-						<a href="/home/news/news/list.do?page=3" class="arrow end">마지막페이지로 이동</a>
+						<a href="/home/news/news/list.do?page=5" class="arrow end">마지막페이지로 이동</a>
 					</div>
 				</div>
 			</div>
@@ -323,11 +331,11 @@
 		<script>
 			$(function () {
         let $paging = $('.paginate')
-				
+
 				let pIdx = 0
         let pagingIndex = 0
 				let pagingLength = 0
-				
+
 				$paging.find('.num a').each(function (index) {
           if ($(this).hasClass('on')) {
             pIdx = index + 1
@@ -335,7 +343,7 @@
           }
           pagingLength = index + 1
 				})
-				
+
 				$paging.find('.prev, .next').on('click', function (e) {
           let $arrow =$(this)
           if ($arrow.hasClass('prev')) {
@@ -349,7 +357,7 @@
               pagingIndex = pagingLength
             }
           }
-          
+
           if (pagingIndex === pIdx) {
             return false
           } else {

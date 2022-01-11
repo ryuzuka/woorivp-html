@@ -1,10 +1,13 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
 <script type="text/javascript">
-function fncPage(page) {
-
-	if(page == '2') {
-		jQuery("li[data-page='2']").show();
+var pageIndex = 0
+function fncPage() {
+  if (pageIndex < 4) {
+      pageIndex++
+      jQuery('li[data-page=' + pageIndex + ']').show();
+  }
+	if(pageIndex === 4) {
 		jQuery("button.btnMore").hide();
 	}
 }
@@ -66,120 +69,120 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
             </li>
-						<li>
+						<li data-page="1" style="display: none;">
 							<a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
 						</li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop35" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 수요예측 결과안내 <em>2021.12.02</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop33" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 온라인 기업설명회 안내! <em>2021.11.25</em></a>
             </li>
-						<li>
+						<li data-page="1" style="display: none;">
 							<a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
 						</li>
-						<li>
+						<li data-page="1" style="display: none;">
 							<a href="#newsDetail_pop28" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
 						</li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
             </li>
-						<li>
+						<li data-page="1" style="display: none;">
 							<a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
 						</li>
-						<li>
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
 						</li>
-						<li>
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop25" role="button" title="상세내용 보기">주식 2차공매 공고<em>2021.07.12</em></a>
 						</li>
-						<li>
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식 1차공매 공고<em>2021.07.06</em></a>
 						</li>
-            <li>
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop31" role="button" title="상세내용 보기">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가 <em>2021.06.24</em></a>
             </li>
-						<li>
+						<li data-page="2" style="display: none;">
 						  <a href="#newsDetail_pop23" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.06.21</em></a>
 						</li>
-						<li>
+						<li data-page="2" style="display: none;">
 						  <a href="#newsDetail_pop22" role="button" title="상세내용 보기">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내<em>2021.06.09</em></a>
 						</li>
-						<li>
+						<li data-page="2" style="display: none;">
 						  <a href="#newsDetail_pop21" role="button" title="상세내용 보기">제 13기 결산공고<em>2021.03.19</em></a>
 						</li>
-						<li>
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop20" role="button" title="상세내용 보기">제 12기 결산공고<em>2020.03.13</em></a>
 						</li>
-						<li>
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop01" role="button" title="상세내용 보기">제 11기 결산공고<em>2019.03.08</em></a>
 						</li>
-						<li>
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop02" role="button" title="상세내용 보기">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고<em>2018.08.01</em></a>
 						</li>
-						<li>
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop03" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2018.04.09</em></a>
 						</li>
-						<li>
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop04" role="button" title="상세내용 보기">제 10기 결산공고<em>2018.03.06</em></a>
 						</li>
-						<li>
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop05" role="button" title="상세내용 보기">제 9기 결산공고<em>2017.03.02</em></a>
 						</li>
-						<li>
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop06" role="button" title="상세내용 보기">제 8기 결산공고<em>2016.03.07</em></a>
 						</li>
-						<li>
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop07" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2016.02.24</em></a>
 						</li>
-						<li>
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop08" role="button" title="상세내용 보기">제 7기 결산공고<em>2015.03.20</em></a>
 						</li>
-						<li>
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop09" role="button" title="상세내용 보기">제 6기 결산공고<em>2014.03.17</em></a>
 						</li>
-						<li>
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop10" role="button" title="상세내용 보기">미크론정공(주) 주식 공매 공고<em>2013.12.10</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop11" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2013.05.30</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop12" role="button" title="상세내용 보기">제 5기 결산공고<em>2013.05.20</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop13" role="button" title="상세내용 보기">제 4기 결산공고<em>2012.06.25</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop14" role="button" title="상세내용 보기">(주)다림비젼 주식 공매 공고<em>2011.10.25</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop15" role="button" title="상세내용 보기">제 3기 결산공고<em>2011.06.13</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop16" role="button" title="상세내용 보기">주권제출 공고<em>2011.02.22</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop17" role="button" title="상세내용 보기">채권자 이의제출 공고<em>2011.02.21</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop18" role="button" title="상세내용 보기">케이티비네트워크 상반기 가결산 공시<em>2011.01.24</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop19" role="button" title="상세내용 보기">상호 및 공고방법 변경<em>2010.10.29</em></a>
 						</li>
 					</ul>
 
-					<button type="button" onclick="fncPage('2');" class="btnMore">더보기</button>
+					<button type="button" onclick="fncPage();" class="btnMore">더보기</button>
 				</div>
 			</div>
 		</div><!-- //contents -->
@@ -1084,7 +1087,7 @@ jQuery(window).load(function() {
 				<div class="detailCon">
 					<div class="newscon_box" style="padding: 15px 25px">
 						<h4 class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</h4>
-						
+
 						<ul style="padding: 10px 10px">
 							<li style="font-size: 15px; padding-bottom: 15px">
 								<b>· 청약일</b><br>2021년 12월 06일(월) ~ 07일(화)
@@ -1588,7 +1591,7 @@ jQuery(window).load(function() {
 		  <h3 class="titDep3">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h3>
 		  <em class="date">2021.06.09</em>
 		</div>
-	
+
 		<div class="detailCon">
 		  <div class="newscon_box">
 			<h4 class="tit">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내</h4>
@@ -1624,7 +1627,7 @@ jQuery(window).load(function() {
 		  <em class="date">2021.03.19</em>
 		</div>
 		<div class="detailCon">
-	
+
 		  <table class="tblH">
 			<caption>제13기 결산공고</caption>
 			<colgroup><col style="width:50%" span="2"></colgroup>
@@ -1677,7 +1680,7 @@ jQuery(window).load(function() {
 			</tr>
 			</tbody>
 		  </table>
-	
+
 		  <table class="tblH">
 			<caption>제12기 결산공고</caption>
 			<colgroup><col style="width:50%" span="2"></colgroup>
@@ -1734,7 +1737,7 @@ jQuery(window).load(function() {
 			</tr>
 			</tbody>
 		  </table>
-	
+
 		  <div class="newscon_box">
 			<p class="txt">위와 같이 공고합니다.</p>
 			<div class="bottomTxt">
@@ -1742,13 +1745,13 @@ jQuery(window).load(function() {
 			  <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
 			</div>
 		  </div><!-- //newscon_box -->
-	
+
 		  <p class="opinionTxt">
 			[감사의견] 회사의 재무제표는 2020년 12월 31일 현재의 재무상태와 동일로 종료되는 보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라, 중요성의 관점에서 공정하게 표시하고 있습니다.
 			<em>삼정회계법인 대표이사 김교태</em>
 		  </p>
 		  <!--  // .opinionTxt -->
-	
+
 		</div><!-- //detailCon -->
 		</div>
 		</div>
