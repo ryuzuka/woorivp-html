@@ -65,6 +65,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=39">
+            <div class="arrow next">다음글</div>
+            <div class="tit">주주명부폐쇄기간또는기준일설정</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
             <div class="arrow prev">이전글</div>
             <div class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</div>

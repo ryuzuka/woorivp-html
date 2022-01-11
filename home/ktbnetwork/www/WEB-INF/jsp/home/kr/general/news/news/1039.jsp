@@ -91,6 +91,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=40">
+            <div class="arrow next">다음글</div>
+            <div class="tit">주식등의대량보유상황보고서(일반)</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=38">
             <div class="arrow prev">이전글</div>
             <div class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</div>

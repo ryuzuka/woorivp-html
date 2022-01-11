@@ -319,7 +319,7 @@
 							<a href="/home/news/news/list.do?page=2" <c:if test="${vo.page eq '2'}">class="on"</c:if>>2</a>
 							<a href="/home/news/news/list.do?page=3" <c:if test="${vo.page eq '3'}">class="on"</c:if>>3</a>
 							<a href="/home/news/news/list.do?page=4" <c:if test="${vo.page eq '4'}">class="on"</c:if>>4</a>
-							<a href="/home/news/news/list.do?page=3" <c:if test="${vo.page eq '5'}">class="on"</c:if>>5</a>
+							<a href="/home/news/news/list.do?page=5" <c:if test="${vo.page eq '5'}">class="on"</c:if>>5</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
 						<a href="/home/news/news/list.do?page=5" class="arrow end">마지막페이지로 이동</a>

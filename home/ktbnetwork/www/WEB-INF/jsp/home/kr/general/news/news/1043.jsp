@@ -122,6 +122,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=44">
+            <div class="arrow next">다음글</div>
+            <div class="tit">임원ㆍ주요주주특정증권등소유상황보고서</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=42">
             <div class="arrow prev">이전글</div>
             <div class="tit">주식명의개서정지공고</div>

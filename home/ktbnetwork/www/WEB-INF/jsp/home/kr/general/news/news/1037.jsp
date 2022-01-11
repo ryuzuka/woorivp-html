@@ -65,6 +65,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=38">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=30">
             <div class="arrow prev">이전글</div>
             <div class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</div>

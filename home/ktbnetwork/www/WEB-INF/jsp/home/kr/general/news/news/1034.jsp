@@ -81,6 +81,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=35">
+            <div class="arrow next">다음글</div>
+            <div class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=33">
             <div class="arrow prev">이전글</div>
             <div class="tit">[IPO] 케이티비네트워크 온라인 기업설명회 안내!</div>

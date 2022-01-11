@@ -65,6 +65,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=28">
+            <div class="arrow next">다음글</div>
+            <div class="tit">주식명의개서정지공고</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=27">
             <div class="arrow prev">이전글</div>
             <div class="tit">주식 공매 공고</div>
