@@ -75,8 +75,8 @@
 .historyArea .historyList .year .list ul.txt li+li{margin-top:10px}
 .historyArea .historyList .year .list ul.txt ul{margin-top:10px}
 .Philosophy:after{content:'';display:block;clear:both}
-.Philosophy .imgArea{float:left;width:500px;margin-top:0;padding-right:125px}	
-.Philosophy .conArea{float:right;width:475px;margin-top:65px}	
+.Philosophy .imgArea{float:left;width:500px;margin-top:0;padding-right:125px}
+.Philosophy .conArea{float:right;width:475px;margin-top:65px}
 .Philosophy .conArea{position:relative}
 .Philosophy .conArea li{position:relative;padding:25px 0 30px 93px;color:#555}
 .Philosophy .conArea li+li{border-top:1px solid #e7e7e7}
@@ -84,17 +84,17 @@
 .Philosophy .conArea li:before{content:'';display:block;position:absolute;left:0;top:35px;width:62px;height:60px;;;background:url(../images/contents/bg_philosophy.png) no-repeat 0 0}
 .Philosophy .conArea li+li:before{background-position:0 -60px}
 .Philosophy .conArea li+li+li:before{background-position:0 -120px}
-.plopList{border:1px solid #e6e6e6;padding:50px 0 40px}	
+.plopList{border:1px solid #e6e6e6;padding:50px 0 40px}
 .plopList:after{content:'';display:block;clear:both}
 .plopList li{float:left;width:20%;text-align:center}
-.plopList li span{display:block;padding-top:15px;color:#2c2d93;font-size:18px;font-weight:500;letter-spacing:-1px}	
+.plopList li span{display:block;padding-top:15px;color:#2c2d93;font-size:18px;font-weight:500;letter-spacing:-1px}
 
 /* Who We Are */
 .memberList{position:relative;margin:0 -10px;padding-top:457px}
-.memberList ul:after{content:'';display:block;clear:both} 
+.memberList ul:after{content:'';display:block;clear:both}
 .memberList li{float:left}
-.memberList li .member{display:none;position:absolute;top:0;left:0;width:1100px;z-index:-1}	
-.memberList li .member:after{content:'';display:block;clear:both} 
+.memberList li .member{display:none;position:absolute;top:0;left:0;width:1100px;z-index:-1}
+.memberList li .member:after{content:'';display:block;clear:both}
 .memberList li .member .left{position:relative;float:left;width:700px}
 .memberList li .member .left:after{content:'';width:100%;height:197px;background:url(../images/contents/bg_member.png) 0 0 repeat-x;display:block;position:absolute;bottom:0;left:0}
 .memberList li .member .right{float:right;width:400px;padding-top:5px}
@@ -106,27 +106,27 @@
 .memberList .thumb{position:relative;display:block;margin:0 10px 65px}
 .memberList .thumb strong{display:block;margin-bottom:2px;font-size:20px;font-weight:600}
 .memberList .thumb strong span{display:block;font-size:15px;font-weight:400}
-.memberList .thumb .img{position:relative;display:block;width:204px;margin-bottom:8px}		
-.memberList .active .thumb .img:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;border:2px solid #2c2c92}	
-.memberList .thumb:hover strong{color:#2c2c92}				
-.memberList .ctrl{position:absolute;top:385px;right:0;width:53px;height:53px;overflow:hidden;text-indent:-9999px;background:url(../images/contents/btn_team_ctrl.png) 0 0 no-repeat}	
+.memberList .thumb .img{position:relative;display:block;width:204px;margin-bottom:8px}
+.memberList .active .thumb .img:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;border:2px solid #2c2c92}
+.memberList .thumb:hover strong{color:#2c2c92}
+.memberList .ctrl{position:absolute;top:385px;right:0;width:53px;height:53px;overflow:hidden;text-indent:-9999px;/*background:url(../images/contents/btn_team_ctrl.png) 0 0 no-repeat*/}
 .memberList .ctrl.prev{right:51px}
 .memberList .ctrl.next{background-position:-52px 0}
 .memberList .ctrl:disabled{opacity:0.5}
 .memberWrap:after, .memberInner:after{content:'';display:block;clear:both}
 .memberWrap .memberInner{float:left;width:450px}
 .memberInner .title{position:relative;float:left;width:130px;height:130px;margin-right:10px;padding:20px;color:#fff;font-size:15px;font-weight:500;background:#25283d url(../images/contents/bg_triangle_member.png) 100% 100% no-repeat}
-.memberInner .title:after{content:'';display:block;width:90px;height:1px;margin-top:14px;background:#fff}	
-.memberInner ul{float:left;width:900px}				
-.memberWrap .memberInner ul{width:300px}	
+.memberInner .title:after{content:'';display:block;width:90px;height:1px;margin-top:14px;background:#fff}
+.memberInner ul{float:left;width:900px}
+.memberWrap .memberInner ul{width:300px}
 
 /* Meet Our Partners */
-.partnersList:after{content:'';display:block;clear:both}	
-.partnersList li{float:left;width:220px;height:157px;margin:-1px 0 0 -1px}		
-.partnersList li a{display:block;height:157px;padding:33px 9px;border:1px solid #dedede;text-align:center;background:#fff}		
-.partnersList li a span{display:none}	
-.partnersList li a:hover, .partnersList li a:focus{position:relative;padding:10px 9px 34px;border:none;box-shadow:8px 6px 30px rgba(0,0,0,0.1)}	
-.partnersList li a:hover:after, .partnersList li a:focus:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background: url(../images/contents/bg_partners_over.png) no-repeat 0 0}	
+.partnersList:after{content:'';display:block;clear:both}
+.partnersList li{float:left;width:220px;height:157px;margin:-1px 0 0 -1px}
+.partnersList li a{display:block;height:157px;padding:33px 9px;border:1px solid #dedede;text-align:center;background:#fff}
+.partnersList li a span{display:none}
+.partnersList li a:hover, .partnersList li a:focus{position:relative;padding:10px 9px 34px;border:none;box-shadow:8px 6px 30px rgba(0,0,0,0.1)}
+.partnersList li a:hover:after, .partnersList li a:focus:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background: url(../images/contents/bg_partners_over.png) no-repeat 0 0}
 .partnersList li a:hover span, .partnersList li a:focus span{display:block}
 .link:after{content:'';clear:both;display:block}
 .link p{float:left;color:#333;font-weight:500}
@@ -156,7 +156,7 @@
 .boardView .viewTit{overflow:hidden;padding:30px 40px;border-bottom:1px solid #dedede}
 .boardView .viewTit .tit{display:block;color:#111;font-size:18px}
 .boardView .viewTit .con{margin-top:5px}
-.boardView .viewTit .con .date{color::#737373}
+.boardView .viewTit .con .date{color:#737373}
 .boardView .viewFile{padding:15px 40px;background:#f7f7f7}
 .boardView .viewFile>a{display:block;color:#333;font-weight:500}
 .boardView .viewFile>a:before{content:'';display:inline-block;width:20px;height:20px;padding-left:40px;background:url(../images/common/btn_down.png) no-repeat}
@@ -171,8 +171,8 @@
 .baordIndex .tit{display:inline-block;margin-left:70px}
 .noticeBox{position:relative;margin:50px 0;padding:50px 0;background:#f7f7f7;text-align:center}
 .noticeBox:after{content:'';position:absolute;bottom:0;right:0;width:70px;height:70px;background:url(../images/common/bg_triangle.png) 0 0 no-repeat}
-.noticeBox .dateTxt{display:block;margin-bottom:10px;font-size:18px}			
-.noticeBox .dateTxt:before{content:'';display:block;width:30px;height:1px;margin:20px auto;background:#111}	
+.noticeBox .dateTxt{display:block;margin-bottom:10px;font-size:18px}
+.noticeBox .dateTxt:before{content:'';display:block;width:30px;height:1px;margin:20px auto;background:#111}
 .noticeBox .ceoTxt{font-size:20px}
 dl.noticeBox{width:660px;margin:0 auto;padding:67px 65px}
 dl.noticeBox dt{margin-bottom:30px;font-size:22px;font-weight:600;color:#111}
