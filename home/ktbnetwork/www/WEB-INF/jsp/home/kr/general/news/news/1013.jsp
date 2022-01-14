@@ -33,7 +33,7 @@
 										<th scope="col">금액</th>
 									</tr>
 								</thead>
-								<tfoot>															
+								<tfoot>
 									<tr>
 										<th scope="row" class="tleft">자산총계</th>
 										<td class="tright">118,662,535,662</td>
@@ -107,7 +107,7 @@
 										<td class="tright"></td>
 										<th scope="row" class="tleft tfoot">자본총계</th>
 										<td class="tright tfoot">108,326,194,520</td>
-									</tr>	
+									</tr>
 								</tbody>
 							</table>
 							<div class="noticeBox">
@@ -127,7 +127,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=12">
+							<a href="/home/news/news/view.do?page=4&num=12">
 								<div class="arrow prev">이전글</div>
 								<div class="tit">제 5기 결산공고</div>
 							</a>

@@ -43,7 +43,7 @@
           </a>
         </li>
         <li>
-          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=26">
+          <a href="/home/news/news/view.do?page=3&num=26">
             <div class="arrow prev">이전글</div>
             <div class="tit">주식 3차공매 공고</div>
           </a>

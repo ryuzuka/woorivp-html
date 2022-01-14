@@ -71,7 +71,7 @@
           </a>
         </li>
         <li>
-          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
+          <a href="/home/news/news/view.do?page=2&num=37">
             <div class="arrow prev">이전글</div>
             <div class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</div>
           </a>

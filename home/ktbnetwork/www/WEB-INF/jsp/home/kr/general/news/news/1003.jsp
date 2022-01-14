@@ -20,15 +20,15 @@
 								<span class="date">2018.04.09</span>
 							</div>
 						</div>
-						<div class="viewCon">							
+						<div class="viewCon">
 							<dl class="noticeBox">
 								<dt>외부감사인 선임 공고</dt>
 								<dd>
 									<p>주식회사의 외부감사에 관한 법률 제10조에 의거, 당사 감사가 감사인선임위원회의 승인을 득하여 제12기를 포함한 연속하는 3개 사업연도의 외부감사인을 삼정회계법인으로 선정하였음을 공고합니다.</p>
 									<div class="tcenter mtL">
 										<span class="dateTxt">2019년 2월 14일</span>
-										<strong class="ceoTxt">케이티비네트워크주식회사 대표이사 신진호</strong>											
-									</div>								
+										<strong class="ceoTxt">케이티비네트워크주식회사 대표이사 신진호</strong>
+									</div>
 								</dd>
 							</dl>
 						</div>
@@ -41,7 +41,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=2">
+							<a href="/home/news/news/view.do?page=3&num=2">
 								<div class="arrow prev">이전글</div>
 								<div class="tit">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고</div>
 							</a>

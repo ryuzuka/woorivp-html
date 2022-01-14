@@ -19,7 +19,7 @@
 								<span class="date">2018.08.01</span>
 							</div>
 						</div>
-						<div class="viewCon">							
+						<div class="viewCon">
 							<dl class="noticeBox">
 								<dt>액면분할에 따른 구주권 제출 및<br>채권자 이의 제출 공고</dt>
 								<dd>
@@ -48,15 +48,15 @@
 									</table>
 									<div class="tcenter mtL">
 										<span class="dateTxt">2018년 8월 1일</span>
-										<strong class="ceoTxt">케이티비네트워크주식회사 대표이사 신진호</strong>											
-									</div>								
+										<strong class="ceoTxt">케이티비네트워크주식회사 대표이사 신진호</strong>
+									</div>
 								</dd>
 							</dl>
 						</div>
 					</div>
 					<ul class="baordIndex">
 						<li>
-							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=3">
+							<a href="/home/news/news/view.do?page=4&num=3">
 								<div class="arrow next">다음글</div>
 								<div class="tit">외부감사인 선임 공고</div>
 							</a>

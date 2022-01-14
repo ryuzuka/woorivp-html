@@ -65,7 +65,7 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=38">
+          <a href="/home/news/news/view.do?page=1&num=38">
             <div class="arrow next">다음글</div>
             <div class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</div>
           </a>
