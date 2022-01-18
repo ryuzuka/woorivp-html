@@ -46,25 +46,31 @@ jQuery(window).load(function() {
                           <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
                         </li>
                         <li>
-                          <a href="#newsDetail_pop45" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>
+                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>
+                          <%--<a href="#newsDetail_pop45" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>--%>
                         </li>
                         <li>
-                          <a href="#newsDetail_pop44" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>
+                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211222000247" target="_blank" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>
+                          <%--<a href="#newsDetail_pop44" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>--%>
                         </li>
                         <li>
-                          <a href="#newsDetail_pop43" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>
+                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211220000193" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>
+                          <%--<a href="#newsDetail_pop43" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>--%>
                         </li>
                         <li>
                           <a href="#newsDetail_pop42" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2021.12.16</em></a>
                         </li>
                         <li>
-                          <a href="#newsDetail_pop41" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>
+                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000348" target="_blank" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>
+                          <%--<a href="#newsDetail_pop41" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>--%>
                         </li>
                         <li>
-                          <a href="#newsDetail_pop40" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>
+                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000254" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>
+                          <%--<a href="#newsDetail_pop40" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>--%>
                         </li>
                         <li>
-                          <a href="#newsDetail_pop39" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>
+                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216900946" target="_blank" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>
+                          <%--<a href="#newsDetail_pop39" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>--%>
                         </li>
                         <li>
                           <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>

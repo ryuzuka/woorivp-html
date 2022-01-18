@@ -28,19 +28,22 @@
                 </a>
               </li>
               <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=45">
+                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=45">--%>
+                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank">
                   <strong class="tit">주식등의대량보유상황보고서(약식)</strong>
                   <div class="con"><span class="date">2021.12.23</span></div>
                 </a>
               </li>
               <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=44">
+                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=44">--%>
+                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211222000247" target="_blank">
                   <strong class="tit">임원ㆍ주요주주특정증권등소유상황보고서</strong>
                   <div class="con"><span class="date">2021.12.22</span></div>
                 </a>
               </li>
               <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=43">
+                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=43">--%>
+                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211220000193" target="_blank">
                   <strong class="tit">주식등의대량보유상황보고서(약식)</strong>
                   <div class="con"><span class="date">2021.12.20</span></div>
                 </a>
@@ -52,19 +55,22 @@
                 </a>
               </li>
               <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=41">
+                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=41">--%>
+                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000348" target="_blank">
                   <strong class="tit">사외이사의선임ㆍ해임또는중도퇴임에관한신고</strong>
                   <div class="con"><span class="date">2021.12.16</span></div>
                 </a>
               </li>
               <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=40">
+                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=40">--%>
+                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000254" target="_blank">
                   <strong class="tit">주식등의대량보유상황보고서(일반)</strong>
                   <div class="con"><span class="date">2021.12.16</span></div>
                 </a>
               </li>
               <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=39">
+                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=39">--%>
+                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216900946" target="_blank">
                   <strong class="tit">주주명부폐쇄기간또는기준일설정</strong>
                   <div class="con"><span class="date">2021.12.16</span></div>
                 </a>
