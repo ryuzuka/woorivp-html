@@ -412,7 +412,7 @@
 <script>
   $(window).on('jsLoad', function () {
     let date = parseInt(moment().format('YYYYMMDDHHmm'))
-	  if (202202090000 <= date && date < 202202281159) {
+	  if (202202140000 <= date && date < 202202281159) {
 		  commonJs.popupShow('#pop20220214') // 외부감사인 선임 공고
 	  }
     /**
