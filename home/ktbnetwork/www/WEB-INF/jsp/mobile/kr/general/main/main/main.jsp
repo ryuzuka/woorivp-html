@@ -387,13 +387,34 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
+	<!-- 외부감사인 선임 공고 -->
+	<div class="layerPop" id="pop20220214">
+		<div class="layerContainer" style="padding: 80px 0px 15px">
+			<h2 class="layerTit" style="text-align: center; font-size: 18px">외부감사인 선임 공고</h2>
+			<div class="layerCont newscon_box" tabindex="0" style="padding-top: 0px; background-color: #fff">
+				<p style="text-align: center">
+					주식회사의 외부감사에 관한 법률 제10조에 의거, 당사 감사가 감사인선임위원회의 승인을 득하여 제15기를 포함한 연속하는 3개 사업연도의 외부감사인을 삼정회계법인으로 선정하였음을 공고합니다.
+				</p>
+				<div class="bottomTxt" style="color: #555; padding-top: 30px">
+					<strong style="font-weight:500; font-size: 16px">2022년 02월 14일</strong>
+					<strong style="font-weight:500; font-size: 16px; padding-top: 0px">케이티비네트워크 주식회사</strong>
+					<strong style="font-weight:500; font-size: 16px; padding-top: 0px" class="ceoTxt">대표이사 <span style="font-weight: bolder; color: #111">김 창 규</span></strong>
+				</div>
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // 외부감사인 선임 공고 -->
+
 	<div class="dimmed"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
   $(window).on('jsLoad', function () {
     let date = parseInt(moment().format('YYYYMMDDHHmm'))
-
+	  if (202202090000 <= date && date < 202202281159) {
+		  commonJs.popupShow('#pop20220214') // 외부감사인 선임 공고
+	  }
     /**
   	if (202111240800 <= date && date < 202112080000) {
 			commonJs.popupShow('#pop20211124') // 신주발행공고

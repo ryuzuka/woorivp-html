@@ -16,11 +16,35 @@
       width: 720px;
       vertical-align: top;
 		}
+		.notice-popup {background:#f7f7f7;}
+		.noticeBox{position:relative;width:500px;margin:0 auto;padding:50px 0;color:#555;text-align:center}
+		.noticeBox dt{margin-bottom:30px;font-size:22px;font-weight:600;color:#111;}
+		.noticeBox:after{content:'';position:absolute;bottom:0;right:0;width:70px;height:70px;background:url(../images/common/bg_triangle.png) 0 0 no-repeat}
+		.noticeBox .dateTxt{display:block;margin-bottom:10px;font-size:18px}
+		.noticeBox .dateTxt:before{content:'';display:block;width:30px;height:1px;margin:20px auto;background:#111}
+		.noticeBox .ceoTxt{font-size:20px}
 	</style>
 </head>
 <body class="main">
 	<div>
-    <img src="" alt="KTBNETWORK NOTICE">
+		<!-- 마크업으로 팝업 띄울때 -->
+		<div class="notice-popup">
+			<dl class="noticeBox">
+				<dt>외부감사인 선임 공고</dt>
+				<dd>
+					<p>주식회사의 외부감사에 관한 법률 제10조에 의거, 당사 감사가 감사인선임위원회의 승인을 득하여 제15기를 포함한 연속하는 3개 사업연도의 외부감사인을 삼정회계법인으로 선정하였음을 공고합니다.</p>
+					<div class="tcenter mtL">
+						<span class="dateTxt">2022년 2월 14일</span>
+						<strong class="ceoTxt">케이티비네트워크주식회사 대표이사 김창규</strong>
+					</div>
+				</dd>
+			</dl>
+		</div>
+		<!-- // 마크업으로 팝업 띄울때 -->
+
+		<!-- 이미지로 팝업 띄울때 -->
+    	<!--<img src="" alt="KTBNETWORK NOTICE">-->
+		<!-- // 이미지로 팝업 띄울때 -->
 	</div>
 
   <script>

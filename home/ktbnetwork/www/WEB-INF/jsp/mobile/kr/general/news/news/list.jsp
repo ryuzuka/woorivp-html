@@ -40,6 +40,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
                         <li>
+                          <a href="#newsDetail_pop48" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2022.02.14</em></a>
+                        </li>
+                        <li>
                           <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
                         </li>
                         <li>
@@ -72,7 +75,7 @@ jQuery(window).load(function() {
                           <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216900946" target="_blank" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>
                           <%--<a href="#newsDetail_pop39" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>--%>
                         </li>
-                        <li>
+                        <li data-page="1" style="display: none;">
                           <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
                         </li>
                         <li data-page="1" style="display: none;">
@@ -102,7 +105,7 @@ jQuery(window).load(function() {
                         <li data-page="1" style="display: none;">
                           <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
                         </li>
-                        <li data-page="1" style="display: none;">
+                        <li data-page="2" style="display: none;">
                             <a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
                         </li>
                         <li data-page="2" style="display: none;">
@@ -132,7 +135,7 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop01" role="button" title="상세내용 보기">제 11기 결산공고<em>2019.03.08</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop02" role="button" title="상세내용 보기">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고<em>2018.08.01</em></a>
 						</li>
 						<li data-page="3" style="display: none;">
@@ -162,7 +165,7 @@ jQuery(window).load(function() {
 						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop11" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2013.05.30</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop12" role="button" title="상세내용 보기">제 5기 결산공고<em>2013.05.20</em></a>
 						</li>
 						<li data-page="4" style="display: none;">
@@ -195,6 +198,30 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
+    <!-- 외부감사인 선임 공고 -->
+    <div class="fullLayer" id="newsDetail_pop48">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">외부감사인 선임 공고</h3>
+            <em class="date">2022.02.14</em>
+          </div>
+          <div class="detailCon">
+            <div class="newscon_box">
+              <h4 class="tit">외부감사인 선임 공고</h4>
+              <p class="txt type02">주식회사의 외부감사에 관한 법률 제10조에 의거, 당사 감사가 감사인선임위원회의 승인을 득하여 제15기를 포함한 연속하는 3개 사업연도의 외부감사인을 삼정회계법인으로 선정하였음을 공고합니다.</p>
+              <div class="bottomTxt">
+                <em>2022년 02월 14일</em>
+                <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
+              </div>
+            </div><!-- //newscon_box -->
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // 외부감사인 선임 공고 -->
   <!-- (아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 -->
   <div class="fullLayer" id="newsDetail_pop47">
     <h2 class="layerTit">NEWS</h2>

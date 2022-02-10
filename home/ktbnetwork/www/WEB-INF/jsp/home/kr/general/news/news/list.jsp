@@ -15,75 +15,81 @@
 				<div class="inner">
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=47">
-                  <strong class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</strong>
-                  <div class="con"><span class="date">2022.01.07</span></div>
-                </a>
-              </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=46">
-                  <strong class="tit">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것"</strong>
-                  <div class="con"><span class="date">2022.01.07</span></div>
-                </a>
-              </li>
-              <li>
-                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=45">--%>
-                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank">
-                  <strong class="tit">주식등의대량보유상황보고서(약식)</strong>
-                  <div class="con"><span class="date">2021.12.23</span></div>
-                </a>
-              </li>
-              <li>
-                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=44">--%>
-                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211222000247" target="_blank">
-                  <strong class="tit">임원ㆍ주요주주특정증권등소유상황보고서</strong>
-                  <div class="con"><span class="date">2021.12.22</span></div>
-                </a>
-              </li>
-              <li>
-                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=43">--%>
-                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211220000193" target="_blank">
-                  <strong class="tit">주식등의대량보유상황보고서(약식)</strong>
-                  <div class="con"><span class="date">2021.12.20</span></div>
-                </a>
-              </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=42">
-                  <strong class="tit">주식명의개서정지공고</strong>
-                  <div class="con"><span class="date">2021.12.16</span></div>
-                </a>
-              </li>
-              <li>
-                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=41">--%>
-                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000348" target="_blank">
-                  <strong class="tit">사외이사의선임ㆍ해임또는중도퇴임에관한신고</strong>
-                  <div class="con"><span class="date">2021.12.16</span></div>
-                </a>
-              </li>
-              <li>
-                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=40">--%>
-                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000254" target="_blank">
-                  <strong class="tit">주식등의대량보유상황보고서(일반)</strong>
-                  <div class="con"><span class="date">2021.12.16</span></div>
-                </a>
-              </li>
-              <li>
-                <%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=39">--%>
-                <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216900946" target="_blank">
-                  <strong class="tit">주주명부폐쇄기간또는기준일설정</strong>
-                  <div class="con"><span class="date">2021.12.16</span></div>
-                </a>
-              </li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=38">
-                  <strong class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</strong>
-                  <div class="con"><span class="date">2021.12.09</span></div>
-                </a>
-              </li>
+						<li>
+							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
+								<strong class="tit">외부감사인 선임 공고</strong>
+								<div class="con"><span class="date">2022.02.14</span></div>
+							</a>
+						</li>
+						  <li>
+							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=47">
+							  <strong class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</strong>
+							  <div class="con"><span class="date">2022.01.07</span></div>
+							</a>
+						  </li>
+						  <li>
+							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=46">
+							  <strong class="tit">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것"</strong>
+							  <div class="con"><span class="date">2022.01.07</span></div>
+							</a>
+						  </li>
+						  <li>
+							<%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=45">--%>
+							<a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank">
+							  <strong class="tit">주식등의대량보유상황보고서(약식)</strong>
+							  <div class="con"><span class="date">2021.12.23</span></div>
+							</a>
+						  </li>
+						  <li>
+							<%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=44">--%>
+							<a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211222000247" target="_blank">
+							  <strong class="tit">임원ㆍ주요주주특정증권등소유상황보고서</strong>
+							  <div class="con"><span class="date">2021.12.22</span></div>
+							</a>
+						  </li>
+						  <li>
+							<%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=43">--%>
+							<a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211220000193" target="_blank">
+							  <strong class="tit">주식등의대량보유상황보고서(약식)</strong>
+							  <div class="con"><span class="date">2021.12.20</span></div>
+							</a>
+						  </li>
+						  <li>
+							<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=42">
+							  <strong class="tit">주식명의개서정지공고</strong>
+							  <div class="con"><span class="date">2021.12.16</span></div>
+							</a>
+						  </li>
+						  <li>
+							<%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=41">--%>
+							<a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000348" target="_blank">
+							  <strong class="tit">사외이사의선임ㆍ해임또는중도퇴임에관한신고</strong>
+							  <div class="con"><span class="date">2021.12.16</span></div>
+							</a>
+						  </li>
+						  <li>
+							<%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=40">--%>
+							<a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000254" target="_blank">
+							  <strong class="tit">주식등의대량보유상황보고서(일반)</strong>
+							  <div class="con"><span class="date">2021.12.16</span></div>
+							</a>
+						  </li>
+						  <li>
+							<%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=39">--%>
+							<a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216900946" target="_blank">
+							  <strong class="tit">주주명부폐쇄기간또는기준일설정</strong>
+							  <div class="con"><span class="date">2021.12.16</span></div>
+							</a>
+						  </li>
 						</c:if>
 
 						<c:if test="${vo.page eq '2' }">
+							<li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=38">
+									<strong class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</strong>
+									<div class="con"><span class="date">2021.12.09</span></div>
+								</a>
+							</li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
 									<strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
@@ -138,15 +144,15 @@
 									<div class="con"><span class="date">2021.08.19</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=27">
 									<strong class="tit">주식 공매 공고</strong>
 									<div class="con"><span class="date">2021.07.14</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=26">
 									<strong class="tit">주식 3차공매 공고</strong>
@@ -165,12 +171,12 @@
 									<div class="con"><span class="date">2021.07.06</span></div>
 								</a>
 							</li>
-              <li>
-                <a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=31">
-                  <strong class="tit">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가</strong>
-                  <div class="con"><span class="date">2021.06.24</span></div>
-                </a>
-              </li>
+						    <li>
+								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=31">
+								  <strong class="tit">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가</strong>
+								  <div class="con"><span class="date">2021.06.24</span></div>
+								</a>
+						    </li>
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=23">
 									<strong class="tit">주식명의개서정지공고</strong>
@@ -201,15 +207,15 @@
 									<div class="con"><span class="date">2019.03.08</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=2">
 									<strong class="tit">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고</strong>
 									<div class="con"><span class="date">2018.08.01</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=3">
 									<strong class="tit">외부감사인 선임 공고</strong>
@@ -264,15 +270,15 @@
 									<div class="con"><span class="date">2013.05.30</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '5'}">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=12">
 									<strong class="tit">제 5기 결산공고</strong>
 									<div class="con"><span class="date">2013.05.20</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '5'}">
 							<li>
 								<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=13">
 									<strong class="tit">제 4기 결산공고</strong>
