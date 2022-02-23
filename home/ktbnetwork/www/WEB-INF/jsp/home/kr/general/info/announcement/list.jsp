@@ -3,7 +3,7 @@
 
 		<section id="container" class="container">
 			<nav class="nav">
-				<ol class="navArea"><li>HOME</li><li>News</li></ol>
+				<ol class="navArea"><li>HOME</li><li>Info</li></ol>
 			</nav>
 			<div class="content">
 				<div class="visualArea">
