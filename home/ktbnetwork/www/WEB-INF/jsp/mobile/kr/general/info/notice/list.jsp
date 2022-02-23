@@ -31,95 +31,104 @@ jQuery(window).load(function() {
 	<section class="container">
 		<div class="contents">
 			<div class="visualArea">
-				<h1 class="pageTit">News</h1>
-				<p role="text" class="pageTxt">KTB네트워크의 공지사항을 안내해드립니다.</p>
+        <h1 class="pageTit">Info</h1>
+        <p role="text" class="pageTxt">KTB네트워크의 공지사항을 안내해드립니다.</p>
 			</div>
+      <div class="tabType1">
+        <ul>
+          <li><a href="/home/info/news/list.do" aria-selected="true">NEWS</a></li>
+          <li class="on"><a href="/home/info/notice/list.do">공지사항</a></li>
+          <li><a href="/home/info/announcement/list.do">경영공시</a></li>
+          <li><a href="/home/info/ir.do">IR</a></li>
+          <li><a href="/home/info/esg.do">ESG</a></li>
+        </ul>
+      </div>
 			<div class="news">
 				<div class="boardArea">
 					<h2 class="hidden">news 리스트</h2>
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
-                        <li>
-                          <a href="#newsDetail_pop48" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2022.02.14</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
-                        </li>
-                        <li>
-                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>
-                          <%--<a href="#newsDetail_pop45" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>--%>
-                        </li>
-                        <li>
-                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211222000247" target="_blank" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>
-                          <%--<a href="#newsDetail_pop44" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>--%>
-                        </li>
-                        <li>
-                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211220000193" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>
-                          <%--<a href="#newsDetail_pop43" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>--%>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop42" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2021.12.16</em></a>
-                        </li>
-                        <li>
-                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000348" target="_blank" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>
-                          <%--<a href="#newsDetail_pop41" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>--%>
-                        </li>
-                        <li>
-                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000254" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>
-                          <%--<a href="#newsDetail_pop40" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>--%>
-                        </li>
-                        <li>
-                          <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216900946" target="_blank" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>
-                          <%--<a href="#newsDetail_pop39" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>--%>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                            <a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop35" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 수요예측 결과안내 <em>2021.12.02</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop33" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 온라인 기업설명회 안내! <em>2021.11.25</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                            <a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                            <a href="#newsDetail_pop28" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
-                        </li>
-                        <li data-page="2" style="display: none;">
-                            <a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
-                        </li>
-                        <li data-page="2" style="display: none;">
-                            <a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
-                        </li>
-                        <li data-page="2" style="display: none;">
-                            <a href="#newsDetail_pop25" role="button" title="상세내용 보기">주식 2차공매 공고<em>2021.07.12</em></a>
-                        </li>
-                        <li data-page="2" style="display: none;">
-                            <a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식 1차공매 공고<em>2021.07.06</em></a>
-                        </li>
-                        <li data-page="2" style="display: none;">
-                          <a href="#newsDetail_pop31" role="button" title="상세내용 보기">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가 <em>2021.06.24</em></a>
-                        </li>
+            <li>
+              <a href="#newsDetail_pop48" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2022.02.14</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
+            </li>
+            <li>
+              <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>
+              <%--<a href="#newsDetail_pop45" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>--%>
+            </li>
+            <li>
+              <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211222000247" target="_blank" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>
+              <%--<a href="#newsDetail_pop44" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>--%>
+            </li>
+            <li>
+              <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211220000193" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>
+              <%--<a href="#newsDetail_pop43" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>--%>
+            </li>
+            <li>
+              <a href="#newsDetail_pop42" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2021.12.16</em></a>
+            </li>
+            <li>
+              <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000348" target="_blank" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>
+              <%--<a href="#newsDetail_pop41" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>--%>
+            </li>
+            <li>
+              <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000254" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>
+              <%--<a href="#newsDetail_pop40" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>--%>
+            </li>
+            <li>
+              <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216900946" target="_blank" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>
+              <%--<a href="#newsDetail_pop39" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>--%>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+                <a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop35" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 수요예측 결과안내 <em>2021.12.02</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop33" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 온라인 기업설명회 안내! <em>2021.11.25</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+                <a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+                <a href="#newsDetail_pop28" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
+            </li>
+            <li data-page="2" style="display: none;">
+                <a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
+            </li>
+            <li data-page="2" style="display: none;">
+                <a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
+            </li>
+            <li data-page="2" style="display: none;">
+                <a href="#newsDetail_pop25" role="button" title="상세내용 보기">주식 2차공매 공고<em>2021.07.12</em></a>
+            </li>
+            <li data-page="2" style="display: none;">
+                <a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식 1차공매 공고<em>2021.07.06</em></a>
+            </li>
+            <li data-page="2" style="display: none;">
+              <a href="#newsDetail_pop31" role="button" title="상세내용 보기">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가 <em>2021.06.24</em></a>
+            </li>
 						<li data-page="2" style="display: none;">
 						  <a href="#newsDetail_pop23" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.06.21</em></a>
 						</li>
