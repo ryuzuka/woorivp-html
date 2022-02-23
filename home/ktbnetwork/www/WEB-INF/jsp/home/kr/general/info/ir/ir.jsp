@@ -9,7 +9,7 @@
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">Info</h1>
-						<p class="pageTxt">KTB네트워크의 공지사항을 안내해드립니다.</p>
+						<p class="pageTxt">다올인베스트먼트의 공지사항을 안내해드립니다.</p>
 					</div>
 				</div>
 				<div class="tabArea">
