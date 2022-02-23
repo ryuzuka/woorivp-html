@@ -8,7 +8,7 @@
 		<div class="visualArea">
 			<div class="inner">
 				<h1 class="pageTit">Who We Are</h1>
-				<p class="pageTxt">성공적인 투자를 위해 KTB네트워크의 구성원들이 함께 합니다.</p>
+				<p class="pageTxt">성공적인 투자를 위해 다올인베스트먼트의 구성원들이 함께 합니다.</p>
 			</div>
 		</div>
 		<div class="tabArea">
@@ -43,7 +43,7 @@
 								<h3>신진호 <span class="pointColor">KOREA / 대표이사 / 부회장</span></h3>
 								<dl>
 									<dt>주요경력</dt>
-									<dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> KTB네트워크</dd>
+									<dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> 다올인베스트먼트</dd>
 									<!--
 									<dt>업무</dt>
 									<dd>경영총괄</dd>
@@ -67,7 +67,7 @@
 								<h3>김창규 <span class="pointColor">KOREA / 대표이사 / 사장</span></h3>
 								<dl>
 									<dt>주요경력</dt>
-									<dd>연세대학교 경제학과<br>연세대학교 경제학 대학원<br>동남리스<br>KTB네트워크</dd>
+									<dd>연세대학교 경제학과<br>연세대학교 경제학 대학원<br>동남리스<br>다올인베스트먼트</dd>
 								</dl>
 							</div>
 						</div>
@@ -83,7 +83,7 @@
 								<h3>이승호 <span class="pointColor">KOREA / 투자팀 / 전무</span></h3>
 								<dl>
 									<dt>주요경력</dt>
-									<dd>연세대학교 사학과<br>S.N.21<br>데이콤<br>KTB네트워크</dd>
+									<dd>연세대학교 사학과<br>S.N.21<br>데이콤<br>다올인베스트먼트</dd>
 								</dl>
 							</div>
 						</div>
@@ -115,7 +115,7 @@
 								<h3>박선배 <span class="pointColor">KOREA / 투자팀 / 전무</span></h3>
 								<dl>
 									<dt>주요경력</dt>
-									<dd>서울대학교 화학공학과<br>서울대학교 화학공학 대학원<br>쌍용정유<br>KTB네트워크</dd>
+									<dd>서울대학교 화학공학과<br>서울대학교 화학공학 대학원<br>쌍용정유<br>다올인베스트먼트</dd>
 								</dl>
 							</div>
 						</div>
@@ -131,7 +131,7 @@
 								<h3>신태광 <span class="pointColor">KOREA / 투자팀 / 상무</span></h3>
 								<dl>
 									<dt>주요경력</dt>
-									<dd>성균관대학교 기계설계학과<br>KTB네트워크</dd>
+									<dd>성균관대학교 기계설계학과<br>다올인베스트먼트</dd>
 								</dl>
 							</div>
 						</div>
@@ -147,7 +147,7 @@
 								<h3>김재한 <span class="pointColor">KOREA / 투자팀 / 상무</span></h3>
 								<dl>
 									<dt>주요경력</dt>
-									<dd>서강대학교 사회학과<br>KTB네트워크</dd>
+									<dd>서강대학교 사회학과<br>다올인베스트먼트</dd>
 								</dl>
 							</div>
 						</div>
@@ -405,7 +405,7 @@
 										<h3>신진호 <span class="pointColor">KOREA / 대표이사 / 부회장</span></h3>
 										<dl>
 											<dt>주요경력</dt>
-											<dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> KTB네트워크</dd>
+											<dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> 다올인베스트먼트</dd>
 											<!--
 											<dt>업무</dt>
 											<dd>경영총괄</dd>
@@ -430,7 +430,7 @@
 										<h3>김창규 <span class="pointColor">KOREA / 대표이사 / 사장</span></h3>
 										<dl>
 											<dt>주요경력</dt>
-											<dd>연세대학교 경제학과<br>연세대학교 경제학 대학원<br>동남리스<br>KTB네트워크</dd>
+											<dd>연세대학교 경제학과<br>연세대학교 경제학 대학원<br>동남리스<br>다올인베스트먼트</dd>
 										</dl>
 									</div>
 								</div>
@@ -498,7 +498,7 @@
 									<h3>정도 <span class="pointColor">KOREA / 관리팀 / 부사장</span></h3>
 									<dl>
 										<dt>주요경력</dt>
-										<dd>서울대학교 국제경제학과<br>㈜대우<br>KTB네트워크</dd>
+										<dd>서울대학교 국제경제학과<br>㈜대우<br>다올인베스트먼트</dd>
 										<dt>업무</dt>
 										<dd>경영지원총괄</dd>
 									</dl>
@@ -536,7 +536,7 @@
 									<h3>황문철 <span class="pointColor">KOREA / 관리팀 / 상무</span></h3>
 									<dl>
 										<dt>주요경력</dt>
-										<dd>삼일회계법인<br>행복마루법률사무소&amp;컨설팅<br>KTB투자증권</dd>
+										<dd>삼일회계법인<br>행복마루법률사무소&amp;컨설팅<br>다올투자증권</dd>
 										<dt>업무</dt>
 										<dd>경영기획 및 회계</dd>
 									</dl>
@@ -572,7 +572,7 @@
 									<h3>이지현 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
 									<dl>
 										<dt>주요경력</dt>
-										<dd>KTB네트워크<br>케이큐브벤처스</dd>
+										<dd>다올인베스트먼트<br>케이큐브벤처스</dd>
 										<dt>업무</dt>
 										<dd>자금/공시</dd>
 									</dl>
@@ -608,7 +608,7 @@
 									<h3>권순원 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
 									<dl>
 										<dt>주요경력</dt>
-										<dd>KTB투자증권</dd>
+										<dd>다올투자증권</dd>
 										<dt>업무</dt>
 										<dd>경영기획 및 관리</dd>
 									</dl>
@@ -662,7 +662,7 @@
 									<h3>이신희 <span class="pointColor">KOREA / 관리팀 / 대리</span></h3>
 									<dl>
 										<dt>주요경력</dt>
-										<dd>KTB네트워크</dd>
+										<dd>다올인베스트먼트</dd>
 										<dt>업무</dt>
 										<dd>회계</dd>
 									</dl>

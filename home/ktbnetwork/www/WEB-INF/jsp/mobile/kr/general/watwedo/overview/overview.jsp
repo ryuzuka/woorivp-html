@@ -4,7 +4,7 @@
 		<div class="contents">
 			<div class="visualArea">
 				<h1 class="pageTit">What We Do</h1>
-				<p role="text" class="pageTxt">고객의 가능성과 함께하는 KTB네트워크입니다.</p>
+				<p role="text" class="pageTxt">고객의 가능성과 함께하는 다올인베스트먼트입니다.</p>
 			</div>
 			<div class="partner">
 				<div class="tabType1">
@@ -23,7 +23,7 @@
           </p>
 
 					<ul class="companyInfo">
-						<li><strong>회사명</strong><em>KTB네트워크(주)</em></li>
+						<li><strong>회사명</strong><em>다올인베스트먼트(주)</em></li>
 						<li><strong>설립일</strong><em>2008년 6월</em></li>
 						<li><strong>대표이사</strong><em>신진호, 김창규</em></li>
 						<li><strong>소재지</strong><em>경기도 성남시 분당구 삼평동</em></li>

@@ -17,8 +17,8 @@
 						<li class="sub on"><a href="/home/en/watwedo/history.do" aria-selected="true">History</a>
 							<div class="subTab">
 								<ul class="inner">
-									<li class="on"><a href="#" aria-selected="true">2020~2012</a></li>
-									<li><a href="#">2011~1981</a></li>
+									<li class="on"><a href="#" aria-selected="true">2022~1981</a></li>
+									<!-- <li><a href="#">2011~1981</a></li> -->
 								</ul>
 							</div>
 						</li>
@@ -29,108 +29,123 @@
 					<h2 class="hidden">History 2019~2012</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
-              <li class="year on">
-                <strong class="num">2020</strong>
-                <ol class="list">
-                  <li>
-                    <strong class="tit">2020.12</strong>
-                    <p class="txt">
-                      KTBN 18 Venture Investment Fund(USD 258 Million) established<br>
-                      reaching AUM USD 1,070 Million
-                    </p>
-                  </li>
-                </ol>
-              </li>
+							<!--<li class="year on">
+								<strong class="num">2020</strong>
+								<ol class="list">
+									<li>
+										<strong class="tit">2020.12</strong>
+										<p class="txt">
+										KTBN 18 Venture Investment Fund(USD 258 Million) established<br>
+										reaching AUM USD 1,070 Million
+										</p>
+									</li>
+								</ol>
+							</li>-->
+							<li class="year on">
+								<strong class="num">2022</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Change Name to DAOL</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2021</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Acquired DAOL Savings Bank from Eugene Group</p>
+									</li>
+									<li class="noMonth">
+										<p class="txt">Listed on KOSDAQ (DAOL Investment)</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2020</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Established DAOL Lend Thailand</p>
+									</li>
+								</ol>
+							</li>
 							<li class="year">
 								<strong class="num">2019</strong>
 								<ol class="list">
-									<li>
-										<strong class="tit">2019.08</strong>
-										<p class="txt">KTBN GI PEF(USD 10 Million) established</p>
+									<li class="noMonth">
+										<p class="txt">Established DAOL New York</p>
 									</li>
 								</ol>
 							</li>
 							<li class="year">
 								<strong class="num">2018</strong>
 								<ol class="list">
-									<!-- 0415 수정 -->
-									<li>
-										<strong class="tit">2018.12</strong>
-										<p class="txt">Reached USD 753 Million in AUM</p>
-									</li>
-									<!-- //0415 수정 -->
-									<li>
-										<strong class="tit">2018.06</strong>
-										<p class="txt">Reached USD 404 Million in AUM through VC fund</p>
-									</li>
-									<li>
-										<strong class="tit">2018.01</strong>
-										<p class="txt">KTBN 14 Venture Investment Fund (USD 4.6 Million) established, reaching AUM USD 570 Million</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2017</strong>
-								<ol class="list">
-									<li>
-										<strong class="tit">2017.12</strong>
-										<p class="txt">KTBN 13 Venture Investment Fund (USD 44 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2017.05</strong>
-										<p class="txt">NAVER-KTB Audio Contents Investment Fund (USD 29 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2017.02</strong>
-										<p class="txt">KTBN 11 Korea-China Synergy Fund (USD 1.4 Billion) established</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2016</strong>
-								<ol class="list">
-									<li>
-										<strong class="tit">2016.11</strong>
-										<p class="txt">KTBN media and video contents Investment Fund (USD 8.7 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2016.03</strong>
-										<p class="txt">KTBN 8 Investment Fund (USD 40 Million), KTBN 9 Digital Contents Korea Investment Fund (USD 26 Million) established</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2014</strong>
-								<ol class="list">
-									<li>
-										<strong class="tit">2014.04</strong>
-										<p class="txt">KTBN 7 Venture Investment Fund (USD 60 Million) established</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2013</strong>
-								<ol class="list">
-									<li>
-										<strong class="tit">2013.08</strong>
-										<p class="txt">IBK-KTB Cultural Contents IP Investment Fund (USD 17 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2013.07</strong>
-										<p class="txt">KTB Overseas Expansion Fund (USD 101 Million) established</p>
+									<li class="noMonth">
+										<p class="txt">Established DAOL REIT & DAOL Asset Management Thailand</p>
 									</li>
 								</ol>
 							</li>
 							<li class="year">
 								<strong class="num">2012</strong>
 								<ol class="list">
-									<li>
-										<strong class="tit">2012.12</strong>
-										<p class="txt">KTB-KORUS Fund (USD 7 Million) established</p>
+									<li class="noMonth">
+										<p class="txt">Established DAOL Private Equity(Spin-off from DAOL Investment & Securities PE Division)</p>
 									</li>
-									<li>
-										<strong class="tit">2012.02</strong>
-										<p class="txt">KTB-NHN China PEF (USD 26 Million) established</p>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2008</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Established DAOL Thailand</p>
+									</li>
+									<li class="noMonth">
+										<p class="txt">Received Securities License & Change Name to KTB Investment & Securities</p>
+									</li>
+									<li class="noMonth">
+										<p class="txt">Acquired  DAOL Securities Thailand</p>
+									</li>
+									<li class="noMonth">
+										<p class="txt">Established DAOL Investment (Venture Capital)</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2001</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Acquired DAOL Credit Service from Government</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">2000</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Established DAOL Ventures</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">1999</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Established DAOL Asset Management</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">1996</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Listed on KOSPI (DAOL)</p>
+									</li>
+								</ol>
+							</li>
+							<li class="year">
+								<strong class="num">1981</strong>
+								<ol class="list">
+									<li class="noMonth">
+										<p class="txt">Established Korea Technology Development Company</p>
 									</li>
 								</ol>
 							</li>
@@ -141,6 +156,7 @@
 					<h2 class="hidden">History 2011~1981</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
+							<!--
 							<li class="year">
 								<strong class="num">2011</strong>
 								<ol class="list">
@@ -220,6 +236,7 @@
 									</li>
 								</ol>
 							</li>
+							-->
 						</ol>
 					</div>
 				</div>

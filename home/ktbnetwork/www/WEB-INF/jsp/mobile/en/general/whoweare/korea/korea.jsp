@@ -383,7 +383,7 @@
 							<li>Seoul National University (Chemical Engineering)</li>
 							<li>Seoul National University, Graduate School of Chemistry</li>
 							<li>Hyundai Electronics Co., Ltd</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -409,7 +409,7 @@
 							<li>Yonsei University (Economics)</li>
 							<li>Yonsei Graduate School of Economics</li>
 							<li>Dong Nam Lease</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -435,7 +435,7 @@
 							<li>Yonsei University (History)</li>
 							<li>S.N.21</li>
 							<li>Dacom</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -462,7 +462,7 @@
 							<li>Korea University, Graduate School of Business</li>
 							<li>Suwon University, PhD in Business Administration</li>
 							<li>Nara Banking Corporation</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -488,7 +488,7 @@
 							<li>Seoul National University (Chemical Engineering)</li>
 							<li>Seoul National University, Graduate School of Chemistry</li>
 							<li>Ssang Yong Oil</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -512,7 +512,7 @@
 					<dd>
 						<ul class="listDep1">
 							<li>Sung Kyun Kwan University(Mechanical Design and Production Engineering)</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -536,7 +536,7 @@
 					<dd>
 						<ul class="listDep1">
 							<li>Sogang University (Sociology)</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -561,7 +561,7 @@
 						<ul class="listDep1">
 							<li>Samsung C&amp;T</li>
 							<li>KangJeGyu Film</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -587,7 +587,7 @@
 							<li>Seoul National University (Naval Architecture &amp; Ocean Engineering)</li>
 							<li>SKC&amp;C</li>
 							<li>NHN Corporation</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -638,7 +638,7 @@
 							<li>Seoul National University, Graduate School of Pharmacy</li>
 							<li>Chong Kun Dang</li>
 							<li>Daiichi Sankyo (Clinical Development)</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -925,7 +925,7 @@
 							<li>Seoul National University (Chemical Engineering)</li>
 							<li>Seoul National University, Graduate School of Chemistry</li>
 							<li>Hyundai Electronics Co., Ltd</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -951,7 +951,7 @@
 							<li>Yonsei University (Economics)</li>
 							<li>Yonsei Graduate School of Economics</li>
 							<li>Dong Nam Lease</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>
@@ -1068,7 +1068,7 @@
 						<ul class="listDep1">
 							<li>Seoul National University (International Economics)</li>
 							<li>Daewoo</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 					<dt>Responsibilities</dt>
@@ -1099,7 +1099,7 @@
 						<ul class="listDep1">
 							<li>Samsung C&amp;T</li>
 							<li>KangJeGyu Film</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 					<dt>Responsibilities</dt>
@@ -1130,7 +1130,7 @@
 						<ul class="listDep1">
 							<li>Samil PwC Assurance/Deal</li>
 							<li>HM consulting Inc</li>
-							<li>KTB Investment &amp; Securities</li>
+							<li>DAOL Investment & Securities</li>
 						</ul>
 					</dd>
 					<dt>Responsibilities</dt>
@@ -1160,7 +1160,7 @@
 					<dd>
 						<ul class="listDep1">
 							<li>K Cube Ventures</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 					<dt>Responsibilities</dt>
@@ -1220,7 +1220,7 @@
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>KTB investment & securities</li>
+							<li>DAOL Investment & Securities</li>
 						</ul>
 					</dd>
 					<dt>Responsibilities</dt>
@@ -1278,7 +1278,7 @@
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 					<dt>Responsibilities</dt>
@@ -1369,7 +1369,7 @@
 							<li>Korea University (Business)</li>
 							<li>Korea University, Graduate School of Business</li>
 							<li>Nara Banking Corporation</li>
-							<li>KTB Network</li>
+							<li>DAOL Investment</li>
 						</ul>
 					</dd>
 				</dl>

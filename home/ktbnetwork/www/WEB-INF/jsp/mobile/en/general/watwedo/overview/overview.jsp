@@ -24,7 +24,7 @@
 					<ul class="companyInfo">
 						<li>
 							<strong>Company Name</strong>
-							<em>KTB Network Co., Ltd</em>
+							<em>DAOL Investment Co., Ltd</em>
 						</li>
 						<li>
 							<strong>Establishment</strong>
@@ -36,7 +36,7 @@
 						</li>
 						<li>
 							<strong>Key Shareholders</strong>
-							<em>KTB Investment &amp; Securities(100%)</em>
+							<em>DAOL Investment & Securities(100%)</em>
 						</li>
 						<li>
 							<strong>Capital Stock</strong>

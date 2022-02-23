@@ -32,7 +32,7 @@
 			</div>
 			<!-- //mainNews -->
 			<div class="srvIntro">
-				<p class="srvTit"><em>펀드 현황을 확인하세요.</em><br>KTB네트워크의 성장과<br>함께 하세요.</p>
+				<p class="srvTit"><em>펀드 현황을 확인하세요.</em><br>다올인베스트먼트의 성장과<br>함께 하세요.</p>
 				<div class="tabCont on">
 					<ul class="fundStatus">
 						<li>
@@ -80,7 +80,7 @@
 			<!-- //introCon -->
 			<div class="menuBanner01">
 				<a href="/home/whoweare/korea.do">
-					<strong>성공적인 투자를 위해<br>KTB네트워크의<br>구성원들이 함께 합니다.</strong>
+					<strong>성공적인 투자를 위해<br>다올인베스트먼트의<br>구성원들이 함께 합니다.</strong>
 					<p>Who We Are</p>
 				</a>
 			</div>

@@ -10,17 +10,19 @@
 						<span>이메일 <a href="mailto: webmaster@ktbnetwork.com"> webmaster@ktbnetwork.com</a></span><br>
 						<span>Pankyo [13494] 경기도 성남시 분당구 대왕판교로 670(삼평동 682) 유스페이스 2A동 10층</span>
 					</address>
-					<p class="copyRight">COPYRIGHT&copy;KTB Network. ALL RIGHTS RESERVED.</p>
+					<p class="copyRight">COPYRIGHT&copy;DAOL Investment. ALL RIGHTS RESERVED.</p>
 				</div>
 				<div class="familySite">
 					<span class="frmSelect">
 						<select title="Family Site">
-							<option value="https://www.ktb.co.kr/top.jsp">KTB 투자증권</option>
-							<option value="http://www.i-ktb.com/">KTB 자산운용</option>
-							<option value="https://www.ktbst.co.th/index.php?s=p">KTB ST</option>
-							<option value="http://www.ktbpe.co.kr/">KTB PE</option>
-							<option value="http://www.ktbcredit.com/">KTB 신용정보</option>
-							<option value="http://www.ktbvc.com/">KTB Ventures</option>
+							<option value="https://www.daolsecurities.com">다올투자증권</option>
+							<option value="https://www.daolsb.com">다올저축은행</option>
+							<option value="https://www.daolfund.com">다올자산운용</option>
+							<option value="https://www.daolinvestment.com">다올인베스트먼트</option>
+							<option value="https://www.daolpe.com">다올프라이빗에쿼티</option>
+							<option value="https://www.daolcredit.com">다올신용정보</option>
+							<option value="https://www.daolventures.com">DAOL Ventures</option>
+							<option value="https://www.ktbst.co.th">DAOL THAILAND</option>
 						</select>
 					</span>
 				</div>

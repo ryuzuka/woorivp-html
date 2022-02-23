@@ -19,7 +19,7 @@
 			</div>
 			<!-- //mainSwipe -->
 			<div class="srvIntro">
-				<p class="srvTit"><em>Our Fund Status</em><br>Grow Together with<br>KTB Network.</p>
+				<p class="srvTit"><em>Our Fund Status</em><br>Grow Together with<br>DAOL Investment.</p>
 				<div class="tabCont on">
 					<ul class="fundStatus">
 						<li>

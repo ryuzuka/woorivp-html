@@ -63,7 +63,7 @@
       <!-- section2 -->
       <div class="section2" style="height:770px">
         <div class="inner">
-          <h3 class="sTit">펀드 현황을 확인하세요.<em>KTB네트워크의 성장과 함께 하세요.</em></h3>
+          <h3 class="sTit">펀드 현황을 확인하세요.<em>다올인베스트먼트의 성장과 함께 하세요.</em></h3>
           <ul class="tabArea">
             <li><a href="#tab01" aria-selected="true" class="on" style="font-size: 18px;">청산펀드 현황</a></li>
             <li><a href="#tab02" style="font-size: 18px;">운용펀드 현황</a></li>
@@ -176,7 +176,7 @@
       <div class="etcArea">
         <div class="inner">
           <div class="member">
-            <p>성공적인 투자를 위해 <br>KTB네트워크의 구성원들이<br>함께 합니다.</p>
+            <p>성공적인 투자를 위해 <br>다올인베스트먼트의 구성원들이<br>함께 합니다.</p>
             <a href="/home/whoweare/korea.do">Who We Are</a>
           </div>
           <div class="partners">

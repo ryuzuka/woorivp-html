@@ -9,17 +9,19 @@
 						<span>E-MAIL <a href="mailto:webmaster@ktbnetwork.com">webmaster@ktbnetwork.com</a></span><br>
 						<span>Pankyo 10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundag-gu, Seongnam-city, Gyeonggi-do, Korea</span>
 					</address>
-					<p class="copyRight">Copyright &copy; KTB Network. All Right Reserved.</p>					
+					<p class="copyRight">Copyright &copy; DAOL Investment. All Right Reserved.</p>
 				</div>
 				<div class="familySite">
 					<span class="frmSelect">
 						<select title="Family Site">
-							<option value="https://www.ktb.co.kr/company/eng/index.jsp">KTB Investment &amp; Securities</option>
-							<option value="http://www.i-ktb.com/static/pc/html/MA/MAE1.html">KTB Asset Management</option>
-							<option value="https://www.ktbst.co.th/index.php?s=p">KTB ST</option>
-							<option value="http://www.ktbpe.co.kr/en/">KTB PE</option>
-							<option value="http://www.ktbcredit.com/">KTB Credit Service </option>
-							<option value="http://www.ktbvc.com/">KTB Ventures</option>
+							<option value="https://www.ktb.co.kr/company/eng/index.jsp">DAOL Investment & Securities</option>
+							<option value="">DAOL Saving Bank</option>
+							<option value="http://www.i-ktb.com/static/pc/html/MA/MAE1.html">DAOL Asset Management</option>
+							<option value="">DAOL Investment</option>
+							<option value="http://www.ktbpe.co.kr/en/">DAOL Private Equity</option>
+							<option value="http://www.ktbcredit.com/">DAOL Credit Service</option>
+							<option value="http://www.ktbvc.com/">DAOL Ventures</option>
+							<option value="https://www.ktbst.co.th/index.php?s=p">DAOL THAILAND</option>
 						</select>
 					</span>					
 				</div>

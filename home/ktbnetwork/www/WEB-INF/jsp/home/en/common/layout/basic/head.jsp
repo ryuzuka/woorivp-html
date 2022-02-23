@@ -2,7 +2,7 @@
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>KTB Network</title>
+	<title>DAOL Investment</title>
 	<link rel="shortcut icon" href="/static/home/en/images/favicon/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="/static/home/en/css/p_font.css"> 
 	<link rel="stylesheet" type="text/css" href="/static/home/en/css/p_common.css"> 

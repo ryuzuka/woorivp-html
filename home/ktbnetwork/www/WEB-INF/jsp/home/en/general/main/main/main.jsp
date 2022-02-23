@@ -46,7 +46,7 @@
 					<!-- section2 -->
 					<div class="section2" style="height:850px">
 						<div class="inner">
-							<h3 class="sTit">Our Fund Status<em>Grow Together with  KTB Network.</em></h3>
+							<h3 class="sTit">Our Fund Status<em>Grow Together with  DAOL Investment.</em></h3>
 							<ul class="tabArea">
 								<li><a href="#tab01" aria-selected="true" class="on">Funds Exited</a></li>
 								<li><a href="#tab02">Funds Active</a></li>

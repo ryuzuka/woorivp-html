@@ -5,7 +5,7 @@
 		<div class="contents">
 			<div class="visualArea">
 				<h1 class="pageTit">Contact</h1>
-				<p role="text" class="pageTxt">Come meet KTB,<br>the financiers of tomorrow.</p>
+				<p role="text" class="pageTxt">Come meet DAOL,<br>the financiers of tomorrow.</p>
 			</div>
 			<div class="contact">
 				<ul class="tglList">

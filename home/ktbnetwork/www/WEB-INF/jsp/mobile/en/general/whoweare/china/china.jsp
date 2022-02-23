@@ -135,9 +135,9 @@
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
-								<li>Fudan University (Economics)</li>
-								<li>Deloitte Touche Tohmatsu Certified Public</li>
-								<li>Accountants LLP</li>
+								<li>Yonsei University (Economics)</li>
+								<li>IMM Investment</li>
+								<li>DAOL Investment</li>
 							</ul>
 						</dd>
 					</dl>
@@ -164,7 +164,7 @@
 						<dd>
 							<ul class="listDep1">
 								<li>Shanghai Normal University (Real-estate Business)</li>
-								<li>KTB Investment &amp; Securities</li>
+								<li>DAOL Investment & Securities</li>
 								<li>Hanwha general chemical corporation</li>
 							</ul>
 						</dd>

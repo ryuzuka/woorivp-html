@@ -5,7 +5,7 @@
 		<div class="contents">
 			<div class="visualArea">
 				<h1 class="pageTit">Contact</h1>
-				<p role="text" class="pageTxt">내일을 위한 금융,<br>KTB네트워크와 만나보세요.</p>
+				<p role="text" class="pageTxt">내일을 위한 금융,<br>다올인베스트먼트와 만나보세요.</p>
 			</div>
 			<div class="contact">
 				<ul class="tglList">

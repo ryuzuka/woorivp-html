@@ -8,7 +8,7 @@
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">Contact</h1>
-						<p class="pageTxt ctt">Come meet KTB, the financiers of tomorrow</p>
+						<p class="pageTxt ctt">Come meet DAOL, the financiers of tomorrow</p>
 					</div>
 				</div>
 				<div class="mapArea">
