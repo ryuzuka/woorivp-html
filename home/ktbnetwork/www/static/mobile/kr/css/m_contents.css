@@ -114,7 +114,7 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .newscon_box .txt.type02 {padding-bottom:40px}
 .newscon_box dl {margin:25px 0 40px;border-top:1px solid #dedede;text-align:left}
 .newscon_box dl dt {padding:25px 0 10px;font-weight:500;color:#111}
-.newscon_box:after {content:'';display:block;width:0;position:absolute;right:0;bottom:0;height:0;border-left:35px solid transparent;border-bottom:35px solid #fff}
+/*.newscon_box:after {content:'';display:block;width:0;position:absolute;right:0;bottom:0;height:0;border-left:35px solid transparent;border-bottom:35px solid #fff}*/
 .newscon_box .bottomTxt {padding-top:20px;color:#111}
 .newscon_box .bottomTxt>* {display:block}
 .newscon_box .bottomTxt:before {content:'';display:block;width:20px;height:1px;margin:0 auto 20px;background:#111}

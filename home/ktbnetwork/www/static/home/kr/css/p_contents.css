@@ -115,7 +115,7 @@
 .memberList .ctrl:disabled{opacity:0.5}
 .memberWrap:after, .memberInner:after{content:'';display:block;clear:both}
 .memberWrap .memberInner{float:left;width:450px}
-.memberInner .title{position:relative;float:left;width:130px;height:130px;margin-right:10px;padding:20px;color:#fff;font-size:15px;font-weight:500;background:#25283d url(../images/contents/bg_triangle_member.png) 100% 100% no-repeat}
+.memberInner .title{position:relative;float:left;width:130px;height:130px;margin-right:10px;padding:20px;color:#fff;font-size:15px;font-weight:500;background:#25283d /*url(../images/contents/bg_triangle_member.png) 100% 100% no-repeat*/}
 .memberInner .title:after{content:'';display:block;width:90px;height:1px;margin-top:14px;background:#fff}
 .memberInner ul{float:left;width:900px}
 .memberWrap .memberInner ul{width:300px}
@@ -126,7 +126,7 @@
 .partnersList li a{display:block;height:157px;padding:33px 9px;border:1px solid #dedede;text-align:center;background:#fff}
 .partnersList li a span{display:none}
 .partnersList li a:hover, .partnersList li a:focus{position:relative;padding:10px 9px 34px;border:none;box-shadow:8px 6px 30px rgba(0,0,0,0.1)}
-.partnersList li a:hover:after, .partnersList li a:focus:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background: url(../images/contents/bg_partners_over.png) no-repeat 0 0}
+.partnersList li a:hover:after, .partnersList li a:focus:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;border:2px solid #282828;/*background: url(../images/contents/bg_partners_over.png) no-repeat 0 0*/}
 .partnersList li a:hover span, .partnersList li a:focus span{display:block}
 .link:after{content:'';clear:both;display:block}
 .link p{float:left;color:#333;font-weight:500}
@@ -170,7 +170,7 @@
 .baordIndex .arrow.prev:after{background-position:0 -8px}
 .baordIndex .tit{display:inline-block;margin-left:70px}
 .noticeBox{position:relative;margin:50px 0;padding:50px 0;background:#f7f7f7;text-align:center}
-.noticeBox:after{content:'';position:absolute;bottom:0;right:0;width:70px;height:70px;background:url(../images/common/bg_triangle.png) 0 0 no-repeat}
+/*.noticeBox:after{content:'';position:absolute;bottom:0;right:0;width:70px;height:70px;background:url(../images/common/bg_triangle.png) 0 0 no-repeat}*/
 .noticeBox .dateTxt{display:block;margin-bottom:10px;font-size:18px}
 .noticeBox .dateTxt:before{content:'';display:block;width:30px;height:1px;margin:20px auto;background:#111}
 .noticeBox .ceoTxt{font-size:20px}
