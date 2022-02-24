@@ -6,14 +6,14 @@
 				<div class="swiper-container">
 					<ul class="swiper-wrapper">
 						<li class="swiper-slide"><a href="/home/watwedo/overview.do" role="button"><img src="/static/mobile/kr/images/MA/img_main_promotion1.gif" alt="내일을 보는 금융 - 회사소개 바로가기"></a></li>
-						<li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion2.gif" alt="미래를 보는 KTB 성장가능성 있는 신생벤처기업 투자를 통해 미래의 가치를 만들어갑니다."></li>
+						<!-- <li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion2.gif" alt="미래를 보는 KTB 성장가능성 있는 신생벤처기업 투자를 통해 미래의 가치를 만들어갑니다."></li> -->
 						<li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion3.gif" alt="함께 성장하는 KTB 설립이후 38년간 IPO를 통해 277개의 기업(우회상장 포함)과 함께 하였습니다."></li>
-						<li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion4.gif" alt="세계로 향하는 네트워크 수십년간 축적된 안목과 글로벌 네트워크를 통해 세계로 나아갑니다."></li>
+						<!-- <li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion4.gif" alt="세계로 향하는 네트워크 수십년간 축적된 안목과 글로벌 네트워크를 통해 세계로 나아갑니다."></li> -->
 					</ul>
 				</div>
 				<div class="indicator">
 					<div class="indiList">
-						<button type="button" class="on" title="선택됨">1</button><button type="button">2</button><button type="button">3</button><button type="button">4</button>
+						<button type="button" class="on" title="선택됨">1</button><button type="button">2</button><!-- <button type="button">3</button><button type="button">4</button> -->
 					</div>
 				</div>
 			</div>
