@@ -56,7 +56,7 @@
 						</li>
 						<li>
 							<strong>Website</strong>
-							<em>http://www.ktbnetwork.com</em>
+							<em>http://www.daolinvestment.com</em>
 						</li>
 						<li>
 							<strong>Contact Info.</strong>

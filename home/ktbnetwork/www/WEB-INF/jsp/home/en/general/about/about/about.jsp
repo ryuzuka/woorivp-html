@@ -169,22 +169,30 @@
 								<ul class="list">
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname01_eng.png" alt="DAOL Investment & Securities"></div>
+										<div class="link">
+											<p class="site"><a href="http://www.daolsecurities.com" target="_blank">www.daolsecurities.com</a></p>
+											<p class="tel">1588-3100</p>
+										</div>
 										<p class="txt">
 											Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, DAOL Investment & Securities(“DAOL") has since grown into a comprehensive securities company offering a wide range of financial products and services including, investment banking, institutional brokerage and individual wealth management. DAOL's professional have long played leading role professionals in the structured finance market, with strong expertise in a wide range of alternative investment products, including real estate / SOC, aircraft and ship financing and renewable energy. DAOL holds DAOL Savings Bank, DAOL Investment, DAOL Asset Management, DAOL Private Equity, DAOL Credit Service as its owned subsidiaries.
 										</p>
 									</li>
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname08_eng.png" alt="DAOL SAVING Bank"></div>
+										<div class="link">
+											<p class="site"><a href="http://www.daolsb.com" target="_blank">www.daolsb.com</a></p>
+											<p class="tel">1544-6700</p>
+										</div>
 										<p class="txt">
 											DAOL Savings Bank is established in 1972 based on Korean capital. As of the end of 2021, total asset is USD 3 billion, revenue is USD 0.3 billion, and BIS Ratio is 13.3%, which is a stable bank. Acquired by DAOL in December 2021, enhance synergy between group companies and invest in digital transformation to become innovative digital bank.
 										</p>
 									</li>
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname03_eng.png" alt="DAOL Investment"></div>
-										<!-- <div class="link">
-											<p class="site"><a href="http://www.ktbnetwork.com" target="_blank">www.ktbnetwork.com</a></p>
+										<div class="link">
+											<p class="site"><a href="http://www.daolinvestment.com" target="_blank">www.daolinvestment.com</a></p>
 											<p class="tel">+82-31-628-6400</p>
-										</div> -->
+										</div>
 										<p class="txt">
 											DAOL Investment is Korea's leading venture capital company with the longest history and investment track record. As of the end of 2021, its assets under management (AUM) reached USD 1.0 billion, and the size of newly formed fund last year was about USD 46 million based on the commitment. DAOL Investment was ranked first in VC investment performance in 2017*. DAOL Investment became the first Korean venture capital firm to participate in the Chinese venture capital market, making its initial investment in China as early as the year 2000. DAOL Investment has taken advantage of its "First Mover" status in China, generating consistent investment results year after year. It has ranked among top 50 venture capital firms in China for nine years in a row. Furthermore, it boasts a wide-ranging global investment track record and strong network in the US, Japan and Southeast Asia.
 										</p>
@@ -192,10 +200,10 @@
 									</li>
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname02_eng.png" alt="DAOL Asset Management"></div>
-										<!-- <div class="link">
-											<p class="site"><a href="http://www.i-ktb.com" target="_blank">www.i-ktb.com</a></p>
-											<p class="tel">+82-2-788-8259</p>
-										</div> -->
+										<div class="link">
+											<p class="site"><a href="http://www.daolfund.com" target="_blank">www.daolfund.com</a></p>
+											<p class="tel">+82-2-788-8400</p>
+										</div>
 										<p class="txt">
 											DAOL Asset Management has shown steady growth for more than 20 years since it was first founded in 1999. As of the end of 2021, its assets under management (AUM) reached USD 12.5 billion*. In particular, the company has distinguished itself in new business development, with successful launches of Multi-Asset Department and Alternative Investment Division in 2016. By launching and operating a number of successful public funds, such as First Class Stock Fund(Industry 4.0/China/ESG), Multi-Asset Income EMP, and Block-Deal High-Yield Fund, DAOL Asset Management continues to play a leading role in the market, and is expanding its unique portfolio of medium-risk and medium-return products such as NPL, and the asset allocation fund. The Alternative Investment Division has focused on expanding various investment assets and areas and succeeded in establishing all business sectors not only as domestic and foreign real estate but also as aircraft, ships, and infrastructure. It is operating USD 4.9 billion-worth of alternative investments as of the end of 2021.
 										</p>
@@ -203,20 +211,20 @@
 									</li>
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname04_eng.png" alt="DAOL Private Equity"></div>
-										<!-- <div class="link">
-											<p class="site"><a href="//www.ktbpe.co.kr" target="_blank">www.ktbpe.co.kr</a></p>
+										<div class="link">
+											<p class="site"><a href="http://www.daolpe.com" target="_blank">www.daolpe.com</a></p>
 											<p class="tel">+82-2-2184-4100</p>
-										</div> -->
+										</div>
 										<p class="txt">
 											DAOL Private Equity (“DAOL PE") was spun off from DAOL Investment & Securities in 2012 to become an independent corporate entity serving the growing private equity market in Korea. DAOL PE has a cumulative AUM of USD 1.8 billion and has achieved excellent investment results in a variety of industries by enhancing corporate value through proactive management participation and a buy-out-centered investment philosophy. Its key investments-to-date include Junjin Heavy Industry, Dongbu Express, JW Pharmaceutical, LIG Nex1, Nature Republic, Leenos, Toptec and more.
 										</p>
 									</li>
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname05_eng.png" alt="DOAL Credit Service"></div>
-										<!-- <div class="link">
-											<p class="site"><a href="http://www.ktbcredit.com" target="_blank">www.ktbcredit.com</a></p>
+										<div class="link">
+											<p class="site"><a href="http://www.daolcredit.com" target="_blank">www.daolcredit.com</a></p>
 											<p class="tel">+82-2-721-6900</p>
-										</div> -->
+										</div>
 										<p class="txt">
 											DAOL Credit Service (“DAOL Credit"), which first began as Nara Credit Service in 1999, became an affiliate of DAOL Investment & Securities in 2001. Services provided by DAOL Credit include debt collection, credit investigation, issuance of civil affair documents and real estate management. DAOL Credit has been a clear market leader in the field of debt collection and related information services, as seen in its role as the primary debt collection agency for the Korea Deposit Insurance Corporation for nearly 20 years.
 										</p>
@@ -224,20 +232,20 @@
 									</li>
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname06_eng.png" alt="DAOL Thailand"></div>
-										<!-- <div class="link">
+										<div class="link">
 											<p class="site"><a href="http://www.ktbst.co.th" target="_blank">www.ktbst.co.th</a></p>
 											<p class="tel">+66-02-648-1111</p>
-										</div> -->
+										</div>
 										<p class="txt">
 											Acquired by DAOL Investment & Securities in August 2008, DAOL Thailand is a securities company based in Thailand. Recent expansion efforts in Wealth Management, ECM, DCM and Investment Banking business lines have bolstered asset management capabilities DAOL Thailand, transforming the company into a comprehensive securities company offering a complete range of financial products. DAOL Thailand has continued to expand its footprint as the only Korean financial investment company in Thailand. At the end of 2019, DAOL Thailand has been changed a holding company that has securities, asset management, REITs management and personal loan subsidiaries.
 										</p>
 									</li>
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname07_eng.png" alt="DAOL Ventures"></div>
-										<!-- <div class="link">
-											<p class="site"><a href="http://www.ktbvc.com" target="_blank">www.ktbvc.com</a></p>
+										<div class="link">
+											<p class="site"><a href="http://www.daolventures.com" target="_blank">www.daolventures.com</a></p>
 											<p class="tel">+1-650-324-4681</p>
-										</div> -->
+										</div>
 										<p class="txt">
 											DAOL Ventures, DAOL’s first overseas subsidiary, was established in Palo Alto, California, the heart of American Silicone Valley in June 1988. DAOL Ventures has an accumulated investment record worth USD 100 million. Working closely with DAOL Investment, DAOL Ventures has recently ramped up its efforts to identify early-stage investment opportunities in North America. Recently DAOL Ventures changed from a subsidiary of DAOL Investment & Securities to a subsidiary of DAOL Investment. Ventures and Investment plan to collaborate in North America, including the United States and Canada.
 										</p>

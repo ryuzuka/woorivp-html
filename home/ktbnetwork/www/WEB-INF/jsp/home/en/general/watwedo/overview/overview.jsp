@@ -30,7 +30,7 @@
 						<li>Establishment<span class="data">1981</span></li>
 						<li>Sales Account/Operating Profit<span class="data">USD 62 Million / 41 Million</span></li>
 						<li>CEO<span class="data">Shin Jin Ho, Kim Chang Kyu</span></li>
-						<li>Website<span class="data">http://www.ktbnetwork.com/</span></li>
+						<li>Website<span class="data">http://www.daolinvestment.com</span></li>
 						<li>Key Shareholders<span class="data">DAOL Investment & Securities(100%)</span></li>
 						<li>Contact Info.<span class="data">+82 31-628-6400</span></li>
 					</ul>
