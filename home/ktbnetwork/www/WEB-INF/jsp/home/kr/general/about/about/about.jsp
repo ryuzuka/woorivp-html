@@ -234,7 +234,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname06.png" alt="DAOL Thailand"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.ktbst.co.th" target="_blank">www.ktbst.co.th</a></p>
+											<p class="site"><a href="http://www.daol.co.th" target="_blank">www.daol.co.th</a></p>
 											<p class="tel">+66-02-648-1111</p>
 										</div>
 										<p class="txt">
