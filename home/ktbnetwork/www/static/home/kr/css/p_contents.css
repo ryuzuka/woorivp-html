@@ -152,6 +152,8 @@
 .boardList.noticeList>li>.tit{color:#111;font-size:18px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;word-wrap:normal !important}
 .boardList.noticeList>li>.tit, .boardList.noticeList>li>.tit:focus{font-weight:500}
 .boardList.noticeList>li>.file{position:absolute;top:50%;right:40px;width:40px;height:40px;padding:0;margin-top:-20px;background:url(../images/common/btn_down.png) 50% 50% no-repeat;text-indent:-9999px}
+.boardList.download li {position:relative;}
+.boardList.download li:before {position:absolute;top:50%;right:60px;width:20px;height:20px;margin-top:-10px;background:url(../images/common/btn_down.png) 50% 50% no-repeat;content:'';}
 .boardView{border-top:1px solid #111}
 .boardView .viewTit{overflow:hidden;padding:30px 40px;border-bottom:1px solid #dedede}
 .boardView .viewTit .tit{display:block;color:#111;font-size:18px}

@@ -17,7 +17,14 @@
 				</ul>
 			</div>
 			<div class="ir">
-				Content
+				<div class="boardArea">
+					<h2 class="hidden">IR 리스트</h2>
+					<ul class="boardList download">
+						<li>
+							<a href="https://file.irgo.co.kr/data/BOARD/ATTACH_PDF/d7bfef39-5697-466f-9be5-95dc9b1a9207.pdf" target="_blank" role="button">[IPO] 케이티비네트워크 온라인 기업설명회 안내! <em>2021.11.25</em></a>
+						</li>
+					</ul>
+				</div>
 			</div>
 		</div><!-- //contents -->
 	</section>

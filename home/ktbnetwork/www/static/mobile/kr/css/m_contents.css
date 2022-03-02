@@ -87,6 +87,10 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .boardList li a{overflow:hidden;display:block;padding:20px 20px 20px 0;position:relative;border-top:1px solid #dedede;font-size:15px;font-weight:500;color:#111;white-space:nowrap;text-overflow:ellipsis}
 .boardList li:first-child a{border-top:none}
 .boardList li a em{display:block;color:#737373;font-size:13px}
+.boardList.download {padding-right:30px;}
+.boardList.download li {position:relative;}
+.boardList.download li a {padding-right:46px;}
+.boardList.download li:before {position:absolute;top:50%;right:0;display:block;width:13px;height:13px;background:url(../images/common/btn_down.png) no-repeat left top;background-size:100%;transform:translate(0,-50%);-webkit-transform:translate(0,-50%);content:'';}
 .btnMore{display:block;width:100%;color:#737373;font-size:15px;font-weight:500;line-height:60px;text-align:center;border-top:1px solid #dedede;background:#fff}
 .btnMore:after{content:'';display:inline-block;width:7px;height:7px;margin:-7px 0 0 8px;vertical-align:middle;border:solid #737373;border-width:0 1px 1px 0;transform:rotate(45deg)}
 .noData{position:relative;padding:60px 0;text-align:center}

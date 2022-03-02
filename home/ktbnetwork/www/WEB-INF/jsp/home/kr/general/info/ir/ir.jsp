@@ -22,7 +22,14 @@
 					</ul>
 				</div>
 				<div class="inner">
-					Contents
+					<ul class="boardList download">
+						<li>
+							<a href="https://file.irgo.co.kr/data/BOARD/ATTACH_PDF/d7bfef39-5697-466f-9be5-95dc9b1a9207.pdf">
+								<strong class="tit">[IPO] 케이티비네트워크 온라인 기업설명회 안내!</strong>
+								<div class="con"><span class="date">2021.11.25</span></div>
+							</a>
+						</li>
+					</ul>
 				</div>
 			</div>
 		</section>
