@@ -65,15 +65,9 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=24">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=32">
             <div class="arrow next">다음글</div>
-            <div class="tit">주식 1차공매 공고</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=23">
-            <div class="arrow prev">이전글</div>
-            <div class="tit">주식명의개서정지공고</div>
+            <div class="tit">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대"</div>
           </a>
         </li>
       </ul>

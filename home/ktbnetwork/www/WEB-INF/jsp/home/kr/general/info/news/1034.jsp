@@ -81,15 +81,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=35">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=36">
             <div class="arrow next">다음글</div>
-            <div class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</div>
+            <div class="tit">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=33">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=32">
             <div class="arrow prev">이전글</div>
-            <div class="tit">[IPO] 케이티비네트워크 온라인 기업설명회 안내!</div>
+            <div class="tit">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대"</div>
           </a>
         </li>
       </ul>

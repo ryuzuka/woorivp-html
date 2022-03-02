@@ -65,9 +65,9 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=39">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=46">
             <div class="arrow next">다음글</div>
-            <div class="tit">주주명부폐쇄기간또는기준일설정</div>
+            <div class="tit">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것"</div>
           </a>
         </li>
         <li>

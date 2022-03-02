@@ -41,15 +41,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=43">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=48">
             <div class="arrow next">다음글</div>
-            <div class="tit">주식등의대량보유상황보고서(약식)</div>
+            <div class="tit">외부감사인 선임 공고</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=41">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=30">
             <div class="arrow prev">이전글</div>
-            <div class="tit">사외이사의선임ㆍ해임또는중도퇴임에관한신고</div>
+            <div class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</div>
           </a>
         </li>
       </ul>

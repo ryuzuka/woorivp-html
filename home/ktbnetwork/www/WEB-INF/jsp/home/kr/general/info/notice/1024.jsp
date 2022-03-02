@@ -70,15 +70,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=25">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=25">
             <div class="arrow next">다음글</div>
             <div class="tit">주식 2차공매 공고</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=31">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=23">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가</div>
+            <div class="tit">주식명의개서정지공고</div>
           </a>
         </li>
       </ul>

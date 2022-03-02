@@ -70,13 +70,13 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=26">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=26">
             <div class="arrow next">다음글</div>
             <div class="tit">주식 3차공매 공고</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=24">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=24">
             <div class="arrow prev">이전글</div>
             <div class="tit">주식 1차공매 공고</div>
           </a>

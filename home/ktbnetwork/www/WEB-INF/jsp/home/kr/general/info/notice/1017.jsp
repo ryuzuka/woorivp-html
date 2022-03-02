@@ -35,15 +35,15 @@
 					</div>
 					<ul class="baordIndex">
 						<li>
-							<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=18">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=16">
 								<div class="arrow next">다음글</div>
-								<div class="tit">케이티비네트워크 상반기 가결산 공시</div>
+								<div class="tit">주권제출 공고</div>
 							</a>
 						</li>
 						<li>
-							<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=16">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=18">
 								<div class="arrow prev">이전글</div>
-								<div class="tit">주권제출 공고</div>
+								<div class="tit">케이티비네트워크 상반기 가결산 공시</div>
 							</a>
 						</li>
 					</ul>

@@ -35,15 +35,15 @@
 					</div>
 					<ul class="baordIndex">
 						<li>
-							<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=4">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=2">
 								<div class="arrow next">다음글</div>
-								<div class="tit">제 10기 결산공고</div>
+								<div class="tit">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고</div>
 							</a>
 						</li>
 						<li>
-							<a href="/home/info/news/view.do?page=3&num=2">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=4">
 								<div class="arrow prev">이전글</div>
-								<div class="tit">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고</div>
+								<div class="tit">제 10기 결산공고</div>
 							</a>
 						</li>
 					</ul>

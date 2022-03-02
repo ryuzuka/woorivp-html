@@ -65,15 +65,15 @@
 					</div>
 					<ul class="baordIndex">
 						<li>
-							<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=15">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=13">
 								<div class="arrow next">다음글</div>
-								<div class="tit">제 3기 결산공고</div>
+								<div class="tit">제 4기 결산공고</div>
 							</a>
 						</li>
 						<li>
-							<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=13">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=15">
 								<div class="arrow prev">이전글</div>
-								<div class="tit">제 4기 결산공고</div>
+								<div class="tit">제 3기 결산공고</div>
 							</a>
 						</li>
 					</ul>

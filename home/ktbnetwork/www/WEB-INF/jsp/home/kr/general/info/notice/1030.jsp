@@ -146,15 +146,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=42">
             <div class="arrow next">다음글</div>
-            <div class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</div>
+            <div class="tit">주식명의개서정지공고</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=36">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=35">
             <div class="arrow prev">이전글</div>
-            <div class="tit">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공</div>
+            <div class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</div>
           </a>
         </li>
       </ul>

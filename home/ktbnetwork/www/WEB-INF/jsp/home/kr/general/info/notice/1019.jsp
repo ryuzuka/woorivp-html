@@ -58,8 +58,8 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=18">
-            <div class="arrow prev">이전글</div>
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=18">
+            <div class="arrow prev">다음글</div>
             <div class="tit">케이티비네트워크 상반기 가결산 공시</div>
           </a>
         </li>

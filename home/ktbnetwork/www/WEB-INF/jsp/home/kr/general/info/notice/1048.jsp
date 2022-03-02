@@ -35,9 +35,9 @@
 					</div>
 					<ul class="baordIndex">
 						<li>
-							<a href="/home/info/news/view.do?page=3&num=47">
+							<a href="/home/info/notice/view.do?page=3&num=42">
 								<div class="arrow prev">이전글</div>
-								<div class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</div>
+								<div class="tit">주식명의개서정지공고</div>
 							</a>
 						</li>
 					</ul>

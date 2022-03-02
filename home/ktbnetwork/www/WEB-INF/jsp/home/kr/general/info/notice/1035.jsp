@@ -55,15 +55,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=36">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=30">
             <div class="arrow next">다음글</div>
-            <div class="tit">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공</div>
+            <div class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=34">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=29">
             <div class="arrow prev">이전글</div>
-            <div class="tit">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약</div>
+            <div class="tit">신주발행공고</div>
           </a>
         </li>
       </ul>

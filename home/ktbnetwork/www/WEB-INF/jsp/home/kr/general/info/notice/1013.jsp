@@ -121,15 +121,15 @@
 					</div>
 					<ul class="baordIndex">
 						<li>
-							<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=14">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=12">
 								<div class="arrow next">다음글</div>
-								<div class="tit">(주)다림비젼 주식 공매 공고</div>
+								<div class="tit">제 5기 결산공고</div>
 							</a>
 						</li>
 						<li>
-							<a href="/home/info/news/view.do?page=4&num=12">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=14">
 								<div class="arrow prev">이전글</div>
-								<div class="tit">제 5기 결산공고</div>
+								<div class="tit">(주)다림비젼 주식 공매 공고</div>
 							</a>
 						</li>
 					</ul>

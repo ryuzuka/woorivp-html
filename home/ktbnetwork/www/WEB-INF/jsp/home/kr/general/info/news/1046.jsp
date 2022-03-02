@@ -71,9 +71,9 @@
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=45">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=38">
             <div class="arrow prev">이전글</div>
-            <div class="tit">주식등의대량보유상황보고서(약식)</div>
+            <div class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</div>
           </a>
         </li>
       </ul>

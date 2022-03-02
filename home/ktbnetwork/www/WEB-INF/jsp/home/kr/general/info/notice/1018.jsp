@@ -90,15 +90,15 @@
 					</div>
 					<ul class="baordIndex">
 						<li>
-							<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=19">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=17">
 								<div class="arrow next">다음글</div>
-								<div class="tit">상호 및 공고방법 변경</div>
+								<div class="tit">채권자 이의제출 공고</div>
 							</a>
 						</li>
 						<li>
-							<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=17">
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=19">
 								<div class="arrow prev">이전글</div>
-								<div class="tit">채권자 이의제출 공고</div>
+								<div class="tit">상호 및 공고방법 변경</div>
 							</a>
 						</li>
 					</ul>
