@@ -162,7 +162,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail19" role="">
+						<a href="#personDeatail19" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_19.jpg" alt="김범준 팀장 사진" /></span>
 							<span>
 								<em>김범준</em>
@@ -170,7 +170,15 @@
 							</span>
 						</a>
 					</li>
-
+					<li>
+						<a href="#personDeatail22" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_invest_22.png" alt="김지영 팀장 사진" /></span>
+							<span>
+								<em>김지영</em>
+								팀장
+							</span>
+						</a>
+					</li>
 					<li>
 						<a href="#personDeatail15" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_15.jpg" alt="김혜성 팀장 사진" /></span>
@@ -203,6 +211,15 @@
 							<span><img src="/static/mobile/kr/images/contents/img_invest_21.jpg" alt="이태규 심사역 사진" /></span>
 							<span>
 								<em>이태규</em>
+								심사역
+							</span>
+						</a>
+					</li>
+					<li>
+						<a href="#personDeatail23" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_invest_23.png" alt="박형주 심사역 사진" /></span>
+							<span>
+								<em>박형주</em>
 								심사역
 							</span>
 						</a>
@@ -343,6 +360,16 @@
 							<span>
 								<em>이지은</em>
 								팀장
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail20" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_20.png" alt="이현욱 대리 사진" /></span>
+							<span>
+								<em>이현욱</em>
+								대리
 							</span>
 						</a>
 					</li>
@@ -870,6 +897,40 @@
 </div>
 <!-- //김범준 팀장 -->
 
+<!-- 김지영 팀장 -->
+<div class="fullLayer" id="personDeatail22">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_invest_pop22.png" alt="김지영" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">김지영</dt>
+					<dd class="position">KOREA / 투자팀  / 팀장</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>서강대학교 경영학과</li>
+							<li>중앙대학교 문화콘텐츠 석사</li>
+							<li>한화금융그룹</li>
+							<li>원스토어</li>
+							<li>SK플래닛</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>회사 발굴&amp;심사 및 투자집행</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //김지영 팀장 -->
+
 <!-- 김신영 심사역 -->
 <div class="fullLayer" id="personDeatail20">
   <h2 class="layerTit">Who We Are</h2>
@@ -935,6 +996,38 @@
   <button type="button" class="layerClose">close</button>
 </div>
 <!-- //이태규 심사역 -->
+
+<!-- 박형주 심사역 -->
+<div class="fullLayer" id="personDeatail23">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_invest_pop23.png" alt="박형주" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">박형주</dt>
+					<dd class="position">KOREA / 투자팀  / 심사역</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>시카고대학교 경제학과</li>
+							<li>야놀자 / 투자전략팀</li>
+							<li>Curinos / Advisory, Solutions</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>회사 발굴&심사 및 투자집행</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //박형주 심사역 -->
 <!-- //팀원소개 investment(L) -->
 
 <!-- 팀원소개 management(L) -->
@@ -1272,6 +1365,36 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //고은비 팀장 -->
+<!-- 이현욱 대리 -->
+<div class="fullLayer" id="person_manageDeatail20">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop20.png" alt="이현욱 대리 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">이현욱</dt>
+					<dd class="position">KOREA / 관리팀 / 대리</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>한온시스템</li>
+							<li>한화에어로스페이스</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>회계</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //이현욱 대리 -->
 <!-- 이신희 대리 -->
 <div class="fullLayer" id="person_manageDeatail12">
 	<h2 class="layerTit">Who We Are</h2>

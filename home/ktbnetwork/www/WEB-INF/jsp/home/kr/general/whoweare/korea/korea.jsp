@@ -309,6 +309,24 @@
 					</li>
 					<li>
 						<div class="member">
+							<div class="left"><img src="/static/home/kr/images/contents/img_team46.png" alt="김지영"></div>
+							<div class="right">
+								<h3>김지영 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
+								<dl>
+									<dt>주요경력</dt>
+									<dd>서강대학교 경영학과<br>중앙대학교 문화콘텐츠 석사<br>한화금융그룹<br>원스토어<br>SK플래닛</dd>
+									<dt>업무</dt>
+									<dd>회사 발굴&amp;심사 및 투자집행</dd>
+								</dl>
+							</div>
+						</div>
+						<a href="#" class="thumb">
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team46_off.png" alt="김지영"></span>
+							<strong>김지영</strong> 팀장
+						</a>
+					</li>
+					<li>
+						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team14.jpg" alt="김혜성"></div>
 							<div class="right">
 								<h3>김혜성 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
@@ -384,6 +402,27 @@
 						<a href="#" class="thumb">
 							<span class="img"><img src="/static/home/kr/images/contents/thumb_team42_off.jpg" alt="이태규"></span>
 							<strong>이태규</strong> 심사역
+						</a>
+					</li>
+					<li>
+						<div class="member">
+							<div class="left"><img src="/static/home/kr/images/contents/img_team47.png" alt="박형주"></div>
+							<div class="right">
+								<h3>박형주 <span class="pointColor">KOREA / 투자팀 / 심사역</span></h3>
+								<dl>
+									<dt>주요경력</dt>
+									<dd>시카고대학교 경제학과<br>
+										야놀자 / 투자전략팀<br>
+										Curinos / Advisory, Solutions
+									</dd>
+									<dt>업무</dt>
+									<dd>회사 발굴&심사 및 투자집행</dd>
+								</dl>
+							</div>
+						</div>
+						<a href="#" class="thumb">
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team47_off.png" alt="박형주"></span>
+							<strong>박형주</strong> 심사역
 						</a>
 					</li>
 				</ul>
@@ -653,6 +692,25 @@
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/kr/images/contents/thumb_team29_off.jpg" alt="이지은"></span>
 								<strong>이지은</strong> 팀장
+							</a>
+						</li>
+						<li>
+							<div class="member">
+								<div class="left"><img src="/static/home/kr/images/contents/img_team48.png" alt="이현욱"></div>
+								<div class="right">
+									<h3>이현욱 <span class="pointColor">KOREA / 관리팀 / 대리</span></h3>
+									<dl>
+										<dt>주요경력</dt>
+										<dd>한온시스템</dd>
+										<dd>한화에어로스페이스</dd>
+										<dt>업무</dt>
+										<dd>회계</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team48_off.png" alt="이신희"></span>
+								<strong>이현욱</strong> 대리
 							</a>
 						</li>
 						<li>

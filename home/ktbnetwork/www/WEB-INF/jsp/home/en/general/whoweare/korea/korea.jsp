@@ -250,9 +250,9 @@
 						</li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team39.jpg" alt="Heo Jongsoo"></div>
+								<div class="left"><img src="/static/home/en/images/contents/img_team39.jpg" alt="Heo Jong Soo"></div>
 								<div class="right">
-									<h3>Heo Jongsoo <span class="pointColor">Korea / Investment / Team Manager</span></h3>
+									<h3>Heo Jong Soo <span class="pointColor">Korea / Investment / Team Manager</span></h3>
 									<dl>
 										<dt>Career</dt>
 										<dd>KAIST (Electrical Engineering)</dd>
@@ -261,8 +261,8 @@
 								</div>
 							</div>
 							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team39_off.jpg" alt="Heo Jongsoo"></span>
-								<strong>Heo Jongsoo</strong> Team Manager
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team39_off.jpg" alt="Heo Jong Soo"></span>
+								<strong>Heo Jong Soo</strong> Team Manager
 							</a>
 						</li>
 						<li>
@@ -285,9 +285,9 @@
 						</li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team40.jpg" alt="Kim Beomjun"></div>
+								<div class="left"><img src="/static/home/en/images/contents/img_team40.jpg" alt="Kim Beom Jun"></div>
 								<div class="right">
-									<h3>Kim Beomjun <span class="pointColor">Korea / Investment / Team Manager</span></h3>
+									<h3>Kim Beom Jun <span class="pointColor">Korea / Investment / Team Manager</span></h3>
 									<dl>
 										<dt>Career</dt>
 										<dd>Korea university division of biotechnology</dd>
@@ -297,8 +297,26 @@
 								</div>
 							</div>
 							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team40_off.jpg" alt="Kim Beomjun"></span>
-								<strong>Kim Beomjun</strong> Team Manager
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team40_off.jpg" alt="Kim Beom Jun"></span>
+								<strong>Kim Beom Jun</strong> Team Manager
+							</a>
+						</li>
+						<li>
+							<div class="member">
+								<div class="left"><img src="/static/home/en/images/contents/img_team46.png" alt="Kim Ji Young"></div>
+								<div class="right">
+									<h3>Kim Ji Young<span class="pointColor">KOREA / Investment / Team Manager</span></h3>
+									<dl>
+										<dt>Career</dt>
+										<dd>Sogang University(Business Administration)<br>Chung-Ang University(M.A. in digital culture& contents)<br>Hanwha Financial Group<br>ONE store<br>SK planet</dd>
+										<dt>Responsibilities</dt>
+										<dd>Deal Sourcing&amp;Deal Diligence</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team46_off.png" alt="Kim Man Sik"></span>
+								<strong>Kim Ji Young</strong> Team Manager
 							</a>
 						</li>
 						<li>
@@ -380,6 +398,28 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/en/images/contents/thumb_team42_off.jpg" alt="Lee Tea Kue"></span>
+								<strong>Lee Tea Kue</strong> Investment Manager
+							</a>
+						</li>
+						<li>
+							<div class="member">
+								<div class="left"><img src="/static/home/en/images/contents/img_team47.png" alt="Park Hyung Joo"></div>
+								<div class="right">
+									<h3>Park Hyung Joo <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
+									<dl>
+										<dt>Career</dt>
+										<dd>
+											University of Chicago (Economics)<br>
+											Yanolja / Investment Strategy<br>
+											Curinos / Advisory, Solutions
+										</dd>
+										<dt>Responsibilities</dt>
+										<dd>Deal Sourcing&amp;Deal Diligence</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team47_off.png" alt="Park Hyung Joo"></span>
 								<strong>Lee Tea Kue</strong> Investment Manager
 							</a>
 						</li>
@@ -626,6 +666,25 @@
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team29_off.jpg" alt="Lee Ji Eun"></span>
 									<strong>Lee Ji Eun</strong> Team Manager
+								</a>
+							</li>
+							<li>
+								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team48.png" alt="Lee Hyun Wook"></div>
+									<div class="right">
+										<h3>Lee Hyun Wook <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>Hanon Systems</dd>
+											<dd>Hanwha Aerospace</dd>
+											<dt>Responsibilities</dt>
+											<dd>Accounting</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team48_off.png" alt="Lee Sin Heer"></span>
+									<strong>Lee Hyun Wook</strong> Assistant Manager
 								</a>
 							</li>
 							<li>

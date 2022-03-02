@@ -142,9 +142,9 @@
 					</li>
 					<li>
 						<a href="#personDeatail18" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_18.jpg" alt="Heo Jongsoo" /></span>
+							<span><img src="/static/mobile/en/images/contents/img_invest_18.jpg" alt="Heo Jong Soo" /></span>
 							<span>
-								<em>Heo Jongsoo</em>
+								<em>Heo Jong Soo</em>
 								Team Manager
 							</span>
 						</a>
@@ -160,9 +160,18 @@
 					</li>
 					<li>
 						<a href="#personDeatail19" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_19.jpg" alt="Kim Beomjun" /></span>
+							<span><img src="/static/mobile/en/images/contents/img_invest_19.jpg" alt="Kim Beom Jun" /></span>
 							<span>
-								<em>Kim Beomjun</em>
+								<em>Kim Beom Jun</em>
+								Team Manager
+							</span>
+						</a>
+					</li>
+					<li>
+						<a href="#personDeatail22" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_invest_22.png" alt="Kim Ji Young" /></span>
+							<span>
+								<em>Kim Ji Young</em>
 								Team Manager
 							</span>
 						</a>
@@ -199,6 +208,15 @@
 							<span><img src="/static/mobile/en/images/contents/img_invest_21.jpg" alt="Lee Tea Kue" /></span>
 							<span>
 								<em>Lee Tea Kue</em>
+								Investment Manager
+							</span>
+						</a>
+					</li>
+					<li>
+						<a href="#personDeatail23" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_invest_23.png" alt="Park Hyung Joo" /></span>
+							<span>
+								<em>Park Hyung Joo</em>
 								Investment Manager
 							</span>
 						</a>
@@ -327,6 +345,16 @@
 							<span>
 								<em>Lee Ji Eun</em>
 								<b>Team Manager</b>
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail20" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_20.png" alt="Lee Hyun Wook" /></span>
+							<span>
+								<em>Lee Hyun Wook</em>
+								<b>Assistant Manager</b>
 							</span>
 						</a>
 					</li>
@@ -733,6 +761,42 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Kim Man Sik Team Manager -->
+
+
+<!-- Kim Ji Young Team Manager -->
+<div class="fullLayer" id="personDeatail22">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_invest_pop22.png" alt="Kim Ji Young" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Kim Ji Young</dt>
+					<dd class="position">KOREA / Investment / Team Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Sogang University(Business Administration)</li>
+							<li>Chung-Ang University(M.A. in digital culture& contents)</li>
+							<li>Hanwha Financial Group</li>
+							<li>ONE store</li>
+							<li>SK planet</li>
+						</ul>
+					</dd>
+					<dt>Responsibilities</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Deal Sourcing &amp; Deal Diligence</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Kim Ji Young Team Manager -->
+
 <!-- Seong Kyeong A Director -->
 <div class="fullLayer" id="personDeatail17">
 	<h2 class="layerTit">Who We Are</h2>
@@ -759,15 +823,15 @@
 </div>
 <!-- //Seong Kyeong A Director -->
 
-<!-- Heo Jongsoo Team Manager -->
+<!-- Heo Jong Soo Team Manager -->
 <div class="fullLayer" id="personDeatail18">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_invest_pop18.jpg" alt="Heo Jongsoo" /></span>
+			<span><img src="/static/mobile/en/images/contents/img_invest_pop18.jpg" alt="Heo Jong Soo" /></span>
 			<div class="deatilCon">
 				<dl>
-					<dt class="name">Heo Jongsoo</dt>
+					<dt class="name">Heo Jong Soo</dt>
 					<dd class="position">KOREA / Investment / Team Manager</dd>
 					<dt>Career</dt>
 					<dd>
@@ -782,7 +846,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Heo Jongsoo Team Manager -->
+<!-- //Heo Jong Soo Team Manager -->
 
 <!-- Cha Seung Jun Team Manager -->
 <div class="fullLayer" id="person_manageDeatail04">
@@ -815,15 +879,15 @@
 </div>
 <!-- //Cha Seung Jun Team Manager -->
 
-<!-- Kim Beomjun Team Manager -->
+<!-- Kim Beom Jun Team Manager -->
 <div class="fullLayer" id="personDeatail19">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_invest_pop19.jpg" alt="Kim Beomjun" /></span>
+			<span><img src="/static/mobile/en/images/contents/img_invest_pop19.jpg" alt="Kim Beom Jun" /></span>
 			<div class="deatilCon">
 				<dl>
-					<dt class="name">Kim Beomjun</dt>
+					<dt class="name">Kim Beom Jun</dt>
 					<dd class="position">KOREA / Investment / Team Manager</dd>
 					<dt>Career</dt>
 					<dd>
@@ -839,7 +903,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Kim Beomjun Team Manager -->
+<!-- //Kim Beom Jun Team Manager -->
 
 <!-- Kim Shin Young Investment Manager -->
 <div class="fullLayer" id="personDeatail20">
@@ -906,6 +970,38 @@
   <button type="button" class="layerClose">close</button>
 </div>
 <!-- //Lee Tea Kue Investment Manager -->
+
+<!-- Park Hyung Joo Investment Manager -->
+<div class="fullLayer" id="personDeatail23">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_invest_pop23.png" alt="Park Hyung Joo" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Park Hyung Joo</dt>
+					<dd class="position">KOREA / Investment / Team Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>University of Chicago (Economics)</li>
+							<li>Yanolja / Investment Strategy</li>
+							<li>Curinos / Advisory, Solutions</li>
+						</ul>
+					</dd>
+					<dt>Responsibilities</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Deal Sourcing &amp; Deal Diligence</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Park Hyung Joo Investment Manager -->
 <!-- //team investment(L) -->
 
 <!-- team management(L) -->
@@ -1265,6 +1361,36 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Ko Eun Bi Team Manager -->
+<!-- Lee Hyun Wook Assistant Manager -->
+<div class="fullLayer" id="person_manageDeatail20">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop20.png" alt="Lee Hyun Wook" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Lee Hyun Wook</dt>
+					<dd class="position">KOREA / Management / Assistant Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Hanon Systems</li>
+							<li>Hanwha Aerospace</li>
+						</ul>
+					</dd>
+					<dt>Responsibilities</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Accounting</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Lee Hyun Wook Assistant Manager -->
 <!-- Lee Sin Hee Assistant Manager -->
 <div class="fullLayer" id="person_manageDeatail12">
 	<h2 class="layerTit">Who We Are</h2>
