@@ -58,7 +58,7 @@ a:hover{text-decoration:none}
 .navArea, .footArea{position:relative;width:1200px;margin:0 auto}
 .inner{width:1100px;margin:0 auto}
 
-.header{position:absolute;top:0;left:0;width:100%;min-width:1280px;background:#2c2c92 url(../images/common/bg_visual.jpg) 100% 0 repeat-y;z-index:10}
+.header{position:absolute;top:0;left:0;width:100%;min-width:1280px;background:#0f206c url(../images/common/bg_visual.png) 100% 0 repeat-y;z-index:10}
 .header.fixed{position:fixed}
 
 .headArea{position:relative;height:100%;border-bottom:1px solid rgba(255,255,255,0.1)}

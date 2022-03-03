@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 /* main layout */
-.mMain header{background:#2c2c92}
+.mMain header{background:#0f206c}
 .mMain header button{background-position:-40px -65px}
 .mMain header h1{display:block}
 .mMain header h1 a{display:block;position:absolute;left:0;top:0;text-indent:-9999px;width:150px;height:60px;background:url(../images/common/logo_w.png) no-repeat 30px 21px;background-size:90px 19px}
@@ -18,8 +18,8 @@
 .indicator .indiList button.on:after{left:0;top:0;width:8px;height:8px;border-radius:4px;background-color:#fff}
 
 .mainSwipe{position:relative;margin-bottom:-21px;z-index:1}
-.mainSwipe:after{content:'';display:block;width:0;position:absolute;right:0;bottom:20px;height:0;border-left:50px solid transparent;border-bottom:50px solid #fff}
-.mainSwipe .swiper-container{background:#2c2c92}
+/* .mainSwipe:after{content:'';display:block;width:0;position:absolute;right:0;bottom:20px;height:0;border-left:50px solid transparent;border-bottom:50px solid #fff}*/
+.mainSwipe .swiper-container{background:#0f206c}
 .mainSwipe .indicator{display:inline-block;margin:0 auto}
 .mainSwipe .indiList{left:0;bottom:70px;width:100%;text-align:center}
 
