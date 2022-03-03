@@ -185,13 +185,13 @@ dl.noticeBox .tblV tbody th{vertical-align:middle}
 
 /* ESG */
 .esgGroup {font-weight:500;color:#000;}
-.esgGroup h3 {margin-top:80px;font-size:22px;line-height:32px;}
+.esgGroup h3 {margin-top:72px;font-size:22px;line-height:32px;}
 .esgGroup h3:first-child {margin-top:0;}
 .esgGroup .text {margin-top:24px;font-size:15px;font-weight:400;line-height:25px;}
 .esgGroup .listRule {margin-top:50px;}
 .esgGroup .listRule dt {margin-top:24px;font-size:18px;color:#2c2c92;line-height:28px;}
 .esgGroup .listRule dt:first-child {margin-top:0;}
-.esgGroup .listRule dd {margin-top:18px;font-size:15px;line-height:25px;}
+.esgGroup .listRule dd {margin-top:24px;font-size:15px;font-weight:400;line-height:25px;}
 .esgGroup .imgArea {margin-top:35px;}
 
 /* About KTB Group */

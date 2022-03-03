@@ -126,6 +126,17 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .opinionTxt {padding-top:25px;font-size:13px;color:#737373}
 .opinionTxt em {display:block;padding-top:15px;color:#111}
 
+/* ESG */
+.esg {padding:35px 0 0;font-weight:500;color:#000;}
+.esg h3 {margin-top:57px;font-size:22px;line-height:28px;}
+.esg h3:nth-of-type(1) {margin-top:0;}
+.esg .text {margin-top:20px;font-size:15px;font-weight:400;line-height:21px;}
+.esg .listRule {margin-top:35px;}
+.esg .listRule dt {margin-top:35px;font-size:17px;line-height:23px;}
+.esg .listRule dt:first-child {margin-top:0;}
+.esg .listRule dd {margin-top:20px;font-size:15px;font-weight:400;line-height:21px;}
+.esg .imgArea {margin-top:35px;}
+
 /* contact */
 .contact .tglList {border-bottom:1px solid #e0e0e0}
 .contactArea .addr{margin-bottom:20px}
