@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=49">
+									<strong class="tit">제 14기 정기주주총회 소집통지서</strong>
+									<div class="con"><span class="date">2022.02.14</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=48">
 									<strong class="tit">외부감사인 선임 공고</strong>
 									<div class="con"><span class="date">2022.02.14</span></div>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2021.07.12</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=24">
 									<strong class="tit">주식 1차공매 공고</strong>
 									<div class="con"><span class="date">2021.07.06</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=23">
 									<strong class="tit">주식명의개서정지공고</strong>
@@ -141,15 +147,15 @@
 									<div class="con"><span class="date">2017.03.02</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=6">
 									<strong class="tit">제 8기 결산공고</strong>
 									<div class="con"><span class="date">2016.03.07</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=7">
 									<strong class="tit">외부감사인 선임 공고</strong>
@@ -204,15 +210,15 @@
 									<div class="con"><span class="date">2011.06.13</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=16">
 									<strong class="tit">주권제출 공고</strong>
 									<div class="con"><span class="date">2011.02.22</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=17">
 									<strong class="tit">채권자 이의제출 공고</strong>
