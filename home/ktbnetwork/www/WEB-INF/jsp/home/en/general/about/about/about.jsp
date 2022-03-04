@@ -170,8 +170,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname01_eng.png" alt="DAOL Investment & Securities"></div>
 										<div class="link">
-											<p class="site"><a href="https://www.ktb.co.kr/top.jsp" target="_blank">www.daolsecurities.com</a></p>
-											<p class="tel">1588-3100</p>
+											<p class="site"><a href="https://www.ktb.co.kr/corporation/eng/index.jsp" target="_blank">www.daolsecurities.com</a></p>
 										</div>
 										<p class="txt">
 											Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, DAOL Investment & Securities(“DAOL") has since grown into a comprehensive securities company offering a wide range of financial products and services including, investment banking, institutional brokerage and individual wealth management. DAOL's professional have long played leading role professionals in the structured finance market, with strong expertise in a wide range of alternative investment products, including real estate / SOC, aircraft and ship financing and renewable energy. DAOL holds DAOL Savings Bank, DAOL Investment, DAOL Asset Management, DAOL Private Equity, DAOL Credit Service as its owned subsidiaries.
@@ -181,7 +180,6 @@
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname08_eng.png" alt="DAOL SAVING Bank"></div>
 										<div class="link">
 											<p class="site"><a href="https://www.eugenebank.com/main.do" target="_blank">www.daolsb.com</a></p>
-											<p class="tel">1544-6700</p>
 										</div>
 										<p class="txt">
 											DAOL Savings Bank is established in 1972 based on Korean capital. As of the end of 2021, total asset is USD 3 billion, revenue is USD 0.3 billion, and BIS Ratio is 13.3%, which is a stable bank. Acquired by DAOL in December 2021, enhance synergy between group companies and invest in digital transformation to become innovative digital bank.
@@ -190,7 +188,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname03_eng.png" alt="DAOL Investment"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolinvestment.com" target="_blank">www.daolinvestment.com</a></p>
+											<p class="site"><a href="http://www.ktbnetwork.com/home/en/main/main.do" target="_blank">www.daolinvestment.com</a></p>
 											<p class="tel">+82-31-628-6400</p>
 										</div>
 										<p class="txt">
@@ -201,7 +199,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname02_eng.png" alt="DAOL Asset Management"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.i-ktb.com" target="_blank">www.daolfund.com</a></p>
+											<p class="site"><a href="http://www.i-ktb.com/static/pc/html/MA/MAE1.html" target="_blank">www.daolfund.com</a></p>
 											<p class="tel">+82-2-788-8400</p>
 										</div>
 										<p class="txt">
