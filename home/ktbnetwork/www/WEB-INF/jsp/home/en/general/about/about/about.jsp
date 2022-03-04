@@ -116,7 +116,7 @@
 										<ol class="list">
 											<li>
 												<strong class="tit">2018. 11</strong>
-												<p class="txt">Established DAOL REIT & DAOL Asset Management Thailand</p>
+												<p class="txt">Established DAOL REIT & DAOL Investment Management Thailand</p>
 											</li>
 										</ol>
 									</li>
@@ -170,7 +170,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname01_eng.png" alt="DAOL Investment & Securities"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolsecurities.com" target="_blank">www.daolsecurities.com</a></p>
+											<p class="site"><a href="https://www.ktb.co.kr/top.jsp" target="_blank">www.daolsecurities.com</a></p>
 											<p class="tel">1588-3100</p>
 										</div>
 										<p class="txt">
@@ -180,7 +180,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname08_eng.png" alt="DAOL SAVING Bank"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolsb.com" target="_blank">www.daolsb.com</a></p>
+											<p class="site"><a href="https://www.eugenebank.com/main.do" target="_blank">www.daolsb.com</a></p>
 											<p class="tel">1544-6700</p>
 										</div>
 										<p class="txt">
@@ -201,7 +201,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname02_eng.png" alt="DAOL Asset Management"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolfund.com" target="_blank">www.daolfund.com</a></p>
+											<p class="site"><a href="http://www.i-ktb.com" target="_blank">www.daolfund.com</a></p>
 											<p class="tel">+82-2-788-8400</p>
 										</div>
 										<p class="txt">
@@ -212,7 +212,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname04_eng.png" alt="DAOL Private Equity"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolpe.com" target="_blank">www.daolpe.com</a></p>
+											<p class="site"><a href="http://www.ktbpe.co.kr/" target="_blank">www.daolpe.com</a></p>
 											<p class="tel">+82-2-2184-4100</p>
 										</div>
 										<p class="txt">
@@ -222,7 +222,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname05_eng.png" alt="DOAL Credit Service"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolcredit.com" target="_blank">www.daolcredit.com</a></p>
+											<p class="site"><a href="http://www.ktbcredit.com/" target="_blank">www.daolcredit.com</a></p>
 											<p class="tel">+82-2-721-6900</p>
 										</div>
 										<p class="txt">
@@ -233,7 +233,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname06_eng.png" alt="DAOL Thailand"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daol.co.th" target="_blank">www.daol.co.th</a></p>
+											<p class="site"><a href="https://www.ktbst.co.th/home" target="_blank">www.daol.co.th</a></p>
 											<p class="tel">+66-02-648-1111</p>
 										</div>
 										<p class="txt">
@@ -243,7 +243,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname07_eng.png" alt="DAOL Ventures"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolventures.com" target="_blank">www.daolventures.com</a></p>
+											<p class="site"><a href="http://www.ktbvc.com/" target="_blank">www.daolventures.com</a></p>
 											<p class="tel">+1-650-324-4681</p>
 										</div>
 										<p class="txt">

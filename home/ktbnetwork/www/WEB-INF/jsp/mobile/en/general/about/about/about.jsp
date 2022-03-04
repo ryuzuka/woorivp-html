@@ -75,7 +75,7 @@
 					<li>
 						<strong class="tit">NOV. 2018</strong>
 						<p class="txt">
-							Established DAOL REIT & DAOL Asset Management Thailand
+							Established DAOL REIT & DAOL Investment Management Thailand
 						</p>
 					</li>
 					<li>

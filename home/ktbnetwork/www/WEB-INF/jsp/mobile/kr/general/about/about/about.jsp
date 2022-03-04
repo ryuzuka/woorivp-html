@@ -67,7 +67,7 @@
 					</li>
 					<li>
 						<strong class="tit">2018.11</strong>
-						<p class="txt">DAOL REIT & DAOL Asset Management Thailand 설립</p>
+						<p class="txt">DAOL REIT & DAOL Investment Management Thailand 설립</p>
 					</li>
 					<li>
 						<strong class="tit">2019.07</strong>

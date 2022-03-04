@@ -110,7 +110,7 @@
 										<ol class="list">
 											<li>
 												<strong class="tit">2018. 11</strong>
-												<p class="txt">DAOL REIT & DAOL Asset Management Thailand 설립</p>
+												<p class="txt">DAOL REIT & DAOL Investment Management Thailand 설립</p>
 											</li>
 										</ol>
 									</li>
@@ -164,7 +164,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname01.png" alt="다올 투자증권"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolsecurities.com" target="_blank">www.daolsecurities.com</a></p>
+											<p class="site"><a href="https://www.ktb.co.kr/top.jsp" target="_blank">www.daolsecurities.com</a></p>
 											<p class="tel">1588-3100</p>
 										</div>
 										<p class="txt">
@@ -175,7 +175,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname08.png" alt="다올 저축은행"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolsb.com" target="_blank">www.daolsb.com</a></p>
+											<p class="site"><a href="https://www.eugenebank.com/main.do" target="_blank">www.daolsb.com</a></p>
 											<p class="tel">1544-6700</p>
 										</div>
 										<p class="txt">
@@ -186,7 +186,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname03.png" alt="다올 인베스트먼트"></div>
 										<div class="link">
-											<p class="site"><a href="http://www. daolinvestment.com" target="_blank">www. daolinvestment.com</a></p>
+											<p class="site"><a href="http://www.daolinvestment.com" target="_blank">www.daolinvestment.com</a></p>
 											<p class="tel">031-628-6400</p>
 										</div>
 										<p class="txt">
@@ -198,7 +198,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname02.png" alt="다올 자산운용"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolfund.com" target="_blank">www.daolfund.com</a></p>
+											<p class="site"><a href="http://www.i-ktb.com" target="_blank">www.daolfund.com</a></p>
 											<p class="tel">02-788-8400</p>
 										</div>
 										<p class="txt">
@@ -211,7 +211,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname04.png" alt="다올 프라이빗 에쿼티"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolpe.com" target="_blank">www.daolpe.com</a></p>
+											<p class="site"><a href="http://www.ktbpe.co.kr/" target="_blank">www.daolpe.com</a></p>
 											<p class="tel">02-2184-4100</p>
 										</div>
 										<p class="txt">
@@ -222,7 +222,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname05.png" alt="다올 신용정보"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolcredit.com" target="_blank">www.daolcredit.com</a></p>
+											<p class="site"><a href="http://www.ktbcredit.com/" target="_blank">www.daolcredit.com</a></p>
 											<p class="tel">02-721-6900</p>
 										</div>
 										<p class="txt">
@@ -234,7 +234,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname06.png" alt="DAOL Thailand"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daol.co.th" target="_blank">www.daol.co.th</a></p>
+											<p class="site"><a href="https://www.ktbst.co.th/" target="_blank">www.daol.co.th</a></p>
 											<p class="tel">+66-02-648-1111</p>
 										</div>
 										<p class="txt">
@@ -246,7 +246,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname07.png" alt="DAOL Ventures"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.daolventures.com" target="_blank">www.daolventures.com</a></p>
+											<p class="site"><a href="http://www.ktbvc.com/" target="_blank">www.daolventures.com</a></p>
 											<p class="tel">+1-650-324-4681</p>
 										</div>
 										<p class="txt">
