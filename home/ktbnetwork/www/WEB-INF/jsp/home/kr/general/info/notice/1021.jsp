@@ -3,14 +3,14 @@
 
 <section id="container" class="container">
   <nav class="nav">
-    <ol class="navArea"><li>HOME</li><li>News</li></ol>
+    <ol class="navArea"><li>HOME</li><li>Info</li></ol>
   </nav>
 
   <div class="content">
     <div class="visualArea">
       <div class="inner">
-        <h1 class="pageTit">News</h1>
-        <p class="pageTxt">KTB네트워크의 공지사항을 안내해드립니다.</p>
+        <h1 class="pageTit">Info</h1>
+        <p class="pageTxt">다올금융그룹의 공지사항을 알려드립니다.</p>
       </div>
     </div>
     <div class="inner">
