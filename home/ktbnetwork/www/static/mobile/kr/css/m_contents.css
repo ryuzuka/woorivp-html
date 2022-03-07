@@ -10,7 +10,7 @@ header.headFixed ~ .container .pageTit{position:fixed;top:0;left:80px;right:80px
 header.headFixed ~ .container .pageTit:after{display:none}
 
 .visualArea{position:relative;margin:0 -30px;padding:50px 30px 50px;color:#fff;background:#0f206c}
-/*.visualArea:after{content:'';display:block;width:0;position:absolute;right:0;bottom:0;height:0;border-left:40px solid transparent;border-bottom:40px solid #fff}*/
+/*.visualArea:after{content:'';display:block;width:0;poaffListsition:absolute;right:0;bottom:0;height:0;border-left:40px solid transparent;border-bottom:40px solid #fff}*/
 .visualArea .pageTit{font-size:30px;line-height:1}
 .visualArea .pageTit:after{content:'';display:block;width:25px;height:2px;margin-top:18px;background:#fff}
 .visualArea .pageTxt{margin-top:22px}
@@ -210,46 +210,58 @@ header.headFixed ~ .container .pageTit:after{display:none}
   top: auto !important;
 }
 .affArea .affList li:nth-of-type(1) {
-  top: 0%;
-  left: 34.43917852%;
-  width: 33.17535545%;
-  height: 16.08247423%;
+  top: 13.78122308%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(2) {
-  top: 17.11340206%;
-  left: 4.26540284%;
-  width: 33.17535545%;
-  height: 16.08247423%;
+  top: 21.96382428%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(3) {
-  top: 17.11340206%;
-  left: 64.4549763%;
-  width: 33.17535545%;
-  height: 16.08247423%;
+  top: 30.14642549%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(4) {
-  top: 42.06185567%;
-  left: 0%;
-  width: 33.17535545%;
-  height: 16.08247423%;
+  top: 38.32902670%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(5) {
-  top: 42.06185567%;
-  left: 68.87835703%;
-  width: 30.8056872%;
-  height: 16.08247423%;
-}
-.affArea .affList li:nth-of-type(7) {
-  top: 66.80412371%;
-  left: 4.26540284%;
-  width: 33.01737757%;
-  height: 16.08247423%;
+  top: 46.51162790%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(6) {
-  top: 66.80412371%;
-  left: 64.4549763%;
-  width: 33.17535545%;
-  height: 16.08247423%;
+  top: 54.69422911%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 6.02928509%;
+}
+.affArea .affList li:nth-of-type(7) {
+  top: 62.87683031%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 20.75796726%;
+}
+.affArea .affList li:nth-of-type(8) {
+  top: 85.78811369%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 6.02928509%;
+}
+.affArea .affList li:nth-of-type(9) {
+  top: 93.97071490%;
+  left: 8.88888888%;
+  width: 82.22222222%;
+  height: 6.02928509%;
 }
 
 

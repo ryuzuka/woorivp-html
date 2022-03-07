@@ -134,13 +134,12 @@
 <!-- layer pop(L) -->
 	<div class="layerPop en" id="pop1">
 		<div class="layerContainer">
-			<h2 class="layerTit">DAOL Investment &amp; Securities</h2>
+			<h2 class="layerTit">DAOL Investment & Securities</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo1_eng.png" alt="DAOL Investment & Securities" class="imgType01"><img src="/static/mobile/en/images/contents/logo1_eng02.png" alt="DAOL Investment & Securities" class="imgType02"></div>
 					<div class="contBtn">
-						<a href="http://www.daolsecurities.com" target="_blank" title="새창열기">www.daolsecurities.com</a>
-						<a href="tel:1588-3100">1588-3100</a>
+						<a href="https://www.ktb.co.kr/corporation/eng/index.jsp" target="_blank" title="새창열기">www.daolsecurities.com</a>
 					</div>
 				</div>
 				Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, DAOL Investment & Securities(“DAOL") has since grown into a comprehensive securities company offering a wide range of financial products and services including, investment banking, institutional brokerage and individual wealth management.<br><br>
@@ -152,18 +151,17 @@
 	</div>
 	<div class="layerPop en" id="pop2">
 		<div class="layerContainer">
-			<h2 class="layerTit">DAOL Asset Management</h2>
+			<h2 class="layerTit">DAOL SAVING Bank</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo2_eng.png" alt="DAOL Asset Management"></div>
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo8_eng.png" alt="DAOL SAVING Bank"></div>
 					<div class="contBtn">
-						<a href="http://www.daolfund.com" target="_blank" title="새창열기">www.daolfund.com</a>
-						<a href="tel:+82-2-788-8400">+82-2-788-8400</a>
+						<a href="https://www.eugenebank.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
 					</div>
 				</div>
-				DAOL Asset Management has shown steady growth for more than 20 years since it was first founded in 1999. As of the end of 2021, its assets under management (AUM) reached USD 12.5 billion*. In particular, the company has distinguished itself in new business development, with successful launches of Multi-Asset Department and Alternative Investment Division in 2016. By launching and operating a number of successful public funds, such as First Class Stock Fund(Industry 4.0/China/ESG), Multi-Asset Income EMP, and Block-Deal High-Yield Fund, DAOL Asset Management continues to play a leading role in the market, and is expanding its unique portfolio of medium-risk and medium-return products such as NPL, and the asset allocation fund.<br><br>
-				The Alternative Investment Division has focused on expanding various investment assets and areas and succeeded in establishing all business sectors not only as domestic and foreign real estate but also as aircraft, ships, and infrastructure. It is operating USD 4.9 billion-worth of alternative investments as of the end of 2021.<br><br>
-				<p class="info">Source : Korea Financial Investment Association</p>
+				DAOL Savings Bank is established in 1972 based on Korean capital.<br><br>
+				As of the end of 2021, total asset is USD 3 billion, revenue is USD 0.3 billion, and BIS Ratio is 13.3%, which is a stable bank.<br><br>
+				Acquired by DAOL in December 2021, enhance synergy between group companies and invest in digital transformation to become innovative digital bank.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
@@ -175,7 +173,7 @@
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo3_eng.png" alt="DAOL Investment"></div>
 					<div class="contBtn">
-						<a href="http://www.daolinvestment.com" target="_blank" title="새창열기">www.daolinvestment.com</a>
+						<a href="http://m.ktbnetwork.com/home/en/main/main.do" target="_blank" title="새창열기">www.daolinvestment.com</a>
 						<a href="tel:+82-31-628-6400">+82-31-628-6400</a>
 					</div>
 				</div>
@@ -188,12 +186,30 @@
 	</div>
 	<div class="layerPop en" id="pop4">
 		<div class="layerContainer">
+			<h2 class="layerTit">DAOL Asset Management</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo2_eng.png" alt="DAOL Asset Management"></div>
+					<div class="contBtn">
+						<a href="http://www.i-ktb.com/static/pc/html/MA/MAE1.html" target="_blank" title="새창열기">www.daolfund.com</a>
+						<a href="tel:+82-2-788-8400">+82-2-788-8400</a>
+					</div>
+				</div>
+				DAOL Asset Management has shown steady growth for more than 20 years since it was first founded in 1999. As of the end of 2021, its assets under management (AUM) reached USD 12.5 billion*. In particular, the company has distinguished itself in new business development, with successful launches of Multi-Asset Department and Alternative Investment Division in 2016. By launching and operating a number of successful public funds, such as First Class Stock Fund(Industry 4.0/China/ESG), Multi-Asset Income EMP, and Block-Deal High-Yield Fund, DAOL Asset Management continues to play a leading role in the market, and is expanding its unique portfolio of medium-risk and medium-return products such as NPL, and the asset allocation fund.<br><br>
+				The Alternative Investment Division has focused on expanding various investment assets and areas and succeeded in establishing all business sectors not only as domestic and foreign real estate but also as aircraft, ships, and infrastructure. It is operating USD 4.9 billion-worth of alternative investments as of the end of 2021.<br><br>
+				<p class="info">Source : Korea Financial Investment Association</p>
+			</div>
+		</div>
+		<button type="button" class="layerClose">close</button>
+	</div>
+	<div class="layerPop en" id="pop5">
+		<div class="layerContainer">
 			<h2 class="layerTit">DAOL Private Equity</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo4_eng.png" alt="DAOL Private Equity"></div>
 					<div class="contBtn">
-						<a href="http://www.daolpe.com" target="_blank" title="새창열기">www.daolpe.com</a>
+						<a href="http://www.ktbpe.co.kr/" target="_blank" title="새창열기">www.daolpe.com</a>
 						<a href="tel:+82-2-2184-4100">+82-2-2184-4100</a>
 					</div>
 				</div>
@@ -204,14 +220,33 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<div class="layerPop en" id="pop5">
+	<div class="layerPop en" id="pop6">
+		<div class="layerContainer">
+			<h2 class="layerTit">DOAL Credit Service</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo7_eng.png" alt="DOAL Credit Service"></div>
+					<div class="contBtn">
+						<a href="http://www.ktbcredit.com/" target="_blank" title="새창열기">www.daolcredit.com</a>
+						<a href="tel:+82-2-721-6900">+82-2-721-6900</a>
+					</div>
+				</div>
+				DAOL Credit Service (“DAOL Credit"), which first began as Nara Credit Service in 1999, became an affiliate of DAOL Investment & Securities in 2001.<br><br>
+				Services provided by DAOL Credit include debt collection, credit investigation, issuance of civil affair documents and real estate management.<br>
+				DAOL Credit has been a clear market leader in the field of debt collection and related information services, as seen in its role as the primary debt collection agency for the Korea Deposit Insurance Corporation for nearly 20 years.<br><br>
+				<p class="info">Served as the debt collector for the Korea Deposit Insurance Corporation from 2001 to Mar. 2022</p>
+			</div>
+		</div>
+		<button type="button" class="layerClose">close</button>
+	</div>
+	<div class="layerPop en" id="pop7">
 		<div class="layerContainer">
 			<h2 class="layerTit">DAOL Thailand</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo5_eng.png" alt="DAOL Thailand"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbst.co.th" target="_blank" title="새창열기">www.ktbst.co.th</a>
+						<a href="https://www.ktbst.co.th/home" target="_blank" title="새창열기">www.daol.co.th</a>
 						<a href="tel:+66-02-648-1111">+66-02-648-1111</a>
 					</div>
 				</div>
@@ -222,14 +257,14 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<div class="layerPop en" id="pop6">
+	<div class="layerPop en" id="pop8">
 		<div class="layerContainer">
 			<h2 class="layerTit">DAOL Ventures</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo6_eng.png" alt="DAOL Ventures"></div>
 					<div class="contBtn">
-						<a href="http://www.daolventures.com" target="_blank" title="새창열기">www.daolventures.com</a>
+						<a href="http://www.ktbvc.com/" target="_blank" title="새창열기">www.daolventures.com</a>
 						<a href="tel:+1-650-324-4681">+1-650-324-4681</a>
 					</div>
 				</div>
@@ -242,53 +277,12 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<div class="layerPop en" id="pop7">
-		<div class="layerContainer">
-			<h2 class="layerTit">DOAL Credit Service</h2>
-			<div class="layerCont" tabindex="0">
-				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo7_eng.png" alt="DOAL Credit Service"></div>
-					<div class="contBtn">
-						<a href="http://www.daolcredit.com" target="_blank" title="새창열기">www.daolcredit.com</a>
-						<a href="tel:+82-2-721-6900">+82-2-721-6900</a>
-					</div>
-				</div>
-				DAOL Credit Service (“DAOL Credit"), which first began as Nara Credit Service in 1999, became an affiliate of DAOL Investment & Securities in 2001.<br><br>
-				Services provided by DAOL Credit include debt collection, credit investigation, issuance of civil affair documents and real estate management.<br>
-				DAOL Credit has been a clear market leader in the field of debt collection and related information services, as seen in its role as the primary debt collection agency for the Korea Deposit Insurance Corporation for nearly 20 years.<br><br>
-				<p class="info">Served as the debt collector for the Korea Deposit Insurance Corporation from 2001 to Mar. 2022</p>
-			</div>
-		</div>
-		<button type="button" class="layerClose">close</button>
-	</div>
-	<div class="layerPop en" id="pop8">
-		<div class="layerContainer">
-			<h2 class="layerTit">DAOL SAVING Bank</h2>
-			<div class="layerCont" tabindex="0">
-				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo8_eng.png" alt="DAOL SAVING Bank"></div>
-					<div class="contBtn">
-						<a href="http://www.daolsb.com" target="_blank" title="새창열기">www.daolsb.com</a>
-						<a href="tel:1544-6700">1544-6700</a>
-					</div>
-				</div>
-				DAOL Savings Bank is established in 1972 based on Korean capital.<br><br>
-				As of the end of 2021, total asset is USD 3 billion, revenue is USD 0.3 billion, and BIS Ratio is 13.3%, which is a stable bank.<br><br>
-				Acquired by DAOL in December 2021, enhance synergy between group companies and invest in digital transformation to become innovative digital bank.
-			</div>
-		</div>
-		<button type="button" class="layerClose">close</button>
-	</div>
 	<div class="layerPop en" id="pop9">
 		<div class="layerContainer">
 			<h2 class="layerTit">DAOL New York</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo9_eng.png" alt="DAOL New York"></div>
-					<!-- <div class="contBtn">
-						<a href="http://www.ktbcredit.com" target="_blank" title="새창열기">www.ktbcredit.com</a>
-						<a href="tel:+82-2-721-6900">+82-2-721-6900</a>
-					</div> -->
 				</div>
 				DAOL New York is the U S local investment advisory company established in 2019.<br><br>
 				DAOL New York is global hub for group’s overseas alternative investment.<br><br>

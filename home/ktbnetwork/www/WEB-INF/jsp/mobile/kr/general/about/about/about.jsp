@@ -126,7 +126,7 @@
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo1.png" alt="다올 투자증권"></div>
 					<div class="contBtn">
-						<a href="http://www.daolsecurities.com" target="_blank" title="새창열기">www.daolsecurities.com</a>
+						<a href="https://m.ktb.co.kr/kr/MA/main.jsp" target="_blank" title="새창열기">www.daolsecurities.com</a>
 						<a href="tel:1588-3100">1588-3100</a>
 					</div>
 				</div>
@@ -140,12 +140,50 @@
 
 	<div class="layerPop" id="pop2">
 		<div class="layerContainer">
+			<h2 class="layerTit">다올 저축은행</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo2.png" alt="다올 저축은행"></div>
+					<div class="contBtn">
+						<a href="https://www.eugenebank.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
+						<a href="tel:1544-6700">1544-6700</a>
+					</div>
+				</div>
+				다올저축은행은 1972년 순수 국내자본 기반으로 설립된 저축은행으로 2021년 12월말 현재 총자산은 36,328억원, 2021년 영업수익은 3,136억으로 업계 상위 수준이며, BIS비율도 13.3%로 튼튼하고 건실한 저축은행입니다.<br>
+				2021년 다올금융그룹의 일원으로 편입됨에 따라 금융그룹 계열사로서 시너지를 제고 시키고, 디지털 부문에 대한 과감한 투자를 통해 새로운 차원의 저축은행, 디지털뱅크로의 도약을 준비하고 있습니다.
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+
+	<div class="layerPop" id="pop3">
+		<div class="layerContainer">
+			<h2 class="layerTit">다올 인베스트먼트</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo2.png" alt="다올 인베스트먼트"></div>
+					<div class="contBtn">
+						<a href="http://www.daolinvestment.com" target="_blank" title="새창열기">http://www.daolinvestment.com</a>
+						<a href="tel:031-628-6400">031-628-6400</a>
+					</div>
+				</div>
+				국내 최고 수준의 업력 및 투자경험을 보유한 한국을 대표하는 벤처캐피탈입니다. ‘21년말 현재 보유 중인 운용자산(AUM)은 약 11,745억원*이며, 작년 한해 신규로 결성된 펀드 규모는 약정액 기준 약 550억원입니다.<br>
+				‘00년 국내 VC중 최초로 중국시장에 진출, 9년 연속 중국 내 Top VC 50위 안에 선정되는 등 First Mover로서 성공적인 운용성과를 시현하고 있으며, 미주, 중국, 일본, 동남아시아 등 다양한 글로벌 투자 Track record 및 네트워크를 확보하고 있습니다.
+				<br><br>
+				<p class="info">* 2022년 12월말 기준, PEF 포함</p>
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+
+	<div class="layerPop" id="pop4">
+		<div class="layerContainer">
 			<h2 class="layerTit">다올 자산운용</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo2.png" alt="다올 자산운용"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo3.png" alt="다올 자산운용"></div>
 					<div class="contBtn">
-						<a href="http://www. daolfund.com" target="_blank" title="새창열기">www. daolfund.com</a>
+						<a href="http://www.i-ktb.com" target="_blank" title="새창열기">www.daolfund.com</a>
 						<a href="tel:02-788-8400">02-788-8400</a>
 					</div>
 				</div>
@@ -158,34 +196,14 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
-	<div class="layerPop" id="pop3">
+	<div class="layerPop" id="pop5">
 		<div class="layerContainer">
-			<h2 class="layerTit">다올 인베스트먼트</h2>
+			<h2 class="layerTit">다올 프라이빗 에쿼티</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo3.png" alt="다올 인베스트먼트"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo4.png" alt="다올 프라이빗 에쿼티"></div>
 					<div class="contBtn">
-						<a href="http://www.daolinvestment.com" target="_blank" title="새창열기">www.daolinvestment.com</a>
-						<a href="tel:031-628-6400">031-628-6400</a>
-					</div>
-				</div>
-				국내 최고 수준의 업력 및 투자경험을 보유한 한국을 대표하는 벤처캐피탈입니다. ‘21년말 현재 보유 중인 운용자산(AUM)은 약 11,745억원*이며, 작년 한해 신규로 결성된 펀드 규모는 약정액 기준 약 550억원입니다.<br><br>
-				‘00년 국내 VC중 최초로 중국시장에 진출, 9년 연속 중국 내 Top VC 50위 안에 선정되는 등 First Mover로서 성공적인 운용성과를 시현하고 있으며, 미주, 중국, 일본, 동남아시아 등 다양한 글로벌 투자 Track record 및 네트워크를 확보하고 있습니다.
-				<br><br>
-				<p class="info">* 2022년 12월말 기준, PEF 포함</p>
-			</div>
-		</div>
-		<button type="button" class="layerClose">닫기</button>
-	</div>
-
-	<div class="layerPop" id="pop4">
-		<div class="layerContainer">
-			<h2 class="layerTit">다올 프라이빗에쿼터</h2>
-			<div class="layerCont" tabindex="0">
-				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo4.png" alt="다올 프라이빗에쿼터"></div>
-					<div class="contBtn">
-						<a href="http://www.daolpe.com" target="_blank" title="새창열기">www.daolpe.com</a>
+						<a href="http://www.ktbpe.co.kr/" target="_blank" title="새창열기">www.daolpe.com</a>
 						<a href="tel:02-2184-4100">02-2184-4100</a>
 					</div>
 				</div>
@@ -196,14 +214,33 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
-	<div class="layerPop" id="pop5">
+	<div class="layerPop" id="pop6">
 		<div class="layerContainer">
-			<h2 class="layerTit">DAOL Thailand </h2>
+			<h2 class="layerTit">다올 신용정보</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo5.png" alt="DAOL Thailand "></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo5.png" alt="다올 신용정보"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbst.co.th" target="_blank" title="새창열기">www.ktbst.co.th</a>
+						<a href="http://www.ktbcredit.com/" target="_blank" title="새창열기">www.daolcredit.com</a>
+						<a href="tel:02-721-6900">02-721-6900</a>
+					</div>
+				</div>
+				‘99년 나라신용정보로 출발한 다올신용정보는 ‘01년 다올투자증권의 계열사로 편입되었습니다.<br><br>
+				채권추심, 신용조사, 민원서류발급대행, 부동산관리업무 등을 수행하는 회사로서, 20년간 예금보험공사의 채권추심 담당사로 선정될 만큼 전문성을 보유하고 있습니다.<br><br>
+				<p class="info">*예금보험공사 채권 수임기간 : ‘01년 ~ ‘22년 3월 현재</p>
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+
+	<div class="layerPop" id="pop7">
+		<div class="layerContainer">
+			<h2 class="layerTit">DAOL Thailand</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo6.png" alt="DAOL Thailand"></div>
+					<div class="contBtn">
+						<a href="https://www.ktbst.co.th/" target="_blank" title="새창열기">www.daol.co.th</a>
 						<a href="tel:+66-02-648-1111">+66-02-648-1111</a>
 					</div>
 				</div>
@@ -215,14 +252,14 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
-	<div class="layerPop" id="pop6">
+	<div class="layerPop" id="pop8">
 		<div class="layerContainer">
 			<h2 class="layerTit">DAOL Ventures</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo6.png" alt="DAOL Ventures"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo7.png" alt="DAOL Ventures"></div>
 					<div class="contBtn">
-						<a href="http://www.daolventures.com" target="_blank" title="새창열기">www.daolventures.com</a>
+						<a href="http://www.ktbvc.com/" target="_blank" title="새창열기">www.daolventures.com</a>
 						<a href="tel:+1-650-324-4681">+1-650-324-4681</a>
 					</div>
 				</div>
@@ -232,49 +269,12 @@
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-
-	<div class="layerPop" id="pop7">
-		<div class="layerContainer">
-			<h2 class="layerTit">다올 신용정보</h2>
-			<div class="layerCont" tabindex="0">
-				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo7.png" alt="다올 신용정보"></div>
-					<div class="contBtn">
-						<a href="http://www.daolcredit.com" target="_blank" title="새창열기">www.daolcredit.com</a>
-						<a href="tel:02-721-6900">02-721-6900</a>
-					</div>
-				</div>
-				‘99년 나라신용정보로 출발한 다올신용정보는 ‘01년 다올투자증권의 계열사로 편입되었습니다.<br><br>
-				채권추심, 신용조사, 민원서류발급대행, 부동산관리업무 등을 수행하는 회사로서, 20년간 예금보험공사의
-				채권추심 담당사로 선정될 만큼 전문성을 보유하고 있습니다.
-				<p class="txtGuide">※ 예금보험공사 채권 수임기간 : ‘01년 ~ ‘22년 3월 현재</p>
-			</div>
-		</div>
-		<button type="button" class="layerClose">닫기</button>
-	</div>
-	<div class="layerPop" id="pop8">
-		<div class="layerContainer">
-			<h2 class="layerTit">다올 저축은행</h2>
-			<div class="layerCont" tabindex="0">
-				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo8.png" alt="다올 신용정보"></div>
-					<div class="contBtn">
-						<a href="http://www.daolsb.com" target="_blank" title="새창열기">www.daolsb.com</a>
-						<a href="tel:1544-6700">1544-6700</a>
-					</div>
-				</div>
-				다올저축은행은 1972년 순수 국내자본 기반으로 설립된 저축은행으로 2021년 12월말 현재 총자산은 36,328억원, 2021년 영업수익은 3,136억으로 업계 상위 수준이며, BIS비율도 13.3%로 튼튼하고 건실한 저축은행입니다.<br><br>
-				2021년 다올금융그룹의 일원으로 편입됨에 따라 금융그룹 계열사로서 시너지를 제고 시키고, 디지털 부문에 대한 과감한 투자를 통해 새로운 차원의 저축은행, 디지털뱅크로의 도약을 준비하고 있습니다.
-			</div>
-		</div>
-		<button type="button" class="layerClose">닫기</button>
-	</div>
 	<div class="layerPop" id="pop9">
 		<div class="layerContainer">
 			<h2 class="layerTit">DAOL New York</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo9.png" alt="DAOL New York"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo8.png" alt="다올 신용정보"></div>
 				</div>
 				’19년 설립된 DAOL New York은 미국현지 법인으로, 다올그룹의 해외 대체투자를 이끌어갈 글로벌 중심 거점입니다. 현재 다올자산운용과 협업을 통해 해외 물류 REITs 출시를 준비 중에 있습니다.
 			</div>

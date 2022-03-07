@@ -198,74 +198,58 @@ header.headFixed ~ .container .pageTit:after{display:none}
   top: auto !important;
 }
 .affArea .affList li:nth-of-type(1) {
-  top: 0px;
-  top: 0%;
-  left: 172px;
-  left: 27.25832013%;
-  width: 323px;
-  width: 51.18858954%;
-  height: 73px;
-  height: 15.56503198%;
+  top: 13.78122308%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(2) {
-  top: 99px;
-  top: 21.108742%;
-  left: 0px;
-  left: 0%;
-  width: 288px;
-  width: 45.64183835%;
-  height: 73px;
-  height: 15.56503198%;
+  top: 21.96382428%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(3) {
-  top: 99px;
-  top: 21.108742%;
-  left: 412px;
-  left: 65.29318542%;
-  width: 195px;
-  width: 30.90332805%;
-  height: 73px;
-  height: 15.56503198%;
+  top: 30.14642549%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(4) {
-  top: 210px;
-  top: 44.7761194%;
-  left: 34px;
-  left: 5.38827258%;
-  width: 195px;
-  width: 30.90332805%;
-  height: 73px;
-  height: 15.56503198%;
+  top: 38.32902670%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(5) {
-  top: 210px;
-  top: 44.7761194%;
-  left: 436px;
-  left: 69.09667195%;
-  width: 195px;
-  width: 30.90332805%;
-  height: 73px;
-  height: 15.56503198%;
+  top: 46.51162790%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(6) {
-  top: 321px;
-  top: 68.4434968%;
-  left: 414px;
-  left: 65.61014263%;
-  width: 195px;
-  width: 30.90332805%;
-  height: 73px;
-  height: 15.56503198%;
+  top: 54.69422911%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 6.02928509%;
 }
 .affArea .affList li:nth-of-type(7) {
-  top: 321px;
-  top: 68.4434968%;
-  left: 59px;
-  left: 9.35023772%;
-  width: 195px;
-  width: 30.90332805%;
-  height: 73px;
-  height: 15.56503198%;
+  top: 62.87683031%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 20.75796726%;
+}
+.affArea .affList li:nth-of-type(8) {
+  top: 85.78811369%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 6.02928509%;
+}
+.affArea .affList li:nth-of-type(9) {
+  top: 93.97071490%;
+  left: 5.71428571%;
+  width: 88.39285714%;
+  height: 6.02928509%;
 }
 
 .layerPop.en .contTit .logo.affListImg > img{width:215px}
