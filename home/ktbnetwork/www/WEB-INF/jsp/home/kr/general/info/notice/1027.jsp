@@ -50,7 +50,7 @@
         </li>
       </ul>
       <div class="btnArea">
-        <a href="/home/info/news/list.do?page=<c:out value="${vo.page}"/>" role="button" class="btnXL">목록보기</a>
+        <a href="/home/info/notice/list.do?page=<c:out value="${vo.page}"/>" role="button" class="btnXL">목록보기</a>
       </div>
     </div>
   </div>

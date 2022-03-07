@@ -249,7 +249,7 @@
 							<a href="/home/info/notice/list.do?page=4" <c:if test="${vo.page eq '4'}">class="on"</c:if>>4</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
-						<a href="/home/info/notice/list.do?page=5" class="arrow end">마지막페이지로 이동</a>
+						<a href="/home/info/notice/list.do?page=4" class="arrow end">마지막페이지로 이동</a>
 					</div>
 				</div>
 			</div>
@@ -288,7 +288,7 @@
           if (pagingIndex === pIdx) {
             return false
           } else {
-            window.location.href = '/home/news/news/list.do?page=' + pagingIndex
+            window.location.href = '/home/info/notice/list.do?page=' + pagingIndex
           }
 				})
 			})

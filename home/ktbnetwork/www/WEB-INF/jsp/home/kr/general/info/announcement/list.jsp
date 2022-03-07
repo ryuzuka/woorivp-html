@@ -69,13 +69,13 @@
 						</c:if>
 					</ul>
 					<div class="paginate">
-						<a href="/home/news/news/list.do?page=1" class="arrow first">처음페이지로 이동</a>
+						<a href="/home/info/announcement/list.do?page=1" class="arrow first">처음페이지로 이동</a>
 						<a href="#" class="arrow prev">이전페이지로 이동</a>
 						<span class="num">
-							<a href="/home/news/news/list.do?page=1" <c:if test="${vo.page eq '1'}">class="on"</c:if>>1</a>
+							<a href="/home/info/announcement/list.do?page=1" <c:if test="${vo.page eq '1'}">class="on"</c:if>>1</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
-						<a href="/home/news/news/list.do?page=5" class="arrow end">마지막페이지로 이동</a>
+						<a href="/home/info/announcement/list.do?page=1" class="arrow end">마지막페이지로 이동</a>
 					</div>
 				</div>
 			</div>
@@ -114,7 +114,7 @@
           if (pagingIndex === pIdx) {
             return false
           } else {
-            window.location.href = '/home/news/news/list.do?page=' + pagingIndex
+            window.location.href = '/home/info/announcement/list.do?page=' + pagingIndex
           }
 				})
 			})
