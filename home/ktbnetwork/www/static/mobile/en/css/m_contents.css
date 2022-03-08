@@ -252,7 +252,8 @@ header.headFixed ~ .container .pageTit:after{display:none}
   height: 6.02928509%;
 }
 
-.layerPop.en .contTit .logo.affListImg > img{width:215px}
+.layerPop.en .contTit .logo.affListImg > img{width:auto;height:17px;}
+.layerPop.en .contTit .logo.affListImg.type > img{height:20px;}
 .layerPop.en .contTit .logo.affListImg > img.imgType02 {display:none;}
 .layerPop .info{color:#737373;font-size:13px}
 .layerPop .info:before{content:'* ';display:inline-block;width:6px;margin-right:5px;vertical-align:middle}

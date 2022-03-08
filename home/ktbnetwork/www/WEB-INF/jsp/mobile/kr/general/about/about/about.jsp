@@ -161,7 +161,7 @@
 			<h2 class="layerTit">다올 인베스트먼트</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo2.png" alt="다올 인베스트먼트"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo3.png" alt="다올 인베스트먼트"></div>
 					<div class="contBtn">
 						<a href="http://www.daolinvestment.com" target="_blank" title="새창열기">http://www.daolinvestment.com</a>
 						<a href="tel:031-628-6400">031-628-6400</a>
@@ -181,7 +181,7 @@
 			<h2 class="layerTit">다올 자산운용</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo3.png" alt="다올 자산운용"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo4.png" alt="다올 자산운용"></div>
 					<div class="contBtn">
 						<a href="http://www.i-ktb.com" target="_blank" title="새창열기">www.daolfund.com</a>
 						<a href="tel:02-788-8400">02-788-8400</a>
@@ -201,7 +201,7 @@
 			<h2 class="layerTit">다올 프라이빗 에쿼티</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo4.png" alt="다올 프라이빗 에쿼티"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo5.png" alt="다올 프라이빗 에쿼티"></div>
 					<div class="contBtn">
 						<a href="http://www.ktbpe.co.kr/" target="_blank" title="새창열기">www.daolpe.com</a>
 						<a href="tel:02-2184-4100">02-2184-4100</a>
@@ -219,7 +219,7 @@
 			<h2 class="layerTit">다올 신용정보</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo5.png" alt="다올 신용정보"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo6.png" alt="다올 신용정보"></div>
 					<div class="contBtn">
 						<a href="http://www.ktbcredit.com/" target="_blank" title="새창열기">www.daolcredit.com</a>
 						<a href="tel:02-721-6900">02-721-6900</a>
@@ -238,7 +238,7 @@
 			<h2 class="layerTit">DAOL Thailand</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo6.png" alt="DAOL Thailand"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo7.png" alt="DAOL Thailand"></div>
 					<div class="contBtn">
 						<a href="https://www.ktbst.co.th/" target="_blank" title="새창열기">www.daol.co.th</a>
 						<a href="tel:+66-02-648-1111">+66-02-648-1111</a>
@@ -257,7 +257,7 @@
 			<h2 class="layerTit">DAOL Ventures</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo7.png" alt="DAOL Ventures"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo8.png" alt="DAOL Ventures"></div>
 					<div class="contBtn">
 						<a href="http://www.ktbvc.com/" target="_blank" title="새창열기">www.daolventures.com</a>
 						<a href="tel:+1-650-324-4681">+1-650-324-4681</a>
@@ -274,7 +274,7 @@
 			<h2 class="layerTit">DAOL New York</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo8.png" alt="다올 신용정보"></div>
+					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo9.png" alt="다올 신용정보"></div>
 				</div>
 				’19년 설립된 DAOL New York은 미국현지 법인으로, 다올그룹의 해외 대체투자를 이끌어갈 글로벌 중심 거점입니다. 현재 다올자산운용과 협업을 통해 해외 물류 REITs 출시를 준비 중에 있습니다.
 			</div>

@@ -154,7 +154,7 @@
 			<h2 class="layerTit">DAOL SAVING Bank</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo8_eng.png" alt="DAOL SAVING Bank"></div>
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo2_eng.png" alt="DAOL SAVING Bank"></div>
 					<div class="contBtn">
 						<a href="https://www.eugenebank.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
 					</div>
@@ -189,7 +189,7 @@
 			<h2 class="layerTit">DAOL Asset Management</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo2_eng.png" alt="DAOL Asset Management"></div>
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo4_eng.png" alt="DAOL Asset Management"></div>
 					<div class="contBtn">
 						<a href="http://www.i-ktb.com/static/pc/html/MA/MAE1.html" target="_blank" title="새창열기">www.daolfund.com</a>
 						<a href="tel:+82-2-788-8400">+82-2-788-8400</a>
@@ -207,7 +207,7 @@
 			<h2 class="layerTit">DAOL Private Equity</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo4_eng.png" alt="DAOL Private Equity"></div>
+					<div class="logo affListImg type"><img src="/static/mobile/en/images/contents/logo5_eng.png" alt="DAOL Private Equity"></div>
 					<div class="contBtn">
 						<a href="http://www.ktbpe.co.kr/" target="_blank" title="새창열기">www.daolpe.com</a>
 						<a href="tel:+82-2-2184-4100">+82-2-2184-4100</a>
@@ -225,7 +225,7 @@
 			<h2 class="layerTit">DOAL Credit Service</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo7_eng.png" alt="DOAL Credit Service"></div>
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo6_eng.png" alt="DOAL Credit Service"></div>
 					<div class="contBtn">
 						<a href="http://www.ktbcredit.com/" target="_blank" title="새창열기">www.daolcredit.com</a>
 						<a href="tel:+82-2-721-6900">+82-2-721-6900</a>
@@ -244,7 +244,7 @@
 			<h2 class="layerTit">DAOL Thailand</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo5_eng.png" alt="DAOL Thailand"></div>
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo7_eng.png" alt="DAOL Thailand"></div>
 					<div class="contBtn">
 						<a href="https://www.ktbst.co.th/home" target="_blank" title="새창열기">www.daol.co.th</a>
 						<a href="tel:+66-02-648-1111">+66-02-648-1111</a>
@@ -262,7 +262,7 @@
 			<h2 class="layerTit">DAOL Ventures</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo6_eng.png" alt="DAOL Ventures"></div>
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo8_eng.png" alt="DAOL Ventures"></div>
 					<div class="contBtn">
 						<a href="http://www.ktbvc.com/" target="_blank" title="새창열기">www.daolventures.com</a>
 						<a href="tel:+1-650-324-4681">+1-650-324-4681</a>

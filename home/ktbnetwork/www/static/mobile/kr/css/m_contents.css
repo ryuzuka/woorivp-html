@@ -266,6 +266,6 @@ header.headFixed ~ .container .pageTit:after{display:none}
 
 
 
-.layerPop .contTit .logo.affListImg > img{width:136px}
+.layerPop .contTit .logo.affListImg > img{width:auto;height:15px;}
 .layerPop .info{color:#737373;font-size:13px}
 .layerPop .info:before{content:'* ';display:inline-block;width:6px;margin-right:5px;vertical-align:middle}
