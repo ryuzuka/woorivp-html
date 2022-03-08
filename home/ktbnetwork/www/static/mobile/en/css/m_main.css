@@ -37,7 +37,7 @@
 .srvIntro .fundStatus{counter-reset:section;display:-webkit-flex;display:flex;flex-wrap:nowrap;-webkit-flex-wrap:nowrap;overflow-x:auto;z-index:10;-webkit-overflow-scrolling:touch;padding:0 30px;margin:0 -45px 0 -30px}
 .srvIntro .fundStatus::-webkit-scrollbar{display:none;-webkit-appearance:none;appearance:none;background-color:transparent}
 .srvIntro .fundStatus li{position:relative;-webkit-flex:1 100%;flex:1 100%}
-.srvIntro .fundStatus li .contBox{position:relative;padding:25px 40px 0 25px;height:330px;color:#999;min-width:270px;background:url(../images/MA/bg_srvintro.png) no-repeat right top;background-size:700px 350px}
+.srvIntro .fundStatus li .contBox{position:relative;padding:25px 40px 0 25px;height:330px;color:#999;min-width:270px;background:url(../images/MA/bg_srvintro.png) no-repeat right bottom;background-size:264px 345px}
 .srvIntro .fundStatus li:last-child{padding-right:15px}
 
 .srvIntro .fundStatus li .tit {display:block;margin-right:-25px;padding-bottom:10px;font-size:19px;font-weight:600;color:#2c2c92;border-bottom:1px solid #dedede}
