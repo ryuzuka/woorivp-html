@@ -26,7 +26,7 @@
 			<div id="CI1T1" class="tabCont" style="display:block">
 				<h2 class="hidden">연혁</h2>
 
-				<div class="companyTit mtM">다올는<br><span class="point">꾸준히 성장해</span>왔습니다.</div>
+				<div class="companyTit mtM">다올은<br><span class="point">꾸준히 성장해</span>왔습니다.</div>
 
 				<ol class="historyList">
 					<li>
@@ -121,7 +121,7 @@
 	<!-- 계열사 레이어 팝업(L) -->
 	<div class="layerPop" id="pop1">
 		<div class="layerContainer">
-			<h2 class="layerTit">다올 투자증권</h2>
+			<h2 class="layerTit">다올투자증권</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo1.png" alt="다올 투자증권"></div>
@@ -140,7 +140,7 @@
 
 	<div class="layerPop" id="pop2">
 		<div class="layerContainer">
-			<h2 class="layerTit">다올 저축은행</h2>
+			<h2 class="layerTit">다올저축은행</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo2.png" alt="다올 저축은행"></div>
@@ -158,7 +158,7 @@
 
 	<div class="layerPop" id="pop3">
 		<div class="layerContainer">
-			<h2 class="layerTit">다올 인베스트먼트</h2>
+			<h2 class="layerTit">다올인베스트먼트</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo3.png" alt="다올 인베스트먼트"></div>
@@ -170,7 +170,7 @@
 				국내 최고 수준의 업력 및 투자경험을 보유한 한국을 대표하는 벤처캐피탈입니다. ‘21년말 현재 보유 중인 운용자산(AUM)은 약 11,745억원*이며, 작년 한해 신규로 결성된 펀드 규모는 약정액 기준 약 550억원입니다.<br><br>
 				‘00년 국내 VC중 최초로 중국시장에 진출, 9년 연속 중국 내 Top VC 50위 안에 선정되는 등 First Mover로서 성공적인 운용성과를 시현하고 있으며, 미주, 중국, 일본, 동남아시아 등 다양한 글로벌 투자 Track record 및 네트워크를 확보하고 있습니다.
 				<br><br>
-				<p class="info">* 2022년 12월말 기준, PEF 포함</p>
+				<p class="info">2022년 12월말 기준, PEF 포함</p>
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
@@ -178,7 +178,7 @@
 
 	<div class="layerPop" id="pop4">
 		<div class="layerContainer">
-			<h2 class="layerTit">다올 자산운용</h2>
+			<h2 class="layerTit">다올자산운용</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo4.png" alt="다올 자산운용"></div>
@@ -190,7 +190,7 @@
 				'99년 설립되어 20여년간 지속 성장하고 있는 국내 대표 종합자산운용사로 '21년말 기준 총 운용자산(AUM)은 14.8조원* 에 달하고 있습니다. 특히, 2016년 멀티에셋본부, 대체투자부문 신설을 통해 신규 비즈니스에서 두각을 나타내고 있습니다. 1등주 펀드(4차산업/중국/ESG), 멀티에셋인컴EMP, 블록딜하이일드펀드 등 다수의 HIT 공모펀드를 출시 및 운용하여 시장의 선도적인 역할을 수행하고 있으며, NPL/자산배분형 등 중위험∙중수익 상품 출시를 지속 확대하고 있습니다.<br><br>
 				대체투자부문 역시 다양한 투자자산과 투자지역 확대에 주력하여 국내외 부동산을 넘어 항공기, 선박, 인프라 등 풀 라인업을 갖추는데 성공하였으며, ‘21년말 기준 5.8조원 규모의 대체투자자산을 운용하고 있습니다.
 				<br><br>
-				<p class="info">* 2021년말 기준, 금융투자협회</p>
+				<p class="info">2021년말 기준, 금융투자협회</p>
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
@@ -198,7 +198,7 @@
 
 	<div class="layerPop" id="pop5">
 		<div class="layerContainer">
-			<h2 class="layerTit">다올 프라이빗 에쿼티</h2>
+			<h2 class="layerTit">다올프라이빗에쿼티</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo5.png" alt="다올 프라이빗 에쿼티"></div>
@@ -216,7 +216,7 @@
 
 	<div class="layerPop" id="pop6">
 		<div class="layerContainer">
-			<h2 class="layerTit">다올 신용정보</h2>
+			<h2 class="layerTit">다올신용정보</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo6.png" alt="다올 신용정보"></div>
@@ -227,7 +227,7 @@
 				</div>
 				‘99년 나라신용정보로 출발한 다올신용정보는 ‘01년 다올투자증권의 계열사로 편입되었습니다.<br><br>
 				채권추심, 신용조사, 민원서류발급대행, 부동산관리업무 등을 수행하는 회사로서, 20년간 예금보험공사의 채권추심 담당사로 선정될 만큼 전문성을 보유하고 있습니다.<br><br>
-				<p class="info">*예금보험공사 채권 수임기간 : ‘01년 ~ ‘22년 3월 현재</p>
+				<p class="info">예금보험공사 채권 수임기간 : ‘01년 ~ ‘22년 3월 현재</p>
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
