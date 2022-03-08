@@ -159,8 +159,8 @@
 						<a href="https://www.eugenebank.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
 					</div>
 				</div>
-				DAOL Savings Bank is established in 1972 based on Korean capital.<br><br>
-				As of the end of 2021, total asset is USD 3 billion, revenue is USD 0.3 billion, and BIS Ratio is 13.3%, which is a stable bank.<br><br>
+				DAOL Savings Bank is established in 1972 based on Korean capital.
+				As of the end of 2021, total asset is USD 3 billion, revenue is USD 0.3 billion, and BIS Ratio is 13.3%, which is a stable bank.
 				Acquired by DAOL in December 2021, enhance synergy between group companies and invest in digital transformation to become innovative digital bank.
 			</div>
 		</div>
@@ -232,7 +232,7 @@
 					</div>
 				</div>
 				DAOL Credit Service (“DAOL Credit"), which first began as Nara Credit Service in 1999, became an affiliate of DAOL Investment & Securities in 2001.<br><br>
-				Services provided by DAOL Credit include debt collection, credit investigation, issuance of civil affair documents and real estate management.<br>
+				Services provided by DAOL Credit include debt collection, credit investigation, issuance of civil affair documents and real estate management.
 				DAOL Credit has been a clear market leader in the field of debt collection and related information services, as seen in its role as the primary debt collection agency for the Korea Deposit Insurance Corporation for nearly 20 years.<br><br>
 				<p class="info">Served as the debt collector for the Korea Deposit Insurance Corporation from 2001 to Mar. 2022</p>
 			</div>
@@ -268,8 +268,8 @@
 						<a href="tel:+1-650-324-4681">+1-650-324-4681</a>
 					</div>
 				</div>
-				DAOL Ventures,<br>
-				DAOL’s first overseas subsidiary,<br>
+				DAOL Ventures,
+				DAOL’s first overseas subsidiary,
 				was established in Palo Alto, California, the heart of American Silicone Valley in June 1988.<br><br>
 				DAOL Ventures has an accumulated investment record worth USD 100 million.<br>
 				Working closely with DAOL Investment, DAOL Ventures has recently ramped up its efforts to identify early-stage investment opportunities in North America. Recently DAOL Ventures changed from a subsidiary of DAOL Investment & Securities to a subsidiary of DAOL Investment. Ventures and Investment plan to collaborate in North America, including the United States and Canada.
@@ -284,8 +284,8 @@
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo9_eng.png" alt="DAOL New York"></div>
 				</div>
-				DAOL New York is the U S local investment advisory company established in 2019.<br><br>
-				DAOL New York is global hub for group’s overseas alternative investment.<br><br>
+				DAOL New York is the U S local investment advisory company established in 2019.<br>
+				DAOL New York is global hub for group’s overseas alternative investment.
 				DAOL New York currently cooperate with DAOL Asset Management to establish overseas logistics-focused REITs.
 			</div>
 		</div>
