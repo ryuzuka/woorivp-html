@@ -10,20 +10,20 @@
 							<div class="mainVisual">
 								<div class="visualWrap">
 									<ul class="swiper-wrapper" style="width:8400px"><!-- width값:li전부 더한 값 -->
-										<li class="swiper-slide">
+										<!--<li class="swiper-slide">
 											<a href="/home/en/watwedo/overview.do">
 												<img src="/static/home/en/images/main/main__visual1.png" alt="Complete your success story with KTB Asset Management KTB Network, the perfect partner for your success. What We Do">
 											</a>
-										</li>
-										<!-- <li class="swiper-slide">
-												<img src="/static/home/en/images/main/main_visual2.png" alt="Looking to the Future: KTB Creating tomorrow’s value through high-potential ventures">
 										</li> -->
 										<li class="swiper-slide">
-												<img src="/static/home/en/images/main/main_visual3.png" alt="KTB: Your Partner In Growth Over the last 38 years since establishment, We walked together with 277 firms through IPO (including backdoor listing)">
+												<img src="/static/home/en/images/main/main_visual2.png" alt="Looking to the Future: KTB Creating tomorrow’s value through high-potential ventures">
 										</li>
 										<!-- <li class="swiper-slide">
-												<img src="/static/home/en/images/main/main_visual4.png" alt="Network to the world With decades of experience and global network. We reach for the world">
+												<img src="/static/home/en/images/main/main_visual3.png" alt="KTB: Your Partner In Growth Over the last 38 years since establishment, We walked together with 277 firms through IPO (including backdoor listing)">
 										</li> -->
+										<li class="swiper-slide">
+												<img src="/static/home/en/images/main/main_visual4.png" alt="Network to the world With decades of experience and global network. We reach for the world">
+										</li>
 									</ul>
 									<div class="paging">
 										<div class="rolling_btn">
