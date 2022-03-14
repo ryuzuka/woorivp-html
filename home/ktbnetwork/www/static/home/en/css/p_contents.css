@@ -126,7 +126,7 @@
 .partnersList li a{display:block;height:157px;padding:33px 9px;border:1px solid #dedede;text-align:center;background:#fff}		
 .partnersList li a span{display:none}	
 .partnersList li a:hover, .partnersList li a:focus{position:relative;padding:10px 9px 34px;border:none;box-shadow:8px 6px 30px rgba(0,0,0,0.1)}	
-.partnersList li a:hover:after, .partnersList li a:focus:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background: url(../images/contents/bg_partners_over.png) no-repeat 0 0}
+.partnersList li a:hover:after, .partnersList li a:focus:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;border:2px solid #0a1f8f;/*background: url(../images/contents/bg_partners_over.png) no-repeat 0 0*/}
 .partnersList li a:hover span, .partnersList li a:focus span{display:block}
 .link:after{content:'';clear:both;display:block}
 .link p{float:left;color:#333;font-weight:500}
