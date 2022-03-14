@@ -5,10 +5,10 @@
 			<div class="mainSwipe">
 				<div class="swiper-container">
 					<ul class="swiper-wrapper">
-						<li class="swiper-slide"><a href="/home/en/watwedo/overview.do" role="button"><img src="/static/mobile/en/images/MA/img_main_promotion1.gif" alt="Complete your success story with KTB Network - What We Do"></a></li>
-						<!-- <li class="swiper-slide"><img src="/static/mobile/en/images/MA/img_main_promotion2.gif" alt="Creating tomorrow’s value through high-potential ventures"></li> -->
-						<li class="swiper-slide"><img src="/static/mobile/en/images/MA/img_main_promotion3.gif" alt="Over the last 38 years since establishment,We walked together with 277 firms through IPO (including backdoor listing)"></li>
-						<!-- <li class="swiper-slide"><img src="/static/mobile/en/images/MA/img_main_promotion4.gif" alt="With decades of experience and global network We reach for the world"></li> -->
+						<!-- <li class="swiper-slide"><a href="/home/en/watwedo/overview.do" role="button"><img src="/static/mobile/en/images/MA/img_main_promotion1.gif" alt="Complete your success story with KTB Network - What We Do"></a></li> -->
+						<li class="swiper-slide"><img src="/static/mobile/en/images/MA/img_main_promotion2.png" alt="Creating tomorrow’s value through high-potential ventures"></li>
+						<!-- <li class="swiper-slide"><img src="/static/mobile/en/images/MA/img_main_promotion3.gif" alt="Over the last 38 years since establishment,We walked together with 277 firms through IPO (including backdoor listing)"></li> -->
+						<li class="swiper-slide"><img src="/static/mobile/en/images/MA/img_main_promotion4.png" alt="With decades of experience and global network We reach for the world"></li>
 					</ul>
 				</div>
 				<div class="indicator">
