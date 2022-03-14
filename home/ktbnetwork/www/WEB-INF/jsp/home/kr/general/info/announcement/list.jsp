@@ -26,7 +26,14 @@
 						<c:if test="${vo.page eq '1' }">
 							<li>
 								<%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=45">--%>
-								<a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank">
+								<a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220311000977" target="_blank">
+									<strong class="tit">사업보고서 (2021.12.31)</strong>
+									<div class="con"><span class="date">2022.03.11</span></div>
+								</a>
+							</li>
+							<li>
+								<%--<a href="/home/news/news/view.do?page=<c:out value="${vo.page}"/>&num=45">--%>
+								<a href="http://dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank">
 									<strong class="tit">주식등의대량보유상황보고서(약식)</strong>
 									<div class="con"><span class="date">2021.12.23</span></div>
 								</a>
