@@ -49,9 +49,9 @@
                 <button type="button" class="next">다음 뉴스 보기</button>
               </div>
               <ul><!-- 요건 1: 버튼 클릭 시 li margin-top 값 조절되어 상하 롤링 ,요건2 : a 태그 공백 포함 50자 말줄임처리 -->
-                <li><a href="/home/news/news/view.do?num=1">제 11기 결산공고</a></li>
-                <li><a href="/home/news/news/view.do?num=2">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고</a></li>
-                <li><a href="/home/news/news/view.do?num=3">외부감사인 선임 공고</a></li>
+                <li><a href="/home/info/news/view.do?page=1&num=47">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</a></li>
+                <li><a href="/home/info/news/view.do?page=1&num=46">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것"</a></li>
+                <li><a href="/home/info/news/view.do?page=1&num=37">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</a></li>
               </ul>
             </section>
           </div>
