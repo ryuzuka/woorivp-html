@@ -62,11 +62,11 @@ a:hover{text-decoration:none}
 .header.fixed{position:fixed}
 
 .headArea{position:relative;height:100%;border-bottom:1px solid rgba(255,255,255,0.1)}
-.headArea .logo{position:absolute;top:24px;left:50%;margin-left:-600px;width:122px;height:25px;background:url(../images/common/logo_header_w.png) no-repeat 0 0;z-index:1}
-.headArea .logo a{display:block;font-size:0;line-height:0;text-indent:-9999px;width:206px;height:32px}
+.headArea .logo{position:absolute;top:24px;left:50%;margin-left:-600px;width:236px;height:25px;background:url(../images/common/logo_header_w.png) no-repeat 0 0;background-size:100%;z-index:1}
+.headArea .logo a{display:block;font-size:0;line-height:0;text-indent:-9999px;width:236px;height:25px;}
 .headArea .engBtn{position:absolute;top:0;left:50%;margin-left:570px;line-height:80px;color:#fff;font-weight:600;z-index:1}/* 190412 수정 */
 
-.headArea .allMenu .inner{width:1200px;padding-left:200px}/* 190412 수정 */
+.headArea .allMenu .inner{width:1200px;padding-left:295px}/* 190412 수정 */
 .headArea .allMenu .inner:after{content:'';display:block;clear:both}
 .headArea .allMenu li{float:left;padding-left:44px;min-width:67px}/* 190409 수정 */
 .headArea .allMenu li a{font-size:18px;color:#fff;line-height:80px;font-weight:600}
