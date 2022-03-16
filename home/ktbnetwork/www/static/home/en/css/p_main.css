@@ -27,7 +27,7 @@
 .main .indicator.section2 li.on,.main .indicator.section3 li.on{border-right:9px solid transparent;border-top:10px solid #111}
 
 /* section1 메인 비쥬얼, 뉴스 */
-.section1:after{content:'';position:absolute;bottom:-1px;right:0;width:80px;height:80px;background:url(../images/common/bg_triangle2.png) 0 0 no-repeat}
+/*.section1:after{content:'';position:absolute;bottom:-1px;right:0;width:80px;height:80px;background:url(../images/common/bg_triangle2.png) 0 0 no-repeat}*/
 .section1.af:after {bottom:-1px}
 .section1 .mainVisual{position:relative}
 .section1 .mainVisual .visualWrap{width:1200px;margin:0 auto;overflow:hidden}
