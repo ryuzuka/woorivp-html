@@ -97,7 +97,8 @@ a:hover{text-decoration:none}
 .financeList {clear:both}
 .financeList li, address span{display:inline-block;margin:23px 0;font-size:14px;line-height:14px;color:#848486}
 .financeList li+li,.footArea address span+span{margin-left:8px;padding-left:8px;border-left:1px solid #595a5d}
-.footArea .logo{position:absolute;top:90px;right:0}
+.footArea .logo{position:absolute;top:90px;right:0;height:25px;}
+.footArea .logo img {height:100%;}
 .footArea address span{margin:7px 0}
 .copyRight{padding-bottom:15px;font-size:14px;color:#848486}
 
