@@ -35,49 +35,55 @@
 					<h4 class="titDep3">Stage Investment</h4>
 					<ul class="ico_list">
 						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy01.gif" alt="">
+							<img src="/static/mobile/en/images/contents/img_ico_philosophy01.png" alt="">
 							<em>Early</em>
 						</li>
 						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy02.gif" alt="">
+							<img src="/static/mobile/en/images/contents/img_ico_philosophy02.png" alt="">
 							<em>Growth</em>
 						</li>
 						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy03.gif" alt="">
+							<img src="/static/mobile/en/images/contents/img_ico_philosophy03.png" alt="">
 							<em>Late</em>
 						</li>
 						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy04.gif" alt="">
+							<img src="/static/mobile/en/images/contents/img_ico_philosophy04.png" alt="">
 							<em>Pre-IPO</em>
 						</li>
 						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy05.gif" alt="">
+							<img src="/static/mobile/en/images/contents/img_ico_philosophy05.png" alt="">
 							<em>PIPE</em>
 						</li>
 					</ul>
 					<h3 class="titDep2">SECTORS</h3>
 					<p class="txtInfo">We look for opportunities in all market segments. But over the years we have accrued experience and expertise in finding new opportunities in consumer service, medical/healthcare, education, digital media, entertainment and internet/mobile sectors.</p>
 					<h4 class="titDep3">Investment Sectors</h4>
-					<ul class="ico_list">
+					<ul class="ico_list type">
 						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy06.gif" alt="">
+							<!-- <img src="/static/mobile/en/images/contents/img_ico_philosophy06.gif" alt=""> -->
+							<em>Entertainment &amp;<br>Contents</em>
+						</li>
+						<li>
+							<!-- <img src="/static/mobile/en/images/contents/img_ico_philosophy07.gif" alt=""> -->
+							<em>Mobility</em>
+						</li>
+						<li>
+							<!-- <img src="/static/mobile/en/images/contents/img_ico_philosophy08.gif" alt=""> -->
+							<em>Chemical &amp;<br>Manufacture &amp;<br>Semiconductor</em>
+						</li>
+						<li>
+							<!-- <img src="/static/mobile/en/images/contents/img_ico_philosophy10.gif" alt=""> -->
+							<em>Bio &amp;<br>Healthcare</em>
+						</li>
+						<li>
+							<!-- <img src="/static/mobile/en/images/contents/img_ico_philosophy09.gif" alt=""> -->
 							<em>Consumer<br>Service</em>
 						</li>
 						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy07.gif" alt="">
-							<em>Internet &amp; Mobile<br>Service</em>
+							<em>ICT Platform<br>Service</em>
 						</li>
 						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy08.gif" alt="">
-							<em>Medical &amp;<br>Healthcare</em>
-						</li>
-						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy10.gif" alt="">
-							<em>Education</em>
-						</li>
-						<li>
-							<img src="/static/mobile/en/images/contents/img_ico_philosophy09.gif" alt="">
-							<em>Digital Media &amp;<br>Entertainment</em>
+							<em>Metaverse &amp;<br>Software</em>
 						</li>
 					</ul>
 				</div>

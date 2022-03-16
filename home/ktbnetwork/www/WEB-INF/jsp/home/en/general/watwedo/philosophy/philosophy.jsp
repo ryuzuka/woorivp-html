@@ -45,12 +45,14 @@
 					<h3 class="titDep2">SECTORS</h3>
 					<p class="txtInfo">We look for opportunities in all market segments. But over the years we have accrued experience and expertise in finding new opportunities in consumer service, medical/healthcare, education, digital media, entertainment and internet/mobile sectors.</p>
 					<h4 class="titDep3">Investment Sectors</h4>
-					<ul class="plopList">
-						<li><img src="/static/home/en/images/contents/ico_philosophy06.png" alt=""><span>Consumer <br>Service</span></li>
-						<li><img src="/static/home/en/images/contents/ico_philosophy07.png" alt=""><span>Internet &amp; Mobile <br>Service</span></li>
-						<li><img src="/static/home/en/images/contents/ico_philosophy08.png" alt=""><span>Medical &amp; <br>Healthcare</span></li>
-						<li><img src="/static/home/en/images/contents/ico_philosophy09.png" alt=""><span>Education</span></li>
-						<li><img src="/static/home/en/images/contents/ico_philosophy10.png" alt=""><span>Digital Media &amp; <br>Entertainment</span></li>
+					<ul class="plopList type">
+						<li><!-- <img src="/static/home/en/images/contents/ico_philosophy06.png" alt=""> --><span>Entertainment &amp;<br>Contents</span></li>
+						<li><!-- <img src="/static/home/en/images/contents/ico_philosophy07.png" alt=""> --><span>Mobility</span></li>
+						<li><!-- <img src="/static/home/en/images/contents/ico_philosophy08.png" alt=""> --><span>Chemical &amp;<br>Manufacture &amp;<br>Semiconductor</span></li>
+						<li><!-- <img src="/static/home/en/images/contents/ico_philosophy09.png" alt=""> --><span>Bio &amp;<br>Healthcare</span></li>
+						<li><!-- <img src="/static/home/en/images/contents/ico_philosophy10.png" alt=""> --><span>Consumer<br>Service</span></li>
+						<li><span>ICT Platform<br>Service</span></li>
+						<li><span>Metaverse &amp;<br>Software</span></li>
 					</ul>
 				</div>
 			</div>

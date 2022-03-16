@@ -32,7 +32,7 @@
 						</div>
 					</div>
 					<h3 class="titDep2">STAGES</h3>	
-					<p class="txtInfo">다올인베스트먼트의 투자는 어느 한 기업의 성장 단계에 국한되지 않습니다. 기업들이 지속적으로 팀을 만들고, 사업 모델을 구상하며, IPO를 준비하고, 사모채권에 대해 고려할 수 있도록 지원하고 그 안에서의 가치를 찾는 역할을 하겠습니다.</p>
+					<p class="txtInfo">다올인베스트먼트의 투자는 어느 한 기업의 성장 단계에 국한되지 않습니다. 기업들이 사업모델을 구상하고, 시장과 소통하며 지속적으로 성장할 수 있도록 지원하고 그 안에서의 가치를 찾는 역할을 하겠습니다. </p>
 					<h4 class="titDep3">Stage Investment</h4>
 					<ul class="plopList">
 						<li><img src="/static/home/kr/images/contents/ico_philosophy01.png" alt=""><span>Early</span></li>
@@ -42,14 +42,16 @@
 						<li><img src="/static/home/kr/images/contents/ico_philosophy05.png" alt=""><span>PIPE</span></li>
 					</ul>
 					<h3 class="titDep2">SECTORS</h3>	
-					<p class="txtInfo">다올인베스트먼트는 모든 분야에서 기회를 찾습니다. 수년간 소비자 서비스, 의료/보건, 교육, 디지털 미디어, 엔터테인먼트 및 인터넷/모바일 분야에서 새로운 기회 및 경험, 전문성을 쌓고 있습니다.</p>
+					<p class="txtInfo">다올인베스트먼트는 모든 분야에서 기회를 찾습니다. 수년간 콘텐츠 및 엔터테인먼트, ICT, 교육, Bio, Healthcare등의 분야에서 새로운 기회 및 경험, 전문성을 쌓아나가고 있습니다.</p>
 					<h4 class="titDep3">Investment Sectors</h4>
-					<ul class="plopList">
-						<li><img src="/static/home/kr/images/contents/ico_philosophy06.png" alt=""><span>Consumer <br>Service</span></li>
-						<li><img src="/static/home/kr/images/contents/ico_philosophy07.png" alt=""><span>Internet &amp; Mobile <br>Service</span></li>
-						<li><img src="/static/home/kr/images/contents/ico_philosophy08.png" alt=""><span>Medical &amp; <br>Healthcare</span></li>
-						<li><img src="/static/home/kr/images/contents/ico_philosophy09.png" alt=""><span>Education</span></li>
-						<li><img src="/static/home/kr/images/contents/ico_philosophy10.png" alt=""><span>Digital Media &amp; <br>Entertainment</span></li>
+					<ul class="plopList type">
+						<li><!-- <img src="/static/home/kr/images/contents/ico_philosophy06.png" alt=""> --><span>Entertainment &amp;<br>Contents</span></li>
+						<li><!-- <img src="/static/home/kr/images/contents/ico_philosophy07.png" alt=""> --><span>Mobility</span></li>
+						<li><!-- <img src="/static/home/kr/images/contents/ico_philosophy08.png" alt=""> --><span>Chemical &amp;<br>Manufacture &amp;<br>Semiconductor</span></li>
+						<li><!-- <img src="/static/home/kr/images/contents/ico_philosophy09.png" alt=""> --><span>Bio &amp;<br>Healthcare</span></li>
+						<li><!-- <img src="/static/home/kr/images/contents/ico_philosophy10.png" alt=""> --><span>Consumer<br>Service</span></li>
+						<li><span>ICT Platform<br>Service</span></li>
+						<li><span>Metaverse &amp;<br>Software</span></li>
 					</ul>
 				</div>
 			</div>

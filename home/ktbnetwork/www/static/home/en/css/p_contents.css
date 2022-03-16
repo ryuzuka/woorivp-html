@@ -81,13 +81,17 @@
 .Philosophy .conArea li{position:relative;padding:25px 0 30px 93px;color:#555}
 .Philosophy .conArea li+li{border-top:1px solid #e7e7e7}
 .Philosophy .conArea li strong{display:block;margin-bottom:5px;font-size:20px;color:#111}
-.Philosophy .conArea li:before{content:'';display:block;position:absolute;left:0;top:35px;width:62px;height:60px;;;background:url(../images/contents/bg_philosophy.png) no-repeat 0 0}
-.Philosophy .conArea li+li:before{background-position:0 -60px}
-.Philosophy .conArea li+li+li:before{background-position:0 -120px}
-.plopList{border:1px solid #e6e6e6;padding:50px 0 40px}	
-.plopList:after{content:'';display:block;clear:both}
-.plopList li{float:left;width:20%;text-align:center}
-.plopList li span{display:block;padding-top:15px;color:#2c2d93;font-size:18px;font-weight:500;letter-spacing:-1px}	
+.Philosophy .conArea li:before{content:'';display:block;position:absolute;left:0;top:35px;width:62px;height:60px;background:url(../images/contents/bg_philosophy01.png) no-repeat 0 0}
+.Philosophy .conArea li+li:before{background:url(../images/contents/bg_philosophy02.png) no-repeat 0 0}
+.Philosophy .conArea li+li+li:before{background:url(../images/contents/bg_philosophy03.png) no-repeat 0 0}
+.plopList{display:flex;border:1px solid #e6e6e6;padding:50px 0 40px;justify-content:space-between;}
+/*.plopList:after{content:'';display:block;clear:both}*/
+.plopList li{flex:0 1 20%;/*float:left;width:20%;*/text-align:center}
+.plopList li img + span {padding-top:15px;}
+.plopList li span{display:block;/*padding-top:15px;*/color:#2c2d93;font-size:18px;font-weight:500;letter-spacing:-1px}
+.plopList.type {display:flex;padding:65px 56px;align-items:center;justify-content:space-between;}
+.plopList.type:after {display:none;}
+.plopList.type li {float:none;width:auto;}
 
 /* Who We Are */
 .memberList{position:relative;margin:0 -10px;padding-top:457px}

@@ -35,19 +35,24 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .historyList > li:last-child{padding-bottom:0;border:0}
 .historyList .tit{display:block;margin-top:-4px;color:#2c3785;font-weight:600;font-size:15px}
 .historyList .txt{margin-top:10px;font-size:14px}
-.ico_list {overflow:hidden}
-.ico_list li {float:left;width:33.3%;padding-top:30px;text-align:center}
+.ico_list {overflow:hidden;display:flex;margin-top:42px;flex-wrap:wrap;align-items:center;}
+.ico_list li {/*float:left;*/width:33.3%;margin-top:30px;text-align:center}
+.ico_list li:nth-child(-n+3) {margin-top:0;}
 .ico_list li img {width:40px}
-.ico_list li em {display:block;padding-top:10px;font-size:11px;color:#111}
+.ico_list li img + em {margin-top:10px;}
+.ico_list li em {display:block;/*padding-top:10px;*/font-size:11px;color:#111}
+.ico_list.type {padding:22px 0;border:1px solid #dfdfdf;}
+.ico_list.type li {margin-top:20px;}
+.ico_list.type li:nth-child(-n+3) {margin-top:0;}
 /*@media all and (max-width:340px){
 .ico_list li em {font-size:11px}
 }*/
 .introCon{margin:0 -30px;padding:30px 0 0 30px}
 .introCon li+li{border-top:1px solid #dedede}
 .introCon li {position:relative;padding:23px 20px 21px 75px;font-size:14px}
-.introCon li:before{content:'';position:absolute;top:25px;left:10px;display:block;width:40px;height:40px;background:url(../images/contents/bg_ico_introcon.png) no-repeat 0 0;background-size:40px auto}
-.introCon .check02:before{background-position:0 -40px}
-.introCon .check03:before{background-position:0 -80px}
+.introCon li:before{content:'';position:absolute;top:25px;left:10px;display:block;width:40px;height:40px;background:url(../images/contents/bg_ico_introcon01.png) no-repeat 0 0;background-size:100%;}
+.introCon .check02:before{background:url(../images/contents/bg_ico_introcon02.png) no-repeat 0 0;background-size:100%;}
+.introCon .check03:before{background:url(../images/contents/bg_ico_introcon03.png) no-repeat 0 0;background-size:100%;}
 .introCon li strong{display:block;padding-bottom:5px;font-size:17px;font-weight:500;color:#333}
 
 /* Who we are */
