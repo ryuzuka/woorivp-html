@@ -22,7 +22,7 @@
 									</li>
 									<li>
 										<strong class="tit">E-mail</strong>
-										<a href="mailto:webmaster@ktbnetwork.com" class="data mail">webmaster@ktbnetwork.com</a><!-- 0415 수정 -->
+										<a href="mailto:webmaster@daolinvestment.com" class="data mail">webmaster@daolinvestment.com</a><!-- 0415 수정 -->
 									</li>
 								</ul>
 							</div>
@@ -40,10 +40,10 @@
 										<a href="tel:02-788-8400" class="data tel">+86-21-60671778</a>
 										<span class="data fax">+86-21-60671779</span>
 									</li>
-									<li>
+									<!--<li>
 										<strong class="tit">E-mail</strong>
-										<a href="mailto:webmaster@ktbnetwork.com" class="data mail">webmaster@ktbnetwork.com</a><!-- 0415 수정 -->
-									</li>
+										<a href="mailto:webmaster@ktbnetwork.com" class="data mail">webmaster@ktbnetwork.com</a><!-- 0415 수정
+									</li> -->
 								</ul>
 							</div>
 						</div>
@@ -59,10 +59,10 @@
 										<strong class="tit">Tel</strong>
 										<a href="tel:1-650-324-4681" class="data tel">+1-650-324-4681</a>
 									</li>
-									<li>
+									<!-- <li>
 										<strong class="tit">E-mail</strong>
 										<a href="mailto:info@ktbvc.com" class="data mail">info@ktbvc.com</a>
-									</li>
+									</li> -->
 								</ul>
 							</div>
 						</div>

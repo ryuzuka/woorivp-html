@@ -21,7 +21,7 @@
 									경기도 성남시 분당구 대왕판교로 670 (삼평동 682) 유스페이스2A동 10층
 									<div class="link">
 										<p class="tel">031-628-6400</p>
-										<p class="mail"><a href="mailto:webmaster@ktbnetwork.com">webmaster@ktbnetwork.com</a></p><!-- 0415 수정 -->
+										<p class="mail"><a href="mailto:webmaster@daolinvestment.com">webmaster@daolinvestment.com</a></p><!-- 0415 수정 -->
 									</div>
 								</div>
 							</li>
@@ -32,7 +32,7 @@
 									<div class="link">
 										<p class="tel">+86-21-60671778</p>
 										<p class="fax">+86-21-60671779</p>
-										<p class="mail"><a href="mailto:whhong@ktb.co.kr">whhong@ktb.co.kr</a></p>
+										<!-- <p class="mail"><a href="mailto:whhong@ktb.co.kr">whhong@ktb.co.kr</a></p> -->
 									</div>
 								</div>
 							</li>
@@ -42,7 +42,7 @@
 									1 California Street, Suite 2800 San Francisco, CA 94111
 									<div class="link">
 										<p class="tel">+1-650-324-4681</p>
-										<p class="mail"><a href="mailto:info@ktbvc.com">info@ktbvc.com</a></p>
+										<!-- <p class="mail"><a href="mailto:info@ktbvc.com">info@ktbvc.com</a></p> -->
 									</div>
 								</div>
 							</li>

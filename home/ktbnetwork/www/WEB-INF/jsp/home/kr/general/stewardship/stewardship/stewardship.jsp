@@ -84,13 +84,13 @@
           <td style="width:20%">책임자</td>
           <td>금경환</td>
           <td>준법감시인</td>
-          <td style="width: 50%"><a style="color: #2c2d93; text-decoration: underline" href="mailto:kumkh@ktbnetwork.com">kumkh@ktbnetwork.com</a>, 031-628-6431</td>
+          <td style="width: 50%"><a style="color: #2c2d93; text-decoration: underline" href="mailto:kumkh@daolinvestment.com">kumkh@daolinvestment.com</a>, 031-628-6431</td>
         </tr>
         <tr>
           <td>담당자</td>
           <td>고은비</td>
           <td>팀장</td>
-          <td style="width: 50%"><a style="color: #2c2d93; text-decoration: underline" href="mailto:eunb@ktbnetwork.com">eunb@ktbnetwork.com</a>, 031-628-6415</td>
+          <td style="width: 50%"><a style="color: #2c2d93; text-decoration: underline" href="mailto:eunb@daolinvestment.com">eunb@daolinvestment.com</a>, 031-628-6415</td>
         </tr>
         </tbody>
       </table>

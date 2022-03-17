@@ -131,7 +131,7 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .contact .tglList {border-bottom:1px solid #e0e0e0}
 .contactArea .addr{margin-bottom:20px}
 .contactArea .info {padding-top:20px}
-.contactArea .info li {position:relative;padding-left:80px}
+.contactArea .info li {position:relative;padding-left:60px}
 .contactArea .info li .tit{position:absolute;top:0;left:0}
 .contactArea .map {height:300px;}
 .contactArea .info li .data{display:inline-block;overflow:hidden;margin-left:10px;color:#555}
