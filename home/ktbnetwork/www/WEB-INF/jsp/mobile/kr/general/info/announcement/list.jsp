@@ -32,7 +32,7 @@ jQuery(window).load(function() {
 		<div class="contents">
 			<div class="visualArea">
 				<h1 class="pageTit">Info</h1>
-				<p role="text" class="pageTxt">다올금융그룹의 공지사항을 알려드립니다.</p>
+				<p role="text" class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
 			</div>
       <div class="tabType1">
         <ul>

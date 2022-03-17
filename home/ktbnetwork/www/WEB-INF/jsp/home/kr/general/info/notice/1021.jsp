@@ -10,7 +10,7 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">Info</h1>
-        <p class="pageTxt">다올금융그룹의 공지사항을 알려드립니다.</p>
+        <p class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
       </div>
     </div>
     <div class="inner">
