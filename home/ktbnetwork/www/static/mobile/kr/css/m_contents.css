@@ -130,6 +130,7 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .newscon_box .bottomTxt strong {padding-top:10px;font-size:17px;font-weight:600}
 .opinionTxt {padding-top:25px;font-size:13px;color:#737373}
 .opinionTxt em {display:block;padding-top:15px;color:#111}
+.dartArea {width:100%;height:890px;padding:0 20px 35px;}
 
 /* ESG */
 .esg {padding:35px 0 0;font-weight:500;color:#000;}

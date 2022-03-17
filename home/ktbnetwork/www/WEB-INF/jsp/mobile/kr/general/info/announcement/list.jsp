@@ -45,39 +45,10 @@ jQuery(window).load(function() {
       </div>
 			<div class="news">
 				<div class="boardArea">
-					<h2 class="hidden">경영공시 리스트</h2>
-					<ul class="boardList">
-						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
-                        <li>
-                            <a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220311000977" target="_blank" role="button" title="상세내용 보기">사업보고서 (2021.12.31) <em>2022.03.11</em></a>
-                            <%--<a href="#newsDetail_pop45" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>--%>
-                        </li>
-                        <li>
-                            <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211223000489" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>
-                            <%--<a href="#newsDetail_pop45" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.23</em></a>--%>
-                        </li>
-                        <li>
-                            <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211222000247" target="_blank" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>
-                            <%--<a href="#newsDetail_pop44" role="button" title="상세내용 보기">임원ㆍ주요주주특정증권등소유상황보고서 <em>2021.12.22</em></a>--%>
-                        </li>
-                        <li>
-                            <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211220000193" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>
-                            <%--<a href="#newsDetail_pop43" role="button" title="상세내용 보기">주식등의대량보유상황보고서(약식) <em>2021.12.20</em></a>--%>
-                        </li>
-                        <li>
-                            <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000348" target="_blank" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>
-                            <%--<a href="#newsDetail_pop41" role="button" title="상세내용 보기">사외이사의선임ㆍ해임또는중도퇴임에관한신고 <em>2021.12.16</em></a>--%>
-                        </li>
-                        <li>
-                            <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216000254" target="_blank" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>
-                            <%--<a href="#newsDetail_pop40" role="button" title="상세내용 보기">주식등의대량보유상황보고서(일반) <em>2021.12.16</em></a>--%>
-                        </li>
-                        <li>
-                            <a href="http://m.dart.fss.or.kr/html_mdart/MD1007.html?rcpNo=20211216900946" target="_blank" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>
-                            <%--<a href="#newsDetail_pop39" role="button" title="상세내용 보기">주주명부폐쇄기간또는기준일설정 <em>2021.12.16</em></a>--%>
-                        </li>
-					</ul>
-
+                    <h2 class="hidden">경영공시 리스트</h2>
+                    <div class="dartArea">
+                        <iframe src="https://dart.fss.or.kr/html/search/SearchCompanyIR3_M.html?textCrpNM=00682992" width="100%" height="100%"></iframe>
+                    </div>
 					<!-- <button type="button" onclick="fncPage();" class="btnMore">더보기</button> -->
 				</div>
 			</div>
