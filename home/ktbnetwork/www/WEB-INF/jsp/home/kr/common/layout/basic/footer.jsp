@@ -7,7 +7,7 @@
             <span><a href="/home/stewardship/stewardship.do">스튜어드십 코드</a></span>
 						<span>고객상담 031-628-6400</span>
 						<span>팩스 031-628-6499</span>
-						<span>이메일 <a href="mailto: webmaster@ktbnetwork.com"> webmaster@ktbnetwork.com</a></span><br>
+						<span>이메일 <a href="mailto:webmaster@daolinvestment.com"> webmaster@daolinvestment.com</a></span><br>
 						<span>Pankyo [13494] 경기도 성남시 분당구 대왕판교로 670(삼평동 682) 유스페이스 2A동 10층</span>
 					</address>
 					<p class="copyRight">COPYRIGHT&copy;DAOL Investment. ALL RIGHTS RESERVED.</p>
@@ -26,7 +26,7 @@
 						</select>
 					</span>
 				</div>
-				<div class="logo"><img src="/static/home/kr/images/common/logo_footer.png" alt="KTB 네트워크"></div>
+				<div class="logo"><img src="/static/home/kr/images/common/logo_footer.png" alt="DAOL 다올인베스트먼트"></div>
 			</div>
 			<c:if test="${requestScope['javax.servlet.forward.servlet_path'] != '/home/contact/contact.do'}">
 				<div class="pageTop fixed"><!-- 고정 fixed --><!-- 메인에서만 기본으로 fixed class가 들어가있고 footer 영역까지 스크롤 되는 경우 fixed 삭제 -->

@@ -6,7 +6,7 @@
 					<address>
 						<span>TEL 031-628-6400</span>
 						<span>FAX 031-628-6499</span>
-						<span>E-MAIL <a href="mailto:webmaster@ktbnetwork.com">webmaster@ktbnetwork.com</a></span><br>
+						<span>E-MAIL <a href="mailto:webmaster@daolinvestment.com">webmaster@daolinvestment.com</a></span><br>
 						<span>Pankyo 10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundag-gu, Seongnam-city, Gyeonggi-do, Korea</span>
 					</address>
 					<p class="copyRight">Copyright &copy; DAOL Investment. All Right Reserved.</p>
@@ -25,7 +25,7 @@
 						</select>
 					</span>					
 				</div>
-				<div class="logo"><img src="/static/home/en/images/common/logo_footer.png" alt="KTB Network"></div>
+				<div class="logo"><img src="/static/home/en/images/common/logo_footer.png" alt="DAOL INVESTMENT"></div>
 			</div>
 			<c:if test="${requestScope['javax.servlet.forward.servlet_path'] != '/home/en/contact/contact.do'}">
 				<div class="pageTop fixed"><!-- 고정 fixed --><!-- 메인에서만 기본으로 fixed class가 들어가있고 footer 영역까지 스크롤 되는 경우 fixed 삭제 -->
