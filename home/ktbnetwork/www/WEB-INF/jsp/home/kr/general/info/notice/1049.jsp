@@ -249,6 +249,12 @@
 					</div>
 					<ul class="baordIndex">
 						<li>
+							<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=50">
+								<div class="arrow next">다음글</div>
+								<div class="tit">제 14기 결산공고</div>
+							</a>
+						</li>
+						<li>
 							<a href="/home/info/notice/view.do?page=3&num=48">
 								<div class="arrow prev">이전글</div>
 								<div class="tit">외부감사인 선임 공고</div>

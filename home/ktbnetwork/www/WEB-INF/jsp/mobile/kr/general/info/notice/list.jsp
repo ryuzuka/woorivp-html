@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
                         <li>
+                          <a href="#newsDetail_pop50" role="button" title="상세내용 보기">제 14기 결산공고<em>2022.03.21</em></a>
+                        </li>
+                        <li>
                           <a href="#newsDetail_pop49" role="button" title="상세내용 보기">제 14기 정기주주총회 소집통지서<em>2022.03.07</em></a>
                         </li>
                         <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
                         <li>
                             <a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
                         </li>
-                        <li>
+                        <li data-page="1" style="display: none;">
                             <a href="#newsDetail_pop25" role="button" title="상세내용 보기">주식 2차공매 공고<em>2021.07.12</em></a>
                         </li>
                         <li data-page="1" style="display: none;">
@@ -105,7 +108,7 @@ jQuery(window).load(function() {
 						<li data-page="1" style="display: none;">
 							<a href="#newsDetail_pop04" role="button" title="상세내용 보기">제 10기 결산공고<em>2018.03.06</em></a>
 						</li>
-						<li data-page="1" style="display: none;">
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop05" role="button" title="상세내용 보기">제 9기 결산공고<em>2017.03.02</em></a>
 						</li>
 						<li data-page="2" style="display: none;">
@@ -135,7 +138,7 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop14" role="button" title="상세내용 보기">(주)다림비젼 주식 공매 공고<em>2011.10.25</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop15" role="button" title="상세내용 보기">제 3기 결산공고<em>2011.06.13</em></a>
 						</li>
 						<li data-page="3" style="display: none;">
@@ -159,6 +162,148 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
+    <!-- 제13기 결산공고 -->
+    <div class="fullLayer" id="newsDetail_pop50">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">제14기 결산공고</h3>
+            <em class="date">2022.03.21</em>
+          </div>
+          <div class="detailCon">
+
+            <table class="tblH">
+              <caption>제14기 결산공고</caption>
+              <colgroup><col style="width:50%" span="2"></colgroup>
+              <thead>
+              <tr>
+                <th scope="col">계정과목</th>
+                <th scope="col">금액</th>
+              </tr>
+              </thead>
+              <tfoot>
+              <tr><th scope="row" class="tleft">자산총계</th>
+                <td class="tright">350,410,853,208</td>
+              </tr></tfoot>
+              <tbody>
+              <tr>
+                <td class="tleft"><strong class="color01">자산</strong></td>
+                <td class="tright">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅰ. 유동자산</strong></td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="tleft">1. 현금 및 현금성자산</td>
+                <td class="tright">1,356,555,346</td>
+              </tr>
+              <tr>
+                <td class="tleft">2. 단기금융상품</td>
+                <td class="tright">147,232,055,467</td>
+              </tr>
+              <tr>
+                <td class="tleft">3. 기타의 유동자산</td>
+                <td class="tright">6,665,690,596</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅱ. 창업투자자산</strong></td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="tleft">1. 투자실적자산</td>
+                <td class="tright">152,996,150,745</td>
+              </tr>
+              <tr>
+                <td class="tleft">2. 경영지원자산</td>
+                <td class="tright">23,275,399,647</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅲ. 비유동자산</strong></td>
+                <td class="tright">18,885,001,407</td>
+              </tr>
+              </tbody>
+            </table>
+
+            <table class="tblH">
+              <caption>제14기 결산공고</caption>
+              <colgroup><col style="width:50%" span="2"></colgroup>
+              <thead>
+              <tr>
+                <th scope="col">계정과목</th>
+                <th scope="col">금액</th>
+              </tr>
+              </thead>
+              <tfoot>
+              <tr><th scope="row" class="tleft">부채 및 자본총계</th>
+                <td class="tright">350,410,853,208</td>
+              </tr></tfoot>
+              <tbody>
+              <tr>
+                <td class="tleft"><strong class="color01">부채</strong></td>
+                <td class="tright">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅰ. 유동부채</strong></td>
+                <td class="tright">22,318,784,169</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅱ. 비유동부채</strong></td>
+                <td class="tright">17,742,437,787</td>
+              </tr>
+              <tr class="foot">
+                <td class="tleft">부채총계</td>
+                <td class="tright">40,061,221,956</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color01">자본</strong></td>
+                <td class="tright">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅰ. 자본금</strong></td>
+                <td class="tright">50,000,000,000</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅱ. 기타불입자본</strong></td>
+                <td class="tright">146,024,343,219</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅲ. 이익잉여금</strong></td>
+                <td class="tright">114,264,396,861</td>
+              </tr>
+              <tr>
+                <td class="tleft"><strong class="color02">Ⅳ. 기타자본구성요소</strong></td>
+                <td class="tright">(60,891,172)</td>
+              </tr>
+              <tr class="foot">
+                <td class="tleft">자본총계</td>
+                <td class="tright">310,349,631,252</td>
+              </tr>
+              </tbody>
+            </table>
+
+            <div class="newscon_box">
+              <p class="txt">위와 같이 공고합니다.</p>
+              <div class="bottomTxt">
+                <em>2022년 03월 21일</em>
+                <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
+              </div>
+            </div><!-- //newscon_box -->
+
+            <p class="opinionTxt">
+              [감사의견] 회사의 재무제표는 2021년 12월 31일 현재의 재무상태와 동일로 종료되는 보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라, 중요성의 관점에서 공정하게 표시하고 있습니다.
+              <em>삼일회계법인 대표이사 윤훈수</em>
+            </p>
+            <!--  // .opinionTxt -->
+
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // 제13기 결산공고 -->
+
     <!-- 제 14기 정기주주총회 소집통지서 -->
     <div class="fullLayer" id="newsDetail_pop49">
       <h2 class="layerTit">NEWS</h2>
