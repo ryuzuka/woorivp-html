@@ -407,7 +407,11 @@
 	<!-- // 외부감사인 선임 공고 -->
 
 	<!-- KTB > DAOL 사명 변경 공지 -->
-	<div class="layerPop" id="pop20220322">
+	<style>
+		/* KTB > DAOL 사명 변경 공지 팝업에서만 사용 */
+		.layerPop.type:after {background:#f7f7f7;}
+	</style>
+	<div class="layerPop type" id="pop20220322">
 		<div class="layerContainer" style="padding:0;">
 			<img src="/static/mobile/kr/images/popup/20220322.png" alt="">
 		</div>
