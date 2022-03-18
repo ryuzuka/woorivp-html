@@ -406,16 +406,28 @@
 	</div>
 	<!-- // 외부감사인 선임 공고 -->
 
+	<!-- KTB > DAOL 사명 변경 공지 -->
+	<div class="layerPop" id="pop20220322">
+		<div class="layerContainer" style="padding:0;">
+			<img src="/static/mobile/kr/images/popup/20220322.png" alt="">
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- // KTB > DAOL 사명 변경 공지 -->
+
 	<div class="dimmed"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
   $(window).on('jsLoad', function () {
     let date = parseInt(moment().format('YYYYMMDDHHmm'))
-	  if (202202140000 <= date && date < 202202281159) {
-		  commonJs.popupShow('#pop20220214') // 외부감사인 선임 공고
+	  if (202203220000 <= date && date < 202204211159) {
+		  commonJs.popupShow('#pop20220322') // KTB > DAOL 사명 변경 공지
 	  }
     /**
+	if (202202140000 <= date && date < 202302281159) {
+	  commonJs.popupShow('#pop20220214') // 외부감사인 선임 공고
+	}
   	if (202111240800 <= date && date < 202112080000) {
 			commonJs.popupShow('#pop20211124') // 신주발행공고
   	}

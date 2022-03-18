@@ -191,11 +191,15 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
   let date = parseInt(moment().format('YYYYMMDDHHmm'))
+  if (202203220000 <= date && date < 202204211159) {
+    // KTB > DAOL 사명 변경 공지
+    window.open('/static/home/kr/ktb_popup.html?popup=20220322', '', 'top=0, left=0, width=721, height=721, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+  }
+  /**
   if (202202140000 <= date && date < 202202281159) {
     // 외부감사인 선임 공고
     window.open('/static/home/kr/ktb_popup.html?popup=20220214', '', 'top=0, left=0, width=720, height=315, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
-  /**
   if (202111240800 <= date && date < 202112080000) {
     // 신주발행공고
     window.open('/static/home/kr/ktb_popup.html?popup=20211124', '', 'top=0, left=720, width=720, height=960, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
