@@ -2,7 +2,7 @@
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
 		<header id="header" class="header fixed"><!-- 고정 fixed --><!-- 섹션 스크롤링 될 때 마다 헤더의 컬러값이 변경되므로 fixed 시 section2, section3 위치 시 class="type1" 추가 -->
 			<div class="headArea"><!-- 열기 open -->
-				<h1 class="logo"><a href="/home/main/main.do">KTB 네트워크</a></h1>
+				<h1 class="logo"><a href="/home/main/main.do">다올인베스트먼트</a></h1>
 				<a href="/home/en/main/main.do" class="engBtn">ENG</a>
 				<div class="allMenu">
 					<ul class="inner">

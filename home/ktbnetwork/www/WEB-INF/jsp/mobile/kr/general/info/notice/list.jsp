@@ -171,14 +171,14 @@ jQuery(window).load(function() {
       <div class="layerCont" tabindex="0" >
         <div class="board_detail">
           <div class="detailTop">
-            <h3 class="titDep3">제14기 결산공고</h3>
+            <h3 class="titDep3">KTB네트워크 제14기 정기주주총회 결과</h3>
             <em class="date">2022.03.21</em>
           </div>
           <div class="detailCon">
 
             <style>
               #newsDetail_pop51 .list li + li {margin-top:10px;}
-              #newsDetail_pop51 .tblH tbody td {word-break:break-word;}
+              #newsDetail_pop51 .tblH tbody td {padding:15px 0;font-size:12px;word-break:break-word;}
             </style>
             <ul class="list">
               <li>1. 일 시 : 2022년 3월 21일(월) 09:00</li>
