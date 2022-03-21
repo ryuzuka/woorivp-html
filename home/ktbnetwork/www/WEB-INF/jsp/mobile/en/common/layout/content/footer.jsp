@@ -22,5 +22,5 @@
 			</span>
 			<a href="#" role="button" class="btnMove">GO</a>
 		</div>
-		<p class="copyright">COPYRIGHT&copy;KTB Network. ALL RIGHTS RESERVED</p>
+		<p class="copyright">COPYRIGHT&copy;DAOL Investment. ALL RIGHTS RESERVED</p>
 	</footer> 
