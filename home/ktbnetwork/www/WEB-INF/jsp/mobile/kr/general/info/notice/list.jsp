@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
                         <li>
+                          <a href="#newsDetail_pop51" role="button" title="상세내용 보기">KTB네트워크 제14기 정기주주총회 결과<em>2022.03.21</em></a>
+                        </li>
+                        <li>
                           <a href="#newsDetail_pop50" role="button" title="상세내용 보기">제 14기 결산공고<em>2022.03.21</em></a>
                         </li>
                         <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
                         <li>
                             <a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
                         </li>
-                        <li>
+                        <li data-page="1" style="display: none;">
                             <a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
                         </li>
                         <li data-page="1" style="display: none;">
@@ -105,7 +108,7 @@ jQuery(window).load(function() {
 						<li data-page="1" style="display: none;">
 							<a href="#newsDetail_pop03" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2018.04.09</em></a>
 						</li>
-						<li data-page="1" style="display: none;">
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop04" role="button" title="상세내용 보기">제 10기 결산공고<em>2018.03.06</em></a>
 						</li>
 						<li data-page="2" style="display: none;">
@@ -135,7 +138,7 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop13" role="button" title="상세내용 보기">제 4기 결산공고<em>2012.06.25</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop14" role="button" title="상세내용 보기">(주)다림비젼 주식 공매 공고<em>2011.10.25</em></a>
 						</li>
 						<li data-page="3" style="display: none;">
@@ -162,7 +165,137 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
-    <!-- 제13기 결산공고 -->
+    <!-- KTB네트워크 제14기 정기주주총회 결과 -->
+    <div class="fullLayer" id="newsDetail_pop51">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">제14기 결산공고</h3>
+            <em class="date">2022.03.21</em>
+          </div>
+          <div class="detailCon">
+
+            <style>
+              #newsDetail_pop51 .list li + li {margin-top:10px;}
+              #newsDetail_pop51 .tblH tbody td {word-break:break-word;}
+            </style>
+            <ul class="list">
+              <li>1. 일 시 : 2022년 3월 21일(월) 09:00</li>
+              <li>2. 장 소 : 경기도 성남시 분당구 대왕판교로670 유스페이스 컨퍼런스룸</li>
+              <li>3. 참석현황
+                <table class="tblH">
+                  <caption>KTB네트워크 제14기 정기주주총회 결과 참석현황 정보</caption>
+                  <colgroup><col style="width:25%" span="4"></colgroup>
+                  <thead>
+                  <tr>
+                    <th scope="col" class="tcenter">발행주식총수</th>
+                    <th scope="col" class="tcenter">의결권있는 주식수(A)</th>
+                    <th scope="col" class="tcenter">의결권행사 주식수(B)</th>
+                    <th scope="col" class="tcenter">행사비율(B/A) </th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                    <td>100,000,000주</td>
+                    <td>100,000,000주</td>
+                    <td>68,162,819주</td>
+                    <td>68.16%</td>
+                  </tr>
+                  </tbody>
+                </table>
+              </li>
+              <li>4. 주주총회 결과
+                <table class="tblH">
+                  <caption>KTB네트워크 제14기 정기주주총회 결과 정보</caption>
+                  <colgroup>
+                    <col style="width:30%">
+                    <col style="width:10%">
+                    <col style="width:20%">
+                    <col style="width:20%">
+                    <col style="width:20%">
+                  </colgroup>
+                  <thead>
+                  <tr>
+                    <th scope="col" class="tcenter">의안</th>
+                    <th scope="col" class="tcenter">결의</th>
+                    <th scope="col" class="tcenter">찬성주식수</th>
+                    <th scope="col" class="tcenter">반대주식수</th>
+                    <th scope="col" class="tcenter">찬성비율</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                    <td class="tleft">&lt;제1호안건&gt;<br>제14기 재무제표 승인의 건</td>
+                    <td>보통</td>
+                    <td>68,045,598</td>
+                    <td>116,454</td>
+                    <td>99.83%</td>
+                  </tr>
+                  <tr>
+                    <td class="tleft">&lt;제2호안건&gt;<br>제14기 이익배당 승인의 건</td>
+                    <td>보통</td>
+                    <td>68,046,723</td>
+                    <td>115,929</td>
+                    <td>99.83%</td>
+                  </tr>
+                  <tr>
+                    <td class="tleft">&lt;제3호안건&gt;<br>정관변경의 건</td>
+                    <td>특별</td>
+                    <td>68,044,165</td>
+                    <td>118,440</td>
+                    <td>99.83%</td>
+                  </tr>
+                  <tr>
+                    <td class="tleft">&lt;제4호안건&gt;<br>기타비상무이사 선임의 건</td>
+                    <td>보통</td>
+                    <td>68,043,747</td>
+                    <td>118,155</td>
+                    <td>99.83%</td>
+                  </tr>
+                  <tr>
+                    <td class="tleft">&lt;제5호안건&gt;<br>사외이사 선임의 건</td>
+                    <td>보통</td>
+                    <td>68,043,822</td>
+                    <td>118,080</td>
+                    <td>99.83%</td>
+                  </tr>
+                  <tr>
+                    <td class="tleft">&lt;제6호안건&gt;<br>이사의 보수한도 승인의 건</td>
+                    <td>보통</td>
+                    <td>68,042,593</td>
+                    <td>119,298</td>
+                    <td>99.82%</td>
+                  </tr>
+                  <tr>
+                    <td class="tleft">&lt;제7호안건&gt;<br>감사의 보수한도 승인의 건</td>
+                    <td>보통</td>
+                    <td>68,042,796</td>
+                    <td>119,095</td>
+                    <td>99.82%</td>
+                  </tr>
+                  </tbody>
+                </table>
+              </li>
+            </ul>
+
+            <div class="newscon_box">
+              <p class="txt">위와 같이 공고합니다.</p>
+              <div class="bottomTxt">
+                <em>2022년 03월 21일</em>
+                <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
+              </div>
+            </div><!-- //newscon_box -->
+            <!--  // .opinionTxt -->
+
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // KTB네트워크 제14기 정기주주총회 결과 -->
+
+    <!-- 제14기 결산공고 -->
     <div class="fullLayer" id="newsDetail_pop50">
       <h2 class="layerTit">NEWS</h2>
       <div class="layerCont" tabindex="0" >
@@ -302,7 +435,7 @@ jQuery(window).load(function() {
       </div>
       <button type="button" class="layerClose">닫기</button>
     </div>
-    <!-- // 제13기 결산공고 -->
+    <!-- // 제14기 결산공고 -->
 
     <!-- 제 14기 정기주주총회 소집통지서 -->
     <div class="fullLayer" id="newsDetail_pop49">

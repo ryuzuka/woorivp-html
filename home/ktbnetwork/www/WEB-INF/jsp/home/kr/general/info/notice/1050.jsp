@@ -131,6 +131,12 @@
         </div>
       </div>
       <ul class="baordIndex">
+        <li>
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=51">
+            <div class="arrow next">다음글</div>
+            <div class="tit">KTB네트워크 제14기 정기주주총회 결과</div>
+          </a>
+        </li>
           <li>
               <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=49">
                   <div class="arrow prev">이전글</div>

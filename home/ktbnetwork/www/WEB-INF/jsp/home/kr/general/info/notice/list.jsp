@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=51">
+									<strong class="tit">KTB네트워크 제14기 정기주주총회 결과</strong>
+									<div class="con"><span class="date">2022.03.21</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=50">
 									<strong class="tit">제 14기 결산공고</strong>
 									<div class="con"><span class="date">2022.03.21</span></div>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2021.07.14</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=26">
 									<strong class="tit">주식 3차공매 공고</strong>
 									<div class="con"><span class="date">2021.07.13</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=25">
 									<strong class="tit">주식 2차공매 공고</strong>
@@ -141,15 +147,15 @@
 									<div class="con"><span class="date">2018.04.09</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=4">
 									<strong class="tit">제 10기 결산공고</strong>
 									<div class="con"><span class="date">2018.03.06</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=5">
 									<strong class="tit">제 9기 결산공고</strong>
@@ -204,15 +210,15 @@
 									<div class="con"><span class="date">2012.06.25</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=14">
 									<strong class="tit">(주)다림비젼 주식 공매 공고</strong>
 									<div class="con"><span class="date">2011.10.25</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=15">
 									<strong class="tit">제 3기 결산공고</strong>
