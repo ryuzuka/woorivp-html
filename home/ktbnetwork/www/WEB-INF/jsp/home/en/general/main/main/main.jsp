@@ -16,7 +16,7 @@
 											</a>
 										</li> -->
 										<li class="swiper-slide">
-												<img src="/static/home/en/images/main/main_visual2.png" alt="Looking to the Future: KTB Creating tomorrow’s value through high-potential ventures">
+												<img src="/static/home/en/images/main/main_visual2.png" alt="Looking to the Future: DAOL Investment Creating tomorrow’s value through high-potential ventures">
 										</li>
 										<!-- <li class="swiper-slide">
 												<img src="/static/home/en/images/main/main_visual3.png" alt="KTB: Your Partner In Growth Over the last 38 years since establishment, We walked together with 277 firms through IPO (including backdoor listing)">
