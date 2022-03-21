@@ -827,7 +827,7 @@
       _loadGoogleApi: function(){
         var lang = $('html').attr('lang');
         var oSelf = this;
-        $.getScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyAfZShlQ4ELnREOWM_6z9XcxA1p4sP4fV0&region=kr&language=" + lang).done(function(src, textStatus) {
+        $.getScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyD0_rWgfRTAWKJ6i4K39m0euEbyhlD4O_U&region=kr&language=" + lang).done(function(src, textStatus) {
             oSelf._setMapApi();
         });
       },
