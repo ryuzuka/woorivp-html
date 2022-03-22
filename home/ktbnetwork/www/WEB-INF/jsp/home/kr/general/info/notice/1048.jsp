@@ -41,9 +41,9 @@
 							</a>
 						</li>
 						<li>
-							<a href="/home/info/notice/view.do?page=3&num=42">
+							<a href="/home/info/notice/view.do?page=3&num=52">
 								<div class="arrow prev">이전글</div>
-								<div class="tit">주식명의개서정지공고</div>
+								<div class="tit">내부정보관리규정</div>
 							</a>
 						</li>
 					</ul>

@@ -49,6 +49,12 @@
 								</a>
 							</li>
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=52">
+									<strong class="tit">내부정보관리규정</strong>
+									<div class="con"><span class="date">2021.12.16</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=42">
 									<strong class="tit">주식명의개서정지공고</strong>
 									<div class="con"><span class="date">2021.12.16</span></div>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2021.09.01</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=27">
 									<strong class="tit">주식 공매 공고</strong>
 									<div class="con"><span class="date">2021.07.14</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=26">
 									<strong class="tit">주식 3차공매 공고</strong>
@@ -141,15 +147,15 @@
 									<div class="con"><span class="date">2018.08.01</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=3">
 									<strong class="tit">외부감사인 선임 공고</strong>
 									<div class="con"><span class="date">2018.04.09</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=4">
 									<strong class="tit">제 10기 결산공고</strong>
@@ -204,15 +210,15 @@
 									<div class="con"><span class="date">2013.05.20</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=13">
 									<strong class="tit">제 4기 결산공고</strong>
 									<div class="con"><span class="date">2012.06.25</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=14">
 									<strong class="tit">(주)다림비젼 주식 공매 공고</strong>
