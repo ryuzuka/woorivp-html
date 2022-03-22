@@ -25,6 +25,18 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
+									<strong class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</strong>
+									<div class="con"><span class="date">2022.03.22</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
+									<strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
+									<div class="con"><span class="date">2022.03.22</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=47">
 									<strong class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</strong>
 									<div class="con"><span class="date">2022.01.07</span></div>

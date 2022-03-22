@@ -49,6 +49,12 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
                         <li>
+                          <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.22</em></a>
+                        </li>
+                        <li>
+                          <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.22</em></a>
+                        </li>
+                        <li>
                           <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
                         </li>
                         <li>
@@ -81,6 +87,68 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+    <!-- (머니투데이더벨 기사) KTTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' -->
+    <div class="fullLayer" id="newsDetail_pop49">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</h3>
+            <em class="date">2022.03.22</em>
+          </div>
+
+          <div class="detailCon">
+            <div class="newscon_box">
+              <h4 class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</h4>
+              <p style="text-align: left">KTB네트워크가 기업공개(IPO) 후 받은 첫번째 성적표는 '어닝서프라이즈'였다.<br>
+                2020년 최고성적을 거두었는데, 1년만에 다시 한번 역대급 실적을 기록했다.</p>
+              <br>
+              <p style="text-align: left">관련하에 머니투데이더벨에 게재된 기사 공유드립니다.<br>
+                보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+              <br>
+              <p style="text-align: left">기사 게제일 : 2022. 3. 18</p>
+              <br>
+              <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202203161405081520105870&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202203161405081520105870&svccode=00&page=1&sort=thebell_check_time</a></p>
+            </div><!-- //newscon_box -->
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // (머니투데이더벨 기사) KTTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' -->
+
+    <!-- (머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 -->
+    <div class="fullLayer" id="newsDetail_pop48">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</h3>
+            <em class="date">2022.03.22</em>
+          </div>
+
+          <div class="detailCon">
+            <div class="newscon_box">
+              <h4 class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</h4>
+              <p style="text-align: left">KTB네트워크가 3000억원 규모의 대형 스케일업 펀드조성에 나섰습니다.<br>
+                모태펀드 1차 정시 출자사업 중 중진스케일업 분야에서 위탁운용사(GP)로 선정되었고 초기기업에서 성장단계에 진입한 기업에 주로 투자가 이뤄질 계획이다.</p>
+              <br>
+              <p style="text-align: left">관련하에 머니투데이더벨에 게재된 기사 공유드립니다.<br>
+                보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+              <br>
+              <p style="text-align: left">기사 게제일 : 2022. 3. 16</p>
+              <br>
+              <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202203141446503480107681&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202203141446503480107681&svccode=00&page=1&sort=thebell_check_time</a></p>
+            </div><!-- //newscon_box -->
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // (머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 -->
+
     <!-- (아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 -->
     <div class="fullLayer" id="newsDetail_pop47">
       <h2 class="layerTit">NEWS</h2>
