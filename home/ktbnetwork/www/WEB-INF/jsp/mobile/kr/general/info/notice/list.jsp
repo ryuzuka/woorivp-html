@@ -355,14 +355,6 @@ jQuery(window).load(function() {
             </ul>
             <p class="listTxt">부 칙</p>
             <p>(시행일) 이 규정은 회사가 한국거래소 코스닥시장에 상장하는 날부터 시행한다.</p>
-
-            <div class="newscon_box" style="margin-top:35px;">
-              <p class="txt">위와 같이 공고합니다.</p>
-              <div class="bottomTxt">
-                <em>2021년 12월 16일</em>
-                <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
-              </div>
-            </div><!-- //newscon_box -->
             <!--  // .opinionTxt -->
 
           </div><!-- //detailCon -->

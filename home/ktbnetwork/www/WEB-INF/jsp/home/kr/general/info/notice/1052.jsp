@@ -198,12 +198,6 @@
           </ul>
           <h2 class="titDep3">부 칙</h2>
           <p>(시행일) 이 규정은 회사가 한국거래소 코스닥시장에 상장하는 날부터 시행한다.</p>
-
-          <div class="noticeBox">
-            위와 같이 공고합니다.
-            <span class="dateTxt">2021년 12월 16일</span>
-            <strong class="ceoTxt">케이티비네트워크주식회사 대표이사 김창규</strong>
-          </div>
           <!-- // NEWS CONTENTS -->
 
         </div>
