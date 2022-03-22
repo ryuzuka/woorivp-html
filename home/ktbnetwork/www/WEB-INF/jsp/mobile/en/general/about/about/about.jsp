@@ -24,7 +24,7 @@
 			<div id="CI1T1" class="tabCont" style="display:block">
 				<h2 class="hidden">History</h2>
 				<p class="mtM">
-					Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, DAOL Financial Group(“DAOL”) has since grown into a comprehensive financial group offering a wide range of financial services, including securities, asset management, venture capital and private equity. We, DAOL, also have expanded our global network by actively entering overseas markets includes the United States, China and Thailand.
+					Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, DAOL Financial Group(“DAOL”) has since grown into a comprehensive financial group offering a wide range of financial services, including securities, savings bank, asset management, venture capital and private equity. We, DAOL, also have expanded our global network by actively entering overseas markets includes the United States, China and Thailand.
 				</p>
 
 				<div class="companyTit mtM">DAOL has been<br><span class="point">steadily growing.</span></div>
