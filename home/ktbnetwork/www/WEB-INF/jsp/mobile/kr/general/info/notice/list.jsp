@@ -64,7 +64,7 @@ jQuery(window).load(function() {
                           <a href="#newsDetail_pop48" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2022.02.14</em></a>
                         </li>
                         <li>
-                          <a href="#newsDetail_pop52" role="button" title="상세내용 보기">내부정보관리규정(개정) <em>2021.12.16</em></a>
+                          <a href="#newsDetail_pop52" role="button" title="상세내용 보기">내부정보관리규정 <em>2021.12.16</em></a>
                         </li>
                         <li>
                           <a href="#newsDetail_pop42" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2021.12.16</em></a>
@@ -209,7 +209,7 @@ jQuery(window).load(function() {
       <div class="layerCont pd0" tabindex="0" >
         <div class="board_detail">
           <div class="detailTop">
-            <h3 class="titDep3">내부정보관리규정(개정)</h3>
+            <h3 class="titDep3">내부정보관리규정</h3>
             <em class="date">2021.12.16</em>
           </div>
           <div class="detailCon">
@@ -225,7 +225,7 @@ jQuery(window).load(function() {
             <div class="fileDown">
               <a href="/doc/Notice20211216.doc">
                 <strong>첨부파일</strong>
-                <p>내부정보관리규정(개정)</p>
+                <p>내부정보관리규정</p>
               </a>
             </div>
           </div><!-- //detailCon -->

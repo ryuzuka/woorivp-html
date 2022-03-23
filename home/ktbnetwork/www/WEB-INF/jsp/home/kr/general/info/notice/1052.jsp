@@ -16,13 +16,13 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">내부정보관리규정(개정)</strong>
+          <strong class="tit">내부정보관리규정</strong>
           <div class="con">
             <span class="date">2021.12.16</span>
           </div>
         </div>
         <div class="viewFile">
-          <a href="/doc/Notice20211216.doc">내부정보관리규정(개정)</a>
+          <a href="/doc/Notice20211216.doc">내부정보관리규정</a>
         </div>
         <div class="viewCon">
           <!-- NEWS CONTENTS -->

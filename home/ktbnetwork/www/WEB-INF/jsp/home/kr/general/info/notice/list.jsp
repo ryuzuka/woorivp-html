@@ -56,7 +56,7 @@
 							</li>
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=52">
-									<strong class="tit">내부정보관리규정(개정)</strong>
+									<strong class="tit">내부정보관리규정</strong>
 									<div class="con"><span class="date">2021.12.16</span></div>
 								</a>
 							</li>
