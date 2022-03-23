@@ -49,9 +49,9 @@
                 <button type="button" class="next">다음 뉴스 보기</button>
               </div>
               <ul><!-- 요건 1: 버튼 클릭 시 li margin-top 값 조절되어 상하 롤링 ,요건2 : a 태그 공백 포함 50자 말줄임처리 -->
+                <li><a href="/home/info/news/view.do?page=1&num=52">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</a></li>
                 <li><a href="/home/info/news/view.do?page=1&num=49">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</a></li>
                 <li><a href="/home/info/news/view.do?page=1&num=48">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</a></li>
-                <li><a href="/home/info/news/view.do?page=1&num=47">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</a></li>
               </ul>
             </section>
           </div>

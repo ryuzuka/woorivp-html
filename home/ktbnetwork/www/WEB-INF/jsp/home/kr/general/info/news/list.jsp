@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
+									<strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
+									<div class="con"><span class="date">2022.03.21</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
 									<strong class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</strong>
 									<div class="con"><span class="date">2022.03.18</span></div>
@@ -34,6 +40,18 @@
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
 									<strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
 									<div class="con"><span class="date">2022.03.16</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=51">
+									<strong class="tit">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부</strong>
+									<div class="con"><span class="date">2022.03.04</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=50">
+									<strong class="tit">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다</strong>
+									<div class="con"><span class="date">2022.01.20</span></div>
 								</a>
 							</li>
 							<li>
@@ -66,6 +84,9 @@
 									<div class="con"><span class="date">2021.12.02</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=34">
 									<strong class="tit">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약</strong>
@@ -91,6 +112,7 @@
 						<a href="#" class="arrow prev">이전페이지로 이동</a>
 						<span class="num">
 							<a href="/home/info/news/list.do?page=1" <c:if test="${vo.page eq '1'}">class="on"</c:if>>1</a>
+							<a href="/home/info/news/list.do?page=2" <c:if test="${vo.page eq '2'}">class="on"</c:if>>2</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
 						<a href="/home/info/news/list.do?page=5" class="arrow end">마지막페이지로 이동</a>

@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</strong>
+          <strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
           <div class="con">
-            <span class="date">2022.03.18</span>
+            <span class="date">2022.03.21</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,34 +41,28 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</dt>
+            <dt>(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</dt>
             <dd>
-              <p>KTB네트워크가 기업공개(IPO) 후 받은 첫번째 성적표는 '어닝서프라이즈'였다.<br>
-                2020년 최고성적을 거두었는데, 1년만에 다시 한번 역대급 실적을 기록했다.</p>
+              <p>KTB네트워크는 3월 21일 정기 주주총회를 통해 다올인베스트먼트로 사명을 변경했다고 발표했다.<br>
+                아울러 100억원 규모의 자기주식 취득에 결의했다.</p>
               <br>
-              <p>관련하에 머니투데이더벨에 게재된 기사 공유드립니다.<br>
+              <p>관련하여 한국경제TV에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게제일 : 2022. 3. 18</p>
+              <p>기사 게제일 : 2022. 3. 21</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-              <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202203161405081520105870&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202203161405081520105870&svccode=00&page=1&sort=thebell_check_time</a></p>
+              <a href="https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202203210217&t=NN" target="_blank" title="새창 열림">https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202203210217&t=NN</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
-            <div class="arrow next">다음글</div>
-            <div class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</div>
+            <div class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</div>
           </a>
         </li>
       </ul>

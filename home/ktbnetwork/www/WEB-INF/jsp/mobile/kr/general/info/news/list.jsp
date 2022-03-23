@@ -7,7 +7,7 @@ function fncPage() {
       pageIndex++
       jQuery('li[data-page=' + pageIndex + ']').show();
   }
-	if(pageIndex === 4) {
+	if(pageIndex === 1) {
 		jQuery("button.btnMore").hide();
 	}
 }
@@ -49,10 +49,19 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
                         <li>
+                          <a href="#newsDetail_pop52" role="button" title="상세내용 보기">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 <em>2022.03.21</em></a>
+                        </li>
+                        <li>
                           <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.18</em></a>
                         </li>
                         <li>
                           <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.16</em></a>
+                        </li>
+                        <li>
+                          <a href="#newsDetail_pop51" role="button" title="상세내용 보기">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 <em>2022.03.04</em></a>
+                        </li>
+                        <li>
+                          <a href="#newsDetail_pop50" role="button" title="상세내용 보기">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 <em>2022.01.20</em></a>
                         </li>
                         <li>
                           <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
@@ -69,24 +78,117 @@ jQuery(window).load(function() {
                         <li>
                           <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
                         </li>
-                        <li>
+                        <li data-page="1" style="display: none;">
                           <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
                         </li>
-                        <li>
+                        <li data-page="1" style="display: none;">
                           <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
                         </li>
-                        <li>
+                        <li data-page="1" style="display: none;">
                           <a href="#newsDetail_pop31" role="button" title="상세내용 보기">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가 <em>2021.06.24</em></a>
                         </li>
 					</ul>
 
-					<!-- <button type="button" onclick="fncPage();" class="btnMore">더보기</button> -->
+					<button type="button" onclick="fncPage();" class="btnMore">더보기</button>
 				</div>
 			</div>
 		</div><!-- //contents -->
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+    <!-- (한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 -->
+    <div class="fullLayer" id="newsDetail_pop52">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</h3>
+            <em class="date">2022.03.21</em>
+          </div>
+
+          <div class="detailCon">
+            <div class="newscon_box">
+              <h4 class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</h4>
+              <p style="text-align: left">KTB네트워크는 3월 21일 정기 주주총회를 통해 다올인베스트먼트로 사명을 변경했다고 발표했다.<br>
+                아울러 100억원 규모의 자기주식 취득에 결의했다.</p>
+              <br>
+              <p style="text-align: left">관련하여 한국경제TV에 게재된 기사 공유드립니다.<br>
+                보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+              <br>
+              <p style="text-align: left">기사 게제일 : 2022. 3. 21</p>
+              <br>
+              <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+                <a href="https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202203210217&t=NN" target="_blank" title="새창 열림">https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202203210217&t=NN</a></p>
+            </div>
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // (한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 -->
+
+    <!-- (뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 -->
+    <div class="fullLayer" id="newsDetail_pop51">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부</h3>
+            <em class="date">2022.03.04</em>
+          </div>
+
+          <div class="detailCon">
+            <div class="newscon_box">
+              <h4 class="tit">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부</h4>
+              <p style="text-align: left">KTB금융그룹이 우크라이나의 어려움을 겪고있는 실향민과 난민에게 1억 3000만원을 기부했다.<br>
+                사측 관계자는 "인도주의적 차원에서 우크라이나 난민에게 필수 구호물품을 지원하는데 소속임직원들이 자발적으로 참여했다" 고 밝혔다.</p>
+              <br>
+              <p style="text-align: left">관련하여 뉴시스에 게재된 기사 공유드립니다.<br>
+                보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+              <br>
+              <p style="text-align: left">기사 게제일 : 2022. 3. 4</p>
+              <br>
+              <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+                <a href="https://newsis.com/view/?id=NISX20220304_0001781432&cID=10401&pID=10400" target="_blank" title="새창 열림">https://newsis.com/view/?id=NISX20220304_0001781432&cID=10401&pID=10400</a></p>
+            </div>
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // (뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 -->
+
+    <!-- (더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 -->
+    <div class="fullLayer" id="newsDetail_pop50">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다</h3>
+            <em class="date">2022.01.20</em>
+          </div>
+
+          <div class="detailCon">
+            <div class="newscon_box">
+              <h4 class="tit">((더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다</h4>
+              <p style="text-align: left">KTB네트워크는 1월 19일 이사회에서 자사주매입을 결정했다.<br>
+                김창규 대표이사는 "기업가치를 제대로 인정받을수있도록 노력할것이며, 자사주매입과 배당확대 등 주주환원 정책을 전개해 주주와 함께성장하는 기업이 되겠다" 고 전했다.</p>
+              <br>
+              <p style="text-align: left">관련하여 뉴시스에 게재된 기사 공유드립니다.<br>
+                보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+              <br>
+              <p style="text-align: left">기사 게제일 : 2022. 1. 20</p>
+              <br>
+              <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+                <a href="http://thepublic.kr/news/newsview.php?ncode=1065607673943699" target="_blank" title="새창 열림">http://thepublic.kr/news/newsview.php?ncode=1065607673943699</a></p>
+            </div>
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // (더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 -->
+
     <!-- (머니투데이더벨 기사) KTTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' -->
     <div class="fullLayer" id="newsDetail_pop49">
       <h2 class="layerTit">NEWS</h2>

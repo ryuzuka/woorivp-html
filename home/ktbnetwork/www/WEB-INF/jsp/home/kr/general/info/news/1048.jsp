@@ -60,15 +60,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=47">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
             <div class="arrow next">다음글</div>
-            <div class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</div>
+            <div class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=51">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(머니투데이더벨 기사) KTTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</div>
+            <div class="tit">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부</div>
           </a>
         </li>
       </ul>
