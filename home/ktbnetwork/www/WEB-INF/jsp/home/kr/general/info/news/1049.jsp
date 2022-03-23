@@ -17,7 +17,7 @@
         <div class="viewTit">
           <strong class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</strong>
           <div class="con">
-            <span class="date">2022.03.22</span>
+            <span class="date">2022.03.18</span>
           </div>
         </div>
         <style type="text/css">

@@ -49,10 +49,10 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
                         <li>
-                          <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.22</em></a>
+                          <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.18</em></a>
                         </li>
                         <li>
-                          <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.22</em></a>
+                          <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.16</em></a>
                         </li>
                         <li>
                           <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
@@ -94,7 +94,7 @@ jQuery(window).load(function() {
         <div class="board_detail">
           <div class="detailTop">
             <h3 class="titDep3">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</h3>
-            <em class="date">2022.03.22</em>
+            <em class="date">2022.03.18</em>
           </div>
 
           <div class="detailCon">
@@ -125,7 +125,7 @@ jQuery(window).load(function() {
         <div class="board_detail">
           <div class="detailTop">
             <h3 class="titDep3">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</h3>
-            <em class="date">2022.03.22</em>
+            <em class="date">2022.03.16</em>
           </div>
 
           <div class="detailCon">

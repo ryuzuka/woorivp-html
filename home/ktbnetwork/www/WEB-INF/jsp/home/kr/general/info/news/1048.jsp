@@ -17,7 +17,7 @@
         <div class="viewTit">
           <strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
           <div class="con">
-            <span class="date">2022.03.22</span>
+            <span class="date">2022.03.16</span>
           </div>
         </div>
         <style type="text/css">
