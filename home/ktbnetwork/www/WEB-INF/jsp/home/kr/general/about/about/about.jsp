@@ -211,7 +211,7 @@
 									<li>
 										<div class="subsidiaryName"><img src="/static/home/kr/images/contents/img_ssname04.png" alt="다올 프라이빗 에쿼티"></div>
 										<div class="link">
-											<p class="site"><a href="http://www.ktbpe.co.kr/" target="_blank">www.daolpe.com</a></p>
+											<p class="site"><a href="http://daolpe.com/" target="_blank">www.daolpe.com</a></p>
 											<p class="tel">02-2184-4100</p>
 										</div>
 										<p class="txt">

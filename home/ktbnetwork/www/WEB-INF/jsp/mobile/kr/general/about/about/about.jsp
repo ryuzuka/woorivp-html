@@ -203,7 +203,7 @@
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo5.png" alt="다올 프라이빗 에쿼티"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbpe.co.kr/" target="_blank" title="새창열기">www.daolpe.com</a>
+						<a href="http://daolpe.com/" target="_blank" title="새창열기">www.daolpe.com</a>
 						<a href="tel:02-2184-4100">02-2184-4100</a>
 					</div>
 				</div>

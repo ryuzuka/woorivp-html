@@ -209,7 +209,7 @@
 				<div class="contTit">
 					<div class="logo affListImg type"><img src="/static/mobile/en/images/contents/logo5_eng.png" alt="DAOL Private Equity"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbpe.co.kr/" target="_blank" title="새창열기">www.daolpe.com</a>
+						<a href="http://daolpe.com/" target="_blank" title="새창열기">www.daolpe.com</a>
 						<a href="tel:+82-2-2184-4100">+82-2-2184-4100</a>
 					</div>
 				</div>
