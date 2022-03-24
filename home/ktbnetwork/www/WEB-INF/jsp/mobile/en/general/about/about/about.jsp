@@ -139,7 +139,7 @@
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo1_eng.png" alt="DAOL Investment & Securities" class="imgType01"><img src="/static/mobile/en/images/contents/logo1_eng02.png" alt="DAOL Investment & Securities" class="imgType02"></div>
 					<div class="contBtn">
-						<a href="https://www.ktb.co.kr/corporation/eng/index.jsp" target="_blank" title="새창열기">www.daolsecurities.com</a>
+						<a href="https://m.ktb.co.kr/en/CIE/CIE1.jsp" target="_blank" title="새창열기">www.daolsecurities.com</a>
 					</div>
 				</div>
 				Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, DAOL Investment & Securities(“DAOL") has since grown into a comprehensive securities company offering a wide range of financial products and services including, investment banking, institutional brokerage and individual wealth management.<br><br>
