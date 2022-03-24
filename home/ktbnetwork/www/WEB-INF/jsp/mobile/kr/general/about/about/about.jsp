@@ -145,7 +145,7 @@
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo2.png" alt="다올 저축은행"></div>
 					<div class="contBtn">
-						<a href="https://www.eugenebank.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
+						<a href="https://m.daolsb.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
 						<a href="tel:1544-6700">1544-6700</a>
 					</div>
 				</div>

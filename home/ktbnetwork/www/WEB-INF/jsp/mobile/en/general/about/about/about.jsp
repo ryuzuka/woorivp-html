@@ -156,7 +156,7 @@
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo2_eng.png" alt="DAOL SAVING Bank"></div>
 					<div class="contBtn">
-						<a href="https://www.eugenebank.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
+						<a href="https://m.daolsb.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
 					</div>
 				</div>
 				DAOL Savings Bank is established in 1972 based on Korean capital.
