@@ -177,15 +177,6 @@
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail15" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_15.jpg" alt="Kim Hye Sung" /></span>
-							<span>
-								<em>Kim Hye Sung</em>
-								Team Manager
-							</span>
-						</a>
-					</li>
-					<li>
 						<a href="#personDeatail16" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_16.jpg" alt="Kim Man Sik" /></span>
 							<span>
@@ -314,6 +305,16 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_10.jpg" alt="Hong Ji Won" /></span>
 							<span>
 								<em>Hong Ji Won</em>
+								<b>Team Manager</b>
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail21" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_21.png" alt="Kim Boo Kyum" /></span>
+							<span>
+								<em>Kim Boo Kyum</em>
 								<b>Team Manager</b>
 							</span>
 						</a>
@@ -699,38 +700,6 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Jeun Kyung Mi Team Manager -->
-<!-- Kim Hye Sung Team Manager -->
-<div class="fullLayer" id="personDeatail15">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_invest_pop15.jpg" alt="Kim Hye Sung" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">Kim Hye Sung</dt>
-					<dd class="position">KOREA / Investment / Team Manager</dd>
-					<dt>Career</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>University of Chicago (Economics)</li>
-							<li>Freenters Co-founder&amp;CEO</li>
-							<li>Sparklabs</li>
-							<li>EarlierCare Co-founder&CSO</li>
-						</ul>
-					</dd>
-					<dt>Responsibilities</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>Deal Sourcing &amp; Deal Diligence</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">close</button>
-</div>
-<!-- //Kim Hye Sung Team Manager -->
 <!-- Kim Man Sik Team Manager -->
 <div class="fullLayer" id="personDeatail16">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1303,6 +1272,38 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Hong Ji Won Team Manager -->
+<!-- Kim Boo Kyum Team Manager -->
+<div class="fullLayer" id="person_manageDeatail21">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop21.png" alt="Kim Boo Kyum" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Kim Boo Kyum</dt>
+					<dd class="position">KOREA / Management / Team Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Woori Asset Management</li>
+							<li>Consus Asset Management</li>
+							<li>Yurie Asset Management</li>
+							<li>Gennaker Investment Partners</li>
+						</ul>
+					</dd>
+					<dt>Responsibilities</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>IR</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Kim Boo Kyum Team Manager -->
 <!-- Soon Won Kwon Team Manager -->
 <div class="fullLayer" id="person_manageDeatail19">
 	<h2 class="layerTit">Who We Are</h2>

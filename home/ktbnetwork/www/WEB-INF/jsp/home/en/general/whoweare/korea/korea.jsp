@@ -321,24 +321,6 @@
 						</li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team14.jpg" alt="Kim Hye Sung"></div>
-								<div class="right">
-									<h3>Kim Hye Sung <span class="pointColor">KOREA / Investment / Team Manager</span></h3>
-									<dl>
-										<dt>Career</dt>
-										<dd>University of Chicago (Economics)<br>Freenters Co-founder&amp;CEO<br>Sparklabs<br>EarlierCare Co-founder&amp;CSO</dd>
-										<dt>Responsibilities</dt>
-										<dd>Deal Sourcing&amp;Deal Diligence</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team14_off.jpg" alt="Kim Hye Sung"></span>
-								<strong>Kim Hye Sung</strong> Team Manager
-							</a>
-						</li>
-						<li>
-							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team15.jpg" alt="Kim Man Sik"></div>
 								<div class="right">
 									<h3>Kim Man Sik <span class="pointColor">KOREA / Investment / Team Manager</span></h3>
@@ -612,6 +594,24 @@
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team24_off.jpg" alt="Hong Ji Won"></span>
 									<strong>Hong Ji Won</strong> Team Manager
+								</a>
+							</li>
+							<li>
+								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team49.png" alt="Kim Boo Kyum"></div>
+									<div class="right">
+										<h3>Kim Boo Kyum <span class="pointColor">KOREA / Management / Team Manager</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>Woori Asset Management<br>Consus Asset Management<br>Yurie Asset Management<br>Gennaker Investment Partners</dd>
+											<dt>Responsibilities</dt>
+											<dd>IR</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team49_off.png" alt="Kim Boo Kyum"></span>
+									<strong>Kim Boo Kyum</strong> Team Manager
 								</a>
 							</li>
 							<li>

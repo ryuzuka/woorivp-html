@@ -180,15 +180,6 @@
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail15" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_15.jpg" alt="김혜성 팀장 사진" /></span>
-							<span>
-								<em>김혜성</em>
-								팀장
-							</span>
-						</a>
-					</li>
-					<li>
 						<a href="#personDeatail16" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_16.jpg" alt="김만식 팀장 사진" /></span>
 							<span>
@@ -329,6 +320,16 @@
 							<span><img src="/static/mobile/kr/images/contents/img_manage_10.jpg" alt="홍지원 팀장 사진" /></span>
 							<span>
 								<em>홍지원</em>
+								팀장
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail21" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_21.png" alt="김부겸 팀장 사진" /></span>
+							<span>
+								<em>김부겸</em>
 								팀장
 							</span>
 						</a>
@@ -727,38 +728,6 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //전경미 팀장 -->
-<!-- 김혜성 팀장 -->
-<div class="fullLayer" id="personDeatail15">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_invest_pop15.jpg" alt="김혜성 팀장 사진" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">김혜성</dt>
-					<dd class="position">KOREA / 투자팀 / 팀장</dd>
-					<dt>주요경력</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>시카고대학교 경제학과</li>
-							<li>Freenters 공동창업&amp;CEO</li>
-							<li>Sparklabs</li>
-							<li>EarlierCare 공동창업&amp;CSO</li>
-						</ul>
-					</dd>
-					<dt>업무</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>회사 발굴&심사 및 투자집행</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">닫기</button>
-</div>
-<!-- //김혜성 팀장 -->
 <!-- 김만식 팀장 -->
 <div class="fullLayer" id="personDeatail16">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1307,6 +1276,38 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //홍지원 팀장 -->
+<!-- 김부겸 팀장 -->
+<div class="fullLayer" id="person_manageDeatail21">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop21.png" alt="김부겸 팀장 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">김부겸</dt>
+					<dd class="position">KOREA / 관리팀 / 팀장</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>우리자산운용</li>
+							<li>칸서스자산운용</li>
+							<li>유리자산운용</li>
+							<li>제네카인베스트먼트파트너스</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>IR</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //김부겸 팀장 -->
 <!-- 권순원 팀장 -->
 <div class="fullLayer" id="person_manageDeatail19">
 	<h2 class="layerTit">Who We Are</h2>

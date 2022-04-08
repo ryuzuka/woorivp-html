@@ -327,24 +327,6 @@
 					</li>
 					<li>
 						<div class="member">
-							<div class="left"><img src="/static/home/kr/images/contents/img_team14.jpg" alt="김혜성"></div>
-							<div class="right">
-								<h3>김혜성 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
-								<dl>
-									<dt>주요경력</dt>
-									<dd>시카고대학교 경제학과<br>Freenters 공동창업&amp;CEO<br>Sparklabs<br>EarlierCare 공동창업&amp;CSO</dd>
-									<dt>업무</dt>
-									<dd>회사 발굴&amp;심사 및 투자집행</dd>
-								</dl>
-							</div>
-						</div>
-						<a href="#" class="thumb">
-							<span class="img"><img src="/static/home/kr/images/contents/thumb_team14_off.jpg" alt="김혜성"></span>
-							<strong>김혜성</strong> 팀장
-						</a>
-					</li>
-					<li>
-						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team15.jpg" alt="김만식"></div>
 							<div class="right">
 								<h3>김만식 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
@@ -638,6 +620,24 @@
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/kr/images/contents/thumb_team24_off.jpg" alt="홍지원"></span>
 								<strong>홍지원</strong> 팀장
+							</a>
+						</li>
+						<li>
+							<div class="member">
+								<div class="left"><img src="/static/home/kr/images/contents/img_team49.png" alt="김부겸"></div>
+								<div class="right">
+									<h3>김부겸 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
+									<dl>
+										<dt>주요경력</dt>
+										<dd>우리자산운용<br>칸서스자산운용<br>유리자산운용<br>제네카인베스트먼트파트너스</dd>
+										<dt>업무</dt>
+										<dd>IR</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team49_off.png" alt="김부겸"></span>
+								<strong>김부겸</strong> 팀장
 							</a>
 						</li>
 						<li>
