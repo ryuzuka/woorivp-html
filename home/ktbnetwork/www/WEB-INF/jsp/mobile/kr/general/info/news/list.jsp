@@ -78,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
             </li>
             <li data-page="1" style="display: none;">
