@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=53">
+									<strong class="tit">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표</strong>
+									<div class="con"><span class="date">2022.04.14</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
 									<strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
 									<div class="con"><span class="date">2022.03.21</span></div>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2021.12.09</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=36">
 									<strong class="tit">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공</strong>
 									<div class="con"><span class="date">2021.12.02</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=34">
 									<strong class="tit">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약</strong>

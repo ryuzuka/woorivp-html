@@ -48,45 +48,48 @@ jQuery(window).load(function() {
 					<h2 class="hidden">news 리스트</h2>
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
-                        <li>
-                          <a href="#newsDetail_pop52" role="button" title="상세내용 보기">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 <em>2022.03.21</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.18</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.16</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop51" role="button" title="상세내용 보기">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 <em>2022.03.04</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop50" role="button" title="상세내용 보기">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 <em>2022.01.20</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                          <a href="#newsDetail_pop31" role="button" title="상세내용 보기">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가 <em>2021.06.24</em></a>
-                        </li>
+            <li>
+              <a href="#newsDetail_pop53" role="button" title="상세내용 보기">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 <em>2022.04.14</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop52" role="button" title="상세내용 보기">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 <em>2022.03.21</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.18</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.16</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop51" role="button" title="상세내용 보기">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 <em>2022.03.04</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop50" role="button" title="상세내용 보기">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 <em>2022.01.20</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+              <a href="#newsDetail_pop31" role="button" title="상세내용 보기">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가 <em>2021.06.24</em></a>
+            </li>
 					</ul>
 
 					<button type="button" onclick="fncPage();" class="btnMore">더보기</button>
@@ -96,6 +99,37 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+    <!-- (조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 -->
+    <div class="fullLayer" id="newsDetail_pop53">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표</h3>
+            <em class="date">2022.04.14</em>
+          </div>
+
+          <div class="detailCon">
+            <div class="newscon_box">
+              <h4 class="tit">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표</h4>
+              <p style="text-align: left">다올인베스트먼트는  IB 업계에서는 생소한 이름이다.<br>
+                KTB네트워크의 새 사명으로, 지난달 모회사인 다올투자증권(구  KTB투자증권)과 함께 사명을 변경했다.</p>
+              <br>
+              <p style="text-align: left">관련하여 조선비즈에 게재된 기사 공유드립니다.<br>
+                보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+              <br>
+              <p style="text-align: left">기사 게제일 : 2022. 4. 14</p>
+              <br>
+              <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+                <a href="https://n.news.naver.com/article/366/0000806379" target="_blank" title="새창 열림">https://n.news.naver.com/article/366/0000806379</a></p>
+            </div>
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // (조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 -->
+
     <!-- (한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 -->
     <div class="fullLayer" id="newsDetail_pop52">
       <h2 class="layerTit">NEWS</h2>
