@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop54" role="button" title="상세내용 보기">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 <em>2022.04.19</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop53" role="button" title="상세내용 보기">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 <em>2022.04.14</em></a>
             </li>
             <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -99,6 +102,37 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+  <!-- (베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 -->
+  <div class="fullLayer" id="newsDetail_pop54">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</h3>
+          <em class="date">2022.04.19</em>
+        </div>
+
+        <div class="detailCon">
+          <div class="newscon_box">
+            <h4 class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</h4>
+            <p style="text-align: left">한국투자증권이 다올인베스트먼트의 2021년도 순이익을 684억원으로 집계했다.<br>
+              뛰어난 운용성과에 따라 7~8호, 11호 및 Platform 펀드 GP 출자분에 대한 지분법이익이 586억원 증가했다.</p>
+            <br>
+            <p style="text-align: left">관련하여 베타뉴스에 게재된 기사 공유드립니다.<br>
+              보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
+            <br>
+            <p style="text-align: left">기사 게제일 : 2022. 4. 19</p>
+            <br>
+            <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+              <a href="https://www.betanews.net/article/1326874" target="_blank" title="새창 열림">https://www.betanews.net/article/1326874</a></p>
+          </div>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // (베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 -->
+
     <!-- (조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 -->
     <div class="fullLayer" id="newsDetail_pop53">
       <h2 class="layerTit">NEWS</h2>

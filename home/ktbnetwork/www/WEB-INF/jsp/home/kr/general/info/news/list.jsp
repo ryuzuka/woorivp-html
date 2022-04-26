@@ -24,6 +24,12 @@
 				<div class="inner">
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=54">
+                  <strong class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</strong>
+                  <div class="con"><span class="date">2022.04.19</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=53">
 									<strong class="tit">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표</strong>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2021.12.09</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
-									<strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
-									<div class="con"><span class="date">2021.12.09</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '2' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
+                  <strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
+                  <div class="con"><span class="date">2021.12.09</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=36">
 									<strong class="tit">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공</strong>
