@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
+          <strong class="tit">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</strong>
           <div class="con">
-            <span class="date">2022.03.21</span>
+            <span class="date">2022.05.14</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,34 +41,31 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</dt>
+            <dt>(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</dt>
             <dd>
-              <p>KTB네트워크는 3월 21일 정기 주주총회를 통해 다올인베스트먼트로 사명을 변경했다고 발표했다.<br>
-                아울러 100억원 규모의 자기주식 취득에 결의했다.</p>
-              <br>
-              <p>관련하여 한국경제TV에 게재된 기사 공유드립니다.<br>
-                보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+              <p>
+                국내 VC업계가 성장하면서 해외진출에도 성공하는 사례를 늘어나고있다.
+                <br>
+                다올인베스트먼트도 2018년 5월 미국 버클리라이츠에 약 57억원을 투자하였고 이 업체는 2020년 7월 나스닥시장에 상장하였다.
               </p>
               <br>
-              <p>기사 게제일 : 2022. 3. 21</p>
+              <p>관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
+                보다 자세한 내용은 아래 기사 원문에서 확인하세요
+              </p>
+              <br>
+              <p>기사 게제일 : 2022. 5. 14</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-              <a href="https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202203210217&t=NN" target="_blank" title="새창 열림">https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202203210217&t=NN</a></p>
+                <a href="https://www.fnnews.com/news/202205141505173353" target="_blank" title="새창 열림">https://www.fnnews.com/news/202205141505173353</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=53">
-            <div class="arrow next">다음글</div>
-            <div class="tit">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=51">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</div>
+            <div class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</div>
           </a>
         </li>
       </ul>

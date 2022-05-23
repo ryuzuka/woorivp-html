@@ -49,6 +49,15 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop57" role="button" title="상세내용 보기">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다<em>2022.05.14</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop56" role="button" title="상세내용 보기">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다 <em>2022.05.12</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop55" role="button" title="상세내용 보기">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대 <em>2022.05.03</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop54" role="button" title="상세내용 보기">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 <em>2022.04.19</em></a>
             </li>
             <li>
@@ -102,6 +111,99 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다 -->
+<div class="fullLayer" id="newsDetail_pop57">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</h3>
+        <em class="date">2022.05.14</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</h4>
+          <p style="text-align: left">
+            국내 VC업계가 성장하면서 해외진출에도 성공하는 사례를 늘어나고있다.<br>
+            다올인베스트먼트도 2018년 5월 미국 버클리라이츠에 약 57억원을 투자하였고 이 업체는 2020년 7월 나스닥시장에 상장하였다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 5. 14</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://paxnetnews.com/articles/86780" target="_blank" title="새창 열림">https://paxnetnews.com/articles/86780</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다 -->
+
+<!-- (팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다 -->
+<div class="fullLayer" id="newsDetail_pop56">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</h3>
+        <em class="date">2022.05.12</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</h4>
+          <p style="text-align: left">다올인베스트먼트에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
+          <br>
+          <p style="text-align: left">관련하여 아시아경제에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 5. 12</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://paxnetnews.com/articles/86780" target="_blank" title="새창 열림">https://paxnetnews.com/articles/86780</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다 -->
+
+<!-- (아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대 -->
+<div class="fullLayer" id="newsDetail_pop55">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</h3>
+        <em class="date">2022.05.03</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</h4>
+          <p style="text-align: left">다올인베스트먼트에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
+          <br>
+          <p style="text-align: left">관련하여 아시아경제에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 5. 3</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://view.asiae.co.kr/article/2022042608523513721" target="_blank" title="새창 열림">https://view.asiae.co.kr/article/2022042608523513721</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대 -->
+
   <!-- (베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 -->
   <div class="fullLayer" id="newsDetail_pop54">
     <h2 class="layerTit">NEWS</h2>

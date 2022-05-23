@@ -60,9 +60,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=54">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</div>
+          </a>
+        </li>
+        <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</div>
+            <div class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</div>
           </a>
         </li>
       </ul>

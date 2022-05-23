@@ -66,9 +66,9 @@
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=47">
+          <a href="/home/info/news/view.do?page=<c:out value="2"/>&num=46">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</div>
+            <div class="tit">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것"</div>
           </a>
         </li>
       </ul>

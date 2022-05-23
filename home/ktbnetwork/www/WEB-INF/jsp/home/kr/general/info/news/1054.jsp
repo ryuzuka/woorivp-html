@@ -60,9 +60,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=55">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</div>
+          </a>
+        </li>
+        <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=53">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</div>
+            <div class="tit">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표</div>
           </a>
         </li>
       </ul>

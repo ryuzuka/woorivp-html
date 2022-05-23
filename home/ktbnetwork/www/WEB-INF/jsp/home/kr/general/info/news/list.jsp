@@ -24,6 +24,24 @@
 				<div class="inner">
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
+							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=57">
+									<strong class="tit">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</strong>
+									<div class="con"><span class="date">2022.05.14</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
+									<strong class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</strong>
+									<div class="con"><span class="date">2022.05.12</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=55">
+									<strong class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</strong>
+									<div class="con"><span class="date">2022.05.03</span></div>
+								</a>
+							</li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=54">
                   <strong class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</strong>
@@ -66,12 +84,9 @@
 									<div class="con"><span class="date">2022.01.20</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=47">
-									<strong class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</strong>
-									<div class="con"><span class="date">2022.01.07</span></div>
-								</a>
-							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=46">
 									<strong class="tit">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것"</strong>
@@ -84,9 +99,6 @@
 									<div class="con"><span class="date">2021.12.09</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
                   <strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
