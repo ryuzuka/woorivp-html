@@ -129,7 +129,7 @@ jQuery(window).load(function() {
             다올인베스트먼트도 2018년 5월 미국 버클리라이츠에 약 57억원을 투자하였고 이 업체는 2020년 7월 나스닥시장에 상장하였다.
           </p>
           <br>
-          <p style="text-align: left">관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
+          <p style="text-align: left">관련하여 파이낸셜뉴스에 게재된 기사 공유드립니다.<br>
             보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
           <br>
           <p style="text-align: left">기사 게제일 : 2022. 5. 14</p>
@@ -159,7 +159,7 @@ jQuery(window).load(function() {
           <h4 class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</h4>
           <p style="text-align: left">다올인베스트먼트에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
           <br>
-          <p style="text-align: left">관련하여 아시아경제에 게재된 기사 공유드립니다.<br>
+          <p style="text-align: left">관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
             보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
           <br>
           <p style="text-align: left">기사 게제일 : 2022. 5. 12</p>
