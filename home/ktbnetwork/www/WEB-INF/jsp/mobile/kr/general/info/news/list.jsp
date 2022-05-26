@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop58" role="button" title="상세내용 보기">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다<em>2022.05.25</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop57" role="button" title="상세내용 보기">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다<em>2022.05.14</em></a>
             </li>
             <li>
@@ -75,16 +78,16 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop51" role="button" title="상세내용 보기">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 <em>2022.03.04</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop50" role="button" title="상세내용 보기">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 <em>2022.01.20</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -111,6 +114,38 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다 -->
+<div class="fullLayer" id="newsDetail_pop58">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다</h3>
+        <em class="date">2022.05.25</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다</h4>
+          <p style="text-align: left">
+            국내 1세대 벤처캐피탈인 다올인베스트먼트가 오는 2024년까지 벤처운용자산 2조원, 연간 관리보수 160억원의 목표를 세웠다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 5. 25</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://paxnetnews.com/articles/87297" target="_blank" title="새창 열림">https://paxnetnews.com/articles/87297</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다 -->
+
 <!-- (파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다 -->
 <div class="fullLayer" id="newsDetail_pop57">
   <h2 class="layerTit">NEWS</h2>

@@ -24,6 +24,12 @@
 				<div class="inner">
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=58">
+                  <strong class="tit">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다</strong>
+                  <div class="con"><span class="date">2022.05.25</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=57">
 									<strong class="tit">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</strong>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2022.03.04</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=50">
-									<strong class="tit">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다</strong>
-									<div class="con"><span class="date">2022.01.20</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '2' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=50">
+                  <strong class="tit">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다</strong>
+                  <div class="con"><span class="date">2022.01.20</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=46">
 									<strong class="tit">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것"</strong>
