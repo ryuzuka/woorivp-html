@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop59" role="button" title="상세내용 보기">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?<em>2022.06.04</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop58" role="button" title="상세내용 보기">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다<em>2022.05.25</em></a>
             </li>
             <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.16</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop51" role="button" title="상세내용 보기">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 <em>2022.03.04</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -114,6 +117,39 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다 -->
+<div class="fullLayer" id="newsDetail_pop59">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</h3>
+        <em class="date">2022.06.04</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</h4>
+          <p style="text-align: left">
+            다올인베스트먼트가 모태펀드의 2차 정시사업 출자 운용사 5개 VC중 한곳으로 선정됐다.<br>
+            다올인베스트먼트는 올 초 모태펀드의 1차 정시 출자사업에도 선정되었고 2024년까지 AUM을 2조원대로 늘릴 목표이다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 한국경제에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 6. 4</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://www.hankyung.com/finance/article/202206043580i" target="_blank" title="새창 열림">https://www.hankyung.com/finance/article/202206043580i</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다 -->
+
 <!-- (팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다 -->
 <div class="fullLayer" id="newsDetail_pop58">
   <h2 class="layerTit">NEWS</h2>
