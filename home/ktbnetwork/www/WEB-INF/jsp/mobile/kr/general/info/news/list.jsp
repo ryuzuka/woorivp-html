@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop60" role="button" title="상세내용 보기">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]<em>2022.06.07</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop59" role="button" title="상세내용 보기">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?<em>2022.06.04</em></a>
             </li>
             <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.18</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.16</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -117,7 +120,39 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
-<!-- (팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다 -->
+<!-- (서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널] -->
+<div class="fullLayer" id="newsDetail_pop60">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</h3>
+        <em class="date">2022.06.07</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</h4>
+          <p style="text-align: left">
+            다올인베스트먼트가 투자한 '발란'이 성장세를 지속하며 국내·외 벤처캐피탈(VC) 및 사모펀드로부터 1000억원 이상의 대규모 투자를 유치할 것으로 알려졌다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 서울경제에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 6. 7</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://www.sedaily.com/NewsView/2675JLIP3J" target="_blank" title="새창 열림">https://www.sedaily.com/NewsView/2675JLIP3J</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널] -->
+
+<!-- (한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디? -->
 <div class="fullLayer" id="newsDetail_pop59">
   <h2 class="layerTit">NEWS</h2>
   <div class="layerCont" tabindex="0" >
@@ -148,7 +183,7 @@ jQuery(window).load(function() {
   </div>
   <button type="button" class="layerClose">닫기</button>
 </div>
-<!-- // (팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다 -->
+<!-- // (한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디? -->
 
 <!-- (팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다 -->
 <div class="fullLayer" id="newsDetail_pop58">

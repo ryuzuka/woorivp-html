@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=60">
+                  <strong class="tit">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</strong>
+                  <div class="con"><span class="date">2022.06.07</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=59">
                   <strong class="tit">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</strong>
                   <div class="con"><span class="date">2022.06.04</span></div>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2022.03.18</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
-									<strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
-									<div class="con"><span class="date">2022.03.16</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '2' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
+                  <strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
+                  <div class="con"><span class="date">2022.03.16</span></div>
+                </a>
+              </li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=51">
                   <strong class="tit">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부</strong>
