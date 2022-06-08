@@ -88,9 +88,6 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop50" role="button" title="상세내용 보기">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 <em>2022.01.20</em></a>
             </li>
             <li data-page="1" style="display: none;">
-              <a href="#newsDetail_pop47" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2022.01.07</em></a>
-            </li>
-            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
             </li>
             <li data-page="1" style="display: none;">
