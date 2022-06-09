@@ -37,6 +37,12 @@
                 </a>
               </li>
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=61">
+                  <strong class="tit">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”</strong>
+                  <div class="con"><span class="date">2022.06.01</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=58">
                   <strong class="tit">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다</strong>
                   <div class="con"><span class="date">2022.05.25</span></div>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2022.03.21</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
-									<strong class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</strong>
-									<div class="con"><span class="date">2022.03.18</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '2' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
+                  <strong class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</strong>
+                  <div class="con"><span class="date">2022.03.18</span></div>
+                </a>
+              </li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
                   <strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
@@ -141,13 +147,16 @@
 									<div class="con"><span class="date">2021.08.19</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=31">
-									<strong class="tit">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가</strong>
-									<div class="con"><span class="date">2021.06.24</span></div>
-								</a>
-							</li>
 						</c:if>
+
+            <c:if test="${vo.page eq '3' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=31">
+                  <strong class="tit">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가</strong>
+                  <div class="con"><span class="date">2021.06.24</span></div>
+                </a>
+              </li>
+            </c:if>
 					</ul>
 					<div class="paginate">
 						<a href="/home/info/news/list.do?page=1" class="arrow first">처음페이지로 이동</a>
@@ -155,6 +164,7 @@
 						<span class="num">
 							<a href="/home/info/news/list.do?page=1" <c:if test="${vo.page eq '1'}">class="on"</c:if>>1</a>
 							<a href="/home/info/news/list.do?page=2" <c:if test="${vo.page eq '2'}">class="on"</c:if>>2</a>
+              <a href="/home/info/news/list.do?page=3" <c:if test="${vo.page eq '3'}">class="on"</c:if>>3</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
 						<a href="/home/info/news/list.do?page=5" class="arrow end">마지막페이지로 이동</a>
