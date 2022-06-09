@@ -55,6 +55,9 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop59" role="button" title="상세내용 보기">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?<em>2022.06.04</em></a>
             </li>
             <li>
+              <a href="#newsDetail_pop62" role="button" title="상세내용 보기">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점<em>2022.06.03</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop61" role="button" title="상세내용 보기">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”<em>2022.06.01</em></a>
             </li>
             <li>
@@ -120,6 +123,38 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점 -->
+<div class="fullLayer" id="newsDetail_pop62">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</h3>
+        <em class="date">2022.06.03</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</h4>
+          <p style="text-align: left">
+            모태펀드의 2차 정시사업 출자 운용사에 선정된 5개 벤처캐피탈(VC) 중 다올인베스트먼트도 포함됐다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 한국경제에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 6. 3</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://www.hankyung.com/it/article/2022060331291" target="_blank" title="새창 열림">https://www.hankyung.com/it/article/2022060331291</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전” -->
+
 <!-- (조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전” -->
 <div class="fullLayer" id="newsDetail_pop61">
   <h2 class="layerTit">NEWS</h2>

@@ -37,6 +37,12 @@
                 </a>
               </li>
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=62">
+                  <strong class="tit">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</strong>
+                  <div class="con"><span class="date">2022.06.03</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=61">
                   <strong class="tit">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”</strong>
                   <div class="con"><span class="date">2022.06.01</span></div>

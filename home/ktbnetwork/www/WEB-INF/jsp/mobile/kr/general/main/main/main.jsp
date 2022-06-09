@@ -25,7 +25,7 @@
 						<ul>
 							<li><a href="/home/info/news/view.do?page=1&num=60">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</a></li>
 							<li><a href="/home/info/news/view.do?page=1&num=59">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</a></li>
-							<li><a href="/home/info/news/view.do?page=1&num=61">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”</a></li>
+							<li><a href="/home/info/news/view.do?page=1&num=62">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</a></li>
 						</ul>
 					</dd>
 				</dl>
