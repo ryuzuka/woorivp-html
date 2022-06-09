@@ -49,9 +49,9 @@
                 <button type="button" class="next">다음 뉴스 보기</button>
               </div>
               <ul><!-- 요건 1: 버튼 클릭 시 li margin-top 값 조절되어 상하 롤링 ,요건2 : a 태그 공백 포함 50자 말줄임처리 -->
-                <li><a href="/home/info/news/view.do?page=1&num=52">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</a></li>
-                <li><a href="/home/info/news/view.do?page=1&num=49">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</a></li>
-                <li><a href="/home/info/news/view.do?page=1&num=48">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</a></li>
+                <li><a href="/home/info/news/view.do?page=1&num=60">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</a></li>
+                <li><a href="/home/info/news/view.do?page=1&num=59">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</a></li>
+                <li><a href="/home/info/news/view.do?page=1&num=61">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”</a></li>
               </ul>
             </section>
           </div>
