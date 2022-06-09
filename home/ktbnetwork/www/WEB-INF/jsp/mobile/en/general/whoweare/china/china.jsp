@@ -90,9 +90,11 @@
 					</ul>
 				</div>
 				<!-- //Management -->
+        <!--
 				<div class="btnArea">
 					<a href="http://ktbchina.com/index.html" target="_blank" class="btnL">Our Chinese Website</a>
 				</div>
+				-->
 			</div>
 		</div><!-- //contents -->
 	</section>

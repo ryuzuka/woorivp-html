@@ -91,9 +91,11 @@
 					</ul>
 				</div>
 				<!-- //Management -->
+        <!--
 				<div class="btnArea">
 					<a href="http://ktbchina.com/index.html" target="_blank" class="btnL">중국 사이트 바로가기</a>
 				</div>
+				-->
 			</div>
 		</div><!-- //contents -->
 	</section>

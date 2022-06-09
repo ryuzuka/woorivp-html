@@ -104,9 +104,11 @@
 							</li>
 						</ul>
 					</div>
+          <!--
 					<div class="btnArea">
 						<a href="http://ktbchina.com/index.html" target="_blank" role="button" class="btnXL">Our Chinese Website</a>
 					</div>
+					-->
 				</div>
 				<!-- //Investment -->
 				<!-- Management -->
@@ -158,9 +160,11 @@
 							<!-- //0415 수정 -->
 						</ul>
 					</div>
+          <!--
 					<div class="btnArea">
 						<a href="http://ktbchina.com/index.html" target="_blank" role="button" class="btnXL">Our Chinese Website</a>
 					</div>
+					-->
 				</div>
 				<!-- //Management -->
 			</div>
