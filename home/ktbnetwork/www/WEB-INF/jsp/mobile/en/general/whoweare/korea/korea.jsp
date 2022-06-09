@@ -322,9 +322,9 @@
 					<li>
 						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail19" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_19.jpg" alt="Soon Won Kwon" /></span>
+							<span><img src="/static/mobile/en/images/contents/img_manage_19.jpg" alt="Kwon Soon Won" /></span>
 							<span>
-								<em>Soon Won Kwon</em>
+								<em>Kwon Soon Won</em>
 								<b>Team Manager</b>
 							</span>
 						</a>
@@ -1309,10 +1309,10 @@
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_manage_pop19.jpg" alt="Soon Won Kwon" /></span>
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop19.jpg" alt="Kwon Soon Won" /></span>
 			<div class="deatilCon">
 				<dl>
-					<dt class="name">Soon Won Kwon</dt>
+					<dt class="name">Kwon Soon Won</dt>
 					<dd class="position">KOREA / Management / Team Manager</dd>
 					<dt>Career</dt>
 					<dd>

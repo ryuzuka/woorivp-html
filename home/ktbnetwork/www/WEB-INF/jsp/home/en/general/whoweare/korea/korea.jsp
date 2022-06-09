@@ -402,7 +402,7 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/en/images/contents/thumb_team47_off.png" alt="Park Hyung Joo"></span>
-								<strong>Lee Tea Kue</strong> Investment Manager
+								<strong>Park Hyung Joo</strong> Investment Manager
 							</a>
 						</li>
 					</ul>
@@ -616,9 +616,9 @@
 							</li>
 							<li>
 								<div class="member">
-									<div class="left"><img src="/static/home/en/images/contents/img_team45.jpg" alt="Soon Won Kwon"></div>
+									<div class="left"><img src="/static/home/en/images/contents/img_team45.jpg" alt="Kwon Soon Won"></div>
 									<div class="right">
-										<h3>Soon Won Kwon <span class="pointColor">KOREA / Management / Team Manager</span></h3>
+										<h3>Kwon Soon Won <span class="pointColor">KOREA / Management / Team Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>DAOL Investment & Securities</dd>
@@ -628,8 +628,8 @@
 									</div>
 								</div>
 								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team45_off.jpg" alt="Soon Won Kwon"></span>
-									<strong>Soon Won Kwon</strong> Team Manager
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team45_off.jpg" alt="Kwon Soon Won"></span>
+									<strong>Kwon Soon Won</strong> Team Manager
 								</a>
 							</li>
 							<li>
