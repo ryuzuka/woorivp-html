@@ -126,7 +126,7 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
-<!-- (한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점 -->
+<!-- (머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항 -->
 <div class="fullLayer" id="newsDetail_pop63">
   <h2 class="layerTit">NEWS</h2>
   <div class="layerCont" tabindex="0" >
@@ -140,7 +140,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</h4>
           <p style="text-align: left">
-            다올인베스트먼트가 작년 IPO에 나서면서 목표리고 내건 AUM 2조 달성을 향해 순항하고 있다.
+            다올인베스트먼트가 작년 IPO에 나서면서 목표치로 내건 AUM 2조 달성을 향해 순항하고 있다.
           </p>
           <br>
           <p style="text-align: left">관련하여 머니투데이더벨에 게재된 기사 공유드립니다.<br>
@@ -156,7 +156,7 @@ jQuery(window).load(function() {
   </div>
   <button type="button" class="layerClose">닫기</button>
 </div>
-<!-- // (조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전” -->
+<!-- // (머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항 -->
 
 <!-- (한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점 -->
 <div class="fullLayer" id="newsDetail_pop62">
