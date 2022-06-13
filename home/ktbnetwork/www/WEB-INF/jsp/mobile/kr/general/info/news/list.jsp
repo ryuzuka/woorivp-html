@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop63" role="button" title="상세내용 보기">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항<em>2022.06.09</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop60" role="button" title="상세내용 보기">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]<em>2022.06.07</em></a>
             </li>
             <li>
@@ -75,10 +78,10 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop54" role="button" title="상세내용 보기">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 <em>2022.04.19</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop53" role="button" title="상세내용 보기">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 <em>2022.04.14</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop52" role="button" title="상세내용 보기">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 <em>2022.03.21</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -105,10 +108,10 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -123,6 +126,38 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점 -->
+<div class="fullLayer" id="newsDetail_pop63">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</h3>
+        <em class="date">2022.06.09</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</h4>
+          <p style="text-align: left">
+            다올인베스트먼트가 작년 IPO에 나서면서 목표리고 내건 AUM 2조 달성을 향해 순항하고 있다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 머니투데이더벨에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 6. 9</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202206091012031440103632&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202206091012031440103632&svccode=00&page=1&sort=thebell_check_time</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전” -->
+
 <!-- (한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점 -->
 <div class="fullLayer" id="newsDetail_pop62">
   <h2 class="layerTit">NEWS</h2>
