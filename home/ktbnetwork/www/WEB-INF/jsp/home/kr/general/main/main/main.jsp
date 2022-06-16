@@ -49,9 +49,9 @@
                 <button type="button" class="next">다음 뉴스 보기</button>
               </div>
               <ul><!-- 요건 1: 버튼 클릭 시 li margin-top 값 조절되어 상하 롤링 ,요건2 : a 태그 공백 포함 50자 말줄임처리 -->
+                <li><a href="/home/info/news/view.do?page=1&num=64">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차</a></li>
                 <li><a href="/home/info/news/view.do?page=1&num=63">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</a></li>
                 <li><a href="/home/info/news/view.do?page=1&num=60">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</a></li>
-                <li><a href="/home/info/news/view.do?page=1&num=59">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</a></li>
               </ul>
             </section>
           </div>
@@ -76,19 +76,19 @@
                 <li>
                   <dl>
                     <dt class="name">펀드수</dt>
-                    <dd class="num">53</dd>
+                    <dd class="num">59</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">납입총액<span>(단위 : 억원)</span></dt>
-                    <dd class="num">12,742</dd>
+                    <dd class="num">13,597</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">분배총액<span>(단위 : 억원)</span></dt>
-                    <dd class="num">19,700</dd>
+                    <dd class="num">20,848</dd>
                   </dl>
                 </li>
                 <li>
@@ -103,7 +103,7 @@
                 <a href="#" class="tipOpen"><span>도움말</span></a><!-- 클릭 시 class="on" 추가 -->
                 <span class="msg">
                   <strong class="tit">작성기준</strong>
-                  <span class="txt">- 2020.12.31 현재</span>
+                  <span class="txt">- 2021.12.31 현재</span>
                   <span class="txt">- 2000.01.01 이후 청산한 펀드 기준</span>
                   <span class="txt">- IRR: 성과보수 포함, 납입금액 가중평균 수익률</span>
                   <a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
@@ -118,25 +118,25 @@
                 <li>
                   <dl>
                     <dt class="name">펀드수</dt>
-                    <dd class="num">18</dd>
+                    <dd class="num">19</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">약정총액<span>(단위 : 억원)</span></dt>
-                    <dd class="num">11,645</dd>
+                    <dd class="num">11,745</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">투자기업수</dt>
-                    <dd class="num">328</dd>
+                    <dd class="num">380</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">투자총액<span>(단위 : 억원)</span></dt>
-                    <dd class="num">6,229</dd>
+                    <dd class="num">9,749</dd>
                   </dl>
                 </li>
               </ul>
@@ -145,7 +145,7 @@
                 <a href="#" class="tipOpen"><span>도움말</span></a><!-- 클릭 시 class="on" 추가 -->
                 <span class="msg">
                   <strong class="tit">작성기준</strong>
-                  <span class="txt">- 2020.12.31 현재</span>
+                  <span class="txt">- 2021.12.31 현재</span>
                   <a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
                 </span>
               </span>

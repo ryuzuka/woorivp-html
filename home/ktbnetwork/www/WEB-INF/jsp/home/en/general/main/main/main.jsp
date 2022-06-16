@@ -59,7 +59,7 @@
 										<li>
 											<dl>
 												<dt class="name">Funds exited</dt>
-												<dd class="num">53</dd>
+												<dd class="num">59</dd>
 											</dl>
 										</li>
 										<li>
@@ -71,7 +71,7 @@
 										<li>
 											<dl>
 												<dt class="name">Total Paid Out<span>(Unit : USD Billion)</span></dt>
-												<dd class="num">1.7</dd>
+												<dd class="num">2.4</dd>
 											</dl>
 										</li>
 										<li>
@@ -87,7 +87,7 @@
 										<span class="msg">
 											<strong class="tit">Documentation Criteria</strong>
 											<span class="txt">
-												- The present 2020.12.31
+												- The present 2021.12.31
 												<br>- Fully liquidated fund since Jan, 2000
 												<br>- IRR : Include Performance Remuneration, &nbsp;&nbsp;Weighted average return on payments
 											</span>
@@ -103,25 +103,25 @@
 										<li>
 											<dl>
 												<dt class="name">Funds Active</dt>
-												<dd class="num">18</dd>
+												<dd class="num">19</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">Fund Size<span>(Unit : USD Million)</span></dt>
-												<dd class="num">1,070</dd>
+												<dd class="num">990</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">Portfolio Companies</dt>
-												<dd class="num">328</dd>
+												<dd class="num">380</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name" style="white-space: nowrap;">Total Amount Invested<span>(Unit : USD Million)</span></dt>
-												<dd class="num">573</dd>
+												<dd class="num">822</dd>
 											</dl>
 										</li>
 										<!-- <li>
@@ -149,7 +149,7 @@
 										<span class="msg">
 											<strong class="tit">Documentation Criteria</strong>
 											<span class="txt">
-												- The present 2020.12.31
+												- The present 2021.12.31
 											</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
 										</span>

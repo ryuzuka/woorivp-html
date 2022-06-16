@@ -87,7 +87,7 @@
               </tr>
 							<tr>
 								<th scope="row" id="tb-0-13">2021</th>
-								<td headers="tb-0-0 tb-0-1 tb-0-13"></td>
+								<td headers="tb-0-0 tb-0-1 tb-0-13">11,545</td>
 							</tr>
 						</tbody>
 					</table>

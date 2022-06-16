@@ -36,11 +36,11 @@
 					</ul>
 
 					<h3 class="titDep2">연도별 운용펀드 자산규모 증감현황</h3>
-					<div class="imgInfo"><img src="/static/home/kr/images/contents/img_chart_210215_pc.jpg" alt=""></div>
+					<div class="imgInfo"><img src="/static/home/kr/images/contents/img_chart_210215_pc.png" alt=""></div>
 					<table class="tblH">
 						<caption>연도별 운용펀드 자산규모 증감현황</caption>
 						<%--<colgroup><col style="width:16%"><col style="width:7.6363636363636363636363%" span="11"></colgroup>--%>
-						<colgroup><col style="width:16%"><col style="width:8.333333333333334%" span="10"></colgroup>
+						<colgroup><col style="width:16%"><col style="width:7.636363%" span="11"></colgroup>
 						<thead>
 							<tr>
 								<th scope="col">구분</th>
@@ -54,7 +54,7 @@
 								<th scope="col">2018</th>
 								<th scope="col">2019</th>
 								<th scope="col">2020</th>
-								<%--<th scope="col">2021</th>--%>
+								<th scope="col">2021</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -70,7 +70,7 @@
 								<td>8,735</td>
 								<td>8,835</td>
 								<td>11,645</td>
-								<%--<td></td>--%>
+								<td>11,545</td>
 							</tr>
 						</tbody>
 					</table>

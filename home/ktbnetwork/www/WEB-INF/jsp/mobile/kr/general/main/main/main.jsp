@@ -23,9 +23,9 @@
 					<dt>펀드뉴스</dt>
 					<dd>
 						<ul>
+              <li><a href="/home/info/news/view.do?page=1&num=64">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차</a></li>
               <li><a href="/home/info/news/view.do?page=1&num=63">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</a></li>
 							<li><a href="/home/info/news/view.do?page=1&num=60">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</a></li>
-							<li><a href="/home/info/news/view.do?page=1&num=59">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</a></li>
 						</ul>
 					</dd>
 				</dl>
@@ -39,9 +39,9 @@
 							<div class="contBox">
 								<strong class="tit">청산펀드 현황</strong>
 								<dl>
-									<dt>펀드 수</dt><dd>53<span>개</span></dd>
-									<dt>납입금액</dt><dd>12,742<span>억원</span></dd>
-									<dt>분배총액</dt><dd>19,700<span>억원</span></dd>
+									<dt>펀드 수</dt><dd>59<span>개</span></dd>
+									<dt>납입금액</dt><dd>13,597<span>억원</span></dd>
+									<dt>분배총액</dt><dd>20,848<span>억원</span></dd>
 									<dt>IRR</dt><dd>19.75<span>%</span></dd>
 								</dl>
 								<a href="#MAL1" role="button" class="btnView">작성기준</a>
@@ -51,10 +51,10 @@
 							<div class="contBox">
 								<strong class="tit">운용펀드 현황</strong>
 								<dl>
-									<dt>펀드 수</dt><dd>18<span>개</span></dd>
-									<dt>약정총액</dt><dd>11,645<span>억원</span></dd>
-									<dt>투자기업수</dt><dd>328</dd>
-									<dt>투자총액</dt><dd>6,229<span>억원</span></dd>
+									<dt>펀드 수</dt><dd>19<span>개</span></dd>
+									<dt>약정총액</dt><dd>11,745<span>억원</span></dd>
+									<dt>투자기업수</dt><dd>380</dd>
+									<dt>투자총액</dt><dd>9,749<span>억원</span></dd>
 								</dl>
 								<a href="#MAL2" role="button" class="btnView">작성기준</a>
 							</div>
@@ -418,7 +418,30 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- // KTB > DAOL 사명 변경 공지 -->
-
+  <div class="layerPop open" id="MAL1">
+    <div class="layerContainer">
+      <h2 class="layerTit">작성기준</h2>
+      <div class="layerCont" tabindex="0">
+        <ul class="listDep2">
+          <li>2021.12.31 현재</li>
+          <li>2000.01.01 이후 청산한 펀드 기준</li>
+          <li>IRR: 성과보수 포함, 납입금액 가중평균 수익률</li>
+        </ul>
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <div class="layerPop open" id="MAL2">
+    <div class="layerContainer">
+      <h2 class="layerTit">작성기준</h2>
+      <div class="layerCont" tabindex="0">
+        <ul class="listDep2">
+          <li>2021.12.31 현재</li>
+        </ul>
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
 	<div class="dimmed"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
