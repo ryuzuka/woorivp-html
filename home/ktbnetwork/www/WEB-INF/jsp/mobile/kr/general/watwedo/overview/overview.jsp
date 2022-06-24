@@ -81,13 +81,13 @@
 								<th scope="row" id="tb-0-11">2019</th>
 								<td headers="tb-0-0 tb-0-1 tb-0-11">8,835</td>
 							</tr>
-              <tr><!-- 21-02-15 추가 -->
-                <th scope="row" id="tb-0-12">2020</th>
-                <td headers="tb-0-0 tb-0-1 tb-0-12">11,645</td>
-              </tr>
+							<tr><!-- 21-02-15 추가 -->
+								<th scope="row" id="tb-0-12">2020</th>
+								<td headers="tb-0-0 tb-0-1 tb-0-12">11,645</td>
+							</tr>
 							<tr>
 								<th scope="row" id="tb-0-13">2021</th>
-								<td headers="tb-0-0 tb-0-1 tb-0-13">11,545</td>
+								<td headers="tb-0-0 tb-0-1 tb-0-13">11,745</td>
 							</tr>
 						</tbody>
 					</table>

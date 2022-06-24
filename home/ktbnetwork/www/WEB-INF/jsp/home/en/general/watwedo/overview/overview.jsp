@@ -53,7 +53,7 @@
 								<th scope="col">2018</th><!-- 0415 수정 -->
 								<th scope="col">2019</th>
 								<th scope="col">2020</th>
-                <th scope="col">2021</th>
+                				<th scope="col">2021</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -70,7 +70,7 @@
 								<td>769</td><!-- //0416 수정 -->
 								<td>781</td>
 								<td>1,070</td>
-                <td>974</td>
+                				<td>990</td>
 							</tr>
 						</tbody>
 					</table>

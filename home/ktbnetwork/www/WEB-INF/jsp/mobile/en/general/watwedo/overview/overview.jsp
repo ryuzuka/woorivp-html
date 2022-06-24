@@ -114,14 +114,14 @@
 								<th scope="row" id="tb-0-11">2019</th>
 								<td headers="tb-0-0 tb-0-1 tb-0-11">781</td>
 							</tr>
-              <tr>
-                <th scope="row" id="tb-0-12">2020</th>
-                <td headers="tb-0-0 tb-0-1 tb-0-12">1,070</td>
-              </tr>
-              <tr>
-                <th scope="row" id="tb-0-13">2021</th>
-                <td headers="tb-0-0 tb-0-1 tb-0-12">974</td>
-              </tr>
+							<tr>
+								<th scope="row" id="tb-0-12">2020</th>
+								<td headers="tb-0-0 tb-0-1 tb-0-12">1,070</td>
+							</tr>
+							<tr>
+								<th scope="row" id="tb-0-13">2021</th>
+								<td headers="tb-0-0 tb-0-1 tb-0-12">990</td>
+							</tr>
 						</tbody>
 					</table>
 				</div>
