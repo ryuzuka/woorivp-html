@@ -418,40 +418,56 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- // KTB > DAOL 사명 변경 공지 -->
-  <div class="layerPop open" id="MAL1">
-    <div class="layerContainer">
-      <h2 class="layerTit">작성기준</h2>
-      <div class="layerCont" tabindex="0">
-        <ul class="listDep2">
-          <li>2021.12.31 현재</li>
-          <li>2000.01.01 이후 청산한 펀드 기준</li>
-          <li>IRR: 성과보수 포함, 납입금액 가중평균 수익률</li>
-        </ul>
-      </div>
-    </div>
-    <button type="button" class="layerClose">닫기</button>
-  </div>
-  <div class="layerPop open" id="MAL2">
-    <div class="layerContainer">
-      <h2 class="layerTit">작성기준</h2>
-      <div class="layerCont" tabindex="0">
-        <ul class="listDep2">
-          <li>2021.12.31 현재</li>
-        </ul>
-      </div>
-    </div>
-    <button type="button" class="layerClose">닫기</button>
-  </div>
+	<!-- Venture Challenge 2022 -->
+	<style>
+		/* Venture Challenge 2022 팝업에서만 사용 */
+		#pop20220704:after {display:none;}
+	</style>
+	<div class="layerPop" id="pop20220704">
+		<div class="layerContainer" style="padding:0;">
+			<a href="http://www.k-venture.kr" target="_blank" title="새창 열림">
+				<img src="/static/mobile/kr/images/popup/20220704.jpg" alt="">
+			</a>
+		</div>
+	</div>
+	<!-- // Venture Challenge 2022 -->
+	<div class="layerPop open" id="MAL1">
+		<div class="layerContainer">
+			<h2 class="layerTit">작성기준</h2>
+			<div class="layerCont" tabindex="0">
+				<ul class="listDep2">
+					<li>2021.12.31 현재</li>
+					<li>2000.01.01 이후 청산한 펀드 기준</li>
+					<li>IRR: 성과보수 포함, 납입금액 가중평균 수익률</li>
+				</ul>
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<div class="layerPop open" id="MAL2">
+		<div class="layerContainer">
+			<h2 class="layerTit">작성기준</h2>
+			<div class="layerCont" tabindex="0">
+				<ul class="listDep2">
+					<li>2021.12.31 현재</li>
+				</ul>
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
 	<div class="dimmed"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script>
   $(window).on('jsLoad', function () {
     let date = parseInt(moment().format('YYYYMMDDHHmm'))
-	  if (202203220000 <= date && date < 202204211159) {
-		  commonJs.popupShow('#pop20220322') // KTB > DAOL 사명 변경 공지
+	  if (202207040800 <= date && date < 202207311700) {
+		  commonJs.popupShow('#pop20220704') // Venture Challenge 2022
 	  }
     /**
+	if (202203220000 <= date && date < 202204211159) {
+	  commonJs.popupShow('#pop20220322') // KTB > DAOL 사명 변경 공지
+	}
 	if (202202140000 <= date && date < 202302281159) {
 	  commonJs.popupShow('#pop20220214') // 외부감사인 선임 공고
 	}
