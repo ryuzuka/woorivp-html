@@ -23,9 +23,9 @@
 					<dt>펀드뉴스</dt>
 					<dd>
 						<ul>
+							<li><a href="/home/info/news/view.do?page=1&num=65">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴</a></li>
               <li><a href="/home/info/news/view.do?page=1&num=64">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차</a></li>
               <li><a href="/home/info/news/view.do?page=1&num=63">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</a></li>
-							<li><a href="/home/info/news/view.do?page=1&num=60">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</a></li>
 						</ul>
 					</dd>
 				</dl>
@@ -422,6 +422,7 @@
 	<style>
 		/* Venture Challenge 2022 팝업에서만 사용 */
 		#pop20220704:after {display:none;}
+		#pop20220704 .layerClose {top:0;right:0;}
 	</style>
 	<div class="layerPop" id="pop20220704">
 		<div class="layerContainer" style="padding:0;">
@@ -429,6 +430,7 @@
 				<img src="/static/mobile/kr/images/popup/20220704.jpg" alt="">
 			</a>
 		</div>
+		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- // Venture Challenge 2022 -->
 	<div class="layerPop open" id="MAL1">

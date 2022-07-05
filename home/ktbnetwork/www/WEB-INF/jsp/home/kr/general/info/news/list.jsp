@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=65">
+                  <strong class="tit">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴</strong>
+                  <div class="con"><span class="date">2022.07.04</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=64">
                   <strong class="tit">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차</strong>
                   <div class="con"><span class="date">2022.06.14</span></div>
@@ -66,27 +72,27 @@
                   <div class="con"><span class="date">2022.05.25</span></div>
                 </a>
               </li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=57">
-									<strong class="tit">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</strong>
-									<div class="con"><span class="date">2022.05.14</span></div>
-								</a>
-							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
-									<strong class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</strong>
-									<div class="con"><span class="date">2022.05.12</span></div>
-								</a>
-							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=55">
-									<strong class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</strong>
-									<div class="con"><span class="date">2022.05.03</span></div>
-								</a>
-							</li>
-						</c:if>
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=57">
+                  <strong class="tit">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</strong>
+                  <div class="con"><span class="date">2022.05.14</span></div>
+                </a>
+              </li>
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
+                  <strong class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</strong>
+                  <div class="con"><span class="date">2022.05.12</span></div>
+                </a>
+              </li>
+            </c:if>
 
-						<c:if test="${vo.page eq '2' }">
+            <c:if test="${vo.page eq '2' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=55">
+                  <strong class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</strong>
+                  <div class="con"><span class="date">2022.05.03</span></div>
+                </a>
+              </li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=54">
                   <strong class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</strong>
@@ -141,15 +147,15 @@
 									<div class="con"><span class="date">2021.12.09</span></div>
 								</a>
 							</li>
+						</c:if>
+
+            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
                   <strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
                   <div class="con"><span class="date">2021.12.09</span></div>
                 </a>
               </li>
-						</c:if>
-
-            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=36">
                   <strong class="tit">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공</strong>
