@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=66">
+                  <strong class="tit">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기</strong>
+                  <div class="con"><span class="date">2022.07.11</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=65">
                   <strong class="tit">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴</strong>
                   <div class="con"><span class="date">2022.07.04</span></div>
@@ -78,15 +84,15 @@
                   <div class="con"><span class="date">2022.05.14</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
                   <strong class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</strong>
                   <div class="con"><span class="date">2022.05.12</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=55">
                   <strong class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</strong>
@@ -141,15 +147,15 @@
 									<div class="con"><span class="date">2022.01.07</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=38">
-									<strong class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</strong>
-									<div class="con"><span class="date">2021.12.09</span></div>
-								</a>
-							</li>
 						</c:if>
 
             <c:if test="${vo.page eq '3' }">
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=38">
+                  <strong class="tit">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정</strong>
+                  <div class="con"><span class="date">2021.12.09</span></div>
+                </a>
+              </li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
                   <strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
