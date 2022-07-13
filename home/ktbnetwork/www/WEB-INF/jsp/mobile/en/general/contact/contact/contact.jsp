@@ -13,7 +13,7 @@
 						<a href="#" role="button">Pangyo</a><!-- 0415 수정 -->
 						<div class="tglCont">
 							<div class="contactArea">
-								<p class="addr">10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundag-gu, Seongnam-city, Gyeonggi-do, Korea</p>
+								<p class="addr">10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea</p>
 								<div class="map"></div>
 								<ul class="info">
 									<li>
@@ -88,8 +88,8 @@
 						<div class="btn_file">
 							<input type="text" class="fileName" placeholder="파일을 첨부해주세요." disabled="disabled">
 							<button type="button">파일삭제</button>
-							<label for="ex_filename">첨부</label> 
-							<input type="file" id="ex_filename" class="fileHidden"> 
+							<label for="ex_filename">첨부</label>
+							<input type="file" id="ex_filename" class="fileHidden">
 						</div>
 					</li>
 				</ul>

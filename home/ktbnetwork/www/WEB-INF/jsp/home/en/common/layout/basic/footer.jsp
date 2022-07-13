@@ -7,7 +7,7 @@
 						<span>TEL 031-628-6400</span>
 						<span>FAX 031-628-6499</span>
 						<span>E-MAIL <a href="mailto:webmaster@daolinvestment.com">webmaster@daolinvestment.com</a></span><br>
-						<span>Pankyo 10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundag-gu, Seongnam-city, Gyeonggi-do, Korea</span>
+						<span>Pankyo 10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea</span>
 					</address>
 					<p class="copyRight">Copyright &copy; DAOL Investment. All Right Reserved.</p>
 				</div>
@@ -23,7 +23,7 @@
 							<option value="https://www.ktbst.co.th/index.php?s=p">DAOL THAILAND</option>
 							<option value="http://www.ktbvc.com/">DAOL Ventures</option>
 						</select>
-					</span>					
+					</span>
 				</div>
 				<div class="logo"><img src="/static/home/en/images/common/logo_footer.png" alt="DAOL INVESTMENT"></div>
 			</div>

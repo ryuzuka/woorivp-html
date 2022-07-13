@@ -18,7 +18,7 @@
 							<li class="toggle on">
 								<a href="#" class="togBar">Pangyo</a><!-- 0415 수정 -->
 								<div class="togCon">
-									10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundag-gu, Seongnam-city, Gyeonggi-do, Korea
+									10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea
 									<div class="link">
 										<p class="tel">+82 31-628-6400</p>
 										<p class="mail"><a href="mailto:webmaster@daolinvestment.com">webmaster@daolinvestment.com</a></p><!-- 0415 수정 -->
@@ -51,4 +51,4 @@
 				</div>
 			</div>
 		</section>
-		
+
