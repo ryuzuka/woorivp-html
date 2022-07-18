@@ -199,7 +199,7 @@
 					</li>
 					<li>
 						<a href="#personDeatail21" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_21.jpg" alt="이태규 심사역 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_invest_21.png" alt="이태규 심사역 사진" /></span>
 							<span>
 								<em>이태규</em>
 								심사역
@@ -938,7 +938,7 @@
   <h2 class="layerTit">Who We Are</h2>
   <div class="layerCont" tabindex="0">
     <div class="personDetail">
-      <span><img src="/static/mobile/kr/images/contents/img_invest_pop21.jpg" alt="이태규" /></span>
+      <span><img src="/static/mobile/kr/images/contents/img_invest_pop21.png" alt="이태규" /></span>
       <div class="deatilCon">
         <dl>
           <dt class="name">이태규</dt>

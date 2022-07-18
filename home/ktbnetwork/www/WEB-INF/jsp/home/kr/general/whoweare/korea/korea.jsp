@@ -366,7 +366,7 @@
 					</li>
 					<li>
 						<div class="member">
-							<div class="left"><img src="/static/home/kr/images/contents/img_team42.jpg" alt="이태규"></div>
+							<div class="left"><img src="/static/home/kr/images/contents/img_team42.png" alt="이태규"></div>
 							<div class="right">
 								<h3>이태규 <span class="pointColor">KOREA / 투자팀 / 심사역</span></h3>
 								<dl>
@@ -382,7 +382,7 @@
 							</div>
 						</div>
 						<a href="#" class="thumb">
-							<span class="img"><img src="/static/home/kr/images/contents/thumb_team42_off.jpg" alt="이태규"></span>
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team42_off.png" alt="이태규"></span>
 							<strong>이태규</strong> 심사역
 						</a>
 					</li>

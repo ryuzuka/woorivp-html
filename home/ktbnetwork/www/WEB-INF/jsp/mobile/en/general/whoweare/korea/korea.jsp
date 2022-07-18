@@ -196,7 +196,7 @@
 					</li>
 					<li>
 						<a href="#personDeatail21" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_21.jpg" alt="Lee Tea Kue" /></span>
+							<span><img src="/static/mobile/en/images/contents/img_invest_21.png" alt="Lee Tea Kue" /></span>
 							<span>
 								<em>Lee Tea Kue</em>
 								Investment Manager
@@ -912,7 +912,7 @@
   <h2 class="layerTit">Who We Are</h2>
   <div class="layerCont" tabindex="0">
     <div class="personDetail">
-      <span><img src="/static/mobile/en/images/contents/img_invest_pop21.jpg" alt="Lee Tea Kue" /></span>
+      <span><img src="/static/mobile/en/images/contents/img_invest_pop21.png" alt="Lee Tea Kue" /></span>
       <div class="deatilCon">
         <dl>
           <dt class="name">Lee Tea Kue</dt>

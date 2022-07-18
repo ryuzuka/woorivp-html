@@ -362,7 +362,7 @@
 						</li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team42.jpg" alt="Lee Tea Kue"></div>
+								<div class="left"><img src="/static/home/en/images/contents/img_team42.png" alt="Lee Tea Kue"></div>
 								<div class="right">
 									<h3>Lee Tea Kue <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
 									<dl>
@@ -379,7 +379,7 @@
 								</div>
 							</div>
 							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team42_off.jpg" alt="Lee Tea Kue"></span>
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team42_off.png" alt="Lee Tea Kue"></span>
 								<strong>Lee Tea Kue</strong> Investment Manager
 							</a>
 						</li>
