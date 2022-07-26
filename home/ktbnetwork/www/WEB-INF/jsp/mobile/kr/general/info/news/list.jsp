@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop67" role="button" title="상세내용 보기">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'<em>2022.07.26</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop66" role="button" title="상세내용 보기">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기<em>2022.07.11</em></a>
             </li>
             <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop58" role="button" title="상세내용 보기">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다<em>2022.05.25</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop57" role="button" title="상세내용 보기">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다<em>2022.05.14</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -105,7 +108,7 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop50" role="button" title="상세내용 보기">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 <em>2022.01.20</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -135,6 +138,39 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음' -->
+<div class="fullLayer" id="newsDetail_pop67">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</h3>
+        <em class="date">2022.07.26</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</h4>
+          <p style="text-align: left">
+            2016년, 2021년 두차례 다올인베스트먼트에서 투자를 유치한 노브로커(NoBroker가 최근 함박웃음을 짓고있다.<br>
+            인도 주요대도시를 중심으로 부동산 임대 수요가 폭증하고 있어 계약이 평균 5배는 증가한 것이다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 더구루에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.</p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 7. 26</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://www.theguru.co.kr/news/article.html?no=39184" target="_blank" title="새창 열림">https://www.theguru.co.kr/news/article.html?no=39184</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음' -->
+
 <!-- (서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴 -->
 <div class="fullLayer" id="newsDetail_pop66">
   <h2 class="layerTit">NEWS</h2>

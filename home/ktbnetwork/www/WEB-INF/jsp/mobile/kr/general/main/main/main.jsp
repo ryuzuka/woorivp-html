@@ -23,9 +23,9 @@
 					<dt>펀드뉴스</dt>
 					<dd>
 						<ul>
+              <li><a href="/home/info/news/view.do?page=1&num=67">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</a></li>
               <li><a href="/home/info/news/view.do?page=1&num=66">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기</a></li>
 							<li><a href="/home/info/news/view.do?page=1&num=65">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴</a></li>
-              <li><a href="/home/info/news/view.do?page=1&num=64">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차</a></li>
 						</ul>
 					</dd>
 				</dl>
