@@ -61,9 +61,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=61">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”</div>
+          </a>
+        </li>
+        <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=57">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</div>
+            <div class="tit">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</div>
           </a>
         </li>
       </ul>

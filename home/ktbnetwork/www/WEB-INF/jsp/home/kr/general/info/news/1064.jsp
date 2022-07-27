@@ -61,9 +61,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=65">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴</div>
+          </a>
+        </li>
+        <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=63">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</div>
+            <div class="tit">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</div>
           </a>
         </li>
       </ul>

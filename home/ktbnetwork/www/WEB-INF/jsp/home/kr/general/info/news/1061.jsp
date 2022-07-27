@@ -61,9 +61,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=62">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</div>
+          </a>
+        </li>
+        <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=58">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</div>
+            <div class="tit">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다</div>
           </a>
         </li>
       </ul>

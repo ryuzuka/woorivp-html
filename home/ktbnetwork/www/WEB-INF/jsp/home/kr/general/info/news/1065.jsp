@@ -61,9 +61,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=56">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=66">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기</div>
+          </a>
+        </li>
+        <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=64">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</div>
+            <div class="tit">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차</div>
           </a>
         </li>
       </ul>
