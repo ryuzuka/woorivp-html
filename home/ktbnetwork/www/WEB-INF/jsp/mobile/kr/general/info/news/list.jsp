@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop68" role="button" title="상세내용 보기">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정<em>2022.07.27</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop67" role="button" title="상세내용 보기">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'<em>2022.07.26</em></a>
             </li>
             <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop61" role="button" title="상세내용 보기">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”<em>2022.06.01</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop58" role="button" title="상세내용 보기">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다<em>2022.05.25</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -105,7 +108,7 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop51" role="button" title="상세내용 보기">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 <em>2022.03.04</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop50" role="button" title="상세내용 보기">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 <em>2022.01.20</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -138,6 +141,40 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정 -->
+<div class="fullLayer" id="newsDetail_pop68">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정</h3>
+        <em class="date">2022.07.27</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정</h4>
+          <p style="text-align: left">
+            교직원공제회는 최근 VC부문 블라인드 펀드 위탁운용사 선정을 마치고 최종결과를 통보했다.<br>
+            다올인베스트먼트는 대형부문에서 한국투자파트너스 및 프리미어파트너스와 함께 선정되었다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 이데일리에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 7. 27</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://www.edaily.co.kr/news/read?newsId=02417366632398784" target="_blank" title="새창 열림">https://www.edaily.co.kr/news/read?newsId=02417366632398784</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정 -->
+
 <!-- (더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음' -->
 <div class="fullLayer" id="newsDetail_pop67">
   <h2 class="layerTit">NEWS</h2>
