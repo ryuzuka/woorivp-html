@@ -404,6 +404,16 @@
 							</span>
 						</a>
 					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail22" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_22.jpg" alt="지유나 사원 사진" /></span>
+							<span>
+								<em>지유나</em>
+								사원
+							</span>
+						</a>
+					</li>
 				</ul>
 			</div>
 			<!-- //Management -->
@@ -1539,5 +1549,34 @@
   <button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //박지수 대리 -->
+<!-- 지유나 사원 -->
+<div class="fullLayer" id="person_manageDeatail22">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop22.jpg" alt="지유나 사원 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">지유나</dt>
+					<dd class="position">KOREA / 관리팀 / 사원</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>삼덕회계법인</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>투자관리</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //지유나 사원 -->
 <!-- //팀원소개 investment(L) -->
 <footer></footer>

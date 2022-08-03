@@ -741,6 +741,24 @@
 									<strong>Cho Eun Sol</strong> Manager
 								</a>
 							</li>
+							<li>
+								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team50.jpg" alt="Jee Yu Na"></div>
+									<div class="right">
+										<h3>Jee Yu Na <span class="pointColor">KOREA / Management / Manager</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>Nexia Samduk</dd>
+											<dt>Responsibilities</dt>
+											<dd>Investment management</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team50_off.jpg" alt="Jee Yu Na"></span>
+									<strong>Jee Yu Na</strong> Manager
+								</a>
+							</li>
 						</ul>
 					</div>
 				</div>

@@ -767,6 +767,24 @@
 								<strong>조은솔</strong> 주임
 							</a>
 						</li>
+						<li>
+							<div class="member">
+								<div class="left"><img src="/static/home/kr/images/contents/img_team50.jpg" alt="지유나"></div>
+								<div class="right">
+									<h3>지유나 <span class="pointColor">KOREA / 관리팀 / 사원</span></h3>
+									<dl>
+										<dt>주요경력</dt>
+										<dd>삼덕회계법인</dd>
+										<dt>업무</dt>
+										<dd>투자관리</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team50_off.jpg" alt="지유나"></span>
+								<strong>지유나</strong> 사원
+							</a>
+						</li>
 					</ul>
         </div>
 			</div>

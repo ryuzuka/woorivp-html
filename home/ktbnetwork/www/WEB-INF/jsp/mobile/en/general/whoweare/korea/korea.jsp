@@ -389,6 +389,16 @@
 							</span>
 						</a>
 					</li>
+					<li>
+						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail22" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_22.jpg" alt="Jee Yu Na" /></span>
+							<span>
+								<em>Jee Yu Na</em>
+								<b>Manager</b>
+							</span>
+						</a>
+					</li>
 				</ul>
 			</div>
 			<!-- //Management -->
@@ -1535,4 +1545,33 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Lee Ji Eun Team Manager -->
+<!-- Jee Yu Na Team Manager -->
+<div class="fullLayer" id="person_manageDeatail22">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop22.jpg" alt="Jee Yu Na" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Jee Yu Na</dt>
+					<dd class="position">KOREA / Management / Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Nexia Samduk</li>
+						</ul>
+					</dd>
+					<dt>Responsibilities</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Investment management</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Jee Yu Na Team Manager -->
 <!-- //team investment(L) -->
