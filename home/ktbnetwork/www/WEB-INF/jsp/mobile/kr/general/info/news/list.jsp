@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop70" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 스케일업 펀드 2000억 모았다<em>2022.08.11</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop69" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력<em>2022.08.05</em></a>
             </li>
             <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop59" role="button" title="상세내용 보기">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?<em>2022.06.04</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop62" role="button" title="상세내용 보기">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점<em>2022.06.03</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -105,7 +108,7 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.18</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop48" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다 <em>2022.03.16</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -144,6 +147,39 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (더벨 기사) 다올인베, 스케일업 펀드 2000억 모았다 -->
+<div class="fullLayer" id="newsDetail_pop70">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(더벨 기사) 다올인베, 스케일업 펀드 2000억 모았다</h3>
+        <em class="date">2022.08.11</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(더벨 기사) 다올인베, 스케일업 펀드 2000억 모았다</h4>
+          <p style="text-align: left">
+            스케일업 펀드 결성 시한을 한달앞둔 다올인베스트먼트가 현재까지 2000억원의 결성금액을 모은 것으로 파악된다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 8. 11</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208091324305800101270&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208091324305800101270&svccode=00&page=1&sort=thebell_check_time</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (더벨 기사) 다올인베, 스케일업 펀드 2000억 모았다 -->
+
 <!-- (더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력 -->
 <div class="fullLayer" id="newsDetail_pop69">
   <h2 class="layerTit">NEWS</h2>
