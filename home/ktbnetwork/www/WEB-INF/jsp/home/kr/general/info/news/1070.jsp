@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력</strong>
+          <strong class="tit">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</strong>
           <div class="con">
-            <span class="date">2022.08.05</span>
+            <span class="date">2022.08.11</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,35 +41,29 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력</dt>
+            <dt>(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</dt>
             <dd>
               <p>
-                다올인베스트먼트가 최대 3000억원을 목표로 추진 중인 스케일업 펀드 결성에 속도를 낼 전망이다.
+                스케일업펀드 결성 시한을 한달앞둔 다올인베스트먼트가 현재까지 2000억원의 결성금액을 모은 것으로 파악된다.
               </p>
               <br>
               <p>관련하여 더벨에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게제일 : 2022. 8. 5</p>
+              <p>기사 게제일 : 2022. 8. 11</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208021236102560108352&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208021236102560108352&svccode=00&page=1&sort=thebell_check_time</a></p>
+                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208091324305800101270&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208091324305800101270&svccode=00&page=1&sort=thebell_check_time</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=70">
-            <div class="arrow next">다음글</div>
-            <div class="tit">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=68">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=69">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정</div>
+            <div class="tit">(더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력</div>
           </a>
         </li>
       </ul>
