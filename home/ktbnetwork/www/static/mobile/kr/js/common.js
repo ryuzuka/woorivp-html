@@ -934,8 +934,8 @@ $(document).ready(function(){
                 lng: -122.396979
             }, //paloAlto
             {
-                lat: 1.30041,
-                lng: 103.83724
+                lat: 1.30017,
+                lng: 103.83730
             } //Singapore
         ];
 
