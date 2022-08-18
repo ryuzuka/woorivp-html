@@ -66,6 +66,24 @@
 								</ul>
 							</div>
 						</div>
+					</li>
+					<li>
+						<a href="#" role="button">Singapore</a>
+						<div class="tglCont">
+							<div class="contactArea">
+								<p class="addr">111 SOMERSET SINGAPORE 238164</p>
+								<div class="map"></div>
+								<ul class="info">
+									<!-- <li>
+										<strong class="tit">전화번호</strong>
+										<a href="tel:1-650-324-4681" class="data tel">+1-650-324-4681</a>
+									</li> -->
+									<!-- <li>
+										<strong class="tit">이메일</strong>
+										<a href="mailto:info@ktbvc.com" class="data mail">info@ktbvc.com</a>
+									</li> -->
+								</ul>
+							</div>
 						</div>
 					</li>
 				</ul>

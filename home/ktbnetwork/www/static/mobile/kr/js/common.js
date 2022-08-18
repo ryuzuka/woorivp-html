@@ -932,7 +932,11 @@ $(document).ready(function(){
             {
                 lat: 37.793565,
                 lng: -122.396979
-            } //paloAlto
+            }, //paloAlto
+            {
+                lat: 1.30041,
+                lng: 103.83724
+            } //Singapore
         ];
 
         this._setDefTabEl();

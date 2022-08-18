@@ -66,6 +66,24 @@
 								</ul>
 							</div>
 						</div>
+					</li>
+					<li>
+						<a href="#" role="button">Singapore</a>
+						<div class="tglCont">
+							<div class="contactArea">
+								<p class="addr">111 SOMERSET SINGAPORE 238164</p>
+								<div class="map"></div>
+								<ul class="info">
+									<!-- <li>
+										<strong class="tit">전화번호</strong>
+										<a href="tel:1-650-324-4681" class="data tel">+1-650-324-4681</a>
+									</li> -->
+									<!-- <li>
+										<strong class="tit">이메일</strong>
+										<a href="mailto:info@ktbvc.com" class="data mail">info@ktbvc.com</a>
+									</li> -->
+								</ul>
+							</div>
 						</div>
 					</li>
 				</ul>
@@ -88,8 +106,8 @@
 						<div class="btn_file">
 							<input type="text" class="fileName" placeholder="파일을 첨부해주세요." disabled="disabled">
 							<button type="button">파일삭제</button>
-							<label for="ex_filename">첨부</label> 
-							<input type="file" id="ex_filename" class="fileHidden"> 
+							<label for="ex_filename">첨부</label>
+							<input type="file" id="ex_filename" class="fileHidden">
 						</div>
 					</li>
 				</ul>

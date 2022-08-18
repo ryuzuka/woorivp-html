@@ -46,6 +46,12 @@
 									</div>
 								</div>
 							</li>
+							<li class="toggle">
+								<a href="#" class="togBar">Singapore</a>
+								<div class="togCon">
+									111 SOMERSET SINGAPORE 238164
+								</div>
+							</li>
 						</ul>
 					</div>
 				</div>
