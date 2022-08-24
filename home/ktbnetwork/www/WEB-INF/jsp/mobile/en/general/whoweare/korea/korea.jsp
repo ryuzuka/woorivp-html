@@ -355,10 +355,20 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_20.png" alt="Lee Hyun Wook" /></span>
 							<span>
 								<em>Lee Hyun Wook</em>
-								<b>Assistant Manager</b>
+								<b>Manager</b>
 							</span>
 						</a>
 					</li>
+          <li>
+            <strong class="hidden">Management</strong>
+            <a href="#person_manageDeatail18" role="button">
+              <span><img src="/static/mobile/en/images/contents/img_manage_18.jpg" alt="Park Ji Soo" /></span>
+              <span>
+								<em>Park Ji Soo</em>
+								<b>Assistant Manager</b>
+							</span>
+            </a>
+          </li>
 					<li>
 						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail12" role="button">
@@ -369,16 +379,16 @@
 							</span>
 						</a>
 					</li>
-					<li>
-						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail18" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_18.jpg" alt="Park Ji Soo" /></span>
-							<span>
-								<em>Park Ji Soo</em>
-								<b>Assistant Manager</b>
+          <li>
+            <strong class="hidden">Management</strong>
+            <a href="#person_manageDeatail23" role="button">
+              <span><img src="/static/mobile/en/images/contents/img_manage_23.jpg" alt="Choo Sang Hoon" /></span>
+              <span>
+								<em>Choo Sang Hoon</em>
+								<b>Manager</b>
 							</span>
-						</a>
-					</li>
+            </a>
+          </li>
 					<li>
 						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail16" role="button">
@@ -395,7 +405,7 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_22.jpg" alt="Jee Yu Na" /></span>
 							<span>
 								<em>Jee Yu Na</em>
-								<b>Manager</b>
+								<b>Assistant Manager</b>
 							</span>
 						</a>
 					</li>
@@ -1372,7 +1382,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Ko Eun Bi Team Manager -->
-<!-- Lee Hyun Wook Assistant Manager -->
+<!-- Lee Hyun Wook Manager -->
 <div class="fullLayer" id="person_manageDeatail20">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1381,7 +1391,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Lee Hyun Wook</dt>
-					<dd class="position">KOREA / Management / Assistant Manager</dd>
+					<dd class="position">KOREA / Management / Manager</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1401,7 +1411,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Lee Hyun Wook Assistant Manager -->
+<!-- //Lee Hyun Wook Manager -->
 <!-- Lee Sin Hee Assistant Manager -->
 <div class="fullLayer" id="person_manageDeatail12">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1545,7 +1555,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Lee Ji Eun Team Manager -->
-<!-- Jee Yu Na Team Manager -->
+<!-- Jee Yu Na Assistant Manager -->
 <div class="fullLayer" id="person_manageDeatail22">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1554,7 +1564,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Jee Yu Na</dt>
-					<dd class="position">KOREA / Management / Manager</dd>
+					<dd class="position">KOREA / Management / Assistant Manager</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1573,5 +1583,35 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Jee Yu Na Team Manager -->
+<!-- //Jee Yu Na Assistant Manager -->
+<!-- Choo Sang Hoon Manager -->
+<div class="fullLayer" id="person_manageDeatail23">
+  <h2 class="layerTit">Who We Are</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="personDetail">
+      <span><img src="/static/mobile/en/images/contents/img_manage_pop23.jpg" alt="Choo Sang Hoon" /></span>
+      <div class="deatilCon">
+        <dl>
+          <dt class="name">Choo Sang Hoon</dt>
+          <dd class="position">KOREA / Management / Manager</dd>
+          <dt>Career</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>University of California, San Diego (Psychology)</li>
+              <li>Dongkuk Steel Mill</li>
+            </ul>
+          </dd>
+          <dt>Responsibilities</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>Risk Management</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="layerClose">close</button>
+</div>
+<!-- //Choo Sang Hoon Manager -->
 <!-- //team investment(L) -->

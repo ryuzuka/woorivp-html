@@ -709,10 +709,28 @@
 								</div>
 							</div>
 							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team48_off.png" alt="이신희"></span>
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team48_off.png" alt="이현욱"></span>
 								<strong>이현욱</strong> 대리
 							</a>
 						</li>
+            <li>
+              <div class="member">
+                <div class="left"><img src="/static/home/kr/images/contents/img_team44.jpg" alt="박지수"></div>
+                <div class="right">
+                  <h3>박지수 <span class="pointColor">KOREA / 관리팀 / 대리</span></h3>
+                  <dl>
+                    <dt>주요경력</dt>
+                    <dd>SOPOONG</dd>
+                    <dt>업무</dt>
+                    <dd>투자관리</dd>
+                  </dl>
+                </div>
+              </div>
+              <a href="#" class="thumb">
+                <span class="img"><img src="/static/home/kr/images/contents/thumb_team44_off.jpg" alt="박지수"></span>
+                <strong>박지수</strong> 대리
+              </a>
+            </li>
 						<li>
 							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team26.jpg" alt="이신희"></div>
@@ -731,24 +749,25 @@
 								<strong>이신희</strong> 대리
 							</a>
 						</li>
-						<li>
-							<div class="member">
-								<div class="left"><img src="/static/home/kr/images/contents/img_team44.jpg" alt="박지수"></div>
-								<div class="right">
-									<h3>박지수 <span class="pointColor">KOREA / 관리팀 / 대리</span></h3>
-									<dl>
-										<dt>주요경력</dt>
-										<dd>SOPOONG</dd>
-										<dt>업무</dt>
-										<dd>투자관리</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team44_off.jpg" alt="박지수"></span>
-								<strong>박지수</strong> 대리
-							</a>
-						</li>
+            <li>
+              <div class="member">
+                <div class="left"><img src="/static/home/kr/images/contents/img_team51.jpg" alt="추상훈"></div>
+                <div class="right">
+                  <h3>추상훈 <span class="pointColor">KOREA / 관리팀 / 대리</span></h3>
+                  <dl>
+                    <dt>주요경력</dt>
+                    <dd>UC 샌디에고 심리학과</dd>
+                    <dd>동국제강</dd>
+                    <dt>업무</dt>
+                    <dd>리스크 매니지먼트</dd>
+                  </dl>
+                </div>
+              </div>
+              <a href="#" class="thumb">
+                <span class="img"><img src="/static/home/kr/images/contents/thumb_team51_off.jpg" alt="추상훈"></span>
+                <strong>추상훈</strong> 대리
+              </a>
+            </li>
 						<li>
 							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team37.jpg" alt="조은솔"></div>

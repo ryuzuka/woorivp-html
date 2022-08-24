@@ -672,7 +672,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team48.png" alt="Lee Hyun Wook"></div>
 									<div class="right">
-										<h3>Lee Hyun Wook <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
+										<h3>Lee Hyun Wook <span class="pointColor">KOREA / Management / Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Hanon Systems</dd>
@@ -683,10 +683,28 @@
 									</div>
 								</div>
 								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team48_off.png" alt="Lee Sin Heer"></span>
-									<strong>Lee Hyun Wook</strong> Assistant Manager
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team48_off.png" alt="Lee Hyun Wook"></span>
+									<strong>Lee Hyun Wook</strong> Manager
 								</a>
 							</li>
+              <li>
+                <div class="member">
+                  <div class="left"><img src="/static/home/en/images/contents/img_team44.jpg" alt="Park Ji Soo"></div>
+                  <div class="right">
+                    <h3>Park Ji Soo <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
+                    <dl>
+                      <dt>Career</dt>
+                      <dd>SOPOONG</dd>
+                      <dt>Responsibilities</dt>
+                      <dd>Investment management</dd>
+                    </dl>
+                  </div>
+                </div>
+                <a href="#" class="thumb">
+                  <span class="img"><img src="/static/home/en/images/contents/thumb_team44_off.jpg" alt="Park Ji Soo"></span>
+                  <strong>Park Ji Soo</strong> Assistant Manager
+                </a>
+              </li>
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team26.jpg" alt="Lee Sin Hee"></div>
@@ -701,28 +719,29 @@
 									</div>
 								</div>
 								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team26_off.jpg" alt="Lee Sin Heer"></span>
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team26_off.jpg" alt="Lee Sin Hee"></span>
 									<strong>Lee Sin Hee</strong> Assistant Manager
 								</a>
 							</li>
-							<li>
-								<div class="member">
-									<div class="left"><img src="/static/home/en/images/contents/img_team44.jpg" alt="Park Ji Soo"></div>
-									<div class="right">
-										<h3>Park Ji Soo <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
-										<dl>
-											<dt>Career</dt>
-											<dd>SOPOONG</dd>
-											<dt>Responsibilities</dt>
-											<dd>Investment management</dd>
-										</dl>
-									</div>
-								</div>
-								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team44_off.jpg" alt="Park Ji Soo"></span>
-									<strong>Park Ji Soo</strong> Assistant Manager
-								</a>
-							</li>
+              <li>
+                <div class="member">
+                  <div class="left"><img src="/static/home/en/images/contents/img_team51.jpg" alt="Choo Sang Hoon"></div>
+                  <div class="right">
+                    <h3>Choo Sang Hoon <span class="pointColor">KOREA / Management / Manager</span></h3>
+                    <dl>
+                      <dt>Career</dt>
+                      <dd>University of California, San Diego (Psychology)</dd>
+                      <dd>Dongkuk Steel Mill</dd>
+                      <dt>Responsibilities</dt>
+                      <dd>Risk Management</dd>
+                    </dl>
+                  </div>
+                </div>
+                <a href="#" class="thumb">
+                  <span class="img"><img src="/static/home/en/images/contents/thumb_team51_off.jpg" alt="Choo Sang Hoon"></span>
+                  <strong>Choo Sang Hoon</strong> Manager
+                </a>
+              </li>
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team37.jpg" alt="Cho Eun Sol"></div>
@@ -745,7 +764,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team50.jpg" alt="Jee Yu Na"></div>
 									<div class="right">
-										<h3>Jee Yu Na <span class="pointColor">KOREA / Management / Manager</span></h3>
+										<h3>Jee Yu Na <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Nexia Samduk</dd>
@@ -756,7 +775,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team50_off.jpg" alt="Jee Yu Na"></span>
-									<strong>Jee Yu Na</strong> Manager
+									<strong>Jee Yu Na</strong> Assistant Manager
 								</a>
 							</li>
 						</ul>

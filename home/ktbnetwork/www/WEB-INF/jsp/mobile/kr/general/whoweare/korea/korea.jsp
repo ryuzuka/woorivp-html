@@ -374,6 +374,16 @@
 							</span>
 						</a>
 					</li>
+          <li>
+            <strong class="hidden">Management</strong>
+            <a href="#person_manageDeatail18" role="button">
+              <span><img src="/static/mobile/kr/images/contents/img_manage_18.jpg" alt="박지수 대리 사진" /></span>
+              <span>
+								<em>박지수</em>
+                대리
+							</span>
+            </a>
+          </li>
 					<li>
 						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail12" role="button">
@@ -384,16 +394,16 @@
 							</span>
 						</a>
 					</li>
-					<li>
-						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail18" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_18.jpg" alt="박지수 대리 사진" /></span>
-							<span>
-								<em>박지수</em>
-                대리
+          <li>
+            <strong class="hidden">Management</strong>
+            <a href="#person_manageDeatail23" role="button">
+              <span><img src="/static/mobile/kr/images/contents/img_manage_23.jpg" alt="추상훈 대리 사진" /></span>
+              <span>
+								<em>추상훈</em>
+								대리
 							</span>
-						</a>
-					</li>
+            </a>
+          </li>
 					<li>
 						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail16" role="button">
@@ -1578,5 +1588,35 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //지유나 사원 -->
+<!-- 추상훈 대리 -->
+<div class="fullLayer" id="person_manageDeatail23">
+  <h2 class="layerTit">Who We Are</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="personDetail">
+      <span><img src="/static/mobile/kr/images/contents/img_manage_pop23.jpg" alt="추상훈 대리 사진" /></span>
+      <div class="deatilCon">
+        <dl>
+          <dt class="name">추상훈</dt>
+          <dd class="position">KOREA / 관리팀 / 대리</dd>
+          <dt>주요경력</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>UC 샌디에고 심리학과</li>
+              <li>동국제강</li>
+            </ul>
+          </dd>
+          <dt>업무</dt>
+          <dd>
+            <ul class="listDep1">
+              <li>리스크 매니지먼트</li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //추상훈 대리 -->
 <!-- //팀원소개 investment(L) -->
 <footer></footer>
