@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</strong>
+          <strong class="tit">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</strong>
           <div class="con">
-            <span class="date">2022.08.11</span>
+            <span class="date">2022.08.26</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,35 +41,30 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</dt>
+            <dt>(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</dt>
             <dd>
               <p>
-                스케일업펀드 결성 시한을 한달앞둔 다올인베스트먼트가 현재까지 2000억원의 결성금액을 모은 것으로 파악된다.
+                'KTBN16호' 를 운용중인 다올인베스트먼트가 투자를 마무리하고 회수에 나설 참이다.<br>
+                2018년 12월 결성 당시 기준으로 설립이래 최대규모였다.
               </p>
               <br>
               <p>관련하여 더벨에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게제일 : 2022. 8. 11</p>
+              <p>기사 게제일 : 2022. 8. 26</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208091324305800101270&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208091324305800101270&svccode=00&page=1&sort=thebell_check_time</a></p>
+                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208241115450800109475&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208241115450800109475&svccode=00&page=1&sort=thebell_check_time</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=71">
-            <div class="arrow next">다음글</div>
-            <div class="tit">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=69">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=70">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력</div>
+            <div class="tit">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</div>
           </a>
         </li>
       </ul>

@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=71">
+                  <strong class="tit">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</strong>
+                  <div class="con"><span class="date">2022.08.26</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=70">
                   <strong class="tit">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</strong>
                   <div class="con"><span class="date">2022.08.11</span></div>
@@ -78,16 +84,15 @@
                   <div class="con"><span class="date">2022.06.07</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=59">
                   <strong class="tit">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</strong>
                   <div class="con"><span class="date">2022.06.04</span></div>
                 </a>
               </li>
-
-            </c:if>
-
-            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=62">
                   <strong class="tit">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</strong>
@@ -142,15 +147,15 @@
                   <div class="con"><span class="date">2022.03.21</span></div>
                 </a>
               </li>
+						</c:if>
+
+            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=49">
                   <strong class="tit">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈'</strong>
                   <div class="con"><span class="date">2022.03.18</span></div>
                 </a>
               </li>
-						</c:if>
-
-            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
                   <strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
@@ -205,6 +210,9 @@
                   <div class="con"><span class="date">2021.08.19</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=31">
                   <strong class="tit">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가</strong>
@@ -220,6 +228,7 @@
 							<a href="/home/info/news/list.do?page=1" <c:if test="${vo.page eq '1'}">class="on"</c:if>>1</a>
 							<a href="/home/info/news/list.do?page=2" <c:if test="${vo.page eq '2'}">class="on"</c:if>>2</a>
               <a href="/home/info/news/list.do?page=3" <c:if test="${vo.page eq '3'}">class="on"</c:if>>3</a>
+              <a href="/home/info/news/list.do?page=4" <c:if test="${vo.page eq '4'}">class="on"</c:if>>4</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
 						<a href="/home/info/news/list.do?page=5" class="arrow end">마지막페이지로 이동</a>
