@@ -23,9 +23,9 @@
 					<dt>펀드뉴스</dt>
 					<dd>
 						<ul>
+              <li><a href="/home/info/news/view.do?page=1&num=72">(더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배</a></li>
               <li><a href="/home/info/news/view.do?page=1&num=71">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</a></li>
               <li><a href="/home/info/news/view.do?page=1&num=70">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</a></li>
-              <li><a href="/home/info/news/view.do?page=1&num=69">(더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력</a></li>
 						</ul>
 					</dd>
 				</dl>
