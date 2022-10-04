@@ -406,16 +406,6 @@
           </li>
 					<li>
 						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail16" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_16.jpg" alt="조은솔 주임 사진" /></span>
-							<span>
-								<em>조은솔</em>
-								주임
-							</span>
-						</a>
-					</li>
-					<li>
-						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail22" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_manage_22.jpg" alt="지유나 사원 사진" /></span>
 							<span>
@@ -1500,36 +1490,6 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //이지은 팀장 -->
-<!-- 조은솔 주임 -->
-<div class="fullLayer" id="person_manageDeatail16">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop16.jpg" alt="조은솔 주임 사진" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">조은솔</dt>
-					<dd class="position">KOREA / 관리팀 / 주임</dd>
-					<dt>주요경력</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>이트너스</li>
-							<li>성균관대학교 경영전문대학원 경영학과</li>
-						</ul>
-					</dd>
-					<dt>업무</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>투자관리</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">닫기</button>
-</div>
-<!-- //조은솔 주임 -->
 <!-- 박지수 대리 -->
 <div class="fullLayer" id="person_manageDeatail18">
   <h2 class="layerTit">Who We Are</h2>

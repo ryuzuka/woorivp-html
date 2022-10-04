@@ -770,24 +770,6 @@
             </li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/kr/images/contents/img_team37.jpg" alt="조은솔"></div>
-								<div class="right">
-									<h3>조은솔 <span class="pointColor">KOREA / 관리팀 / 주임</span></h3>
-									<dl>
-										<dt>주요경력</dt>
-										<dd>이트너스<br>성균관대학교 경영전문대학원 경영학과</dd>
-										<dt>업무</dt>
-										<dd>투자관리</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team37_off.jpg" alt="조은솔"></span>
-								<strong>조은솔</strong> 주임
-							</a>
-						</li>
-						<li>
-							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team50.jpg" alt="지유나"></div>
 								<div class="right">
 									<h3>지유나 <span class="pointColor">KOREA / 관리팀 / 사원</span></h3>

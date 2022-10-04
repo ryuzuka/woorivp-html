@@ -50,15 +50,6 @@
 								</span>
 							</a>
 						</li>
-						<li>
-							<a href="#person_manageDeatail03" role="button">
-								<span><img src="/static/mobile/en/images/contents/img_china_manage_03.jpg" alt="Yu Jae Ha" /></span>
-								<span>
-									<em>Yu Jae Ha</em>
-									Team Manager
-								</span>
-							</a>
-						</li>
 					</ul>
 				</div>
 				<!-- //Investment -->
@@ -215,29 +206,5 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Xu Tingting Team Manager -->
-	<!-- Yu Jae Ha  Team Manager -->
-	<div class="fullLayer" id="person_manageDeatail03">
-		<h2 class="layerTit">Who We Are</h2>
-		<div class="layerCont" tabindex="0">
-			<div class="personDetail">
-				<span><img src="/static/mobile/en/images/contents/img_china_manage_pop03.jpg" alt="Yu Jae Ha" /></span>
-				<div class="deatilCon">
-					<dl>
-						<dt class="name">Yu Jae Ha</dt>
-						<dd class="position">CHINA / Investment / Team Manager</dd>
-						<dt>Career</dt>
-						<dd>
-							<ul class="listDep1">
-								<li>Peking University (Economics)</li>
-								<li>KB Securities</li>
-							</ul>
-						</dd>
-					</dl>
-				</div>
-			</div>
-		</div>
-		<button type="button" class="layerClose">close</button>
-	</div>
-	<!-- //Yu Jae Ha  Team Manager  -->
 	<!-- //team investment(L) -->
 

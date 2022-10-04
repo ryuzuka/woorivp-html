@@ -391,16 +391,6 @@
           </li>
 					<li>
 						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail16" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_16.jpg" alt="Cho Eun Sol" /></span>
-							<span>
-								<em>Cho Eun Sol</em>
-								<b>Manager</b>
-							</span>
-						</a>
-					</li>
-					<li>
-						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail22" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_manage_22.jpg" alt="Jee Yu Na" /></span>
 							<span>
@@ -1441,36 +1431,6 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Lee Sin Hee Assistant Manager -->
-<!-- Cho Eun Sol Manager -->
-<div class="fullLayer" id="person_manageDeatail16">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_manage_pop16.jpg" alt="Cho Eun Sol" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">Cho Eun Sol</dt>
-					<dd class="position">KOREA / Management / Manager</dd>
-					<dt>Career</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>Etners</li>
-							<li>Sung Kyun Kwan University, Graduate School of Business</li>
-						</ul>
-					</dd>
-					<dt>Responsibilities</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>investment management</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">close</button>
-</div>
-<!-- //Cho Eun Sol Manager -->
 <!-- Park Ji Soo Assistant Manager -->
 <div class="fullLayer" id="person_manageDeatail18">
   <h2 class="layerTit">Who We Are</h2>

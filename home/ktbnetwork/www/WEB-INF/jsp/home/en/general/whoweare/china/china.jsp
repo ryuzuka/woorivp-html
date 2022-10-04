@@ -86,22 +86,6 @@
 									<strong>Xu Tingting</strong> Team Manager
 								</a>
 							</li>
-							<li>
-								<div class="member">
-									<div class="left"><img src="/static/home/en/images/contents/img_team38.jpg" alt="Yu Jae Ha"></div>
-									<div class="right">
-										<h3>Yu Jae Ha <span class="pointColor">CHINA / Investment / Team Manager</span></h3>
-										<dl>
-											<dt>Career</dt>
-											<dd>Peking University (Economics)<br>KB Securities</dd>
-										</dl>
-									</div>
-								</div>
-								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team38_off.jpg" alt="Yu Jae Ha"></span>
-									<strong>Yu Jae Ha</strong> Team Manager
-								</a>
-							</li>
 						</ul>
 					</div>
           <!--

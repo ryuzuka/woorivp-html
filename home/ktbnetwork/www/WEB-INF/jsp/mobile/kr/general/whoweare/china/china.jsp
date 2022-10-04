@@ -51,15 +51,6 @@
 								</span>
 							</a>
 						</li>
-						<li>
-							<a href="#person_manageDeatail03" role="button">
-								<span><img src="/static/mobile/kr/images/contents/img_china_manage_03.jpg" alt="유재하 팀장 사진" /></span>
-								<span>
-									<em>유재하</em>
-									팀장
-								</span>
-							</a>
-						</li>
 					</ul>
 				</div>
 				<!-- //Investment -->
@@ -216,29 +207,5 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- //Xu Tingting 팀장 -->
-	<!-- 유재하 팀장 -->
-	<div class="fullLayer" id="person_manageDeatail03">
-		<h2 class="layerTit">Who We Are</h2>
-		<div class="layerCont" tabindex="0">
-			<div class="personDetail">
-				<span><img src="/static/mobile/kr/images/contents/img_china_manage_pop03.jpg" alt="유재하 팀장 사진" /></span>
-				<div class="deatilCon">
-					<dl>
-						<dt class="name">유재하</dt>
-						<dd class="position">CHINA / 투자팀 / 팀장</dd>
-						<dt>주요경력</dt>
-						<dd>
-							<ul class="listDep1">
-								<li>Peking University 경제학과</li>
-								<li>KB증권</li>
-							</ul>
-						</dd>
-					</dl>
-				</div>
-			</div>
-		</div>
-		<button type="button" class="layerClose">닫기</button>
-	</div>
-	<!-- //유재하 팀장 -->
 	<!-- //팀원소개 investment(L) -->
 

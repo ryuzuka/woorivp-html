@@ -744,24 +744,6 @@
               </li>
 							<li>
 								<div class="member">
-									<div class="left"><img src="/static/home/en/images/contents/img_team37.jpg" alt="Cho Eun Sol"></div>
-									<div class="right">
-										<h3>Cho Eun Sol <span class="pointColor">KOREA / Management / Manager</span></h3>
-										<dl>
-											<dt>Career</dt>
-											<dd>Etners<br>Sung Kyun Kwan University, Graduate School of Business</dd>
-											<dt>Responsibilities</dt>
-											<dd>Investment management</dd>
-										</dl>
-									</div>
-								</div>
-								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team37_off.jpg" alt="Cho Eun Sol"></span>
-									<strong>Cho Eun Sol</strong> Manager
-								</a>
-							</li>
-							<li>
-								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team50.jpg" alt="Jee Yu Na"></div>
 									<div class="right">
 										<h3>Jee Yu Na <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>

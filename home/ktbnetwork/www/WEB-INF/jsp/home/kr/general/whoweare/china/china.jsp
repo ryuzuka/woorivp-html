@@ -88,22 +88,6 @@
 									<strong>Xu Tingting</strong> 팀장
 								</a>
 							</li>
-							<li>
-								<div class="member">
-									<div class="left"><img src="/static/home/kr/images/contents/img_team38.jpg" alt="유재하"></div>
-									<div class="right">
-										<h3>유재하 <span class="pointColor">CHINA / 투자팀 / 팀장</span></h3>
-										<dl>
-											<dt>주요경력</dt>
-											<dd>Peking University 경제학과<br>KB증권</dd>
-										</dl>
-									</div>
-								</div>
-								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/kr/images/contents/thumb_team38_off.jpg" alt="유재하"></span>
-									<strong>유재하</strong> 팀장
-								</a>
-							</li>
 						</ul>
 					</div>
           <!--
