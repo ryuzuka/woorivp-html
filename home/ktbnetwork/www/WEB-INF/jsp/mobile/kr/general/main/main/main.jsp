@@ -23,9 +23,9 @@
 					<dt>펀드뉴스</dt>
 					<dd>
 						<ul>
-              <li><a href="/home/info/news/view.do?page=1&num=72">(더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배</a></li>
-              <li><a href="/home/info/news/view.do?page=1&num=71">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</a></li>
-              <li><a href="/home/info/news/view.do?page=1&num=70">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</a></li>
+              <li><a href="/home/info/news/view.do?page=1&num=75">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정</a></li>
+              <li><a href="/home/info/news/view.do?page=1&num=74">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순</a></li>
+              <li><a href="/home/info/news/view.do?page=1&num=73">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화</a></li>
 						</ul>
 					</dd>
 				</dl>

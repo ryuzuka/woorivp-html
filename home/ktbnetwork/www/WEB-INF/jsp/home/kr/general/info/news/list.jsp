@@ -25,6 +25,24 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=75">
+                  <strong class="tit">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정</strong>
+                  <div class="con"><span class="date">2022.10.20</span></div>
+                </a>
+              </li>
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=74">
+                  <strong class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순</strong>
+                  <div class="con"><span class="date">2022.10.13</span></div>
+                </a>
+              </li>
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=73">
+                  <strong class="tit">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화</strong>
+                  <div class="con"><span class="date">2022.09.28</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=72">
                   <strong class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배</strong>
                   <div class="con"><span class="date">2022.08.29</span></div>
@@ -66,6 +84,9 @@
                   <div class="con"><span class="date">2022.07.11</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=65">
                   <strong class="tit">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴</strong>
@@ -84,9 +105,6 @@
                   <div class="con"><span class="date">2022.06.09</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=60">
                   <strong class="tit">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</strong>
@@ -129,6 +147,9 @@
                   <div class="con"><span class="date">2022.05.12</span></div>
                 </a>
               </li>
+						</c:if>
+
+            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=55">
                   <strong class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</strong>
@@ -147,9 +168,6 @@
                   <div class="con"><span class="date">2022.04.14</span></div>
                 </a>
               </li>
-						</c:if>
-
-            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
                   <strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
@@ -192,6 +210,9 @@
                   <div class="con"><span class="date">2021.12.09</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
                   <strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
@@ -210,9 +231,6 @@
                   <div class="con"><span class="date">2021.11.29</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=32">
                   <strong class="tit">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대"</strong>

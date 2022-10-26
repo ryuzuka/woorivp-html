@@ -49,6 +49,15 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop75" role="button" title="상세내용 보기">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정<em>2022.10.20</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop74" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순<em>2022.10.13</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop73" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화<em>2022.09.28</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop72" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배<em>2022.08.29</em></a>
             </li>
             <li>
@@ -69,13 +78,13 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop66" role="button" title="상세내용 보기">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기<em>2022.07.11</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop65" role="button" title="상세내용 보기">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴<em>2022.07.04</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop64" role="button" title="상세내용 보기">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차<em>2022.06.14</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop63" role="button" title="상세내용 보기">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항<em>2022.06.09</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -99,13 +108,13 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop56" role="button" title="상세내용 보기">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다 <em>2022.05.12</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop55" role="button" title="상세내용 보기">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대 <em>2022.05.03</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop54" role="button" title="상세내용 보기">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 <em>2022.04.19</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop53" role="button" title="상세내용 보기">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 <em>2022.04.14</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -129,13 +138,13 @@ jQuery(window).load(function() {
             <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
             </li>
             <li data-page="3" style="display: none;">
@@ -153,6 +162,105 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정 -->
+<div class="fullLayer" id="newsDetail_pop75">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정</h3>
+        <em class="date">2022.10.20</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정</h4>
+          <p style="text-align: left">
+            과학기술인공제회가 벤처조합에 대한 블라인드펀드 운용사 선정 작업을 마무리했다.벤처조합 운용사로 다올인베스트먼트, DSC인베스트먼트, 에이티넘, LB인베스트먼트를 선정했다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 10. 20</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210181446032360105643&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210181446032360105643&lcode=00&page=1&svccode=00</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정 -->
+
+<!-- (더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순 -->
+<div class="fullLayer" id="newsDetail_pop74">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순</h3>
+        <em class="date">2022.10.13</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순</h4>
+          <p style="text-align: left">
+            다올인베스트먼트가 아이씨에이치(ICH)에 대한 투자금 회수 작업을 사실상 마무리했다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 10. 13</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210111046446680102925&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210111046446680102925&lcode=00&page=1&svccode=00</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순 -->
+
+<!-- (더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화 -->
+<div class="fullLayer" id="newsDetail_pop73">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화</h3>
+        <em class="date">2022.09.28</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화</h4>
+          <p style="text-align: left">
+            다올인베스트먼트가 엔젯에 대한 엑시트에 나설 조짐이다. 엔젯이 코스닥상장 절차를 진행중이며, 일정대로면 오는 11월께증시입성이 가능할 전망이다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 9. 28</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202209261052594920102987&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202209261052594920102987&lcode=00&page=1&svccode=00</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화 -->
+
 <!-- (더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배 -->
 <div class="fullLayer" id="newsDetail_pop72">
   <h2 class="layerTit">NEWS</h2>
