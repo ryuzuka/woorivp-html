@@ -62,6 +62,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=73">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=71">
             <div class="arrow prev">이전글</div>
             <div class="tit">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</div>

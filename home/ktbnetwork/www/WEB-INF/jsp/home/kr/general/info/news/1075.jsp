@@ -61,9 +61,15 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=71">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=76">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(더벨 기사) 다올인베, 플라즈맵 엑시트 착수, 예상 멀티플 1.5배</div>
+          </a>
+        </li>
+        <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=74">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</div>
+            <div class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순</div>
           </a>
         </li>
       </ul>

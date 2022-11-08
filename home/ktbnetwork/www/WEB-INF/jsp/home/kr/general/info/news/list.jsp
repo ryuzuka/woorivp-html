@@ -25,6 +25,24 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=78">
+                  <strong class="tit">(더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박</strong>
+                  <div class="con"><span class="date">2022.11.07</span></div>
+                </a>
+              </li>
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=77">
+                  <strong class="tit">(파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</strong>
+                  <div class="con"><span class="date">2022.11.02</span></div>
+                </a>
+              </li>
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=76">
+                  <strong class="tit">(더벨 기사) 다올인베, 플라즈맵 엑시트 착수, 예상 멀티플 1.5배</strong>
+                  <div class="con"><span class="date">2022.11.01</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=75">
                   <strong class="tit">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정</strong>
                   <div class="con"><span class="date">2022.10.20</span></div>
@@ -66,6 +84,9 @@
                   <div class="con"><span class="date">2022.08.05</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=68">
                   <strong class="tit">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정</strong>
@@ -84,9 +105,6 @@
                   <div class="con"><span class="date">2022.07.11</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=65">
                   <strong class="tit">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴</strong>
@@ -129,6 +147,9 @@
                   <div class="con"><span class="date">2022.06.01</span></div>
                 </a>
               </li>
+						</c:if>
+
+            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=58">
                   <strong class="tit">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다</strong>
@@ -147,9 +168,6 @@
                   <div class="con"><span class="date">2022.05.12</span></div>
                 </a>
               </li>
-						</c:if>
-
-            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=55">
                   <strong class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</strong>
@@ -192,6 +210,9 @@
                   <div class="con"><span class="date">2022.03.04</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=50">
                   <strong class="tit">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다</strong>
@@ -210,9 +231,6 @@
                   <div class="con"><span class="date">2021.12.09</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=37">
                   <strong class="tit">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원</strong>
