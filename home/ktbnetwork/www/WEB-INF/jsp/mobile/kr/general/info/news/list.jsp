@@ -78,13 +78,13 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop69" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력<em>2022.08.05</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop68" role="button" title="상세내용 보기">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정<em>2022.07.27</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop67" role="button" title="상세내용 보기">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'<em>2022.07.26</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop66" role="button" title="상세내용 보기">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기<em>2022.07.11</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -108,13 +108,13 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop61" role="button" title="상세내용 보기">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”<em>2022.06.01</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop58" role="button" title="상세내용 보기">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다<em>2022.05.25</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop57" role="button" title="상세내용 보기">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다<em>2022.05.14</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop56" role="button" title="상세내용 보기">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다 <em>2022.05.12</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -138,13 +138,13 @@ jQuery(window).load(function() {
             <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop51" role="button" title="상세내용 보기">(뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 <em>2022.03.04</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop50" role="button" title="상세내용 보기">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다 <em>2022.01.20</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop46" role="button" title="상세내용 보기">(한국경제TV 기사) 김창규 KTB네트워크 대표 "공모유입 자금 전액 펀드 결성…3년내 2조원대로 키울 것" <em>2022.01.07</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
             </li>
             <li data-page="3" style="display: none;">
