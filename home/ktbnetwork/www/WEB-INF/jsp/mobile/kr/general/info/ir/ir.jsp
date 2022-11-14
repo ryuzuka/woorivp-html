@@ -21,6 +21,9 @@
 					<h2 class="hidden">IR 리스트</h2>
 					<ul class="boardList download">
 						<li>
+							<a href="/pdf/IR_3Q22.pdf" target="_blank" role="button">다올인베스트먼트 IR_3Q.22 <em>2022.11.14</em></a>
+						</li>
+						<li>
 							<a href="/pdf/IR_2Q22.pdf" target="_blank" role="button">다올인베스트먼트 IR_2Q.22 <em>2022.08.18</em></a>
 						</li>
             <li>

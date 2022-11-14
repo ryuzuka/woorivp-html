@@ -24,6 +24,12 @@
 				<div class="inner">
 					<ul class="boardList download">
 						<li>
+							<a href="/pdf/IR_3Q22.pdf">
+								<strong class="tit">다올인베스트먼트 IR_3Q.22</strong>
+								<div class="con"><span class="date">2022.11.14</span></div>
+							</a>
+						</li>
+						<li>
 							<a href="/pdf/IR_2Q22.pdf">
 								<strong class="tit">다올인베스트먼트 IR_2Q.22</strong>
 								<div class="con"><span class="date">2022.08.18</span></div>
