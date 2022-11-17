@@ -63,7 +63,7 @@
         <li>
           <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=77">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</div>
+            <div class="tit">(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</div>
           </a>
         </li>
       </ul>

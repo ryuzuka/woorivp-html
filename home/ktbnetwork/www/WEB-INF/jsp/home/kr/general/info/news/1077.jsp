@@ -15,7 +15,7 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</strong>
+          <strong class="tit">(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</strong>
           <div class="con">
             <span class="date">2022.11.02</span>
           </div>
@@ -41,13 +41,13 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</dt>
+            <dt>(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</dt>
             <dd>
               <p>
                 잉크젯 프린팅 기업 엔젯이 코스닥시장 입성에 도전한다.
               </p>
               <br>
-              <p>관련하여 파스넷뉴스에 게재된 기사 공유드립니다.<br>
+              <p>관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>

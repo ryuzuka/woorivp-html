@@ -32,7 +32,7 @@
               </li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=77">
-                  <strong class="tit">(파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</strong>
+                  <strong class="tit">(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</strong>
                   <div class="con"><span class="date">2022.11.02</span></div>
                 </a>
               </li>

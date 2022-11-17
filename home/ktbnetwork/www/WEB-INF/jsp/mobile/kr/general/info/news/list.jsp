@@ -52,7 +52,7 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop78" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박<em>2022.11.07</em></a>
             </li>
             <li>
-              <a href="#newsDetail_pop77" role="button" title="상세내용 보기">(파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표<em>2022.11.02</em></a>
+              <a href="#newsDetail_pop77" role="button" title="상세내용 보기">(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표<em>2022.11.02</em></a>
             </li>
             <li>
               <a href="#newsDetail_pop76" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 플라즈맵 엑시트 착수, 예상 멀티플 1.5배<em>2022.11.01</em></a>
@@ -204,24 +204,24 @@ jQuery(window).load(function() {
 </div>
 <!-- // (더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박 -->
 
-<!-- (파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표 -->
+<!-- (팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표 -->
 <div class="fullLayer" id="newsDetail_pop77">
   <h2 class="layerTit">NEWS</h2>
   <div class="layerCont" tabindex="0" >
     <div class="board_detail">
       <div class="detailTop">
-        <h3 class="titDep3">(파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</h3>
+        <h3 class="titDep3">(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</h3>
         <em class="date">2022.11.02</em>
       </div>
 
       <div class="detailCon">
         <div class="newscon_box">
-          <h4 class="tit">(파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</h4>
+          <h4 class="tit">(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</h4>
           <p style="text-align: left">
             잉크젯 프린팅 기업 엔젯이 코스닥시장 입성에 도전한다.
           </p>
           <br>
-          <p style="text-align: left">관련하여 파스넷뉴스에 게재된 기사 공유드립니다.<br>
+          <p style="text-align: left">관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
@@ -235,7 +235,7 @@ jQuery(window).load(function() {
   </div>
   <button type="button" class="layerClose">닫기</button>
 </div>
-<!-- // (파스넷뉴스 기사) 엔젯, 코스닥 입성 출사표 -->
+<!-- // (팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표 -->
 
 <!-- (더벨 기사) 다올인베, 플라즈맵 엑시트 착수, 예상 멀티플 1.5배 -->
 <div class="fullLayer" id="newsDetail_pop76">
