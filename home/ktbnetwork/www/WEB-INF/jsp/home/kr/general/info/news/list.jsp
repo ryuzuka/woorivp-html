@@ -25,6 +25,18 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=80">
+                  <strong class="tit">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</strong>
+                  <div class="con"><span class="date">2022.11.11</span></div>
+                </a>
+              </li>
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=79">
+                  <strong class="tit">(더벨 기사) IPO빙하기 녹인 협동로봇 뉴로메카, VC회수 '청신호'</strong>
+                  <div class="con"><span class="date">2022.11.09</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=78">
                   <strong class="tit">(더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박</strong>
                   <div class="con"><span class="date">2022.11.07</span></div>
@@ -72,6 +84,9 @@
                   <div class="con"><span class="date">2022.08.26</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=70">
                   <strong class="tit">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</strong>
@@ -84,9 +99,6 @@
                   <div class="con"><span class="date">2022.08.05</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=68">
                   <strong class="tit">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정</strong>
@@ -135,6 +147,9 @@
                   <div class="con"><span class="date">2022.06.04</span></div>
                 </a>
               </li>
+						</c:if>
+
+            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=62">
                   <strong class="tit">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</strong>
@@ -147,9 +162,6 @@
                   <div class="con"><span class="date">2022.06.01</span></div>
                 </a>
               </li>
-						</c:if>
-
-            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=58">
                   <strong class="tit">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다</strong>
@@ -198,6 +210,9 @@
                   <div class="con"><span class="date">2022.03.18</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
                   <strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
@@ -210,9 +225,6 @@
                   <div class="con"><span class="date">2022.03.04</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=50">
                   <strong class="tit">(더퍼블릭) KTB네트워크, 주주가치 제고 위해 30억원 자사주 매입한다</strong>

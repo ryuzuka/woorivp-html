@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박</strong>
+          <strong class="tit">(더벨 기사) IPO빙하기 녹인 협동로봇 뉴로메카, VC회수 '청신호'</strong>
           <div class="con">
-            <span class="date">2022.11.07</span>
+            <span class="date">2022.11.09</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,35 +41,35 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박</dt>
+            <dt>(더벨 기사) IPO빙하기 녹인 협동로봇 뉴로메카, VC회수 '청신호'</dt>
             <dd>
               <p>
-                다올인베스트먼트가 최대 2800억원을 목표로 추진 중인 스케일업 펀드 결성을 마무리할 예정이다.
+                뉴로메카가 코스닥 안착에 성공했다. 뉴로메카에 투자한 다수의 재무적 투자자들은 엑시트 시기를 조율중이다.
               </p>
               <br>
               <p>관련하여 더벨에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게제일 : 2022. 11. 07</p>
+              <p>기사 게제일 : 2022. 11. 09</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211031253288920101881&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211031253288920101881&svccode=00&page=1&sort=thebell_check_time</a></p>
+                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211071414266120103318&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211071414266120103318&lcode=00&page=1&svccode=00</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=79">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=80">
             <div class="arrow next">다음글</div>
-            <div class="tit">(더벨 기사) IPO빙하기 녹인 협동로봇 뉴로메카, VC회수 '청신호'</div>
+            <div class="tit">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=77">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=78">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</div>
+            <div class="tit">(더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박</div>
           </a>
         </li>
       </ul>

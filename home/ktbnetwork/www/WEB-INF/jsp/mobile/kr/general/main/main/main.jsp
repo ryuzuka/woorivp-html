@@ -23,9 +23,9 @@
 					<dt>펀드뉴스</dt>
 					<dd>
 						<ul>
+							<li><a href="/home/info/news/view.do?page=1&num=80">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</a></li>
+							<li><a href="/home/info/news/view.do?page=1&num=79">(더벨 기사) IPO빙하기 녹인 협동로봇 뉴로메카, VC회수 '청신호'</a></li>
               <li><a href="/home/info/news/view.do?page=1&num=78">(더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박</a></li>
-              <li><a href="/home/info/news/view.do?page=1&num=77">(팍스넷뉴스 기사) 엔젯, 코스닥 입성 출사표</a></li>
-              <li><a href="/home/info/news/view.do?page=1&num=76">(더벨 기사) 다올인베, 플라즈맵 엑시트 착수, 예상 멀티플 1.5배</a></li>
 						</ul>
 					</dd>
 				</dl>
