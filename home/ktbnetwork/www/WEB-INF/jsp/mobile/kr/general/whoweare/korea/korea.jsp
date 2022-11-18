@@ -11,6 +11,7 @@
 				<ul>
 					<li class="on"><a href="/home/whoweare/korea.do" aria-selected="true">KOREA</a></li>
 					<li><a href="/home/whoweare/china.do">CHINA</a></li>
+					<li><a href="/home/whoweare/singapore.do">SINGAPORE</a></li>
 				</ul>
 			</div>
 			<div class="tabType2 tabToggle">

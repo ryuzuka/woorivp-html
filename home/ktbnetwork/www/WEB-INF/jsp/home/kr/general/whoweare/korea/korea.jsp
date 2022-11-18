@@ -29,6 +29,13 @@
 						</ul>
 					</div>
 				</li>
+				<li class="sub"><a href="/home/whoweare/singapore.do">SINGAPORE</a>
+					<div class="subTab">
+						<ul class="inner">
+							<li class="on"><a href="#" aria-selected="true">Investment</a></li>
+						</ul>
+					</div>
+				</li>
 			</ul>
 		</div>
 		<!-- Investment -->
