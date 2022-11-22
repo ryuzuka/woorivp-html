@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
+
 <section class="container">
 	<div class="contents pdb0">
 		<div class="visualArea">
@@ -17,19 +18,18 @@
 			<div class="tabType2 tabToggle">
 				<ul>
 					<li class="on"><a href="#tab01" aria-selected="true">Investment</a></li>
-					<li><a href="#tab02">Management</a></li>
 				</ul>
 			</div>
 			<!-- Investment -->
 			<div id="tab01" class="tabCont" style="display:block">
-				<h2 class="hidden">KOREA Investment</h2>
+				<h2 class="hidden">SINGAPORE Investment</h2>
 				<ul class="personList">
 					<li>
-						<a href="#person_manageDeatail24" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_24.jpg" alt="Alan Ang Jian Wei"/></span>
+						<a href="#person_Deatail01" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_singapore_invest_01.jpg" alt="Alan Ang Jian Wei"/></span>
 							<span>
 								<em>Alan Ang Jian Wei</em>
-								<b>Director</b>
+								Director
 							</span>
 						</a>
 					</li>
@@ -42,7 +42,7 @@
 
 <!-- team investment(L) -->
 <!-- Alan Ang Jian Wei Director -->
-<div class="fullLayer" id="person_manageDeatail24">
+<div class="fullLayer" id="person_Deatail01">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
@@ -50,7 +50,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Alan Ang Jian Wei</dt>
-					<dd class="position">Singapore / Investment / Director</dd>
+					<dd class="position">SINGAPORE / Investment / Director</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">

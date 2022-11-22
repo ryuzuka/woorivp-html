@@ -47,7 +47,7 @@
 						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team52.jpg" alt="Alan Ang Jian Wei"></div>
 							<div class="right">
-								<h3>Alan Ang Jian Wei <span class="pointColor">Singapore / 투자팀 / 투자이사</span></h3>
+								<h3>Alan Ang Jian Wei <span class="pointColor" style="margin-left:0;">SINGAPORE / 투자팀 / 투자이사</span></h3>
 								<dl>
 									<dt>주요경력</dt>
 									<dd>Singapore Management Univ. (Business Management)<br>EDBI<br>Singtel (HOOQ)<br>Samsung Electronics</dd>

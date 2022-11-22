@@ -47,7 +47,7 @@
 							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team52.jpg" alt="Alan Ang Jian Wei"></div>
 								<div class="right">
-									<h3>Alan Ang Jian Wei <span class="pointColor">Singapore / Investment / Director</span></h3>
+									<h3>Alan Ang Jian Wei <span class="pointColor" style="margin-left:0;">SINGAPORE / Investment / Director</span></h3>
 									<dl>
 										<dt>Career</dt>
 										<dd>Singapore Management Univ. (Business Management)<br>EDBI<br>Singtel (HOOQ)<br>Samsung Electronics</dd>
