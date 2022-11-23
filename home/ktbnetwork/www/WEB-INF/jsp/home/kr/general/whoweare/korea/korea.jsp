@@ -777,6 +777,25 @@
             </li>
 						<li>
 							<div class="member">
+								<div class="left"><img src="/static/home/kr/images/contents/img_team53.jpg" alt="장현우"></div>
+								<div class="right">
+									<h3>장현우 <span class="pointColor">KOREA / 관리팀 / 주임</span></h3>
+									<dl>
+										<dt>주요경력</dt>
+										<dd>부산벤처스㈜</dd>
+										<dd>㈜비브이인베스트먼트</dd>
+										<dt>업무</dt>
+										<dd>펀드관리</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team53_off.jpg" alt="장현우"></span>
+								<strong>장현우</strong> 주임
+							</a>
+						</li>
+						<li>
+							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team50.jpg" alt="지유나"></div>
 								<div class="right">
 									<h3>지유나 <span class="pointColor">KOREA / 관리팀 / 사원</span></h3>

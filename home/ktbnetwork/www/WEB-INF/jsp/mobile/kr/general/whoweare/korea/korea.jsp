@@ -407,6 +407,16 @@
           </li>
 					<li>
 						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail24" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_24.jpg" alt="장현우 주임 사진" /></span>
+							<span>
+								<em>장현우</em>
+								주임
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail22" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_manage_22.jpg" alt="지유나 사원 사진" /></span>
 							<span>
@@ -1579,5 +1589,34 @@
   <button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //추상훈 대리 -->
+<!-- 장현우 주임 -->
+<div class="fullLayer" id="person_manageDeatail24">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop24.jpg" alt="장현우 주임 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">장현우</dt>
+					<dd class="position">KOREA / 관리팀 / 주임</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>부산벤처스㈜</li>
+							<li>㈜비브이인베스트먼트</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>펀드관리</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //장현우 주임 -->
 <!-- //팀원소개 investment(L) -->
-<footer></footer>

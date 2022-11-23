@@ -751,6 +751,25 @@
               </li>
 							<li>
 								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team53.jpg" alt="Jang Hyun Woo"></div>
+									<div class="right">
+										<h3>Jang Hyun Woo <span class="pointColor">KOREA / Management / Associate</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>Busan Ventures</dd>
+											<dd>BV Investment</dd>
+											<dt>Responsibilities</dt>
+											<dd>Fund management</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team53_off.jpg" alt="Jang Hyun Woo"></span>
+									<strong>Jang Hyun Woo</strong> Associate
+								</a>
+							</li>
+							<li>
+								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team50.jpg" alt="Jee Yu Na"></div>
 									<div class="right">
 										<h3>Jee Yu Na <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>

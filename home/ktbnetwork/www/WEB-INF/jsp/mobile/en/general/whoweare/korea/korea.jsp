@@ -392,6 +392,16 @@
           </li>
 					<li>
 						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail24" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_24.jpg" alt="Jang Hyun Woo" /></span>
+							<span>
+								<em>Jang Hyun Woo</em>
+								<b>Associate</b>
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail22" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_manage_22.jpg" alt="Jee Yu Na" /></span>
 							<span>
@@ -1575,4 +1585,34 @@
   <button type="button" class="layerClose">close</button>
 </div>
 <!-- //Choo Sang Hoon Manager -->
+<!-- Jang Hyun Woo Manager -->
+<div class="fullLayer" id="person_manageDeatail24">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop24.jpg" alt="Jang Hyun Woo" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Jang Hyun Woo</dt>
+					<dd class="position">KOREA / Management / Associate</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Busan Ventures</li>
+							<li>BV Investment</li>
+						</ul>
+					</dd>
+					<dt>Responsibilities</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Fund management</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Jang Hyun Woo Manager -->
 <!-- //team investment(L) -->
