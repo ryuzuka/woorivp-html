@@ -334,6 +334,22 @@
 					</li>
 					<li>
 						<div class="member">
+							<div class="left"><img src="/static/home/kr/images/contents/img_team54.jpg" alt="최형석"></div>
+							<div class="right">
+								<h3>최형석 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
+								<dl>
+									<dt>주요경력</dt>
+									<dd>KAIST 신소재공학과<br>KAIST 신소재공학 대학원<br>동진쎄미켐<br>Fraunhofer IAP</dd>
+								</dl>
+							</div>
+						</div>
+						<a href="#" class="thumb">
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team54_off.jpg" alt="최형석"></span>
+							<strong>최형석</strong> 팀장
+						</a>
+					</li>
+					<li>
+						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team15.jpg" alt="김만식"></div>
 							<div class="right">
 								<h3>김만식 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>

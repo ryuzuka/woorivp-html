@@ -178,6 +178,15 @@
 						</a>
 					</li>
 					<li>
+						<a href="#personDeatail24" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_invest_24.jpg" alt="Choi Hyung Seok" /></span>
+							<span>
+								<em>Choi Hyung Seok</em>
+								Team Manager
+							</span>
+						</a>
+					</li>
+					<li>
 						<a href="#personDeatail16" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_16.jpg" alt="Kim Man Sik" /></span>
 							<span>
@@ -752,7 +761,6 @@
 </div>
 <!-- //Kim Man Sik Team Manager -->
 
-
 <!-- Kim Ji Young Team Manager -->
 <div class="fullLayer" id="personDeatail22">
 	<h2 class="layerTit">Who We Are</h2>
@@ -786,6 +794,33 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Kim Ji Young Team Manager -->
+
+<!-- Choi Hyung Seok Team Manager -->
+<div class="fullLayer" id="personDeatail24">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_invest_pop24.jpg" alt="Choi Hyung Seok" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Choi Hyung Seok</dt>
+					<dd class="position">KOREA / Investment / Team Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>KAIST(Materials Science and Engineering)</li>
+							<li>KAIST, Graduate School of MSE</li>
+							<li>Dongjin Semichem.co.,Ltd.</li>
+							<li>Fraunhofer IAP</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Choi Hyung Seok Team Manager -->
 
 <!-- Seong Kyeong A Director -->
 <div class="fullLayer" id="personDeatail17">

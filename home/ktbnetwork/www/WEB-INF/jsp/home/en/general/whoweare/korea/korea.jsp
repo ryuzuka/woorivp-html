@@ -322,8 +322,29 @@
 								</div>
 							</div>
 							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team46_off.png" alt="Kim Man Sik"></span>
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team46_off.png" alt="Kim Ji Young"></span>
 								<strong>Kim Ji Young</strong> Team Manager
+							</a>
+						</li>
+						<li>
+							<div class="member">
+								<div class="left"><img src="/static/home/en/images/contents/img_team54.jpg" alt="Choi Hyung Seok"></div>
+								<div class="right">
+									<h3>Choi Hyung Seok<span class="pointColor">KOREA / Investment / Team Manager</span></h3>
+									<dl>
+										<dt>Career</dt>
+										<dd>
+											KAIST(Materials Science and Engineering)<br>
+											KAIST, Graduate School of MSE<br>
+											Dongjin Semichem.co.,Ltd.<br>
+											Fraunhofer IAP
+										</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team54_off.jpg" alt="Choi Hyung Seok"></span>
+								<strong>Choi Hyung Seok</strong> Team Manager
 							</a>
 						</li>
 						<li>

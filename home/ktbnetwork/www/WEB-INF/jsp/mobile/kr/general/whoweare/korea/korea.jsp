@@ -181,6 +181,15 @@
 						</a>
 					</li>
 					<li>
+						<a href="#personDeatail24" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_invest_24.jpg" alt="최형석 팀장 사진" /></span>
+							<span>
+								<em>최형석</em>
+								팀장
+							</span>
+						</a>
+					</li>
+					<li>
 						<a href="#personDeatail16" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_16.jpg" alt="김만식 팀장 사진" /></span>
 							<span>
@@ -920,6 +929,33 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //김지영 팀장 -->
+
+<!-- 최형석 팀장 -->
+<div class="fullLayer" id="personDeatail24">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_invest_pop24.jpg" alt="최형석" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">최형석</dt>
+					<dd class="position">KOREA / 투자팀  / 팀장</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>KAIST 신소재공학과</li>
+							<li>KAIST 신소재공학 대학원</li>
+							<li>동진쎄미켐</li>
+							<li>Fraunhofer IAP</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //최형석 팀장 -->
 
 <!-- 김신영 심사역 -->
 <div class="fullLayer" id="personDeatail20">

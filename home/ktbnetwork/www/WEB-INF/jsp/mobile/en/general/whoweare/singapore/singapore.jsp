@@ -46,7 +46,7 @@
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_invest_pop24.jpg" alt="Alan Ang Jian Wei" /></span>
+			<span><img src="/static/mobile/en/images/contents/img_singapore_invest_pop01.jpg" alt="Alan Ang Jian Wei" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Alan Ang Jian Wei</dt>
