@@ -25,6 +25,18 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=82">
+                  <strong class="tit">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</strong>
+                  <div class="con"><span class="date">2022.11.29</span></div>
+                </a>
+              </li>
+              <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=81">
+                  <strong class="tit">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</strong>
+                  <div class="con"><span class="date">2022.11.28</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=80">
                   <strong class="tit">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</strong>
                   <div class="con"><span class="date">2022.11.11</span></div>
@@ -72,6 +84,9 @@
                   <div class="con"><span class="date">2022.09.28</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=72">
                   <strong class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배</strong>
@@ -84,9 +99,6 @@
                   <div class="con"><span class="date">2022.08.26</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=70">
                   <strong class="tit">(더벨 기사) 다올인베, 스케일업펀드 2000억 모았다</strong>
@@ -135,6 +147,9 @@
                   <div class="con"><span class="date">2022.06.09</span></div>
                 </a>
               </li>
+						</c:if>
+
+            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=60">
                   <strong class="tit">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</strong>
@@ -147,9 +162,6 @@
                   <div class="con"><span class="date">2022.06.04</span></div>
                 </a>
               </li>
-						</c:if>
-
-            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=62">
                   <strong class="tit">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</strong>
@@ -198,6 +210,9 @@
                   <div class="con"><span class="date">2022.04.14</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
                   <strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
@@ -210,9 +225,6 @@
                   <div class="con"><span class="date">2022.03.18</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=48">
                   <strong class="tit">(머니투데이더벨 기사) KTB네트워크, 최대 3000억 스케일업 펀드 만든다</strong>
@@ -261,6 +273,9 @@
                   <div class="con"><span class="date">2021.11.29</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '5' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=32">
                   <strong class="tit">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대"</strong>
@@ -283,6 +298,7 @@
 							<a href="/home/info/news/list.do?page=2" <c:if test="${vo.page eq '2'}">class="on"</c:if>>2</a>
               <a href="/home/info/news/list.do?page=3" <c:if test="${vo.page eq '3'}">class="on"</c:if>>3</a>
               <a href="/home/info/news/list.do?page=4" <c:if test="${vo.page eq '4'}">class="on"</c:if>>4</a>
+              <a href="/home/info/news/list.do?page=5" <c:if test="${vo.page eq '5'}">class="on"</c:if>>5</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
 						<a href="/home/info/news/list.do?page=5" class="arrow end">마지막페이지로 이동</a>

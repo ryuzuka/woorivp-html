@@ -3,11 +3,11 @@
 <script type="text/javascript">
 var pageIndex = 0
 function fncPage() {
-  if (pageIndex < 4) {
+  if (pageIndex < 5) {
       pageIndex++
       jQuery('li[data-page=' + pageIndex + ']').show();
   }
-	if(pageIndex === 3) {
+	if(pageIndex === 4) {
 		jQuery("button.btnMore").hide();
 	}
 }
@@ -49,6 +49,12 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop82" role="button" title="상세내용 보기">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수<em>2022.11.29</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop81" role="button" title="상세내용 보기">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정<em>2022.11.28</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop80" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽<em>2022.11.11</em></a>
             </li>
             <li>
@@ -72,10 +78,10 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop73" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화<em>2022.09.28</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop72" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배<em>2022.08.29</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop71" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다<em>2022.08.26</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -102,10 +108,10 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop63" role="button" title="상세내용 보기">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항<em>2022.06.09</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop60" role="button" title="상세내용 보기">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]<em>2022.06.07</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop59" role="button" title="상세내용 보기">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?<em>2022.06.04</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -132,10 +138,10 @@ jQuery(window).load(function() {
             <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop53" role="button" title="상세내용 보기">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 <em>2022.04.14</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop52" role="button" title="상세내용 보기">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 <em>2022.03.21</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.18</em></a>
             </li>
             <li data-page="3" style="display: none;">
@@ -162,10 +168,10 @@ jQuery(window).load(function() {
             <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
             </li>
-            <li data-page="3" style="display: none;">
+            <li data-page="4" style="display: none;">
               <a href="#newsDetail_pop32" role="button" title="상세내용 보기">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대" <em>2021.08.19</em></a>
             </li>
-            <li data-page="3" style="display: none;">
+            <li data-page="4" style="display: none;">
               <a href="#newsDetail_pop31" role="button" title="상세내용 보기">(스트레이트뉴스 기사)한국신용평가, KTB네트워크 신용등급 BBB+(안정적) 신규 평가 <em>2021.06.24</em></a>
             </li>
 					</ul>
@@ -177,6 +183,72 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수 -->
+<div class="fullLayer" id="newsDetail_pop82">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</h3>
+        <em class="date">2022.11.11</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</h4>
+          <p style="text-align: left">
+            다올인베스트먼트가 엔젯에 대한 투자금 회수에 착수했다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 11. 29</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211250947254480104624&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211250947254480104624&svccode=00&page=1&sort=thebell_check_time</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수 -->
+
+<!-- (더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정 -->
+<div class="fullLayer" id="newsDetail_pop81">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</h3>
+        <em class="date">2022.11.28</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</h4>
+          <p style="text-align: left">
+            사립학교교직원연금공단이 VC블라인드 위탁 운용사 4곳을 선정했다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게제일 : 2022. 11. 28</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211241026408400102034&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211241026408400102034&svccode=00&page=1&sort=thebell_check_time</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정 -->
+
 <!-- (더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽 -->
 <div class="fullLayer" id="newsDetail_pop80">
   <h2 class="layerTit">NEWS</h2>
@@ -210,7 +282,6 @@ jQuery(window).load(function() {
 </div>
 <!-- // (더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽 -->
 
-
 <!-- (더벨 기사) IPO빙하기 녹인 협동로봇 뉴로메카, VC회수 '청신호' -->
 <div class="fullLayer" id="newsDetail_pop79">
   <h2 class="layerTit">NEWS</h2>
@@ -243,9 +314,6 @@ jQuery(window).load(function() {
   <button type="button" class="layerClose">닫기</button>
 </div>
 <!-- // (더벨 기사) IPO빙하기 녹인 협동로봇 뉴로메카, VC회수 '청신호' -->
-
-
-
 
 <!-- (더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박 -->
 <div class="fullLayer" id="newsDetail_pop78">

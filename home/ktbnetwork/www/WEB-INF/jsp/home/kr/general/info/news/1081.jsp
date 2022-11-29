@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</strong>
+          <strong class="tit">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</strong>
           <div class="con">
-            <span class="date">2022.11.11</span>
+            <span class="date">2022.11.28</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,35 +41,35 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</dt>
+            <dt>(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</dt>
             <dd>
               <p>
-                다올인베스트먼트가 엔젯에 대한 엑시트를 준비중이다.
+                사립학교교직원연금공단이 VC블라인드 위탁 운용사 4곳을 선정했다.
               </p>
               <br>
               <p>관련하여 더벨에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게제일 : 2022. 11. 11</p>
+              <p>기사 게제일 : 2022. 11. 28</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211091409013600105250&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211091409013600105250&svccode=00&page=1&sort=thebell_check_time</a></p>
+                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211241026408400102034&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211241026408400102034&svccode=00&page=1&sort=thebell_check_time</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=81">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=82">
             <div class="arrow next">다음글</div>
-            <div class="tit">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</div>
+            <div class="tit">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</div>
           </a>
         </li>
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=79">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=80">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(더벨 기사) IPO빙하기 녹인 협동로봇 뉴로메카, VC회수 '청신호'</div>
+            <div class="tit">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</div>
           </a>
         </li>
       </ul>
