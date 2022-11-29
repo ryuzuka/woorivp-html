@@ -426,6 +426,16 @@
 					</li>
 					<li>
 						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail25" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_25.jpg" alt="고명주 사원 사진" /></span>
+							<span>
+								<em>고명주</em>
+								사원
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail22" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_manage_22.jpg" alt="지유나 사원 사진" /></span>
 							<span>
@@ -1655,4 +1665,33 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //장현우 주임 -->
+<!-- 고명주 사원 -->
+<div class="fullLayer" id="person_manageDeatail25">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop25.jpg" alt="고명주 사원 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">고명주</dt>
+					<dd class="position">KOREA / 관리팀 / 사원</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>경기창조경제혁신센터</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>투자관리</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //고명주 사원 -->
 <!-- //팀원소개 investment(L) -->

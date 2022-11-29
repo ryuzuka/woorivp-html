@@ -791,6 +791,24 @@
 							</li>
 							<li>
 								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team55.jpg" alt="Ko Myung Ju"></div>
+									<div class="right">
+										<h3>Ko Myung Ju <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>Gyeonggi Center for Creative Economy & Innovation</dd>
+											<dt>Responsibilities</dt>
+											<dd>Investment management</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team55_off.jpg" alt="Ko Myung Ju"></span>
+									<strong>Ko Myung Ju</strong> Assistant Manager
+								</a>
+							</li>
+							<li>
+								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team50.jpg" alt="Jee Yu Na"></div>
 									<div class="right">
 										<h3>Jee Yu Na <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
