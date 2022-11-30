@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=83">
+                  <strong class="tit">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</strong>
+                  <div class="con"><span class="date">2022.11.30</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=82">
                   <strong class="tit">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</strong>
                   <div class="con"><span class="date">2022.11.29</span></div>
@@ -78,15 +84,15 @@
                   <div class="con"><span class="date">2022.10.13</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=73">
                   <strong class="tit">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화</strong>
                   <div class="con"><span class="date">2022.09.28</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=72">
                   <strong class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배</strong>
@@ -141,15 +147,15 @@
                   <div class="con"><span class="date">2022.06.14</span></div>
                 </a>
               </li>
+						</c:if>
+
+            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=63">
                   <strong class="tit">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</strong>
                   <div class="con"><span class="date">2022.06.09</span></div>
                 </a>
               </li>
-						</c:if>
-
-            <c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=60">
                   <strong class="tit">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</strong>
@@ -204,15 +210,15 @@
                   <div class="con"><span class="date">2022.04.19</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=53">
                   <strong class="tit">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표</strong>
                   <div class="con"><span class="date">2022.04.14</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
                   <strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
@@ -267,15 +273,15 @@
                   <div class="con"><span class="date">2021.12.02</span></div>
                 </a>
               </li>
+            </c:if>
+
+            <c:if test="${vo.page eq '5' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=34">
                   <strong class="tit">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약</strong>
                   <div class="con"><span class="date">2021.11.29</span></div>
                 </a>
               </li>
-            </c:if>
-
-            <c:if test="${vo.page eq '5' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=32">
                   <strong class="tit">(뉴스토마토 기사)KTB네트워크, 코스닥 상장 재도전…"유니콘기업 발굴·투자 확대"</strong>

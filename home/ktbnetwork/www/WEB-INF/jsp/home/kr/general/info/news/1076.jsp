@@ -51,7 +51,7 @@
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게제일 : 2022. 11. 01</p>
+              <p>기사 게재일 : 2022. 11. 01</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
                 <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210281427487200108739&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210281427487200108739&svccode=00&page=1&sort=thebell_check_time</a></p>

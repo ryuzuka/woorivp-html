@@ -49,9 +49,9 @@
                 <button type="button" class="next">다음 뉴스 보기</button>
               </div>
               <ul><!-- 요건 1: 버튼 클릭 시 li margin-top 값 조절되어 상하 롤링 ,요건2 : a 태그 공백 포함 50자 말줄임처리 -->
+                <li><a href="/home/info/news/view.do?page=1&num=83">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</a></li>
                 <li><a href="/home/info/news/view.do?page=1&num=82">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</a></li>
                 <li><a href="/home/info/news/view.do?page=1&num=81">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</a></li>
-                <li><a href="/home/info/news/view.do?page=1&num=80">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</a></li>
               </ul>
             </section>
           </div>

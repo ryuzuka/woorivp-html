@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop83" role="button" title="상세내용 보기">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최<em>2022.11.30</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop82" role="button" title="상세내용 보기">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수<em>2022.11.29</em></a>
             </li>
             <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop74" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순<em>2022.10.13</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop73" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화<em>2022.09.28</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -105,7 +108,7 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop64" role="button" title="상세내용 보기">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차<em>2022.06.14</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop63" role="button" title="상세내용 보기">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항<em>2022.06.09</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -135,7 +138,7 @@ jQuery(window).load(function() {
             <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop54" role="button" title="상세내용 보기">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 <em>2022.04.19</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop53" role="button" title="상세내용 보기">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 <em>2022.04.14</em></a>
             </li>
             <li data-page="3" style="display: none;">
@@ -165,7 +168,7 @@ jQuery(window).load(function() {
             <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
             </li>
-            <li data-page="3" style="display: none;">
+            <li data-page="4" style="display: none;">
               <a href="#newsDetail_pop34" role="button" title="상세내용 보기">KTB네트워크 코스닥 상장···대한민국 대표 글로벌 VC로 도약 <em>2021.11.29</em></a>
             </li>
             <li data-page="4" style="display: none;">
@@ -183,6 +186,39 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최 -->
+<div class="fullLayer" id="newsDetail_pop83">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</h3>
+        <em class="date">2022.11.30</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</h4>
+          <p style="text-align: left">
+            다올금융그룹과 벤처기업협회가 지난 29일 'DAOL Venture Challenge' 경진대회를 개최했다
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 스포츠서울에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게재일 : 2022. 11. 30</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="http://www.sportsseoul.com/news/read/1182089?ref=naver" target="_blank" title="새창 열림">http://www.sportsseoul.com/news/read/1182089?ref=naver</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최 -->
+
 <!-- (더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수 -->
 <div class="fullLayer" id="newsDetail_pop82">
   <h2 class="layerTit">NEWS</h2>
@@ -204,7 +240,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 11. 29</p>
+          <p style="text-align: left">기사 게재일 : 2022. 11. 29</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211250947254480104624&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211250947254480104624&svccode=00&page=1&sort=thebell_check_time</a></p>
@@ -237,7 +273,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 11. 28</p>
+          <p style="text-align: left">기사 게재일 : 2022. 11. 28</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211241026408400102034&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211241026408400102034&svccode=00&page=1&sort=thebell_check_time</a></p>
@@ -270,7 +306,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 11. 11</p>
+          <p style="text-align: left">기사 게재일 : 2022. 11. 11</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211091409013600105250&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211091409013600105250&svccode=00&page=1&sort=thebell_check_time</a></p>
@@ -303,7 +339,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 11. 09</p>
+          <p style="text-align: left">기사 게재일 : 2022. 11. 09</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211071414266120103318&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211071414266120103318&lcode=00&page=1&svccode=00</a></p>
@@ -336,7 +372,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 11. 7</p>
+          <p style="text-align: left">기사 게재일 : 2022. 11. 7</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211031253288920101881&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202211031253288920101881&svccode=00&page=1&sort=thebell_check_time</a></p>
@@ -369,7 +405,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 11. 2</p>
+          <p style="text-align: left">기사 게재일 : 2022. 11. 2</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="https://paxnetnews.com/articles/93885" target="_blank" title="새창 열림">https://paxnetnews.com/articles/93885</a></p>
@@ -402,7 +438,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 11. 1</p>
+          <p style="text-align: left">기사 게재일 : 2022. 11. 1</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210281427487200108739&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210281427487200108739&svccode=00&page=1&sort=thebell_check_time</a></p>
@@ -435,7 +471,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 10. 20</p>
+          <p style="text-align: left">기사 게재일 : 2022. 10. 20</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210181446032360105643&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210181446032360105643&lcode=00&page=1&svccode=00</a></p>
@@ -468,7 +504,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 10. 13</p>
+          <p style="text-align: left">기사 게재일 : 2022. 10. 13</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210111046446680102925&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210111046446680102925&lcode=00&page=1&svccode=00</a></p>
@@ -501,7 +537,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 9. 28</p>
+          <p style="text-align: left">기사 게재일 : 2022. 9. 28</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202209261052594920102987&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202209261052594920102987&lcode=00&page=1&svccode=00</a></p>
@@ -535,7 +571,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 8. 29</p>
+          <p style="text-align: left">기사 게재일 : 2022. 8. 29</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208261320102040104067&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208261320102040104067&svccode=00&page=1&sort=thebell_check_time</a></p>
@@ -569,7 +605,7 @@ jQuery(window).load(function() {
             보다 자세한 내용은 아래 기사 원문에서 확인하세요.
           </p>
           <br>
-          <p style="text-align: left">기사 게제일 : 2022. 8. 26</p>
+          <p style="text-align: left">기사 게재일 : 2022. 8. 26</p>
           <br>
           <p style="text-align: left">&gt;&gt;기사 바로가기<br>
             <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208241115450800109475&svccode=00&page=1&sort=thebell_check_time" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202208241115450800109475&svccode=00&page=1&sort=thebell_check_time</a></p>

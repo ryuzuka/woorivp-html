@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정</strong>
+          <strong class="tit">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</strong>
           <div class="con">
-            <span class="date">2022.10.20</span>
+            <span class="date">2022.11.30</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,35 +41,29 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정</dt>
+            <dt>(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</dt>
             <dd>
               <p>
-                과학기술인공제회가 벤처조합에 대한 블라인드펀드 운용사 선정 작업을 마무리했다.벤처조합 운용사로 다올인베스트먼트, DSC인베스트먼트, 에이티넘, LB인베스트먼트를 선정했다.
+                다올금융그룹과 벤처기업협회가 지난 29일 'DAOL Venture Challenge' 경진대회를 개최했다
               </p>
               <br>
-              <p>관련하여 더벨에 게재된 기사 공유드립니다.<br>
+              <p>관련하여 스포츠서울에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게재일 : 2022. 10. 20</p>
+              <p>기사 게재일 : 2022. 11. 30</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-                <a href="http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210181446032360105643&lcode=00&page=1&svccode=00" target="_blank" title="새창 열림">http://www.thebell.co.kr/free/content/ArticleView.asp?key=202210181446032360105643&lcode=00&page=1&svccode=00</a></p>
+                <a href="http://www.sportsseoul.com/news/read/1182089?ref=naver" target="_blank" title="새창 열림">http://www.sportsseoul.com/news/read/1182089?ref=naver</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=76">
-            <div class="arrow next">다음글</div>
-            <div class="tit">(더벨 기사) 다올인베, 플라즈맵 엑시트 착수, 예상 멀티플 1.5배</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=74">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=82">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순</div>
+            <div class="tit">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</div>
           </a>
         </li>
       </ul>

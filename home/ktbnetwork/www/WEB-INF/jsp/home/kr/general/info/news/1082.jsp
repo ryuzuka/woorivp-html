@@ -61,6 +61,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=83">
+            <div class="arrow next">다음글</div>
+            <div class="tit">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=81">
             <div class="arrow prev">이전글</div>
             <div class="tit">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</div>
