@@ -190,7 +190,7 @@ jQuery(window).load(function() {
     <div class="board_detail">
       <div class="detailTop">
         <h3 class="titDep3">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</h3>
-        <em class="date">2022.11.11</em>
+        <em class="date">2022.11.29</em>
       </div>
 
       <div class="detailCon">

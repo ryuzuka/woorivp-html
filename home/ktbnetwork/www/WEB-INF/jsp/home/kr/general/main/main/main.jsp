@@ -17,13 +17,13 @@
                   </a>
                 </li> -->
                 <li class="swiper-slide">
-                    <img src="/static/home/kr/images/main/main_visual2.png" alt="미래를 보는 다올인베스트먼트 성장가능성 있는 신생벤처기업 투자를 통해 미래의 가치를 만들어갑니다. 상품 바로가기">
+                  <img src="/static/home/kr/images/main/main_visual2.png" alt="미래를 보는 다올인베스트먼트 성장가능성 있는 신생벤처기업 투자를 통해 미래의 가치를 만들어갑니다. 상품 바로가기">
                 </li>
                 <!-- <li class="swiper-slide">
                     <img src="/static/home/kr/images/main/main_visual3.png" alt="함께 성장하는 KTB 설립 이후 38년간 IPO를 통해 277개의 기업(우회상장 포함)과 함께 하였습니다. 상품 바로가기">
                 </li> -->
                 <li class="swiper-slide">
-                    <img src="/static/home/kr/images/main/main_visual4.png" alt="세계로 향하는 네트워크 수십 년간 축적된 안목과 글로벌 네트워크를 통해 세계로 나아갑니다. 상품 바로가기">
+                  <img src="/static/home/kr/images/main/main_visual4.png" alt="세계로 향하는 네트워크 수십 년간 축적된 안목과 글로벌 네트워크를 통해 세계로 나아갑니다. 상품 바로가기">
                 </li>
               </ul>
               <div class="paging">
