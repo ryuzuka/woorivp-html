@@ -13,10 +13,11 @@
 						<li><a href="/home/watwedo/overview.do">Overview</a></li>
 						<li><a href="/home/watwedo/history.do">History</a></li>
 						<li class="on"><a href="/home/watwedo/philosophy.do" aria-selected="true">Philosophy</a></li>
+						<li><a href="/home/watwedo/ethic.do">윤리경영</a></li>
 					</ul>
 				</div>
 
-				<div class="tabCont"  style="display:block">
+				<div class="tabCont" style="display:block">
 					<h2 class="hidden">Philosophy</h2>
 					<h3 class="titDep2">운용철학</h3>
 					<img src="/static/mobile/kr/images/contents/img_introcon_txt.png" alt="Compliance Active Value Creation Alignment of Interest">

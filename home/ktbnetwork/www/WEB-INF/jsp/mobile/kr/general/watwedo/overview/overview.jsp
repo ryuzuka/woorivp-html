@@ -12,10 +12,11 @@
 						<li class="on"><a href="/home/watwedo/overview.do" aria-selected="true">Overview</a></li>
 						<li><a href="/home/watwedo/history.do">History</a></li>
 						<li><a href="/home/watwedo/philosophy.do">Philosophy</a></li>
+						<li><a href="/home/watwedo/ethic.do">윤리경영</a></li>
 					</ul>
 				</div>
 
-				<div class="tabCont"  style="display:block">
+				<div class="tabCont" style="display:block">
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">회사개요</h3>
           <p style="margin-top:-35px;margin-bottom:14px;padding-right:20px;color:#111;text-align:right;font-size:12px">

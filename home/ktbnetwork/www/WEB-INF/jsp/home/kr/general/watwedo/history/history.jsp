@@ -23,6 +23,7 @@
 							</div>
 						</li>
 						<li><a href="/home/watwedo/philosophy.do">Philosophy</a></li>
+						<li><a href="/home/watwedo/ethic.do">윤리경영</a></li>
 					</ul>
 				</div>
 				<div class="inner tabCont on">

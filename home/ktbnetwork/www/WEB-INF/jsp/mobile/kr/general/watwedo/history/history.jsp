@@ -12,6 +12,7 @@
 						<li><a href="/home/watwedo/overview.do">Overview</a></li>
 						<li class="on"><a href="/home/watwedo/history.do" aria-selected="true">History</a></li>
 						<li><a href="/home/watwedo/philosophy.do">Philosophy</a></li>
+						<li><a href="/home/watwedo/ethic.do">윤리경영</a></li>
 					</ul>
 				</div>
 
