@@ -23,9 +23,9 @@
 					<dt>펀드뉴스</dt>
 					<dd>
 						<ul>
+							<li><a href="/home/info/news/view.do?page=1&num=84">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</a></li>
 							<li><a href="/home/info/news/view.do?page=1&num=83">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</a></li>
 							<li><a href="/home/info/news/view.do?page=1&num=82">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</a></li>
-							<li><a href="/home/info/news/view.do?page=1&num=81">(더벨 기사) 가뭄에 단비, 사학연금 벤처펀드 운용사 4곳 선정</a></li>
 						</ul>
 					</dd>
 				</dl>

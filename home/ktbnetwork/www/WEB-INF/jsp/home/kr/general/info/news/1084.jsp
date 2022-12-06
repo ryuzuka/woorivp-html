@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</strong>
+          <strong class="tit">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</strong>
           <div class="con">
-            <span class="date">2022.11.30</span>
+            <span class="date">2022.12.05</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,35 +41,29 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</dt>
+            <dt>(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</dt>
             <dd>
               <p>
-                다올금융그룹과 벤처기업협회가 지난 29일 'DAOL Venture Challenge' 경진대회를 개최했다
+                다올인베스트먼트가 2000억원 후반대의 대형펀드와 초기투자 전용 펀드결성을 완료하면서 펀드레이징부분에서 전통 강호의 모습을 보여줬다.
               </p>
               <br>
-              <p>관련하여 스포츠서울에 게재된 기사 공유드립니다.<br>
+              <p>관련하여 탑데일리에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게재일 : 2022. 11. 30</p>
+              <p>기사 게재일 : 2022. 12. 05</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-                <a href="http://www.sportsseoul.com/news/read/1182089?ref=naver" target="_blank" title="새창 열림">http://www.sportsseoul.com/news/read/1182089?ref=naver</a></p>
+                <a href="https://www.topdaily.kr/articles/92364" target="_blank" title="새창 열림">https://www.topdaily.kr/articles/92364</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=84">
-            <div class="arrow next">다음글</div>
-            <div class="tit">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=82">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=83">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</div>
+            <div class="tit">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</div>
           </a>
         </li>
       </ul>

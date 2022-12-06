@@ -49,6 +49,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop84" role="button" title="상세내용 보기">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증<em>2022.12.05</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop83" role="button" title="상세내용 보기">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최<em>2022.11.30</em></a>
             </li>
             <li>
@@ -75,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop75" role="button" title="상세내용 보기">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정<em>2022.10.20</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop74" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순<em>2022.10.13</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -105,7 +108,7 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop65" role="button" title="상세내용 보기">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴<em>2022.07.04</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop64" role="button" title="상세내용 보기">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차<em>2022.06.14</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -135,7 +138,7 @@ jQuery(window).load(function() {
             <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop55" role="button" title="상세내용 보기">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대 <em>2022.05.03</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop54" role="button" title="상세내용 보기">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 <em>2022.04.19</em></a>
             </li>
             <li data-page="3" style="display: none;">
@@ -165,7 +168,7 @@ jQuery(window).load(function() {
             <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
             </li>
-            <li data-page="3" style="display: none;">
+            <li data-page="4" style="display: none;">
               <a href="#newsDetail_pop36" role="button" title="상세내용 보기">KTB네트워크, 공모가 5,800원 확정···공모가 밴드 내 IPO 성공 <em>2021.12.02</em></a>
             </li>
             <li data-page="4" style="display: none;">
@@ -186,6 +189,39 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+<!-- (탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증 -->
+<div class="fullLayer" id="newsDetail_pop84">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</h3>
+        <em class="date">2022.12.05</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</h4>
+          <p style="text-align: left">
+            다올인베스트먼트가 2000억원 후반대의 대형펀드와 초기투자 전용 펀드결성을 완료하면서 펀드레이징부분에서 전통 강호의 모습을 보여줬다.
+          </p>
+          <br>
+          <p style="text-align: left">관련하여 탑데일리에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게재일 : 2022. 12. 05</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://www.topdaily.kr/articles/92364" target="_blank" title="새창 열림">https://www.topdaily.kr/articles/92364</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증 -->
+
 <!-- (스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최 -->
 <div class="fullLayer" id="newsDetail_pop83">
   <h2 class="layerTit">NEWS</h2>
