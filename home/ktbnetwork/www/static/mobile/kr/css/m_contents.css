@@ -54,6 +54,7 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .introCon .check02:before{background:url(../images/contents/bg_ico_introcon02.png) no-repeat 0 0;background-size:100%;}
 .introCon .check03:before{background:url(../images/contents/bg_ico_introcon03.png) no-repeat 0 0;background-size:100%;}
 .introCon li strong{display:block;padding-bottom:5px;font-size:17px;font-weight:500;color:#333}
+.titDep2 + .ethicImg {margin-top:10px; margin-bottom:20px}
 
 /* Who we are */
 .personIntro .personList {background:#fdfdfd;margin:0 -30px}

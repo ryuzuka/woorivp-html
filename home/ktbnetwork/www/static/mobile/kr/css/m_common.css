@@ -226,6 +226,7 @@ textarea {width:100%;padding:20px 15px;border:1px solid #dadada;}
 
 .txtInfo{margin-top:10px}
 .txtInfo:first-child{margin-top:0}
+.txtInfo + .txtInfo {margin-top:20px}
 
 .txtCopy{position:relative;display:block;margin:35px 0 20px;color:#111;font-size:25px;line-height:1.2;z-index:0}
 .txtCopy .point{display:inline-block;position:relative}
