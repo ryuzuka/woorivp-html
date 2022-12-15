@@ -263,39 +263,22 @@
 					</li>
 					<li>
 						<div class="member">
-							<div class="left"><img src="/static/home/kr/images/contents/img_team39.jpg" alt="허종수"></div>
+							<div class="left"><img src="/static/home/kr/images/contents/img_team18.jpg" alt="차승준"></div>
 							<div class="right">
-								<h3>허종수 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
+								<h3>차승준 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
 								<dl>
 									<dt>주요경력</dt>
-									<dd>KAIST 전기및전자공학과</dd>
-									<dd>현대자동차</dd>
+									<dd>KAIST 기계공학과<br>중앙대학교 법학전문대학원 석사</dd>
+									<dt>업무</dt>
+									<dd>회사 발굴&amp;심사 및 투자집행</dd>
 								</dl>
 							</div>
 						</div>
 						<a href="#" class="thumb">
-							<span class="img"><img src="/static/home/kr/images/contents/thumb_team39_off.jpg" alt="허종수"></span>
-							<strong>허종수</strong> 팀장
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team18_off.jpg" alt="차승준"></span>
+							<strong>차승준</strong> 팀장
 						</a>
 					</li>
-						<li>
-							<div class="member">
-								<div class="left"><img src="/static/home/kr/images/contents/img_team18.jpg" alt="차승준"></div>
-								<div class="right">
-									<h3>차승준 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
-									<dl>
-										<dt>주요경력</dt>
-										<dd>KAIST 기계공학과<br>중앙대학교 법학전문대학원 석사</dd>
-										<dt>업무</dt>
-										<dd>회사 발굴&amp;심사 및 투자집행</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team18_off.jpg" alt="차승준"></span>
-								<strong>차승준</strong> 팀장
-							</a>
-						</li>
 					<li>
 						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team40.jpg" alt="김범준"></div>

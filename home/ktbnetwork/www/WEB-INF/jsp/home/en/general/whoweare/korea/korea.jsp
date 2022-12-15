@@ -257,23 +257,6 @@
 						</li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team39.jpg" alt="Heo Jong Soo"></div>
-								<div class="right">
-									<h3>Heo Jong Soo <span class="pointColor">Korea / Investment / Team Manager</span></h3>
-									<dl>
-										<dt>Career</dt>
-										<dd>KAIST (Electrical Engineering)</dd>
-										<dd>Hyundai Motor Company</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team39_off.jpg" alt="Heo Jong Soo"></span>
-								<strong>Heo Jong Soo</strong> Team Manager
-							</a>
-						</li>
-						<li>
-							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team18.jpg" alt="Cha Seung Jun"></div>
 								<div class="right">
 									<h3>Cha Seung Jun <span class="pointColor">KOREA / Investment  / Team Manager</span></h3>

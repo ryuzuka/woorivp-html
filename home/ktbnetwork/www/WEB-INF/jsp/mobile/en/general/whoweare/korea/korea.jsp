@@ -142,15 +142,6 @@
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail18" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_18.jpg" alt="Heo Jong Soo" /></span>
-							<span>
-								<em>Heo Jong Soo</em>
-								Team Manager
-							</span>
-						</a>
-					</li>
-					<li>
 						<a href="#person_manageDeatail04" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_manage_04.jpg" alt="Cha Seung Jun" /></span>
 							<span>
@@ -857,31 +848,6 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Seong Kyeong A Director -->
-
-<!-- Heo Jong Soo Team Manager -->
-<div class="fullLayer" id="personDeatail18">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_invest_pop18.jpg" alt="Heo Jong Soo" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">Heo Jong Soo</dt>
-					<dd class="position">KOREA / Investment / Team Manager</dd>
-					<dt>Career</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>KAIST (Electrical Engineering)</li>
-							<li>Hyundai Motor Company</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">close</button>
-</div>
-<!-- //Heo Jong Soo Team Manager -->
 
 <!-- Cha Seung Jun Team Manager -->
 <div class="fullLayer" id="person_manageDeatail04">
