@@ -43,30 +43,46 @@
 			<h2 class="hidden">SINGAPORE Investment</h2><!-- 탭 타이틀 -->
 			<div class="memberList">
 				<ul>
+					<!-- Alan Ang Jian Wei -->
 					<li class="active">
 						<div class="member">
-							<div class="left"><img src="/static/home/kr/images/contents/img_team52.jpg" alt="Alan Ang Jian Wei"></div>
+							<div class="left"><img src="/static/home/kr/images/contents/img_team52.jpg" alt="Alan Ang Jian Wei 투자이사 사진"></div>
 							<div class="right">
 								<h3>Alan Ang Jian Wei <span class="pointColor">SINGAPORE / 투자팀 / 투자이사</span></h3>
 								<dl>
 									<dt>주요경력</dt>
 									<dd>Singapore Management Univ. (Business Management)<br>EDBI<br>Singtel (HOOQ)<br>Samsung Electronics</dd>
-									<!--
-									<dt>업무</dt>
-									<dd>경영총괄</dd>
-									-->
 								</dl>
 							</div>
 						</div>
 						<a href="#" class="thumb">
-							<span class="img"><img src="/static/home/kr/images/contents/thumb_team52_on.jpg" alt="Alan Ang Jian Wei"></span>
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team52_on.jpg" alt="Alan Ang Jian Wei 투자이사 사진"></span>
 							<!--
 								활성화시 이미지, hover시 이미지
-								src="/static/home/kr/images/contents/thumb_team01_off.jpg"
+								src="/static/home/kr/images/contents/thumb_team52_off.jpg"
 							-->
 							<strong>Alan Ang Jian Wei</strong> 투자이사
 						</a>
 					</li>
+					<!-- //Alan Ang Jian Wei -->
+					<!-- 우상욱 -->
+					<li>
+						<div class="member">
+							<div class="left"><img src="/static/home/kr/images/contents/img_team56.jpg" alt="우상욱 심사역 사진"></div>
+							<div class="right">
+								<h3>우상욱 <span class="pointColor">SINGAPORE / 투자팀 / 심사역</span></h3>
+								<dl>
+									<dt>주요경력</dt>
+									<dd>University of California, Berkeley (영문학)<br>삼성생명<br>다올투자증권</dd>
+								</dl>
+							</div>
+						</div>
+						<a href="#" class="thumb">
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team56_on.jpg" alt="우상욱 심사역 사진"></span>
+							<strong>우상욱</strong> 심사역
+						</a>
+					</li>
+					<!-- //우상욱 -->
 				</ul>
 			</div>
 		</div>

@@ -24,6 +24,7 @@
 			<div id="tab01" class="tabCont" style="display:block">
 				<h2 class="hidden">SINGAPORE Investment</h2>
 				<ul class="personList">
+					<!-- Alan Ang Jian Wei -->
 					<li>
 						<a href="#person_Deatail01" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_singapore_invest_01.jpg" alt="Alan Ang Jian Wei"/></span>
@@ -33,6 +34,18 @@
 							</span>
 						</a>
 					</li>
+					<!-- //Alan Ang Jian Wei -->
+					<!-- Brian Sang Wook Woo -->
+					<li>
+						<a href="#person_Deatail02" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_singapore_invest_02.jpg" alt="Brian Sang Wook Woo"/></span>
+							<span>
+								<em>Brian Sang Wook Woo</em>
+								Investment Manager
+							</span>
+						</a>
+					</li>
+					<!-- //Brian Sang Wook Woo -->
 				</ul>
 			</div>
 			<!-- //Investment -->
@@ -41,7 +54,7 @@
 </section>
 
 <!-- team investment(L) -->
-<!-- Alan Ang Jian Wei Director -->
+<!-- Alan Ang Jian Wei -->
 <div class="fullLayer" id="person_Deatail01">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -66,5 +79,31 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Alan Ang Jian Wei Director -->
+<!-- //Alan Ang Jian Wei -->
+
+<!-- Brian Sang Wook Woo -->
+<div class="fullLayer" id="person_Deatail02">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_singapore_invest_pop02.jpg" alt="Brian Sang Wook Woo" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Brian Sang Wook Woo</dt>
+					<dd class="position">SINGAPORE / Investment / Investment Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>University of California, Berkeley (English Literature)</li>
+							<li>Samsung Life Insurance</li>
+							<li>Daol Investment & Securities</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Brian Sang Wook Woo -->
 <!-- //team investment(L) -->

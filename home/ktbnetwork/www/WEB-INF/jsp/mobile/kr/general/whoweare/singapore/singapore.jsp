@@ -24,15 +24,28 @@
 			<div id="tab01" class="tabCont" style="display:block">
 				<h2 class="hidden">SINGAPORE Investment</h2> <!-- 해당 탭 타이틀 -->
 				<ul class="personList">
+					<!-- Alan Ang Jian Wei -->
 					<li>
 						<a href="#person_Deatail01" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_singapore_invest_01.jpg" alt="Alan Ang Jian Wei" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_singapore_invest_01.jpg" alt="Alan Ang Jian Wei 투자이사 사진" /></span>
 							<span>
 								<em>Alan Ang Jian Wei</em>
 								투자이사
 							</span>
 						</a>
 					</li>
+					<!-- //Alan Ang Jian Wei -->
+					<!-- 우상욱 -->
+					<li>
+						<a href="#person_Deatail02" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_singapore_invest_02.jpg" alt="우상욱 심사역 사진" /></span>
+							<span>
+								<em>우상욱</em>
+								심사역
+							</span>
+						</a>
+					</li>
+					<!-- //우상욱 -->
 				</ul>
 			</div>
 			<!-- //Investment -->
@@ -67,5 +80,31 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //Alan Ang Jian Wei 투자이사 -->
+
+<!-- 우상욱 심사역 -->
+<div class="fullLayer" id="person_Deatail02">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_singapore_invest_pop02.jpg" alt="우상욱 심사역 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">우상욱</dt>
+					<dd class="position">SINGAPORE / 투자팀 / 심사역</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>University of California, Berkeley (영문학)</li>
+							<li>삼성생명</li>
+							<li>다올투자증권</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //우상욱 심사역 -->
 <!-- //팀원소개 investment(L) -->
 <footer></footer>
