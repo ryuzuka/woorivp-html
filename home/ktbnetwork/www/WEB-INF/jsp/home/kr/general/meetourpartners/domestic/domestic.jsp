@@ -194,7 +194,7 @@
 
 					<li><a href="#OP11T99L"><img src="/static/home/kr/images/contents/img_partners_99_off.gif" alt="스타일쉐어 로고"><span>스타일쉐어</span></a></li><!-- 0417 추가 -->
 
-					<li><a href="#OP11T100L"><img src="/static/home/kr/images/contents/img_partners_103_off.png" alt="(주)파블로항공"><span>(주)파블로항공</span></a></li>
+					<li><a href="#OP11T100L"><img src="/static/home/kr/images/contents/img_partners_103_v2_off.png" alt="(주)파블로항공"><span>(주)파블로항공</span></a></li>
 
 				</ul>
 			</div>
@@ -1597,7 +1597,7 @@
 		<div class="layerContainer">
 			<h2 class="layerTit">(주)파블로항공</h2>
 			<div class="layerCont" tabindex="0">
-				<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_103_on.png" alt="(주)파블로항공 로고"></div>
+				<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_103_v2_on.png" alt="(주)파블로항공 로고"></div>
 				<p class="mtS">파블로항공은 독자적인 관제, 군집 비행 역량을 기반으로 물류 드론 서비스 플랫폼을 제공하고 있습니다. 현재 K-드론시스템 실증사업에 참여하고 있으며 향후 국내 도서 지역과 미국 등 해외시장으로 드론 물류사업을 추진할 계획입니다.</p>
 				<div class="link"><p class="site"><a href="http://www.pabloair.com/" target="_blank" title="새창열기">http://www.pabloair.com/</a></p></div>
 			</div>

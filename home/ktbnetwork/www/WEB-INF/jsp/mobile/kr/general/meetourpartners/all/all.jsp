@@ -540,7 +540,7 @@
 
 						<li>
 							<a href="#partnerpop103" role="button">
-								<img src="/static/mobile/kr/images/contents/img_partners_103.png" alt="(주)파블로항공 로고 이미지" />
+								<img src="/static/mobile/kr/images/contents/img_partners_103_v2.png" alt="(주)파블로항공 로고 이미지" />
 								<em>(주)파블로항공</em>
 							</a>
 						</li>
@@ -2035,7 +2035,7 @@
 			<h2 class="layerTit">(주)파블로항공</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo"><img src="/static/mobile/kr/images/contents/img_partners_103.png" alt="(주)파블로항공 로고 이미지"></div>
+					<div class="logo"><img src="/static/mobile/kr/images/contents/img_partners_103_v2.png" alt="(주)파블로항공 로고 이미지"></div>
 					<div class="contBtn">
 						<a href="http://www.pabloair.com/" target="_blank" title="새창열기">http://www.pabloair.com/</a>
 					</div>
