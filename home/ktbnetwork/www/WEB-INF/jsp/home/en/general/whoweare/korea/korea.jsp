@@ -230,7 +230,7 @@
 									<h3>Seong Kyeong A <span class="pointColor">KOREA / Investment / Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd><dd>KAIST Ph.D. (Chemical and Biomolecular Engineering)<br>LG Chem, Ltd.<br>KIBO (Korea Technology Finance Corporation)</dd></dd>
+										<dd>KAIST Ph.D. (Chemical and Biomolecular Engineering)<br>LG Chem, Ltd.<br>KIBO (Korea Technology Finance Corporation)</dd>
 									</dl>
 								</div>
 							</div>
