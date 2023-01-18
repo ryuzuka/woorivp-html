@@ -376,8 +376,15 @@
 								<img src="/static/mobile/en/images/contents/img_partners_99.gif" alt="Styleshare image" />
 								<em>Styleshare</em>
 							</a>
-						</li><!-- 0417 추가 -->
-						
+						</li>
+						<!-- 0417 추가 -->
+
+						<li>
+							<a href="#partnerpop103" role="button">
+								<img src="/static/mobile/en/images/contents/img_partners_103_v2.png" alt="PABLO AIR image" />
+								<em>PABLO AIR</em>
+							</a>
+						</li>
 					</ul><!-- //partnerList -->
 				</div>
 			</div>
@@ -386,7 +393,7 @@
 
 <!-- partner layerpop(L) -->
 	<!-- NEOLAB CONVERGENCE -->
-	<div class="layerPop" ="partnerpop01">
+	<div class="layerPop" id="partnerpop01">
 		<div class="layerContainer">
 			<h2 class="layerTit">NEOLAB CONVERGENCE</h2>
 			<div class="layerCont" tabindex="0">
@@ -1408,6 +1415,24 @@
 	</div>
 	<!-- //Styleshare -->
 <!-- //0417 추가 -->
+
+	<!-- PABLO AIR(L) -->
+	<div class="layerPop" id="partnerpop103">
+		<div class="layerContainer">
+			<h2 class="layerTit">PABLO AIR</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo"><img src="/static/mobile/en/images/contents/img_partners_103_v2.png" alt="PABLO AIR Logo"></div>
+					<div class="contBtn">
+						<a href="http://www.pabloair.com/" target="_blank" title="open new window">http://www.pabloair.com/</a>
+					</div>
+				</div>
+				PABLO AIR is a company that provides drone logistics service platform based on its independently developed swarm flight and flight control capabilities. They have successfully completed the K-Drone System demonstration project and are currently working on projects with organizations such as NUAIR and NASA, leading the way in the practical implementation of drone delivery both domestically and internationally. In the future, they aim to bring innovation to the unmanned mobility and delivery logistics systems through their own platform, PAMNet, beyond just drones.
+			</div>
+		</div>
+		<button type="button" class="layerClose">Close</button>
+	</div>
+	<!-- PABLO AIR//(L) -->
 	
 <!-- //partner layerpop(L) -->
 	<div class="dimmed"></div>

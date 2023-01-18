@@ -94,7 +94,8 @@
 							<li><a href="#OP11T97L"><img src="/static/home/en/images/contents/img_partners_97_off.gif" alt="CellBioHumanTech Logo"><span>CellBioHumanTech</span></a></li>
 							<li><a href="#OP11T98L"><img src="/static/home/en/images/contents/img_partners_98_off.gif" alt="Sangwha, Inc. Logo"><span>Sangwha, Inc.</span></a></li>
 							<li><a href="#OP11T99L"><img src="/static/home/en/images/contents/img_partners_99_off.gif" alt="Styleshare Logo"><span>Styleshare</span></a></li><!-- 0417 추가 -->
-							
+
+							<li><a href="#OP11T103L"><img src="/static/home/en/images/contents/img_partners_103_v2_off.png" alt="PABLO AIR Logo"><span>PABLO AIR</span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -949,13 +950,27 @@
 					<div class="tcenter"><img src="/static/home/en/images/contents/img_partners_99_on.gif" alt="Sangwha, Inc. Logo"></div>
 					<p class="mtS">Styleshare is a contents-based commerce platform provider. 
 					It provides Styleshare app used by a third of generation Z in Korea and operates a fashion lifestyle select store '29CM' as its subsidiary. Over a million users share tens of thousands of fashion contents on the app monthly, and over 2,000 brands do business on the platform.</p>
-					<div class="link"><p class="site"><a href="https://about.stylesha.re/ target="_blank" title="new window">https://about.stylesha.re/</a></p></div>
+					<div class="link"><p class="site"><a href="https://about.stylesha.re/" target="_blank" title="new window">https://about.stylesha.re/</a></p></div>
 				</div>
 			</div>
 			<button type="button" class="layerClose">Close</button>
 		</div>
 		<!-- Sangwha, Inc.//(L) -->
 <!-- //0417 추가 -->
+
+		<!-- PABLO AIR(L) -->
+		<div class="layerPop layerS" id="OP11T103L">
+			<div class="layerContainer">
+				<h2 class="layerTit">PABLO AIR</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/en/images/contents/img_partners_103_v2_on.png" alt="PABLO AIR Logo"></div>
+					<p class="mtS">PABLO AIR is a company that provides drone logistics service platform based on its independently developed swarm flight and flight control capabilities. They have successfully completed the K-Drone System demonstration project and are currently working on projects with organizations such as NUAIR and NASA, leading the way in the practical implementation of drone delivery both domestically and internationally. In the future, they aim to bring innovation to the unmanned mobility and delivery logistics systems through their own platform, PAMNet, beyond just drones.</p>
+					<div class="link"><p class="site"><a href="http://www.pabloair.com/" target="_blank" title="new window">http://www.pabloair.com/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">Close</button>
+		</div>
+		<!-- PABLO AIR//(L) -->
 		
 		<div class="dimmed"></div>
 		
