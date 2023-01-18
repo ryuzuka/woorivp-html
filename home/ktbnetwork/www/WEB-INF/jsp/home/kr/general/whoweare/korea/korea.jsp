@@ -188,7 +188,7 @@
 									<dt>주요경력</dt>
 									<dd>삼성물산영상사업단<br>강제규필름</dd>
 									<dt>업무</dt>
-									<dd>콘텐츠 투자심사 및 인사총무</dd>
+									<dd>콘텐츠 투자심사</dd>
 								</dl>
 							</div>
 						</div>
@@ -576,20 +576,22 @@
 						</li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/kr/images/contents/img_team08.jpg" alt="김은숙"></div>
+								<div class="left"><img src="/static/home/kr/images/contents/img_team57.jpg" alt="송치훈"></div>
 								<div class="right">
-									<h3>김은숙 <span class="pointColor">KOREA / 관리팀 / 이사</span></h3>
+									<h3>송치훈 <span class="pointColor">KOREA / 관리팀 / 이사</span></h3>
 									<dl>
 										<dt>주요경력</dt>
-										<dd>삼성물산영상사업단<br>강제규필름</dd>
+										<dd>A.T.Kearney</dd>
+										<dd>우리금융경영연구소</dd>
+										<dd>다올투자증권</dd>
 										<dt>업무</dt>
-										<dd>콘텐츠 투자심사 및 인사총무</dd>
+										<dd>전략기획</dd>
 									</dl>
 								</div>
 							</div>
 							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team08_off.jpg" alt="김은숙"></span>
-								<strong>김은숙</strong> 이사
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team57_off.jpg" alt="송치훈"></span>
+								<strong>송치훈</strong> 이사
 							</a>
 						</li>
 						<li>

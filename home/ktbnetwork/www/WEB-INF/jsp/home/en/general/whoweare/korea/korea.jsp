@@ -555,20 +555,20 @@
 							</li>
 							<li>
 								<div class="member">
-									<div class="left"><img src="/static/home/en/images/contents/img_team08.jpg" alt="Kim Eun Sook"></div>
+									<div class="left"><img src="/static/home/en/images/contents/img_team57.jpg" alt="Song Chi Hoon"></div>
 									<div class="right">
-										<h3>Kim Eun Sook <span class="pointColor">KOREA / Management / Director</span></h3>
+										<h3>Song Chi Hoon <span class="pointColor">KOREA / Management / Director</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>Samsung C&amp;T<br>KangJeGyu Film<br>DAOL Investment</dd>
+											<dd>A.T.Kearney<br>Woori Finance Research Institute<br>DAOL Investment & Securities</dd>
 											<dt>Responsibilities</dt>
-											<dd>Human resource management</dd>
+											<dd>Strategic planning</dd>
 										</dl>
 									</div>
 								</div>
 								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team08_off.jpg" alt="Kim Eun Sook"></span>
-									<strong>Kim Eun Sook</strong> Director
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team57_off.jpg" alt="Song Chi Hoon"></span>
+									<strong>Song Chi Hoon</strong> Director
 								</a>
 							</li>
 							<li>

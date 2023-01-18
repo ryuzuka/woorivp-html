@@ -296,10 +296,10 @@
 					-->
 					<li>
 						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail07" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_07.jpg" alt="김은숙 이사 사진" /></span>
+						<a href="#person_manageDeatail26" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_26.jpg" alt="송치훈 이사 사진" /></span>
 							<span>
-								<em>김은숙</em>
+								<em>송치훈</em>
 								이사
 							</span>
 						</a>
@@ -650,7 +650,6 @@
 					<dd>
 						<ul class="listDep1">
 							<li>콘텐츠 투자심사</li>
-							<li>인사총무</li>
 						</ul>
 					</dd>
 				</dl>
@@ -1216,28 +1215,28 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //황문철 상무 -->
-<!-- 김은숙 이사 -->
-<div class="fullLayer" id="person_manageDeatail07">
+<!-- 송치훈 이사 -->
+<div class="fullLayer" id="person_manageDeatail26">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop07.jpg" alt="김은숙 이사 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop26.jpg" alt="송치훈 이사 사진" /></span>
 			<div class="deatilCon">
 				<dl>
-					<dt class="name">김은숙</dt>
+					<dt class="name">송치훈</dt>
 					<dd class="position">KOREA / 관리팀 / 이사</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>삼성물산영상사업단</li>
-							<li>강제규필름</li>
+							<li>A.T.Kearney</li>
+							<li>우리금융경영연구소</li>
+							<li>다올투자증권</li>
 						</ul>
 					</dd>
 					<dt>업무</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>콘텐츠 투자심사</li>
-							<li>인사총무</li>
+							<li>전략기획</li>
 						</ul>
 					</dd>
 				</dl>
@@ -1246,7 +1245,7 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //김은숙 이사 -->
+<!-- //송치훈 이사 -->
 <!-- 이지현 팀장 -->
 <div class="fullLayer" id="person_manageDeatail09">
 	<h2 class="layerTit">Who We Are</h2>

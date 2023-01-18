@@ -282,10 +282,10 @@
 					</li>
 					<li>
 						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail07" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_07.jpg" alt="Kim Eun Sook" /></span>
+						<a href="#person_manageDeatail26" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_26.jpg" alt="Song Chi Hoon" /></span>
 							<span>
-								<em>Kim Eun Sook</em>
+								<em>Song Chi Hoon</em>
 								<b>Director</b>
 							</span>
 						</a>
@@ -1181,28 +1181,28 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Chung Do Executive Vice Presideng -->
-<!-- Kim Eun Sook Director -->
-<div class="fullLayer" id="person_manageDeatail07">
+<!-- Song Chi Hoon Director -->
+<div class="fullLayer" id="person_manageDeatail26">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_manage_pop07.jpg" alt="Kim Eun Sook" /></span>
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop26.jpg" alt="Song Chi Hoon" /></span>
 			<div class="deatilCon">
 				<dl>
-					<dt class="name">Kim Eun Sook</dt>
+					<dt class="name">Song Chi Hoon</dt>
 					<dd class="position">KOREA / Management / Director</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>Samsung C&amp;T</li>
-							<li>KangJeGyu Film</li>
-							<li>DAOL Investment</li>
+							<li>A.T.Kearney</li>
+							<li>Woori Finance Research Institute</li>
+							<li>DAOL Investment & Securities</li>
 						</ul>
 					</dd>
 					<dt>Responsibilities</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>Human resource management</li>
+							<li>Strategic planning</li>
 						</ul>
 					</dd>
 				</dl>
@@ -1211,7 +1211,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Kim Eun Sook Director -->
+<!-- //Song Chi Hoon Director -->
 <!-- Hwang Moon Managing Director -->
 <div class="fullLayer" id="person_manageDeatail08">
 	<h2 class="layerTit">Who We Are</h2>
