@@ -1229,7 +1229,6 @@
 					<dd>
 						<ul class="listDep1">
 							<li>A.T.Kearney</li>
-							<li>우리금융경영연구소</li>
 							<li>다올투자증권</li>
 						</ul>
 					</dd>

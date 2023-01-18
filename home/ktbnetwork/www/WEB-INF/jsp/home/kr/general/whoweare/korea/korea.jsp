@@ -582,7 +582,6 @@
 									<dl>
 										<dt>주요경력</dt>
 										<dd>A.T.Kearney</dd>
-										<dd>우리금융경영연구소</dd>
 										<dd>다올투자증권</dd>
 										<dt>업무</dt>
 										<dd>전략기획</dd>

@@ -560,7 +560,7 @@
 										<h3>Song Chi Hoon <span class="pointColor">KOREA / Management / Director</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>A.T.Kearney<br>Woori Finance Research Institute<br>DAOL Investment & Securities</dd>
+											<dd>A.T.Kearney<br>DAOL Investment & Securities</dd>
 											<dt>Responsibilities</dt>
 											<dd>Strategic planning</dd>
 										</dl>

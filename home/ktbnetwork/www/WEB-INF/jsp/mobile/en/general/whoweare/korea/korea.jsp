@@ -1195,7 +1195,6 @@
 					<dd>
 						<ul class="listDep1">
 							<li>A.T.Kearney</li>
-							<li>Woori Finance Research Institute</li>
 							<li>DAOL Investment & Securities</li>
 						</ul>
 					</dd>
