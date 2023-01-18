@@ -2232,7 +2232,7 @@
 			<h2 class="layerTit">(주)파블로항공</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_103_v2_on.png" alt="(주)파블로항공 로고"></div>
-				<p class="mtS">파블로항공은 독자적인 관제, 군집 비행 역량을 기반으로 드론 물류 서비스 플랫폼을 제공하고 있습니다. K-드론시스템 실증사업을 성공적으로 완료하였고, 뉴욕항공진흥원(NUAIR) 및 NASA 실증 프로젝트 등을 수행하며 국내외에서 드론 배송의 현실화를 앞당기고 있습니다. 향후 자체 플랫폼인 PAMNet을 통해 드론을 넘어, 무인 모빌리티를 통합하고 무인 배송 및 물류 시스템에 혁신을 일으키고자 합니다.</p>
+				<p class="mtS">파블로항공은 드론배송솔루션 및 UAM 통합관제시스템 전문 기업입니다. 국내 산간 및 도심지역에서 드론배송 서비스를 위한 실증사업을 성료했고, 미국에서 뉴욕항공진흥청 및 NASA와 함께 실증 프로젝트를 진행하고 있습니다. 이를 통해 국내외 시장에서 물류 드론 서비스를 확대하고 UAM 산업 시장을 선도해 나갈 계획입니다.</p>
 				<div class="link"><p class="site"><a href="http://www.pabloair.com/" target="_blank" title="새창열기">http://www.pabloair.com/</a></p></div>
 			</div>
 		</div>

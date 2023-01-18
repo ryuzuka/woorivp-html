@@ -2031,7 +2031,7 @@
 						<a href="http://www.pabloair.com/" target="_blank" title="open new window">http://www.pabloair.com/</a>
 					</div>
 				</div>
-				PABLO AIR is a company that provides drone logistics service platform based on its independently developed swarm flight and flight control capabilities. They have successfully completed the K-Drone System demonstration project and are currently working on projects with organizations such as NUAIR and NASA, leading the way in the practical implementation of drone delivery both domestically and internationally. In the future, they aim to bring innovation to the unmanned mobility and delivery logistics systems through their own platform, PAMNet, beyond just drones.
+				PABLO AIR is a specialized company in drone delivery solutions and UAM integrated control systems. They have completed demonstration projects for drone delivery services in mountainous and urban areas in Korea, and are currently conducting demonstration projects with the NUAIR and NASA in the United States. Through these efforts, they plan to expand drone logistics services in domestic and international markets and lead the UAM industry.
 			</div>
 		</div>
 		<button type="button" class="layerClose">Close</button>
