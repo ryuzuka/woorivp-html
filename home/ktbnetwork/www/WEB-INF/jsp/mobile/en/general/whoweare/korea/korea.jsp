@@ -187,6 +187,15 @@
 						</a>
 					</li>
 					<li>
+						<a href="#personDeatail23" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_invest_23.png" alt="Park Hyung Joo" /></span>
+							<span>
+								<em>Park Hyung Joo</em>
+								Team Manager
+							</span>
+						</a>
+					</li>
+					<li>
 						<a href="#personDeatail20" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_20.jpg" alt="Kim Shin Young" /></span>
 							<span>
@@ -200,15 +209,6 @@
 							<span><img src="/static/mobile/en/images/contents/img_invest_21.png" alt="Lee Tea Kue" /></span>
 							<span>
 								<em>Lee Tea Kue</em>
-								Investment Manager
-							</span>
-						</a>
-					</li>
-					<li>
-						<a href="#personDeatail23" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_23.png" alt="Park Hyung Joo" /></span>
-							<span>
-								<em>Park Hyung Joo</em>
 								Investment Manager
 							</span>
 						</a>
@@ -256,7 +256,7 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_03.jpg" alt="Kum Kyung Hwan" /></span>
 							<span>
 								<em>Kum Kyung Hwan</em>
-								<b>Team Manager</b>
+								<b>Director</b>
 							</span>
 						</a>
 					</li>
@@ -296,7 +296,7 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_09.jpg" alt="Lee Ji Hyun" /></span>
 							<span>
 								<em>Lee Ji Hyun</em>
-								<b>Team Manager</b>
+								<b>Director</b>
 							</span>
 						</a>
 					</li>
@@ -306,7 +306,7 @@
 							<span><img src="/static/mobile/en/images/contents/img_manage_10.jpg" alt="Hong Ji Won" /></span>
 							<span>
 								<em>Hong Ji Won</em>
-								<b>Team Manager</b>
+								<b>Director</b>
 							</span>
 						</a>
 					</li>
@@ -972,7 +972,7 @@
 </div>
 <!-- //Lee Tea Kue Investment Manager -->
 
-<!-- Park Hyung Joo Investment Manager -->
+<!-- Park Hyung Joo Team Manager -->
 <div class="fullLayer" id="personDeatail23">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1002,7 +1002,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Park Hyung Joo Investment Manager -->
+<!-- //Park Hyung Joo Team Manager -->
 <!-- //team investment(L) -->
 
 <!-- team management(L) -->
@@ -1090,16 +1090,16 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Han Jong Bok Auditor -->
-<!-- Kum Kyunghwan Team Manager -->
+<!-- Kum Kyung hwan Director -->
 <div class="fullLayer" id="person_manageDeatail03">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_manage_pop03.jpg" alt="Kum Kyunghwan" /></span>
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop03.jpg" alt="Kum Kyung Hwan" /></span>
 			<div class="deatilCon">
 				<dl>
-					<dt class="name">Kum Kyunghwan</dt>
-					<dd class="position">KOREA / Management / Team Manager</dd>
+					<dt class="name">Kum Kyung Hwan</dt>
+					<dd class="position">KOREA / Management / Director</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1119,7 +1119,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Kum Kyunghwan Team Manager -->
+<!-- //Kum Kyung Hwan Director -->
 <!-- Cha Seung Jun Team Manager -->
 <div class="fullLayer" id="person_manageDeatail04">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1242,7 +1242,7 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Hwang Moon Managing Director -->
-<!-- Lee Ji Hyun Team Manager -->
+<!-- Lee Ji Hyun Director -->
 <div class="fullLayer" id="person_manageDeatail09">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1251,7 +1251,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Lee Ji Hyun</dt>
-					<dd class="position">KOREA / Management / Team Manager</dd>
+					<dd class="position">KOREA / Management / Director</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1271,8 +1271,8 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Lee Ji Hyun Team Manager -->
-<!-- Hong Ji Won Team Manager -->
+<!-- //Lee Ji Hyun Director -->
+<!-- Hong Ji Won Director -->
 <div class="fullLayer" id="person_manageDeatail10">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1281,7 +1281,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">Hong Ji Won</dt>
-					<dd class="position">KOREA / Management / Team Manager</dd>
+					<dd class="position">KOREA / Management / Director</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1302,7 +1302,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Hong Ji Won Team Manager -->
+<!-- //Hong Ji Won Director -->
 <!-- Kim Boo Kyum Team Manager -->
 <div class="fullLayer" id="person_manageDeatail21">
 	<h2 class="layerTit">Who We Are</h2>

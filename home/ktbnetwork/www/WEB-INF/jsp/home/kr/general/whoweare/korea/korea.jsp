@@ -351,6 +351,27 @@
 					</li>
 					<li>
 						<div class="member">
+							<div class="left"><img src="/static/home/kr/images/contents/img_team47.png" alt="박형주"></div>
+							<div class="right">
+								<h3>박형주 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
+								<dl>
+									<dt>주요경력</dt>
+									<dd>시카고대학교 경제학과<br>
+										야놀자 / 투자전략팀<br>
+										Curinos / Advisory, Solutions
+									</dd>
+									<dt>업무</dt>
+									<dd>회사 발굴&심사 및 투자집행</dd>
+								</dl>
+							</div>
+						</div>
+						<a href="#" class="thumb">
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team47_off.png" alt="박형주"></span>
+							<strong>박형주</strong> 팀장
+						</a>
+					</li>
+					<li>
+						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team41.jpg" alt="김신영"></div>
 							<div class="right">
 								<h3>김신영 <span class="pointColor">KOREA / 투자팀 / 심사역</span></h3>
@@ -390,27 +411,6 @@
 						<a href="#" class="thumb">
 							<span class="img"><img src="/static/home/kr/images/contents/thumb_team42_off.png" alt="이태규"></span>
 							<strong>이태규</strong> 심사역
-						</a>
-					</li>
-					<li>
-						<div class="member">
-							<div class="left"><img src="/static/home/kr/images/contents/img_team47.png" alt="박형주"></div>
-							<div class="right">
-								<h3>박형주 <span class="pointColor">KOREA / 투자팀 / 심사역</span></h3>
-								<dl>
-									<dt>주요경력</dt>
-									<dd>시카고대학교 경제학과<br>
-										야놀자 / 투자전략팀<br>
-										Curinos / Advisory, Solutions
-									</dd>
-									<dt>업무</dt>
-									<dd>회사 발굴&심사 및 투자집행</dd>
-								</dl>
-							</div>
-						</div>
-						<a href="#" class="thumb">
-							<span class="img"><img src="/static/home/kr/images/contents/thumb_team47_off.png" alt="박형주"></span>
-							<strong>박형주</strong> 심사역
 						</a>
 					</li>
 				</ul>
@@ -486,7 +486,7 @@
 								</div>
 							</div>
 							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team43_off.jpg" alt="금경환"></span>
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team43_off.jpg" alt="한종복"></span>
 								<strong>한종복</strong> 감사
 							</a>
 						</li>
@@ -499,7 +499,7 @@
 							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team17.jpg" alt="금경환"></div>
 								<div class="right">
-									<h3>금경환 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
+									<h3>금경환 <span class="pointColor">KOREA / 관리팀 / 이사</span></h3>
 									<dl>
 										<dt>주요경력</dt>
 										<dd>서울대학교 사법학과<br>NHN엔터테인먼트㈜</dd>
@@ -510,7 +510,7 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/kr/images/contents/thumb_team17_off.jpg" alt="금경환"></span>
-								<strong>금경환</strong> 팀장
+								<strong>금경환</strong> 이사
 							</a>
 						</li>
 					</ul>
@@ -597,7 +597,7 @@
 							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team23.jpg" alt="이지현"></div>
 								<div class="right">
-									<h3>이지현 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
+									<h3>이지현 <span class="pointColor">KOREA / 관리팀 / 이사</span></h3>
 									<dl>
 										<dt>주요경력</dt>
 										<dd>다올인베스트먼트<br>케이큐브벤처스</dd>
@@ -608,14 +608,14 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/kr/images/contents/thumb_team23_off.jpg" alt="이지현"></span>
-								<strong>이지현</strong> 팀장
+								<strong>이지현</strong> 이사
 							</a>
 						</li>
 						<li>
 							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team24.jpg" alt="홍지원"></div>
 								<div class="right">
-									<h3>홍지원 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
+									<h3>홍지원 <span class="pointColor">KOREA / 관리팀 / 이사</span></h3>
 									<dl>
 										<dt>주요경력</dt>
 										<dd>한양대학교 경영학과<br>(주)경농<br>(주)인터엠</dd>
@@ -626,7 +626,7 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/kr/images/contents/thumb_team24_off.jpg" alt="홍지원"></span>
-								<strong>홍지원</strong> 팀장
+								<strong>홍지원</strong> 이사
 							</a>
 						</li>
 						<li>

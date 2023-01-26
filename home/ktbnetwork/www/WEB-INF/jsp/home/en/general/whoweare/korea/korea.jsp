@@ -350,6 +350,28 @@
 						</li>
 						<li>
 							<div class="member">
+								<div class="left"><img src="/static/home/en/images/contents/img_team47.png" alt="Park Hyung Joo"></div>
+								<div class="right">
+									<h3>Park Hyung Joo <span class="pointColor">KOREA / Investment / Team Manager</span></h3>
+									<dl>
+										<dt>Career</dt>
+										<dd>
+											University of Chicago (Economics)<br>
+											Yanolja / Investment Strategy<br>
+											Curinos / Advisory, Solutions
+										</dd>
+										<dt>Responsibilities</dt>
+										<dd>Deal Sourcing&amp;Deal Diligence</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team47_off.png" alt="Park Hyung Joo"></span>
+								<strong>Park Hyung Joo</strong> Team Manager
+							</a>
+						</li>
+						<li>
+							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team41.jpg" alt="Kim Shin Young"></div>
 								<div class="right">
 									<h3>Kim Shin Young <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
@@ -392,28 +414,6 @@
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/en/images/contents/thumb_team42_off.png" alt="Lee Tea Kue"></span>
 								<strong>Lee Tea Kue</strong> Investment Manager
-							</a>
-						</li>
-						<li>
-							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team47.png" alt="Park Hyung Joo"></div>
-								<div class="right">
-									<h3>Park Hyung Joo <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
-									<dl>
-										<dt>Career</dt>
-										<dd>
-											University of Chicago (Economics)<br>
-											Yanolja / Investment Strategy<br>
-											Curinos / Advisory, Solutions
-										</dd>
-										<dt>Responsibilities</dt>
-										<dd>Deal Sourcing&amp;Deal Diligence</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team47_off.png" alt="Park Hyung Joo"></span>
-								<strong>Park Hyung Joo</strong> Investment Manager
 							</a>
 						</li>
 					</ul>
@@ -498,7 +498,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team17.jpg" alt="Kum Kyung Hwan"></div>
 									<div class="right">
-										<h3>Kum Kyung Hwan <span class="pointColor">KOREA / Management / Team Manager</span></h3>
+										<h3>Kum Kyung Hwan <span class="pointColor">KOREA / Management / Director</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Seoul National University (Dept. of Private Law)<br>NHN Entertainment Corp.</dd>
@@ -509,7 +509,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team17_off.jpg" alt="Kum Kyung Hwan"></span>
-									<strong>Kum Kyung Hwan</strong> Team Manager
+									<strong>Kum Kyung Hwan</strong> Director
 								</a>
 							</li>
 						</ul>
@@ -575,7 +575,7 @@
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team23.jpg" alt="Lee Ji Hyun"></div>
 									<div class="right">
-										<h3>Lee Ji Hyun <span class="pointColor">KOREA / Management / Team Manager</span></h3>
+										<h3>Lee Ji Hyun <span class="pointColor">KOREA / Management / Director</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>K Cube Ventures<br>DAOL Investment</dd>
@@ -586,14 +586,14 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team23_off.jpg" alt="Lee Ji Hyun"></span>
-									<strong>Lee Ji Hyun</strong> Team Manager
+									<strong>Lee Ji Hyun</strong> Director
 								</a>
 							</li>
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team24.jpg" alt="Hong Ji Won"></div>
 									<div class="right">
-										<h3>Hong Ji Won <span class="pointColor">KOREA / Management / Team Manager</span></h3>
+										<h3>Hong Ji Won <span class="pointColor">KOREA / Management / Director</span></h3>
 										<dl>
 											<dt>Career</dt>
 											<dd>Hang Yang University (Business)<br>Kyung Nong<br>Inter M</dd>
@@ -604,7 +604,7 @@
 								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team24_off.jpg" alt="Hong Ji Won"></span>
-									<strong>Hong Ji Won</strong> Team Manager
+									<strong>Hong Ji Won</strong> Director
 								</a>
 							</li>
 							<li>

@@ -189,6 +189,15 @@
 						</a>
 					</li>
 					<li>
+						<a href="#personDeatail23" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_invest_23.png" alt="박형주 팀장 사진" /></span>
+							<span>
+								<em>박형주</em>
+								팀장
+							</span>
+						</a>
+					</li>
+					<li>
 						<a href="#personDeatail20" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_20.jpg" alt="김신영 심사역 사진" /></span>
 							<span>
@@ -202,15 +211,6 @@
 							<span><img src="/static/mobile/kr/images/contents/img_invest_21.png" alt="이태규 심사역 사진" /></span>
 							<span>
 								<em>이태규</em>
-								심사역
-							</span>
-						</a>
-					</li>
-					<li>
-						<a href="#personDeatail23" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_23.png" alt="박형주 심사역 사진" /></span>
-							<span>
-								<em>박형주</em>
 								심사역
 							</span>
 						</a>
@@ -255,10 +255,10 @@
 					<li class="line">
 						<strong>Compliance</strong>
 						<a href="#person_manageDeatail03" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_03.jpg" alt="금경환 팀장 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_manage_03.jpg" alt="금경환 이사 사진" /></span>
 							<span>
 								<em>금경환</em>
-								팀장
+								이사
 							</span>
 						</a>
 					</li>
@@ -307,20 +307,20 @@
 					<li>
 						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail09" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_09.jpg" alt="이지현 팀장 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_manage_09.jpg" alt="이지현 이사 사진" /></span>
 							<span>
 								<em>이지현</em>
-								팀장
+								이사
 							</span>
 						</a>
 					</li>
 					<li>
 						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail10" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_10.jpg" alt="홍지원 팀장 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_manage_10.jpg" alt="홍지원 이사 사진" /></span>
 							<span>
 								<em>홍지원</em>
-								팀장
+								이사
 							</span>
 						</a>
 					</li>
@@ -997,7 +997,7 @@
 </div>
 <!-- //이태규 심사역 -->
 
-<!-- 박형주 심사역 -->
+<!-- 박형주 팀장 -->
 <div class="fullLayer" id="personDeatail23">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
@@ -1006,7 +1006,7 @@
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">박형주</dt>
-					<dd class="position">KOREA / 투자팀  / 심사역</dd>
+					<dd class="position">KOREA / 투자팀 / 팀장</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1027,7 +1027,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //박형주 심사역 -->
+<!-- //박형주 팀장 -->
 <!-- //팀원소개 investment(L) -->
 
 <!-- 팀원소개 management(L) -->
@@ -1123,16 +1123,16 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //한종복 팀장 -->
-<!-- 금경환 팀장 -->
+<!-- 금경환 이사 -->
 <div class="fullLayer" id="person_manageDeatail03">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop03.jpg" alt="금경환 팀장 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop03.jpg" alt="금경환 이사 사진" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">금경환</dt>
-					<dd class="position">KOREA / 관리팀 / 팀장</dd>
+					<dd class="position">KOREA / 관리팀 / 이사</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1152,7 +1152,7 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //금경환 팀장 -->
+<!-- //금경환 이사 -->
 <!-- 정도 부사장 -->
 <div class="fullLayer" id="person_manageDeatail05">
 	<h2 class="layerTit">Who We Are</h2>
@@ -1245,16 +1245,16 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //송치훈 이사 -->
-<!-- 이지현 팀장 -->
+<!-- 이지현 이사 -->
 <div class="fullLayer" id="person_manageDeatail09">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop09.jpg" alt="이지현 팀장 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop09.jpg" alt="이지현 이사 사진" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">이지현</dt>
-					<dd class="position">KOREA / 관리팀 / 팀장</dd>
+					<dd class="position">KOREA / 관리팀 / 이사</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1274,17 +1274,17 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //이지현 팀장 -->
-<!-- 홍지원 팀장 -->
+<!-- //이지현 이사 -->
+<!-- 홍지원 이사 -->
 <div class="fullLayer" id="person_manageDeatail10">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop10.jpg" alt="홍지원 팀장 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop10.jpg" alt="홍지원 이사 사진" /></span>
 			<div class="deatilCon">
 				<dl>
 					<dt class="name">홍지원</dt>
-					<dd class="position">KOREA / 관리팀 / 팀장</dd>
+					<dd class="position">KOREA / 관리팀 / 이사</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
@@ -1305,7 +1305,7 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //홍지원 팀장 -->
+<!-- //홍지원 이사 -->
 <!-- 김부겸 팀장 -->
 <div class="fullLayer" id="person_manageDeatail21">
 	<h2 class="layerTit">Who We Are</h2>
