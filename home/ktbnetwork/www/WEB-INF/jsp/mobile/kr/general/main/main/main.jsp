@@ -433,6 +433,22 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- // Venture Challenge 2022 -->
+  <!-- 공지사항 -->
+  <div class="layerPop" id="pop20230201">
+    <div class="layerContainer" style="padding: 80px 0px 15px">
+      <h2 class="layerTit" style="text-align: center; font-size: 18px">공지사항</h2>
+      <div class="layerCont newscon_box" tabindex="0" style="padding-top: 0px; background-color: #fff">
+        <p style="text-align:left;">
+          다올인베스트먼트는 개인을 대상으로 투자 또는 송금을 권유하는 행위를 하지않습니다.<br><br>
+          최근 당사의 임직원을 사칭하여 높은 수익과 원금을 보장하는 사기 및 유사범행이 이루어지고있음을 확인하였습니다.<br>
+          인가 또는 허락받지않거나 등록 또는 신고를 하지 아니한 채 사람들로부터 투자금을 모으는 유사수신행위는 불법입니다.<br><br>
+          이러한 범죄행위로 인하여 피해를 입으시는일이 없도록 각별히 주의하여 주시기 바랍니다.
+        </p>
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // 공지사항 -->
 	<div class="layerPop open" id="MAL1">
 		<div class="layerContainer">
 			<h2 class="layerTit">작성기준</h2>
@@ -463,10 +479,13 @@
 <script>
   $(window).on('jsLoad', function () {
     let date = parseInt(moment().format('YYYYMMDDHHmm'))
-	  if (202207040800 <= date && date < 202207311700) {
-		  commonJs.popupShow('#pop20220704') // Venture Challenge 2022
+	  if (202302010000 <= date && date < 202304302359) {
+		  commonJs.popupShow('#pop20230201') // 공지사항
 	  }
     /**
+   if (202207040800 <= date && date < 202207311700) {
+    commonJs.popupShow('#pop20220704') // Venture Challenge 2022
+  }
 	if (202203220000 <= date && date < 202204211159) {
 	  commonJs.popupShow('#pop20220322') // KTB > DAOL 사명 변경 공지
 	}
