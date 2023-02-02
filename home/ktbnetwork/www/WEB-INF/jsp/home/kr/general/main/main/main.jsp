@@ -193,7 +193,7 @@
   let date = parseInt(moment().format('YYYYMMDDHHmm'))
   if (202302010000 <= date && date < 202304302359) {
     // 공지사항
-    window.open('/static/home/kr/ktb_popup.html?popup=20230201', '', 'top=0, left=0, width=540, height=353, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+    window.open('/static/home/kr/ktb_popup.html?popup=20230201', '', 'top=0, left=0, width=488, height=421, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
   }
   /**
   if (202203220000 <= date && date < 202204211159) {

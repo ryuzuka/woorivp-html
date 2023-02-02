@@ -210,6 +210,13 @@ textarea {width:100%;padding:20px 15px;border:1px solid #dadada;}
 
 .layerClose{position:absolute;width:40px;height:40px;right:10px;top:10px;overflow:hidden;text-indent:-9999px;z-index:40;background-image:url(../images/common/spr_layout.png);background-size:160px 160px;background-position:-80px 0}
 
+.layerPop.notice {left:22px;right:22px;}
+.layerPop.notice:after {display:none;}
+.layerPop.notice .layerContainer {padding:0;}
+.layerPop.notice .layerContainer .layerTit {position:static;background:#0f206c;padding:23px 0 22px 20px;font-size:24px;font-weight:500;color:#fff;line-height:35px;}
+.layerPop.notice .layerContainer .layerCont {min-height:216px;padding:24px;background:#f2f2f2;font-size:14px;color:#000;text-align:left;}
+.layerPop.notice .layerClose {top:20px;right:20px;background:url('../images/common/btn_close02.png') no-repeat left top / 100%;}
+
 .tipLayer{position:relative;margin-top:30px}
 .tipLayer .btn{display:inline-block;position:relative;color:#2c3786;font-weight:500;padding-right:23px}
 .tipLayer .btn:after{content:'?';position:absolute;top:50%;right:0;margin-top:-10px;width:14px;height:14px;color:#2c3786;font-size:12px;text-align:center;border:1px solid #2c3786;border-radius:50%}
