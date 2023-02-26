@@ -746,6 +746,7 @@
 						<ul class="listDep1">
 							<li>Seoul National University (Pharmacy)</li>
 							<li>Korea Eisai</li>
+							<li>Certified Investment Manager</li>
 						</ul>
 					</dd>
 					<dt>Responsibilities</dt>

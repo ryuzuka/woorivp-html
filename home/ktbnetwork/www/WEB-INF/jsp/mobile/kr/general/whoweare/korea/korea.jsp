@@ -772,6 +772,7 @@
 						<ul class="listDep1">
 							<li>서울대학교 약학대학교</li>
 							<li>한국에자이</li>
+							<li>투자자산운용사</li>
 						</ul>
 					</dd>
 					<dt>업무</dt>

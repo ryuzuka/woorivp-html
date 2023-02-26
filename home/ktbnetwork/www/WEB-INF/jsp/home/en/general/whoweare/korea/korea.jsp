@@ -337,7 +337,7 @@
 									<h3>Kim Man Sik <span class="pointColor">KOREA / Investment / Team Manager</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Seoul National University (Pharmacy)<br>Korea Eisai</dd>
+										<dd>Seoul National University (Pharmacy)<br>Korea Eisai<br>Certified Investment Manager</dd>
 										<dt>Responsibilities</dt>
 										<dd>Deal Sourcing&amp;Deal Diligence</dd>
 									</dl>
