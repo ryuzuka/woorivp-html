@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c13cd7d3-09e9-4efc-bccb-836d6289f7e8" name="studiosoe" url="http://studiosoe.cafe24.com">
+        <fileTransfer rootFolder="/home/ktbnetwork/www" accessType="SFTP" host="183.111.126.207" port="22" sshConfigId="79f6ffe8-7e4f-4571-87fe-8ba25d71600f" sshConfig="studiosoe">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="183.111.126.207" id="79f6ffe8-7e4f-4571-87fe-8ba25d71600f" port="22" customName="studiosoe" nameFormat="CUSTOM" username="ktbnetwork" useOpenSSHConfig="true">
+        <option name="customName" value="studiosoe" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
