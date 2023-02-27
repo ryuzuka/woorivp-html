@@ -338,7 +338,7 @@
 								<h3>김만식 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
 								<dl>
 									<dt>주요경력</dt>
-									<dd>서울대학교 약학대학교<br>한국에자이</dd>
+									<dd>서울대학교 약학대학교<br>한국에자이식<br>투자자산운용사</dd>
 									<dt>업무</dt>
 									<dd>회사 발굴&amp;심사 및 투자집행</dd>
 								</dl>

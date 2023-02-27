@@ -434,14 +434,17 @@
 	</div>
 	<!-- // Venture Challenge 2022 -->
   <!-- 공지사항 -->
-  <div class="layerPop" id="pop20230201">
-    <div class="layerContainer" style="padding: 80px 0px 15px">
-      <h2 class="layerTit" style="text-align: center; font-size: 18px">공지사항</h2>
-      <div class="layerCont newscon_box" tabindex="0" style="padding-top: 0px; background-color: #fff">
-        <p style="text-align:left;">
-          다올인베스트먼트는 개인을 대상으로 투자 또는 송금을 권유하는 행위를 하지않습니다.<br><br>
+  <style>
+
+  </style>
+  <div class="layerPop notice" id="pop20230201">
+    <div class="layerContainer">
+      <h2 class="layerTit">공지사항</h2>
+      <div class="layerCont newscon_box" tabindex="0">
+        <p>
+          다올인베스트먼트는 개인을 대상으로 투자 또는 송금을 권유하는 행위를 하지않습니다.<br>
           최근 당사의 임직원을 사칭하여 높은 수익과 원금을 보장하는 사기 및 유사범행이 이루어지고있음을 확인하였습니다.<br>
-          인가 또는 허락받지않거나 등록 또는 신고를 하지 아니한 채 사람들로부터 투자금을 모으는 유사수신행위는 불법입니다.<br><br>
+          인가 또는 허락받지않거나 등록 또는 신고를 하지 아니한 채 사람들로부터 투자금을 모으는 유사수신행위는 불법입니다.<br>
           이러한 범죄행위로 인하여 피해를 입으시는일이 없도록 각별히 주의하여 주시기 바랍니다.
         </p>
       </div>
