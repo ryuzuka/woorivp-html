@@ -225,22 +225,6 @@
 						</li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team36.jpg" alt="Seong Kyeong A"></div>
-								<div class="right">
-									<h3>Seong Kyeong A <span class="pointColor">KOREA / Investment / Director</span></h3>
-									<dl>
-										<dt>Career</dt>
-										<dd>KAIST Ph.D. (Chemical and Biomolecular Engineering)<br>LG Chem, Ltd.<br>KIBO (Korea Technology Finance Corporation)</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team36_off.jpg" alt="Seong Kyeong A"></span>
-								<strong>Seong Kyeong A</strong> Director
-							</a>
-						</li>
-						<li>
-							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team13.jpg" alt="Jeun Kyung Mi"></div>
 								<div class="right">
 									<h3>Jeun Kyung Mi <span class="pointColor">KOREA / Investment / Team Manager</span></h3>

@@ -231,22 +231,6 @@
 					</li>
 					<li>
 						<div class="member">
-							<div class="left"><img src="/static/home/kr/images/contents/img_team36.jpg" alt="성경아"></div>
-							<div class="right">
-								<h3>성경아 <span class="pointColor">KOREA / 투자팀 / 이사</span></h3>
-								<dl>
-									<dt>주요경력</dt>
-									<dd>KAIST 생명화학공학 박사<br>(주)LG화학<br>기술보증기금</dd>
-								</dl>
-							</div>
-						</div>
-						<a href="#" class="thumb">
-							<span class="img"><img src="/static/home/kr/images/contents/thumb_team36_off.jpg" alt="성경아"></span>
-							<strong>성경아</strong> 이사
-						</a>
-					</li>
-					<li>
-						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team13.jpg" alt="전경미"></div>
 							<div class="right">
 								<h3>전경미 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>

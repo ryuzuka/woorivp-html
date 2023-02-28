@@ -124,15 +124,6 @@
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail17" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_17.jpg" alt="Seong Kyeong A" /></span>
-							<span>
-								<em>Seong Kyeong A</em>
-								Director
-							</span>
-						</a>
-					</li>
-					<li>
 						<a href="#personDeatail14" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_14.jpg" alt="Jeun Kyung Mi" /></span>
 							<span>
@@ -823,32 +814,6 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Choi Hyung Seok Team Manager -->
-
-<!-- Seong Kyeong A Director -->
-<div class="fullLayer" id="personDeatail17">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_invest_pop17.jpg" alt="Seong Kyeong A" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">Seong Kyeong A</dt>
-					<dd class="position">KOREA / Investment / Director</dd>
-					<dt>Career</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>KAIST Ph.D. (Chemical and Biomolecular Engineering)</li>
-							<li>LG Chem, Ltd.</li>
-							<li>KIBO (Korea Technology Finance Corporation)</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">close</button>
-</div>
-<!-- //Seong Kyeong A Director -->
 
 <!-- Cha Seung Jun Team Manager -->
 <div class="fullLayer" id="person_manageDeatail04">

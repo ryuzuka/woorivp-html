@@ -124,16 +124,6 @@
 						</a>
 					</li>
 					<li>
-						<a href="#personDeatail17" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_17.jpg" alt="성경아 이사 사진" /></span>
-							<span>
-								<em>성경아</em>
-								이사
-							</span>
-						</a>
-					</li>
-
-					<li>
 						<a href="#personDeatail14" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_14.jpg" alt="전경미 팀장 사진" /></span>
 							<span>
@@ -788,31 +778,6 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //김만식 팀장 -->
-<!-- 성경아 이사 -->
-<div class="fullLayer" id="personDeatail17">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_invest_pop17.jpg" alt="성경아 이사 사진" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">성경아</dt>
-					<dd class="position">KOREA / 투자팀 / 이사</dd>
-					<dt>주요경력</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>KAIST 생명화학공학 박사</li>
-							<li>(주)LG화학</li>
-							<li>기술보증기금</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">닫기</button>
-</div>
-<!-- //성경아 이사 -->
 
 <!-- 차승준 팀장 -->
 <div class="fullLayer" id="person_manageDeatail04">
