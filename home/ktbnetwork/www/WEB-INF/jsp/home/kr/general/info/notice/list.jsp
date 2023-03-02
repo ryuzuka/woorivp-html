@@ -24,6 +24,12 @@
 				<div class="inner">
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
+              <li>
+                <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=54">
+                  <strong class="tit">주식명의개서정지공고</strong>
+                  <div class="con"><span class="date">2022.12.16</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
 									<strong class="tit">내부정보관리규정(개정)</strong>

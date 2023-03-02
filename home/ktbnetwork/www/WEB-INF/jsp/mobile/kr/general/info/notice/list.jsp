@@ -48,51 +48,54 @@ jQuery(window).load(function() {
 					<h2 class="hidden">공지사항 리스트</h2>
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
-                        <li>
-                          <a href="#newsDetail_pop53" role="button" title="상세내용 보기">내부정보관리규정(개정)<em> 2022.03.22</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop51" role="button" title="상세내용 보기">KTB네트워크 제14기 정기주주총회 결과<em> 2022.03.21</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop50" role="button" title="상세내용 보기">제 14기 결산공고<em>2022.03.21</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop49" role="button" title="상세내용 보기">제 14기 정기주주총회 소집통지서<em>2022.03.07</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop48" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2022.02.14</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop52" role="button" title="상세내용 보기">내부정보관리규정 <em>2021.12.16</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop42" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2021.12.16</em></a>
-                        </li>
-                        <li>
-                            <a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
-                        </li>
-                        <li>
-                          <a href="#newsDetail_pop35" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 수요예측 결과안내 <em>2021.12.02</em></a>
-                        </li>
-                        <li>
-                            <a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                            <a href="#newsDetail_pop28" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                            <a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                            <a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                            <a href="#newsDetail_pop25" role="button" title="상세내용 보기">주식 2차공매 공고<em>2021.07.12</em></a>
-                        </li>
-                        <li data-page="1" style="display: none;">
-                            <a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식 1차공매 공고<em>2021.07.06</em></a>
-                        </li>
+            <li>
+              <a href="#newsDetail_pop54" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2022.12.16</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop53" role="button" title="상세내용 보기">내부정보관리규정(개정)<em> 2022.03.22</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop51" role="button" title="상세내용 보기">KTB네트워크 제14기 정기주주총회 결과<em> 2022.03.21</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop50" role="button" title="상세내용 보기">제 14기 결산공고<em>2022.03.21</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop49" role="button" title="상세내용 보기">제 14기 정기주주총회 소집통지서<em>2022.03.07</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop48" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2022.02.14</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop52" role="button" title="상세내용 보기">내부정보관리규정 <em>2021.12.16</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop42" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2021.12.16</em></a>
+            </li>
+            <li>
+                <a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop35" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 수요예측 결과안내 <em>2021.12.02</em></a>
+            </li>
+            <li>
+                <a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+                <a href="#newsDetail_pop28" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+                <a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+                <a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+                <a href="#newsDetail_pop25" role="button" title="상세내용 보기">주식 2차공매 공고<em>2021.07.12</em></a>
+            </li>
+            <li data-page="1" style="display: none;">
+                <a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식 1차공매 공고<em>2021.07.06</em></a>
+            </li>
 						<li data-page="1" style="display: none;">
 						  <a href="#newsDetail_pop23" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.06.21</em></a>
 						</li>
@@ -171,6 +174,37 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
+    <!-- 주식명의개서정지공고 -->
+    <div class="fullLayer" id="newsDetail_pop54">
+      <h2 class="layerTit">NEWS</h2>
+      <div class="layerCont" tabindex="0" >
+        <div class="board_detail">
+          <div class="detailTop">
+            <h3 class="titDep3">주식명의개서정지공고</h3>
+            <em class="date">2022.12.16</em>
+          </div>
+
+          <div class="detailCon">
+            <div class="newscon_box">
+              <h4 class="tit">주식명의개서정지공고</h4>
+              <p style="text-align: left">정기주주총회를 위해 상법 제 354조 및 당사 정관 제 16조에 의거 2021년 12월 31일 주주명부에 등재되어 있는 주주에게 의결권을 부여하며,<br>
+                권리주주의 확정을 위하여 주식명의개서, 질권등록 및 말소 등 주주명부의 기재사항 변경을 정지하고자 공고합니다.</p>
+              <div class="bottomTxt">
+                <em>2022년 12월 16일</em>
+                <strong>케이티비네트워크 주식회사</strong>
+                <span style="font-size: small">경기도 성남시 분당구 대왕판교로 670(삼평동), 유스페이스 2A동 10층</span>
+                <br>
+                <strong class="ceoTxt">대 표 이 사&nbsp;&nbsp;&nbsp;<span style="font-weight: bolder">김 창 규</span></strong>
+                <strong class="ceoTxt">명의개서대리인 KB국민은행 은행장 <span style="font-weight: bolder">허 인</span></strong>
+              </div>
+            </div><!-- //newscon_box -->
+          </div><!-- //detailCon -->
+        </div>
+      </div>
+      <button type="button" class="layerClose">닫기</button>
+    </div>
+    <!-- // 주식명의개서정지공고 -->
+
     <!-- 내부정보관리규정(개정) -->
     <div class="fullLayer" id="newsDetail_pop53">
       <h2 class="layerTit">NEWS</h2>
