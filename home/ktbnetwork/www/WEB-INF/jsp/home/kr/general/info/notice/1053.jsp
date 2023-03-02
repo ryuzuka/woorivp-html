@@ -37,8 +37,14 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=51">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=54">
             <div class="arrow next">다음글</div>
+            <div class="tit">주식명의개서정지공고</div>
+          </a>
+        </li>
+        <li>
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=51">
+            <div class="arrow prev">이전글</div>
             <div class="tit">KTB네트워크 제14기 정기주주총회 결과</div>
           </a>
         </li>

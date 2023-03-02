@@ -78,7 +78,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop35" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 수요예측 결과안내 <em>2021.12.02</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
                 <a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -108,7 +108,7 @@ jQuery(window).load(function() {
 						<li data-page="1" style="display: none;">
 							<a href="#newsDetail_pop20" role="button" title="상세내용 보기">제 12기 결산공고<em>2020.03.13</em></a>
 						</li>
-						<li data-page="1" style="display: none;">
+						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop01" role="button" title="상세내용 보기">제 11기 결산공고<em>2019.03.08</em></a>
 						</li>
 						<li data-page="2" style="display: none;">
@@ -138,7 +138,7 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop10" role="button" title="상세내용 보기">미크론정공(주) 주식 공매 공고<em>2013.12.10</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop11" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2013.05.30</em></a>
 						</li>
 						<li data-page="3" style="display: none;">

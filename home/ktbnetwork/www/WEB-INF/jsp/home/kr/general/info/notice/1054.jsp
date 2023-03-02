@@ -41,15 +41,9 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=52">
-            <div class="arrow next">다음글</div>
-            <div class="tit">내부정보관리규정</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=30">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
             <div class="arrow prev">이전글</div>
-            <div class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</div>
+            <div class="tit">내부정보관리규정(개정)</div>
           </a>
         </li>
       </ul>

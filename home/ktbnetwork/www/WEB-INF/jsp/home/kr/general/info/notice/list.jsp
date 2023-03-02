@@ -84,15 +84,15 @@
 									<div class="con"><span class="date">2021.12.02</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=29">
-									<strong class="tit">신주발행공고</strong>
-									<div class="con"><span class="date">2021.11.24</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '2' }">
+              <li>
+                <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=29">
+                  <strong class="tit">신주발행공고</strong>
+                  <div class="con"><span class="date">2021.11.24</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=28">
 									<strong class="tit">주식명의개서정지공고</strong>
@@ -147,15 +147,15 @@
 									<div class="con"><span class="date">2020.03.13</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=1">
-									<strong class="tit">제 11기 결산공고</strong>
-									<div class="con"><span class="date">2019.03.08</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '3' }">
+              <li>
+                <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=1">
+                  <strong class="tit">제 11기 결산공고</strong>
+                  <div class="con"><span class="date">2019.03.08</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=2">
 									<strong class="tit">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고</strong>
@@ -210,15 +210,15 @@
 									<div class="con"><span class="date">2013.12.10</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=11">
-									<strong class="tit">외부감사인 선임 공고</strong>
-									<div class="con"><span class="date">2013.05.30</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '4' }">
+              <li>
+                <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=11">
+                  <strong class="tit">외부감사인 선임 공고</strong>
+                  <div class="con"><span class="date">2013.05.30</span></div>
+                </a>
+              </li>
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=12">
 									<strong class="tit">제 5기 결산공고</strong>
