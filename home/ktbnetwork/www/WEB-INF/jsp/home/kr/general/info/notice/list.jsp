@@ -51,7 +51,7 @@
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=49">
 									<strong class="tit">제 14기 정기주주총회 소집통지서</strong>
-									<div class="con"><span class="date">2022.02.14</span></div>
+									<div class="con"><span class="date">2022.03.07</span></div>
 								</a>
 							</li>
 							<li>
