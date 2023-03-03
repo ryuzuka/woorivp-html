@@ -25,6 +25,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
               <li>
+                <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=55">
+                  <strong class="tit">제 15기 정기주주총회 소집통지서</strong>
+                  <div class="con"><span class="date">2023.03.03</span></div>
+                </a>
+              </li>
+              <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=54">
                   <strong class="tit">주식명의개서정지공고</strong>
                   <div class="con"><span class="date">2022.12.16</span></div>
@@ -78,15 +84,15 @@
 									<div class="con"><span class="date">2021.12.03</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=35">
-									<strong class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</strong>
-									<div class="con"><span class="date">2021.12.02</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '2' }">
+              <li>
+                <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=35">
+                  <strong class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</strong>
+                  <div class="con"><span class="date">2021.12.02</span></div>
+                </a>
+              </li>
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=29">
                   <strong class="tit">신주발행공고</strong>
@@ -141,15 +147,15 @@
 									<div class="con"><span class="date">2021.03.19</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=20">
-									<strong class="tit">제 12기 결산공고</strong>
-									<div class="con"><span class="date">2020.03.13</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '3' }">
+              <li>
+                <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=20">
+                  <strong class="tit">제 12기 결산공고</strong>
+                  <div class="con"><span class="date">2020.03.13</span></div>
+                </a>
+              </li>
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=1">
                   <strong class="tit">제 11기 결산공고</strong>
@@ -204,15 +210,15 @@
 									<div class="con"><span class="date">2014.03.17</span></div>
 								</a>
 							</li>
-							<li>
-								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=10">
-									<strong class="tit">미크론정공(주) 주식 공매 공고</strong>
-									<div class="con"><span class="date">2013.12.10</span></div>
-								</a>
-							</li>
 						</c:if>
 
 						<c:if test="${vo.page eq '4' }">
+              <li>
+                <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=10">
+                  <strong class="tit">미크론정공(주) 주식 공매 공고</strong>
+                  <div class="con"><span class="date">2013.12.10</span></div>
+                </a>
+              </li>
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=11">
                   <strong class="tit">외부감사인 선임 공고</strong>
