@@ -2,7 +2,7 @@
 
 .content{min-height:800px;padding-bottom:120px}
 .content .conBtm{margin-bottom:-120px;padding-bottom:120px}
-.visualArea{position:relative;margin-bottom:60px;padding:150px 0 44px;color:#fff;text-align:center;background:#0f206c url(../images/common/bg_visual.png) 100% 0 repeat-y}
+.visualArea{position:relative;margin-bottom:60px;padding:150px 0 44px;color:#fff;text-align:center;background:#0067AC url(../images/common/bg_visual.png) 100% 0 repeat-y}
 /*.visualArea:after{content:'';position:absolute;bottom:0;right:0;width:70px;height:70px;background:url(../images/common/bg_triangle.png) 0 0 no-repeat}*/
 .visualArea .pageTit{width:100%;font-size:46px;line-height:1;text-align:center}
 .visualArea .pageTxt{margin-top:10px;font-size:20px;color:#fff;color:rgba(255,255,255,0.5)}
@@ -160,7 +160,7 @@
 .boardView .viewTit{overflow:hidden;padding:30px 40px;border-bottom:1px solid #dedede}
 .boardView .viewTit .tit{display:block;color:#111;font-size:18px}
 .boardView .viewTit .con{margin-top:5px}
-.boardView .viewTit .con .date{color::#737373}
+.boardView .viewTit .con .date{color:#737373}
 .boardView .viewFile{padding:15px 40px;background:#f7f7f7}
 .boardView .viewFile>a{display:block;color:#333;font-weight:500}
 .boardView .viewFile>a:before{content:'';display:inline-block;width:20px;height:20px;padding-left:40px;background:url(../images/common/btn_down.png) no-repeat}
@@ -198,7 +198,7 @@ dl.noticeBox .tblV tbody th{vertical-align:middle}
 .pageTxt.ctt{position:relative;z-index:2}
 .mapArea{position:relative;height:697px;margin:-130px 0 -120px}
 .mapArea .mapWrap{width:100%;height:100%}
-.mapArea .mapWrap:before{content:'';position:relative;display:block;height:70px;background:#0f206c url(../images/common/bg_visual.png) 100% 100% repeat-y;box-sizing:border-box;z-index:1}
+.mapArea .mapWrap:before{content:'';position:relative;display:block;height:70px;background:#0067AC url(../images/common/bg_visual.png) 100% 100% repeat-y;box-sizing:border-box;z-index:1}
 /*.mapArea .mapWrap:after{content:'';position:absolute;top:0;right:0;display:block;width:70px;height:70px;background:url(../images/contents/bg_triangle_contact.png) 0 0 no-repeat}*/
 .mapArea .tglWrap{position:absolute;top:115px;left:50%;margin-left:-600px}
 .mapArea .link{padding-top:6px}
