@@ -58,7 +58,7 @@
 .newsArea section ul li a {overflow:hidden;display:block;width:1000px;white-space:nowrap;text-overflow:ellipsis;font-size:16px;font-weight:500;color:#333}
 
 /* section2 투자상품보기 */
-.section2 .inner .tabArea {overflow:hidden;width:315px;margin:50px auto 68px}
+.section2 .inner .tabArea {overflow:hidden;width:336px;margin:50px auto 68px}
 .section2 .inner .tabArea li {float:left}
 .section2 .inner .tabArea li a {position:relative;display:block;margin:0 20px;font-size:20px;font-weight:500;color:#737373}
 .section2 .inner .tabArea li a:hover, .section2 .inner .tabArea li a:focus, .section2 .inner .tabArea li a.on {font-weight:600;color:#1b2473;border-bottom:2px solid #1b2473}
