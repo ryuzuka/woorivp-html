@@ -5,7 +5,7 @@ body{word-break:keep-all;word-wrap:break-word}
 body,div,p,section,nav,footer,article,figure,aside,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,form,fieldset,input,textarea,button,select,span,strong,b,em,a,label{margin:0;padding:0;box-sizing:border-box}
 header,footer,section,article,nav,aside{display:block;padding:0;margin:0}
 td,th{position:relative;font-weight:400;margin:0;padding:0;word-break:break-all}
-body,input,textarea,select{color:#555;font-family:Roboto;font-weight:400;font-size:15px;line-height:1.5}
+body,input,textarea,select{color:#555;font-family:Wooridaum, Roboto;font-weight:400;font-size:15px;line-height:1.5}
 h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2}
 img,fieldset,iframe{border:0;vertical-align:top}
 textarea{resize:none}
@@ -69,7 +69,7 @@ a:hover{text-decoration:none}
 .headArea .allMenu .inner{width:1200px;padding-left:255px}/* 190412 수정 */
 .headArea .allMenu .inner:after{content:'';display:block;clear:both}
 .headArea .allMenu li{float:left;padding-left:44px;min-width:67px}/* 190409 수정 */
-.headArea .allMenu li a{font-size:18px;color:#fff;line-height:80px;font-weight:600}
+.headArea .allMenu li a{font-size:18px;color:#fff;line-height:80px;font-weight:600;letter-spacing: -0.9px}
 
 .headArea.open{padding-bottom:27px;background:#fff;border-bottom:0;box-shadow:0 0 20px rgba(0,0,0,.3)} 
 .headArea.open:before{content:'';display:block;width:100%;position:absolute;top:0;left:0}

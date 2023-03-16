@@ -35,3 +35,21 @@
 	font-weight:600;
     src: url('../font/Roboto-Medium.woff') format('woff');
 }
+
+@font-face {
+	font-family: 'Wooridaum';
+	font-weight:400;
+	src: url('../font/WooridaumL.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Wooridaum';
+	font-weight:500;
+	src: url('../font/WooridaumR.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Wooridaum';
+	font-weight:600;
+	src: url('../font/WooridaumB.woff') format('woff');
+}
