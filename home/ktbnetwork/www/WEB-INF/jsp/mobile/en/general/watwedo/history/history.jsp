@@ -37,7 +37,7 @@
 								<strong class="tit">2021</strong>
 								<ul class="txt">
 									<li>Acquired DAOL Savings Bank from Eugene Group</li>
-									<li>Listed on KOSDAQ (WOORI Venture Partners)</li>
+									<li>Listed on KOSDAQ (DAOL Investment)</li>
 								</ul>
 							</li>
 							<li>
@@ -54,7 +54,7 @@
 							</li>
 							<li>
 								<strong class="tit">2012</strong>
-								<p class="txt">Established DAOL Private Equity(Spin-off from WOORI Venture Partners & Securities PE Division)</p>
+								<p class="txt">Established DAOL Private Equity(Spin-off from DAOL Investment & Securities PE Division)</p>
 							</li>
 							<li>
 								<strong class="tit">2008</strong>
@@ -62,7 +62,7 @@
 									<li>Established DAOL Thailand</li>
 									<li>Received Securities License & Change Name to KTB Investment & Securities</li>
 									<li>Acquired  DAOL Securities Thailand</li>
-									<li>Established WOORI Venture Partners (Venture Capital)</li>
+									<li>Established DAOL Investment (Venture Capital)</li>
 								</ul>
 							</li>
 							<li>

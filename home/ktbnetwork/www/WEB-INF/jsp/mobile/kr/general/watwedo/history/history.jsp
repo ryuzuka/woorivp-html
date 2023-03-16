@@ -38,7 +38,7 @@
 								<strong class="tit">2021</strong>
 								<ul class="txt">
 									<li>다올저축은행 인수</li>
-									<li>우리벤처파트너스 코스닥 상장</li>
+									<li>다올인베스트먼트 코스닥 상장</li>
 								</ul>
 							</li>
 							<li>
@@ -64,7 +64,7 @@
 								<ul class="txt">
 									<li>증권업 전환 (현. 다올투자증권)</li>
 									<li>DAOL Securities Thailand 설립 (태국현지 증권사 인수)</li>
-									<li>우리벤처파트너스 설립</li>
+									<li>다올인베스트먼트 설립</li>
 								</ul>
 							</li>
 							<li>

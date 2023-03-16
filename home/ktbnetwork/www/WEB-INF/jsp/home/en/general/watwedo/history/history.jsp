@@ -56,7 +56,7 @@
 										<p class="txt">Acquired DAOL Savings Bank from Eugene Group</p>
 									</li>
 									<li class="noMonth">
-										<p class="txt">Listed on KOSDAQ (WOORI Venture Partners)</p>
+										<p class="txt">Listed on KOSDAQ (DAOL Investment)</p>
 									</li>
 								</ol>
 							</li>
@@ -88,7 +88,7 @@
 								<strong class="num">2012</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">Established DAOL Private Equity(Spin-off from WOORI Venture Partners & Securities PE Division)</p>
+										<p class="txt">Established DAOL Private Equity(Spin-off from DAOL Investment & Securities PE Division)</p>
 									</li>
 								</ol>
 							</li>
@@ -105,7 +105,7 @@
 										<p class="txt">Acquired  DAOL Securities Thailand</p>
 									</li>
 									<li class="noMonth">
-										<p class="txt">Established WOORI Venture Partners (Venture Capital)</p>
+										<p class="txt">Established DAOL Investment (Venture Capital)</p>
 									</li>
 								</ol>
 							</li>

@@ -84,7 +84,7 @@
 										<ol class="list">
 											<li>
 												<strong class="tit">2008. 06</strong>
-												<p class="txt">우리벤처파트너스 설립</p>
+												<p class="txt">다올인베스트먼트 설립</p>
 											</li>
 											<li>
 												<strong class="tit">2008. 07</strong>
@@ -110,7 +110,7 @@
 										<ol class="list">
 											<li>
 												<strong class="tit">2018. 11</strong>
-												<p class="txt">DAOL REIT & WOORI Venture Partners Management Thailand 설립</p>
+												<p class="txt">DAOL REIT & DAOL Investment Partners Management Thailand 설립</p>
 											</li>
 										</ol>
 									</li>
@@ -138,8 +138,8 @@
 											<li>
 												<strong class="tit">2021. 12</strong>
 												<ul class="txt">
-													<li>우리벤처파트너스 코스닥 상장</li>
-													<li>우리금융그룹저축은행 인수</li>
+													<li>다올인베스트먼트 코스닥 상장</li>
+													<li>다올저축은행 인수</li>
 												</ul>
 											</li>
 										</ol>

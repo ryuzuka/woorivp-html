@@ -15,7 +15,7 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털</strong>
+          <strong class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</strong>
           <div class="con">
             <span class="date">2022.04.19</span>
           </div>
@@ -41,9 +41,9 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(베타뉴스) 우리벤처파트너스,<br>회수시장 흔들림을 넘어선 펀더멘털</dt>
+            <dt>(베타뉴스) 다올인베스트먼트,<br>회수시장 흔들림을 넘어선 펀더멘털</dt>
             <dd>
-              <p>한국투자증권이 우리벤처파트너스의 2021년도 순이익을 684억원으로 집계했다.<br>
+              <p>한국투자증권이 다올인베스트먼트의 2021년도 순이익을 684억원으로 집계했다.<br>
                 뛰어난 운용성과에 따라 7~8호, 11호 및 Platform 펀드 GP 출자분에 대한 지분법이익이 586억원 증가했다.</p>
               <br>
               <p>관련하여 베타뉴스에 게재된 기사 공유드립니다.<br>

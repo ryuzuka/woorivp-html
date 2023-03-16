@@ -15,7 +15,7 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증</strong>
+          <strong class="tit">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</strong>
           <div class="con">
             <span class="date">2022.12.05</span>
           </div>
@@ -41,10 +41,10 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증</dt>
+            <dt>(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</dt>
             <dd>
               <p>
-                우리벤처파트너스가 2000억원 후반대의 대형펀드와 초기투자 전용 펀드결성을 완료하면서 펀드레이징부분에서 전통 강호의 모습을 보여줬다.
+                다올인베스트먼트가 2000억원 후반대의 대형펀드와 초기투자 전용 펀드결성을 완료하면서 펀드레이징부분에서 전통 강호의 모습을 보여줬다.
               </p>
               <br>
               <p>관련하여 탑데일리에 게재된 기사 공유드립니다.<br>

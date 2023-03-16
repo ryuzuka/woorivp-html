@@ -274,7 +274,7 @@ jQuery(window).load(function() {
             <tr>
               <td class="tleft">
                 <strong>제1조(명칭)</strong><br>
-                본 회사는 다올 인베스트먼트 주식회사 (이하 “본 회사”라 함)라 하고 영문으로는 Daol Investemnt Co., Ltd. (약호 “WOORI Venture Partners”)이라 한다.
+                본 회사는 다올 인베스트먼트 주식회사 (이하 “본 회사”라 함)라 하고 영문으로는 Daol Investemnt Co., Ltd. (약호 “Daol Investemnt”)이라 한다.
               </td>
               <td class="tleft">
                 <strong>제1조(명칭)</strong><br>
@@ -458,7 +458,7 @@ jQuery(window).load(function() {
                 1992.08~1994.10 동남리스금융<br>
                 1994.12~2000.03 케이티비네트워크<br>
                 2000.03~2000.08 아이원벤처캐피탈<br>
-                2000.09~현재 우리벤처파트너스 대표이사
+                2000.09~현재 다올인베스트먼트 대표이사
               </td>
             </tr>
             <tr>
@@ -1050,7 +1050,7 @@ jQuery(window).load(function() {
                 </td>
                 <td class="tleft">
                   <strong>제1조(명칭)</strong><br>
-                  본 회사는 우리벤처파트너스 주식회사(이하 “본 회사”라 함)라 하고 영문으로는 WOORI Venture Partners Co., Ltd.(약호 “WOORI Venture Partners”)이라 한다.
+                  본 회사는 다올인베스트먼트 주식회사(이하 “본 회사”라 함)라 하고 영문으로는 Daol Investment Co., Ltd.(약호 “Daol Investment”)이라 한다.
                 </td>
                 <td class="tleft">상호 변경</td>
               </tr>

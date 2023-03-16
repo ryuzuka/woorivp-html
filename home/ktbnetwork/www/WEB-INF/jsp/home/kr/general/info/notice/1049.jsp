@@ -116,7 +116,7 @@
 									</td>
 									<td class="tleft">
 										<strong>제1조(명칭)</strong><br>
-										본 회사는 우리벤처파트너스 주식회사(이하 “본 회사”라 함)라 하고 영문으로는 WOORI Venture Partners Co., Ltd.(약호 “WOORI Venture Partners”)이라 한다.
+										본 회사는 다올인베스트먼트 주식회사(이하 “본 회사”라 함)라 하고 영문으로는 DAOL Investment Co., Ltd.(약호 “DAOL Investment”)이라 한다.
 									</td>
 									<td class="tleft">상호 변경</td>
 								</tr>

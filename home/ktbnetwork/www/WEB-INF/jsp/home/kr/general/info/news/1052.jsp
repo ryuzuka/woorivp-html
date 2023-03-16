@@ -15,7 +15,7 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득</strong>
+          <strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
           <div class="con">
             <span class="date">2022.03.21</span>
           </div>
@@ -41,9 +41,9 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득</dt>
+            <dt>(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</dt>
             <dd>
-              <p>KTB네트워크는 3월 21일 정기 주주총회를 통해 우리벤처파트너스로 사명을 변경했다고 발표했다.<br>
+              <p>KTB네트워크는 3월 21일 정기 주주총회를 통해 다올인베스트먼트로 사명을 변경했다고 발표했다.<br>
                 아울러 100억원 규모의 자기주식 취득에 결의했다.</p>
               <br>
               <p>관련하여 한국경제TV에 게재된 기사 공유드립니다.<br>

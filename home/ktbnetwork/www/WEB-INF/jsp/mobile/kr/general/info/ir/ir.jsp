@@ -21,16 +21,16 @@
 					<h2 class="hidden">IR 리스트</h2>
 					<ul class="boardList download">
 						<li>
-							<a href="/pdf/IR_3Q22.pdf" target="_blank" role="button">우리벤처파트너스 IR_3Q.22 <em>2022.11.14</em></a>
+							<a href="/pdf/IR_3Q22.pdf" target="_blank" role="button">다올인베스트먼트 IR_3Q.22 <em>2022.11.14</em></a>
 						</li>
 						<li>
-							<a href="/pdf/IR_2Q22.pdf" target="_blank" role="button">우리벤처파트너스 IR_2Q.22 <em>2022.08.18</em></a>
+							<a href="/pdf/IR_2Q22.pdf" target="_blank" role="button">다올인베스트먼트 IR_2Q.22 <em>2022.08.18</em></a>
 						</li>
             <li>
-              <a href="/pdf/IR_1Q22.pdf" target="_blank" role="button">우리벤처파트너스 IR_1Q.22 <em>2022.05.26</em></a>
+              <a href="/pdf/IR_1Q22.pdf" target="_blank" role="button">다올인베스트먼트 IR_1Q.22 <em>2022.05.26</em></a>
             </li>
 						<li>
-							<a href="/pdf/IR_4Q21.pdf" target="_blank" role="button">우리벤처파트너스 IR_4Q.21 <em>2022.03.24</em></a>
+							<a href="/pdf/IR_4Q21.pdf" target="_blank" role="button">다올인베스트먼트 IR_4Q.21 <em>2022.03.24</em></a>
 						</li>
 						<li>
 							<a href="https://file.irgo.co.kr/data/BOARD/ATTACH_PDF/d7bfef39-5697-466f-9be5-95dc9b1a9207.pdf" target="_blank" role="button">[IPO] 케이티비네트워크 온라인 기업설명회 안내! <em>2021.11.25</em></a>

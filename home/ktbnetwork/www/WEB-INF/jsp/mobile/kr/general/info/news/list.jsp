@@ -49,7 +49,7 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
-              <a href="#newsDetail_pop84" role="button" title="상세내용 보기">(탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증<em>2022.12.05</em></a>
+              <a href="#newsDetail_pop84" role="button" title="상세내용 보기">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증<em>2022.12.05</em></a>
             </li>
             <li>
               <a href="#newsDetail_pop83" role="button" title="상세내용 보기">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최<em>2022.11.30</em></a>
@@ -100,7 +100,7 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop68" role="button" title="상세내용 보기">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정<em>2022.07.27</em></a>
             </li>
             <li data-page="1" style="display: none;">
-              <a href="#newsDetail_pop67" role="button" title="상세내용 보기">(더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음'<em>2022.07.26</em></a>
+              <a href="#newsDetail_pop67" role="button" title="상세내용 보기">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'<em>2022.07.26</em></a>
             </li>
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop66" role="button" title="상세내용 보기">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기<em>2022.07.11</em></a>
@@ -112,7 +112,7 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop64" role="button" title="상세내용 보기">(아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차<em>2022.06.14</em></a>
             </li>
             <li data-page="2" style="display: none;">
-              <a href="#newsDetail_pop63" role="button" title="상세내용 보기">(머니투데이더벨 기사) 연이은 승전보 우리벤처파트너스, AUM 2조 달성 순항<em>2022.06.09</em></a>
+              <a href="#newsDetail_pop63" role="button" title="상세내용 보기">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항<em>2022.06.09</em></a>
             </li>
             <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop60" role="button" title="상세내용 보기">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]<em>2022.06.07</em></a>
@@ -139,13 +139,13 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop55" role="button" title="상세내용 보기">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대 <em>2022.05.03</em></a>
             </li>
             <li data-page="3" style="display: none;">
-              <a href="#newsDetail_pop54" role="button" title="상세내용 보기">(베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털 <em>2022.04.19</em></a>
+              <a href="#newsDetail_pop54" role="button" title="상세내용 보기">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 <em>2022.04.19</em></a>
             </li>
             <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop53" role="button" title="상세내용 보기">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 <em>2022.04.14</em></a>
             </li>
             <li data-page="3" style="display: none;">
-              <a href="#newsDetail_pop52" role="button" title="상세내용 보기">(한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득 <em>2022.03.21</em></a>
+              <a href="#newsDetail_pop52" role="button" title="상세내용 보기">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 <em>2022.03.21</em></a>
             </li>
             <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop49" role="button" title="상세내용 보기">(머니투데이더벨 기사) KTB네트워크, IPO 후 첫 성적표 '어닝서프라이즈' <em>2022.03.18</em></a>
@@ -189,21 +189,21 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
-<!-- (탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증 -->
+<!-- (탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증 -->
 <div class="fullLayer" id="newsDetail_pop84">
   <h2 class="layerTit">NEWS</h2>
   <div class="layerCont" tabindex="0" >
     <div class="board_detail">
       <div class="detailTop">
-        <h3 class="titDep3">(탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증</h3>
+        <h3 class="titDep3">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</h3>
         <em class="date">2022.12.05</em>
       </div>
 
       <div class="detailCon">
         <div class="newscon_box">
-          <h4 class="tit">(탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증</h4>
+          <h4 class="tit">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 2000억원 후반대의 대형펀드와 초기투자 전용 펀드결성을 완료하면서 펀드레이징부분에서 전통 강호의 모습을 보여줬다.
+            다올인베스트먼트가 2000억원 후반대의 대형펀드와 초기투자 전용 펀드결성을 완료하면서 펀드레이징부분에서 전통 강호의 모습을 보여줬다.
           </p>
           <br>
           <p style="text-align: left">관련하여 탑데일리에 게재된 기사 공유드립니다.<br>
@@ -220,7 +220,7 @@ jQuery(window).load(function() {
   </div>
   <button type="button" class="layerClose">닫기</button>
 </div>
-<!-- // (탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증 -->
+<!-- // (탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증 -->
 
 <!-- (스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최 -->
 <div class="fullLayer" id="newsDetail_pop83">
@@ -269,7 +269,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 엔젯에 대한 투자금 회수에 착수했다.
+            다올인베스트먼트가 엔젯에 대한 투자금 회수에 착수했다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -335,7 +335,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 엔젯에 대한 엑시트를 준비중이다.
+            다올인베스트먼트가 엔젯에 대한 엑시트를 준비중이다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -401,7 +401,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 2800억 스케일업 펀드 결성 임박</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 최대 2800억원을 목표로 추진 중인 스케일업 펀드 결성을 마무리할 예정이다.
+            다올인베스트먼트가 최대 2800억원을 목표로 추진 중인 스케일업 펀드 결성을 마무리할 예정이다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -467,7 +467,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 플라즈맵 엑시트 착수, 예상 멀티플 1.5배</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 플라즈맵에 대한 투자금 회수에 착수했다.
+            다올인베스트먼트가 플라즈맵에 대한 투자금 회수에 착수했다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -500,7 +500,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정</h4>
           <p style="text-align: left">
-            과학기술인공제회가 벤처조합에 대한 블라인드펀드 운용사 선정 작업을 마무리했다.벤처조합 운용사로 우리벤처파트너스, DSC인베스트먼트, 에이티넘, LB인베스트먼트를 선정했다.
+            과학기술인공제회가 벤처조합에 대한 블라인드펀드 운용사 선정 작업을 마무리했다.벤처조합 운용사로 다올인베스트먼트, DSC인베스트먼트, 에이티넘, LB인베스트먼트를 선정했다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -533,7 +533,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 마무리 수순</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 아이씨에이치(ICH)에 대한 투자금 회수 작업을 사실상 마무리했다.
+            다올인베스트먼트가 아이씨에이치(ICH)에 대한 투자금 회수 작업을 사실상 마무리했다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -566,7 +566,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 나노프린터 ‘엔젯’ 엑시트 가시화</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 엔젯에 대한 엑시트에 나설 조짐이다. 엔젯이 코스닥상장 절차를 진행중이며, 일정대로면 오는 11월께증시입성이 가능할 전망이다.
+            다올인베스트먼트가 엔젯에 대한 엑시트에 나설 조짐이다. 엔젯이 코스닥상장 절차를 진행중이며, 일정대로면 오는 11월께증시입성이 가능할 전망이다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -599,7 +599,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 아이씨에이치 엑시트 순항···예상 멀티플 1.8배</h4>
           <p style="text-align: left">
-            우리벤처파트너스에서 2년전 투자한 아이씨에이치가 투자금 회수 작업에 한창이다.<br>
+            다올인베스트먼트에서 2년전 투자한 아이씨에이치가 투자금 회수 작업에 한창이다.<br>
             보유중이던 지분 8만 6000주를 정리해 22억원 가량을 회수했다.
           </p>
           <br>
@@ -633,7 +633,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</h4>
           <p style="text-align: left">
-            'KTBN16호' 를 운용중인 우리벤처파트너스가 투자를 마무리하고 회수에 나설 참이다.<br>
+            'KTBN16호' 를 운용중인 다올인베스트먼트가 투자를 마무리하고 회수에 나설 참이다.<br>
             2018년 12월 결성 당시 기준으로 설립이래 최대규모였다.
           </p>
           <br>
@@ -667,7 +667,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 스케일업 펀드 2000억 모았다</h4>
           <p style="text-align: left">
-            스케일업 펀드 결성 시한을 한달앞둔 우리벤처파트너스가 현재까지 2000억원의 결성금액을 모은 것으로 파악된다.
+            스케일업 펀드 결성 시한을 한달앞둔 다올인베스트먼트가 현재까지 2000억원의 결성금액을 모은 것으로 파악된다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -700,7 +700,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(더벨 기사) 다올인베, 3000억 스케일업 펀드 결성 탄력</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 최대 3000억원을 목표로 추진 중인 스케일업 펀드 결성에 속도를 낼 전망이다.
+            다올인베스트먼트가 최대 3000억원을 목표로 추진 중인 스케일업 펀드 결성에 속도를 낼 전망이다.
           </p>
           <br>
           <p style="text-align: left">관련하여 더벨에 게재된 기사 공유드립니다.<br>
@@ -734,7 +734,7 @@ jQuery(window).load(function() {
           <h4 class="tit">(이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정</h4>
           <p style="text-align: left">
             교직원공제회는 최근 VC부문 블라인드 펀드 위탁운용사 선정을 마치고 최종결과를 통보했다.<br>
-            우리벤처파트너스는 대형부문에서 한국투자파트너스 및 프리미어파트너스와 함께 선정되었다.
+            다올인베스트먼트는 대형부문에서 한국투자파트너스 및 프리미어파트너스와 함께 선정되었다.
           </p>
           <br>
           <p style="text-align: left">관련하여 이데일리에 게재된 기사 공유드립니다.<br>
@@ -753,21 +753,21 @@ jQuery(window).load(function() {
 </div>
 <!-- // (이데일리 기사) [마켓인]교직원공제회, 국내 VC 위탁사에 한투파·다올인베 등 선정 -->
 
-<!-- (더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음' -->
+<!-- (더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음' -->
 <div class="fullLayer" id="newsDetail_pop67">
   <h2 class="layerTit">NEWS</h2>
   <div class="layerCont" tabindex="0" >
     <div class="board_detail">
       <div class="detailTop">
-        <h3 class="titDep3">(더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음'</h3>
+        <h3 class="titDep3">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</h3>
         <em class="date">2022.07.26</em>
       </div>
 
       <div class="detailCon">
         <div class="newscon_box">
-          <h4 class="tit">(더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음'</h4>
+          <h4 class="tit">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</h4>
           <p style="text-align: left">
-            2016년, 2021년 두차례 우리벤처파트너스에서 투자를 유치한 노브로커(NoBroker가 최근 함박웃음을 짓고있다.<br>
+            2016년, 2021년 두차례 다올인베스트먼트에서 투자를 유치한 노브로커(NoBroker가 최근 함박웃음을 짓고있다.<br>
             인도 주요대도시를 중심으로 부동산 임대 수요가 폭증하고 있어 계약이 평균 5배는 증가한 것이다.
           </p>
           <br>
@@ -784,7 +784,7 @@ jQuery(window).load(function() {
   </div>
   <button type="button" class="layerClose">닫기</button>
 </div>
-<!-- // (더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음' -->
+<!-- // (더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음' -->
 
 <!-- (서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴 -->
 <div class="fullLayer" id="newsDetail_pop66">
@@ -800,7 +800,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기</h4>
           <p style="text-align: left">
-            올 하반기 3000억원 규모의 대형 벤처펀드 결성을 앞두고있는 우리벤처파트너스가 VC부문 AUM 순위를 대폭 끌어올릴 전망이다.
+            올 하반기 3000억원 규모의 대형 벤처펀드 결성을 앞두고있는 다올인베스트먼트가 VC부문 AUM 순위를 대폭 끌어올릴 전망이다.
           </p>
           <br>
           <p style="text-align: left">관련하여 머니투데이더벨에 게재된 기사 공유드립니다.<br>
@@ -882,21 +882,21 @@ jQuery(window).load(function() {
 </div>
 <!-- // (아시아경제 기사) 토종 PE·VC, 싱가포르ㆍ인니 등 동남아 시장 공략 박차 -->
 
-<!-- (머니투데이더벨 기사) 연이은 승전보 우리벤처파트너스, AUM 2조 달성 순항 -->
+<!-- (머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항 -->
 <div class="fullLayer" id="newsDetail_pop63">
   <h2 class="layerTit">NEWS</h2>
   <div class="layerCont" tabindex="0" >
     <div class="board_detail">
       <div class="detailTop">
-        <h3 class="titDep3">(머니투데이더벨 기사) 연이은 승전보 우리벤처파트너스, AUM 2조 달성 순항</h3>
+        <h3 class="titDep3">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</h3>
         <em class="date">2022.06.09</em>
       </div>
 
       <div class="detailCon">
         <div class="newscon_box">
-          <h4 class="tit">(머니투데이더벨 기사) 연이은 승전보 우리벤처파트너스, AUM 2조 달성 순항</h4>
+          <h4 class="tit">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 작년 IPO에 나서면서 목표치로 내건 AUM 2조 달성을 향해 순항하고 있다.
+            다올인베스트먼트가 작년 IPO에 나서면서 목표치로 내건 AUM 2조 달성을 향해 순항하고 있다.
           </p>
           <br>
           <p style="text-align: left">관련하여 머니투데이더벨에 게재된 기사 공유드립니다.<br>
@@ -912,7 +912,7 @@ jQuery(window).load(function() {
   </div>
   <button type="button" class="layerClose">닫기</button>
 </div>
-<!-- // (머니투데이더벨 기사) 연이은 승전보 우리벤처파트너스, AUM 2조 달성 순항 -->
+<!-- // (머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항 -->
 
 <!-- (한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점 -->
 <div class="fullLayer" id="newsDetail_pop62">
@@ -928,7 +928,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(한국경제) 다올·키움인베스트 등 모태펀드 2차 운용사 낙점</h4>
           <p style="text-align: left">
-            모태펀드의 2차 정시사업 출자 운용사에 선정된 5개 벤처캐피탈(VC) 중 우리벤처파트너스도 포함됐다.
+            모태펀드의 2차 정시사업 출자 운용사에 선정된 5개 벤처캐피탈(VC) 중 다올인베스트먼트도 포함됐다.
           </p>
           <br>
           <p style="text-align: left">관련하여 한국경제에 게재된 기사 공유드립니다.<br>
@@ -960,7 +960,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(조선비즈) “올해는 플랫폼보다 기술력 가진 창업 초기 기업 투자가 안전”</h4>
           <p style="text-align: left">
-            1981년 탄생한 국내 1호 벤처캐피탈(VC)인 우리벤처파트너스를 이끌고 있는 김창규 대표는 1994년 합류해 30년 역사를 함께했다.
+            1981년 탄생한 국내 1호 벤처캐피탈(VC)인 다올인베스트먼트를 이끌고 있는 김창규 대표는 1994년 합류해 30년 역사를 함께했다.
           </p>
           <br>
           <p style="text-align: left">관련하여 조선비즈에 게재된 기사 공유드립니다.<br>
@@ -992,7 +992,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(서울경제) 김혜수의 '발란'…악재뚫고 명품 플랫폼 첫 유니콘 예약[시그널]</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 투자한 '발란'이 성장세를 지속하며 국내·외 벤처캐피탈(VC) 및 사모펀드로부터 1000억원 이상의 대규모 투자를 유치할 것으로 알려졌다.
+            다올인베스트먼트가 투자한 '발란'이 성장세를 지속하며 국내·외 벤처캐피탈(VC) 및 사모펀드로부터 1000억원 이상의 대규모 투자를 유치할 것으로 알려졌다.
           </p>
           <br>
           <p style="text-align: left">관련하여 서울경제에 게재된 기사 공유드립니다.<br>
@@ -1024,8 +1024,8 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(한국경제TV) 5000억 모태펀드 출자 전쟁에서 승리한 VC 47곳 어디?</h4>
           <p style="text-align: left">
-            우리벤처파트너스가 모태펀드의 2차 정시사업 출자 운용사 5개 VC중 한곳으로 선정됐다.<br>
-            우리벤처파트너스는 올 초 모태펀드의 1차 정시 출자사업에도 선정되었고 2024년까지 AUM을 2조원대로 늘릴 목표이다.
+            다올인베스트먼트가 모태펀드의 2차 정시사업 출자 운용사 5개 VC중 한곳으로 선정됐다.<br>
+            다올인베스트먼트는 올 초 모태펀드의 1차 정시 출자사업에도 선정되었고 2024년까지 AUM을 2조원대로 늘릴 목표이다.
           </p>
           <br>
           <p style="text-align: left">관련하여 한국경제에 게재된 기사 공유드립니다.<br>
@@ -1057,7 +1057,7 @@ jQuery(window).load(function() {
         <div class="newscon_box">
           <h4 class="tit">(팍스넷뉴스) 'KTB'벗은 다올인베스트, 글로벌 VC 도약 노린다</h4>
           <p style="text-align: left">
-            국내 1세대 벤처캐피탈인 우리벤처파트너스가 오는 2024년까지 벤처운용자산 2조원, 연간 관리보수 160억원의 목표를 세웠다.
+            국내 1세대 벤처캐피탈인 다올인베스트먼트가 오는 2024년까지 벤처운용자산 2조원, 연간 관리보수 160억원의 목표를 세웠다.
           </p>
           <br>
           <p style="text-align: left">관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
@@ -1090,7 +1090,7 @@ jQuery(window).load(function() {
           <h4 class="tit">(파이낸셜뉴스) 늘어나는 토종 VC 해외투자…나스닥 상장 '잭팟' 터진다</h4>
           <p style="text-align: left">
             국내 VC업계가 성장하면서 해외진출에도 성공하는 사례를 늘어나고있다.<br>
-            우리벤처파트너스도 2018년 5월 미국 버클리라이츠에 약 57억원을 투자하였고 이 업체는 2020년 7월 나스닥시장에 상장하였다.
+            다올인베스트먼트도 2018년 5월 미국 버클리라이츠에 약 57억원을 투자하였고 이 업체는 2020년 7월 나스닥시장에 상장하였다.
           </p>
           <br>
           <p style="text-align: left">관련하여 파이낸셜뉴스에 게재된 기사 공유드립니다.<br>
@@ -1121,7 +1121,7 @@ jQuery(window).load(function() {
       <div class="detailCon">
         <div class="newscon_box">
           <h4 class="tit">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다</h4>
-          <p style="text-align: left">우리벤처파트너스에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
+          <p style="text-align: left">다올인베스트먼트에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
           <br>
           <p style="text-align: left">관련하여 팍스넷뉴스에 게재된 기사 공유드립니다.<br>
             보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
@@ -1151,7 +1151,7 @@ jQuery(window).load(function() {
       <div class="detailCon">
         <div class="newscon_box">
           <h4 class="tit">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대</h4>
-          <p style="text-align: left">우리벤처파트너스에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
+          <p style="text-align: left">다올인베스트먼트에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
           <br>
           <p style="text-align: left">관련하여 아시아경제에 게재된 기사 공유드립니다.<br>
             보다 자세한 내용은 아래 기사 원문에서 확인하세요</p>
@@ -1168,20 +1168,20 @@ jQuery(window).load(function() {
 </div>
 <!-- // (아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대 -->
 
-  <!-- (베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털 -->
+  <!-- (베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 -->
   <div class="fullLayer" id="newsDetail_pop54">
     <h2 class="layerTit">NEWS</h2>
     <div class="layerCont" tabindex="0" >
       <div class="board_detail">
         <div class="detailTop">
-          <h3 class="titDep3">(베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털</h3>
+          <h3 class="titDep3">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</h3>
           <em class="date">2022.04.19</em>
         </div>
 
         <div class="detailCon">
           <div class="newscon_box">
-            <h4 class="tit">(베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털</h4>
-            <p style="text-align: left">한국투자증권이 우리벤처파트너스의 2021년도 순이익을 684억원으로 집계했다.<br>
+            <h4 class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</h4>
+            <p style="text-align: left">한국투자증권이 다올인베스트먼트의 2021년도 순이익을 684억원으로 집계했다.<br>
               뛰어난 운용성과에 따라 7~8호, 11호 및 Platform 펀드 GP 출자분에 대한 지분법이익이 586억원 증가했다.</p>
             <br>
             <p style="text-align: left">관련하여 베타뉴스에 게재된 기사 공유드립니다.<br>
@@ -1197,7 +1197,7 @@ jQuery(window).load(function() {
     </div>
     <button type="button" class="layerClose">닫기</button>
   </div>
-  <!-- // (베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털 -->
+  <!-- // (베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털 -->
 
     <!-- (조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 -->
     <div class="fullLayer" id="newsDetail_pop53">
@@ -1212,7 +1212,7 @@ jQuery(window).load(function() {
           <div class="detailCon">
             <div class="newscon_box">
               <h4 class="tit">(조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표</h4>
-              <p style="text-align: left">우리벤처파트너스는  IB 업계에서는 생소한 이름이다.<br>
+              <p style="text-align: left">다올인베스트먼트는  IB 업계에서는 생소한 이름이다.<br>
                 KTB네트워크의 새 사명으로, 지난달 모회사인 다올투자증권(구  KTB투자증권)과 함께 사명을 변경했다.</p>
               <br>
               <p style="text-align: left">관련하여 조선비즈에 게재된 기사 공유드립니다.<br>
@@ -1230,20 +1230,20 @@ jQuery(window).load(function() {
     </div>
     <!-- // (조선비즈) [스타트업을 흔드는 사람들] ⑥김창규 다올인베스트 대표 -->
 
-    <!-- (한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득 -->
+    <!-- (한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 -->
     <div class="fullLayer" id="newsDetail_pop52">
       <h2 class="layerTit">NEWS</h2>
       <div class="layerCont" tabindex="0" >
         <div class="board_detail">
           <div class="detailTop">
-            <h3 class="titDep3">(한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득</h3>
+            <h3 class="titDep3">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</h3>
             <em class="date">2022.03.21</em>
           </div>
 
           <div class="detailCon">
             <div class="newscon_box">
-              <h4 class="tit">(한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득</h4>
-              <p style="text-align: left">KTB네트워크는 3월 21일 정기 주주총회를 통해 우리벤처파트너스로 사명을 변경했다고 발표했다.<br>
+              <h4 class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</h4>
+              <p style="text-align: left">KTB네트워크는 3월 21일 정기 주주총회를 통해 다올인베스트먼트로 사명을 변경했다고 발표했다.<br>
                 아울러 100억원 규모의 자기주식 취득에 결의했다.</p>
               <br>
               <p style="text-align: left">관련하여 한국경제TV에 게재된 기사 공유드립니다.<br>
@@ -1259,7 +1259,7 @@ jQuery(window).load(function() {
       </div>
       <button type="button" class="layerClose">닫기</button>
     </div>
-    <!-- // (한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득 -->
+    <!-- // (한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득 -->
 
     <!-- (뉴시스) KTB금융그룹, 우크라이나 긴급 구호에 1.3억 기부 -->
     <div class="fullLayer" id="newsDetail_pop51">

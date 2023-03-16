@@ -64,7 +64,7 @@
 									</li>
 									<li class="noMonth">
 										<p class="txt">
-											우리벤처파트너스 코스닥 상장
+                      다올인베스트먼트 코스닥 상장
 										</p>
 									</li>
 								</ol>
@@ -113,7 +113,7 @@
 										<p class="txt">DAOL Securities Thailand 설립 (태국현지 증권사 인수)</p>
 									</li>
 									<li class="noMonth">
-										<p class="txt">우리벤처파트너스 설립</p>
+										<p class="txt">다올인베스트먼트 설립</p>
 									</li>
 								</ol>
 							</li>

@@ -62,7 +62,7 @@
         <li>
           <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
             <div class="arrow next">다음글</div>
-            <div class="tit">(한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득</div>
+            <div class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</div>
           </a>
         </li>
         <li>

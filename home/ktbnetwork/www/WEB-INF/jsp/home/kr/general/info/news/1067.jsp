@@ -15,7 +15,7 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음'</strong>
+          <strong class="tit">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</strong>
           <div class="con">
             <span class="date">2022.07.26</span>
           </div>
@@ -41,10 +41,10 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음'</dt>
+            <dt>(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</dt>
             <dd>
               <p>
-                2016년, 2021년 두차례 우리벤처파트너스에서 투자를 유치한 노브로커(NoBroker가 최근 함박웃음을 짓고있다.<br>
+                2016년, 2021년 두차례 다올인베스트먼트에서 투자를 유치한 노브로커(NoBroker가 최근 함박웃음을 짓고있다.<br>
                 인도 주요대도시를 중심으로 부동산 임대 수요가 폭증하고 있어 계약이 평균 5배는 증가한 것이다.
               </p>
               <br>

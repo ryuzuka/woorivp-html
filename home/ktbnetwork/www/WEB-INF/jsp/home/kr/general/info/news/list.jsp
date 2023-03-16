@@ -25,7 +25,7 @@
 						<c:if test="${vo.page eq '1' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=84">
-                  <strong class="tit">(탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증</strong>
+                  <strong class="tit">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</strong>
                   <div class="con"><span class="date">2022.12.05</span></div>
                 </a>
               </li>
@@ -130,7 +130,7 @@
               </li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=67">
-                  <strong class="tit">(더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음'</strong>
+                  <strong class="tit">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</strong>
                   <div class="con"><span class="date">2022.07.26</span></div>
                 </a>
               </li>
@@ -157,7 +157,7 @@
               </li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=63">
-                  <strong class="tit">(머니투데이더벨 기사) 연이은 승전보 우리벤처파트너스, AUM 2조 달성 순항</strong>
+                  <strong class="tit">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</strong>
                   <div class="con"><span class="date">2022.06.09</span></div>
                 </a>
               </li>
@@ -214,7 +214,7 @@
             <c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=54">
-                  <strong class="tit">(베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털</strong>
+                  <strong class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</strong>
                   <div class="con"><span class="date">2022.04.19</span></div>
                 </a>
               </li>
@@ -226,7 +226,7 @@
               </li>
               <li>
                 <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
-                  <strong class="tit">(한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득</strong>
+                  <strong class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</strong>
                   <div class="con"><span class="date">2022.03.21</span></div>
                 </a>
               </li>
