@@ -6,7 +6,7 @@
 				<div class="swiper-container">
 					<ul class="swiper-wrapper">
 						<!-- <li class="swiper-slide"><a href="/home/watwedo/overview.do" role="button"><img src="/static/mobile/kr/images/MA/img_main_promotion1.gif" alt="내일을 보는 금융 - 회사소개 바로가기"></a></li> -->
-						<li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion2.png" alt="미래를 보는 다올인베스트먼트 성장가능성 있는 신생벤처기업 투자를 통해 미래의 가치를 만들어갑니다."></li>
+						<li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion2.png" alt="미래를 보는 우리벤처파트너스 성장가능성 있는 신생벤처기업 투자를 통해 미래의 가치를 만들어갑니다."></li>
 						<!-- <li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion3.gif" alt="함께 성장하는 KTB 설립이후 38년간 IPO를 통해 277개의 기업(우회상장 포함)과 함께 하였습니다."></li> -->
 						<li class="swiper-slide"><img src="/static/mobile/kr/images/MA/img_main_promotion4.png" alt="세계로 향하는 네트워크 수십년간 축적된 안목과 글로벌 네트워크를 통해 세계로 나아갑니다."></li>
 					</ul>
@@ -23,7 +23,7 @@
 					<dt>펀드뉴스</dt>
 					<dd>
 						<ul>
-							<li><a href="/home/info/news/view.do?page=1&num=84">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</a></li>
+							<li><a href="/home/info/news/view.do?page=1&num=84">(탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증</a></li>
 							<li><a href="/home/info/news/view.do?page=1&num=83">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</a></li>
 							<li><a href="/home/info/news/view.do?page=1&num=82">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</a></li>
 						</ul>
@@ -32,7 +32,7 @@
 			</div>
 			<!-- //mainNews -->
 			<div class="srvIntro">
-				<p class="srvTit"><em>펀드 현황을 확인하세요.</em><br>다올인베스트먼트의 성장과<br>함께 하세요.</p>
+				<p class="srvTit"><em>펀드 현황을 확인하세요.</em><br>우리벤처파트너스의 성장과<br>함께 하세요.</p>
 				<div class="tabCont on">
 					<ul class="fundStatus">
 						<li>
@@ -80,7 +80,7 @@
 			<!-- //introCon -->
 			<div class="menuBanner01">
 				<a href="/home/whoweare/korea.do">
-					<strong>성공적인 투자를 위해<br>다올인베스트먼트의<br>구성원들이 함께 합니다.</strong>
+					<strong>성공적인 투자를 위해<br>우리벤처파트너스의<br>구성원들이 함께 합니다.</strong>
 					<p>Who We Are</p>
 				</a>
 			</div>
@@ -442,7 +442,7 @@
       <h2 class="layerTit">공지사항</h2>
       <div class="layerCont newscon_box" tabindex="0">
         <p>
-          다올인베스트먼트는 개인을 대상으로 투자 또는 송금을 권유하는 행위를 하지않습니다.<br>
+          우리벤처파트너스는 개인을 대상으로 투자 또는 송금을 권유하는 행위를 하지않습니다.<br>
           최근 당사의 임직원을 사칭하여 높은 수익과 원금을 보장하는 사기 및 유사범행이 이루어지고있음을 확인하였습니다.<br>
           인가 또는 허락받지않거나 등록 또는 신고를 하지 아니한 채 사람들로부터 투자금을 모으는 유사수신행위는 불법입니다.<br>
           이러한 범죄행위로 인하여 피해를 입으시는일이 없도록 각별히 주의하여 주시기 바랍니다.

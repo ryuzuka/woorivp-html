@@ -9,7 +9,7 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">Info</h1>
-        <p class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
+        <p class="pageTxt">우리벤처파트너스의 공지사항을 알려드립니다.</p>
       </div>
     </div>
     <div class="inner">
@@ -44,7 +44,7 @@
             <dt>(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기</dt>
             <dd>
               <p>
-                올 하반기 3000억원 규모의 대형 벤처펀드 결성을 앞두고있는 다올인베스트먼트가 VC부문 AUM 순위를 대폭 끌어올릴 전망이다.
+                올 하반기 3000억원 규모의 대형 벤처펀드 결성을 앞두고있는 우리벤처파트너스가 VC부문 AUM 순위를 대폭 끌어올릴 전망이다.
               </p>
               <br>
               <p>관련하여 머니투데이더벨에 게재된 기사 공유드립니다.<br>
@@ -63,7 +63,7 @@
         <li>
           <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=67">
             <div class="arrow next">다음글</div>
-            <div class="tit">(더구루 기사) '다올인베스트먼트 투자' 노브로커, 부동산 임대 사업 '함박웃음'</div>
+            <div class="tit">(더구루 기사) '우리벤처파트너스 투자' 노브로커, 부동산 임대 사업 '함박웃음'</div>
           </a>
         </li>
         <li>

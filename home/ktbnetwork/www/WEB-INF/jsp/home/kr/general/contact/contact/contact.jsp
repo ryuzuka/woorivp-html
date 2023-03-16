@@ -8,7 +8,7 @@
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">Contact</h1>
-						<p class="pageTxt ctt">내일을 위한 금융, 다올인베스트먼트와 만나보세요.</p>
+						<p class="pageTxt ctt">내일을 위한 금융, 우리벤처파트너스와 만나보세요.</p>
 					</div>
 				</div>
 				<div class="mapArea">

@@ -51,7 +51,7 @@
 					</li>
 					<li>
 						<strong class="tit">2008.06</strong>
-						<p class="txt">다올인베스트먼트 설립</p>
+						<p class="txt">우리벤처파트너스 설립</p>
 					</li>
 					<li>
 						<strong class="tit">2008.07</strong>
@@ -67,7 +67,7 @@
 					</li>
 					<li>
 						<strong class="tit">2018.11</strong>
-						<p class="txt">DAOL REIT & DAOL Investment Management Thailand 설립</p>
+						<p class="txt">DAOL REIT & WOORI Venture Partners Management Thailand 설립</p>
 					</li>
 					<li>
 						<strong class="tit">2019.07</strong>
@@ -79,7 +79,7 @@
 					</li>
 					<li>
 						<strong class="tit">2021.12</strong>
-						<p class="txt">다올인베스트먼트 코스닥 상장</p>
+						<p class="txt">우리벤처파트너스 코스닥 상장</p>
 					</li>
 					<li>
 						<strong class="tit">2021.12</strong>
@@ -132,7 +132,7 @@
 				</div>
 				다올투자증권은 1981년 과학기술처가 기업의 기술개발 투자를 위해 설립한 한국기술개발을 모태로 하고 있습니다. 이후 2000년 민영화, 2008년 증권업 진출을 통해 현재는 IB(Investment Banking) 부문을 중심으로 Wholesale, Retail, FICC 등 증권업 전반에 걸쳐 다양한 사업을 영위하고 있습니다.<br><br>
 				특히 IB부문은, 부동산·SOC, 항공기, 선박, 신재생에너지 등 다양한 대체투자 분야에서 구조화 금융(Structured Finance) 시장을 선도해 온 전문가들이 대규모 프로젝트의 자금조달 및 기관투자자 대상 장기투자처 발굴을 위한 다양한 첨단 금융기법들을 제공하고 있습니다.<br><br>
-				다올투자증권은 현재 다올저축은행, 다올인베스트먼트, 다올자산운용, 다올프라이빗에쿼티, 다올신용정보, Daol Thailand 등 다올금융그룹 주요 계열사들을 자회사로 두고 있습니다.
+				다올투자증권은 현재 다올저축은행, 우리벤처파트너스, 다올자산운용, 다올프라이빗에쿼티, 다올신용정보, Daol Thailand 등 다올금융그룹 주요 계열사들을 자회사로 두고 있습니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
@@ -158,7 +158,7 @@
 
 	<div class="layerPop" id="pop3">
 		<div class="layerContainer">
-			<h2 class="layerTit">다올인베스트먼트</h2>
+			<h2 class="layerTit">우리벤처파트너스</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
 					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo3.png" alt="다올 인베스트먼트"></div>
@@ -264,7 +264,7 @@
 					</div>
 				</div>
 				‘88년 6월 미국 실리콘 밸리의 심장부인 California Palo Alto에 설립된 다올의 첫 번째 해외 네트워크입니다.<br><br>
-				1,200억원 규모의 미국 투자 레코드를 보유하고 있으며, 최근 계열사인 다올인베스트먼트의 자회사로 지배구조를 변경하여 본격적으로 미국, 캐나다 등 북미지역 투자 부문에서 협업을 진행하고 있습니다.
+				1,200억원 규모의 미국 투자 레코드를 보유하고 있으며, 최근 계열사인 우리벤처파트너스의 자회사로 지배구조를 변경하여 본격적으로 미국, 캐나다 등 북미지역 투자 부문에서 협업을 진행하고 있습니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>

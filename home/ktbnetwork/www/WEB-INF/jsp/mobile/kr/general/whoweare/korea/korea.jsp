@@ -4,7 +4,7 @@
 	<div class="contents pdb0">
 		<div class="visualArea">
 			<h1 class="pageTit">Who We Are</h1>
-			<p role="text" class="pageTxt">성공적인 투자를 위해<br>다올인베스트먼트의 구성원들이 함께 합니다.</p>
+			<p role="text" class="pageTxt">성공적인 투자를 위해<br>우리벤처파트너스의 구성원들이 함께 합니다.</p>
 		</div>
 		<div class="personIntro">
 			<div class="tabType1">
@@ -448,7 +448,7 @@
 							<li>서울대학교 화학공학과</li>
 							<li>서울대학교 화학공학 대학원</li>
 							<li>현대전자</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 					<!--
@@ -482,7 +482,7 @@
 							<li>연세대학교 경제학과</li>
 							<li>연세대학교 경제학 대학원</li>
 							<li>동남리스</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 				</dl>
@@ -508,7 +508,7 @@
 							<li>연세대학교 사학과</li>
 							<li>S.N.21</li>
 							<li>데이콤</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 				</dl>
@@ -561,7 +561,7 @@
 							<li>서울대학교 화학공학과</li>
 							<li>서울대학교 화학공학 대학원</li>
 							<li>쌍용정유</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 				</dl>
@@ -585,7 +585,7 @@
 					<dd>
 						<ul class="listDep1">
 							<li>성균관대학교 기계설계학과</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 				</dl>
@@ -609,7 +609,7 @@
 					<dd>
 						<ul class="listDep1">
 							<li>서강대학교 사회학과</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 				</dl>
@@ -1013,7 +1013,7 @@
 							<li>서울대학교 화학공학과</li>
 							<li>서울대학교 화학공학 대학원</li>
 							<li>현대전자</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 					<!--
@@ -1047,7 +1047,7 @@
 							<li>연세대학교 경제학과</li>
 							<li>연세대학교 경제학 대학원</li>
 							<li>동남리스</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 				</dl>
@@ -1134,7 +1134,7 @@
 						<ul class="listDep1">
 							<li>서울대학교 국제경제학과</li>
 							<li>㈜대우</li>
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 					<dt>업무</dt>
@@ -1224,7 +1224,7 @@
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 							<li>케이큐브벤처스</li>
 						</ul>
 					</dd>
@@ -1405,7 +1405,7 @@
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>다올인베스트먼트</li>
+							<li>우리벤처파트너스</li>
 						</ul>
 					</dd>
 					<dt>업무</dt>

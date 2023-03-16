@@ -24,7 +24,7 @@
 					<ul class="companyInfo">
 						<li>
 							<strong>Company Name</strong>
-							<em>DAOL Investment Co., Ltd</em>
+							<em>WOORI Venture Partners Co., Ltd</em>
 						</li>
 						<li>
 							<strong>Establishment</strong>
@@ -36,7 +36,7 @@
 						</li>
 						<li>
 							<strong>Key Shareholders</strong>
-							<em>DAOL Investment & Securities(100%)</em>
+							<em>WOORI Venture Partners & Securities(100%)</em>
 						</li>
 						<li>
 							<strong>Capital Stock</strong>

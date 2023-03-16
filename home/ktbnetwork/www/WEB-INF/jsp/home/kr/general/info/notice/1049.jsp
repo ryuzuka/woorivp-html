@@ -9,7 +9,7 @@
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">Info</h1>
-						<p class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
+						<p class="pageTxt">우리벤처파트너스의 공지사항을 알려드립니다.</p>
 					</div>
 				</div>
 				<div class="inner">
@@ -116,7 +116,7 @@
 									</td>
 									<td class="tleft">
 										<strong>제1조(명칭)</strong><br>
-										본 회사는 다올인베스트먼트 주식회사(이하 “본 회사”라 함)라 하고 영문으로는 Daol Investment Co., Ltd.(약호 “Daol Investment”)이라 한다.
+										본 회사는 우리벤처파트너스 주식회사(이하 “본 회사”라 함)라 하고 영문으로는 WOORI Venture Partners Co., Ltd.(약호 “WOORI Venture Partners”)이라 한다.
 									</td>
 									<td class="tleft">상호 변경</td>
 								</tr>

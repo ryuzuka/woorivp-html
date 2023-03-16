@@ -2,7 +2,7 @@
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
 	<header>
 	<button type="button" class="prev" onclick="location.href='javascript:history.go(-1)'">이전</button>
-		<h1><a href="/home/main/main.do">다올인베스트먼트</a></h1>
+		<h1><a href="/home/main/main.do">우리벤처파트너스</a></h1>
 		<button type="button" class="menu">메뉴</button>
 	</header>
 
@@ -10,7 +10,7 @@
 		<h2 class="hidden">전체 메뉴</h2>
 		<div class="menuTop">
 			<div class="inner">
-				<p class="tit">다올인베스트먼트 전체메뉴</p>
+				<p class="tit">우리벤처파트너스 전체메뉴</p>
 				<button type="button" class="goMain" onclick="location.href='/home/main/main.do'">메인으로</button>
 			</div>
 			<ul class="etc">

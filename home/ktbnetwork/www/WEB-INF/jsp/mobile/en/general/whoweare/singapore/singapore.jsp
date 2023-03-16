@@ -96,7 +96,7 @@
 						<ul class="listDep1">
 							<li>University of California, Berkeley (English Literature)</li>
 							<li>Samsung Life Insurance</li>
-							<li>Daol Investment & Securities</li>
+							<li>WOORI Venture Partners & Securities</li>
 						</ul>
 					</dd>
 				</dl>

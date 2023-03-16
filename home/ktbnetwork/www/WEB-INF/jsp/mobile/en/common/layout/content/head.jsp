@@ -4,7 +4,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
 	<meta name="format-detection" content="telephone=no">
-	<title>DAOL Investment</title>
+	<title>WOORI Venture Partners</title>
 	<link rel="stylesheet" type="text/css" href="/static/mobile/en/css/m_font.css"> 
 	<link rel="stylesheet" type="text/css" href="/static/mobile/en/css/m_common.css"> 
 	<link rel="stylesheet" type="text/css" href="/static/mobile/en/css/m_main.css">

@@ -66,7 +66,7 @@
 										<h3>Chihoon Hyun <span class="pointColor">CHINA / Managing Director</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>Yonsei University (Economics)<br>IMM Investment<br>DAOL Investment</dd>
+											<dd>Yonsei University (Economics)<br>IMM Investment<br>WOORI Venture Partners</dd>
 										</dl>
 									</div>
 								</div>
@@ -114,7 +114,7 @@
 										<h3>Piao Yanhua <span class="pointColor">CHINA / Management / Team Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>Shanghai Normal University (Real-estate Business)<br>DAOL Investment & Securities<br>Hanwha general chemical orporation</dd>
+											<dd>Shanghai Normal University (Real-estate Business)<br>WOORI Venture Partners & Securities<br>Hanwha general chemical orporation</dd>
 											<dt>Responsibilities</dt>
 											<dd>Administrative/Financial Management</dd>
 										</dl>

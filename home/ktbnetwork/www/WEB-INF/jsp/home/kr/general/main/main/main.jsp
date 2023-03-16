@@ -17,7 +17,7 @@
                   </a>
                 </li> -->
                 <li class="swiper-slide">
-                  <img src="/static/home/kr/images/main/main_visual2.png" alt="미래를 보는 다올인베스트먼트 성장가능성 있는 신생벤처기업 투자를 통해 미래의 가치를 만들어갑니다. 상품 바로가기">
+                  <img src="/static/home/kr/images/main/main_visual2.png" alt="미래를 보는 우리벤처파트너스 성장가능성 있는 신생벤처기업 투자를 통해 미래의 가치를 만들어갑니다. 상품 바로가기">
                 </li>
                 <!-- <li class="swiper-slide">
                     <img src="/static/home/kr/images/main/main_visual3.png" alt="함께 성장하는 KTB 설립 이후 38년간 IPO를 통해 277개의 기업(우회상장 포함)과 함께 하였습니다. 상품 바로가기">
@@ -49,7 +49,7 @@
                 <button type="button" class="next">다음 뉴스 보기</button>
               </div>
               <ul><!-- 요건 1: 버튼 클릭 시 li margin-top 값 조절되어 상하 롤링 ,요건2 : a 태그 공백 포함 50자 말줄임처리 -->
-                <li><a href="/home/info/news/view.do?page=1&num=84">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</a></li>
+                <li><a href="/home/info/news/view.do?page=1&num=84">(탑데일리 기사) 우리벤처파트너스, 명불허전 펀드명가 입증</a></li>
                 <li><a href="/home/info/news/view.do?page=1&num=83">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</a></li>
                 <li><a href="/home/info/news/view.do?page=1&num=82">(더벨 기사) 다올인베, ‘상승기류’ 엔젯 엑시트 착수</a></li>
               </ul>
@@ -63,7 +63,7 @@
       <!-- section2 -->
       <div class="section2" style="height:770px">
         <div class="inner">
-          <h3 class="sTit">펀드 현황을 확인하세요.<em>다올인베스트먼트의 성장과 함께 하세요.</em></h3>
+          <h3 class="sTit">펀드 현황을 확인하세요.<em>우리벤처파트너스의 성장과 함께 하세요.</em></h3>
           <ul class="tabArea">
             <li><a href="#tab01" aria-selected="true" class="on" style="font-size: 18px;">청산펀드 현황</a></li>
             <li><a href="#tab02" style="font-size: 18px;">운용펀드 현황</a></li>
@@ -176,7 +176,7 @@
       <div class="etcArea">
         <div class="inner">
           <div class="member">
-            <p>성공적인 투자를 위해 <br>다올인베스트먼트의 구성원들이<br>함께 합니다.</p>
+            <p>성공적인 투자를 위해 <br>우리벤처파트너스의 구성원들이<br>함께 합니다.</p>
             <a href="/home/whoweare/korea.do">Who We Are</a>
           </div>
           <div class="partners">

@@ -5,7 +5,7 @@ body{word-break:keep-all;word-wrap:break-word}
 body,div,p,section,nav,footer,article,figure,aside,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,form,fieldset,input,textarea,button,select,span,strong,b,em,a,label{margin:0;padding:0;box-sizing:border-box}
 header,footer,section,article,nav,aside{display:block;padding:0;margin:0}
 td,th{position:relative;font-weight:400;margin:0;padding:0;word-break:break-all}
-body,input,textarea,select{color:#555;font-family:Roboto, notokr;font-weight:400;font-size:15px;line-height:1.5}
+body,input,textarea,select{color:#555;font-family:Wooridaum;font-weight:400;font-size:15px;line-height:1.5}
 h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2}
 img,fieldset,iframe{border:0;vertical-align:top}
 textarea{resize:none}
@@ -58,7 +58,7 @@ a:hover{text-decoration:none}
 .navArea, .footArea{position:relative;width:1200px;margin:0 auto}
 .inner{width:1100px;margin:0 auto}
 
-.header{position:absolute;top:0;left:0;width:100%;min-width:1280px;background:#0f206c url(../images/common/bg_visual.png) 100% 0 repeat-y;z-index:10}
+.header{position:absolute;top:0;left:0;width:100%;min-width:1280px;background:#0067AC url(../images/common/bg_visual.png) 100% 0 repeat-y;z-index:10}
 .header.fixed{position:fixed}
 
 .headArea{position:relative;height:100%;border-bottom:1px solid rgba(255,255,255,0.1)}

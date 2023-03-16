@@ -50,7 +50,7 @@
 									<h3>Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>DAOL Investment</dd>
+										<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -70,7 +70,7 @@
 									<h3>Kim Chang Kyu <span class="pointColor">KOREA / CEO / President</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Yonsei University (Economics)<br>Yonsei Graduate School of Economics<br>Dong Nam Lease<br>DAOL Investment</dd>
+										<dd>Yonsei University (Economics)<br>Yonsei Graduate School of Economics<br>Dong Nam Lease<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -86,7 +86,7 @@
 									<h3>Lee Seung Ho <span class="pointColor">KOREA / Investment / Executive Managing Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Yonsei University (History)<br>S.N.21<br>Dacom<br>DAOL Investment</dd>
+										<dd>Yonsei University (History)<br>S.N.21<br>Dacom<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -102,7 +102,7 @@
 									<h3>Lim Dong Hyeon <span class="pointColor">KOREA / Investment / Executive Managing Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Korea University (Business)<br>Korea University, Graduate School of Business<br>Suwon University, PhD in Business Administration<br>Nara Banking Corporation<br>DAOL Investment</dd>
+										<dd>Korea University (Business)<br>Korea University, Graduate School of Business<br>Suwon University, PhD in Business Administration<br>Nara Banking Corporation<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -118,7 +118,7 @@
 									<h3>Park Seon Bae <span class="pointColor">KOREA / Investment / Executive Managing Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Ssang Yong Oil<br>DAOL Investment</dd>
+										<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Ssang Yong Oil<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -134,7 +134,7 @@
 									<h3>Shin Tae Kwang <span class="pointColor">KOREA / Investment / Managing Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Sung Kyun Kwan University<br>(Mechanical Design and Production Engineering)<br>DAOL Investment</dd>
+										<dd>Sung Kyun Kwan University<br>(Mechanical Design and Production Engineering)<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -150,7 +150,7 @@
 									<h3>Kim Jae Han <span class="pointColor">KOREA / Investment / Managing Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Sogang University (Sociology)<br>DAOL Investment</dd>
+										<dd>Sogang University (Sociology)<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -166,7 +166,7 @@
 									<h3>Kyung Kuk Hyun <span class="pointColor">KOREA / Investment / Managing Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Seoul National University<br>(Naval Architecture &amp; Ocean Engineering)<br>SK C&amp;C<br>DAOL Investment</dd>
+										<dd>Seoul National University<br>(Naval Architecture &amp; Ocean Engineering)<br>SK C&amp;C<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -182,7 +182,7 @@
 									<h3>Kim Eun Sook <span class="pointColor">KOREA / Investment / Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Samsung C&amp;T<br>KangJeGyu Film<br>DAOL Investment</dd>
+										<dd>Samsung C&amp;T<br>KangJeGyu Film<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -214,7 +214,7 @@
 									<h3>Chun Ji Woong <span class="pointColor">KOREA / Investment / Director</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Seoul National University, Graduate School of Pharmacy<br>Chong Kun Dang<br>Daiichi Sankyo (Clinical Development)<br>DAOL Investment</dd>
+										<dd>Seoul National University, Graduate School of Pharmacy<br>Chong Kun Dang<br>Daiichi Sankyo (Clinical Development)<br>WOORI Venture Partners</dd>
 									</dl>
 								</div>
 							</div>
@@ -419,7 +419,7 @@
 											<h3>Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
 											<dl>
 												<dt>Career</dt>
-												<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>DAOL Investment</dd>
+												<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>WOORI Venture Partners</dd>
 											</dl>
 										</div>
 									</div>
@@ -440,7 +440,7 @@
 											<h3>Kim Chang Kyu <span class="pointColor">KOREA / CEO / President</span></h3>
 											<dl>
 												<dt>Career</dt>
-												<dd>Yonsei University (Economics)<br>Yonsei Graduate School of Economics<br>Dong Nam Lease<br>DAOL Investment</dd>
+												<dd>Yonsei University (Economics)<br>Yonsei Graduate School of Economics<br>Dong Nam Lease<br>WOORI Venture Partners</dd>
 											</dl>
 										</div>
 									</div>
@@ -508,7 +508,7 @@
 										<h3>Chung Do <span class="pointColor">KOREA / Management / Executive Vice Presideng</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>Seoul National University (International Economics)<br>Daewoo<br>DAOL Investment</dd>
+											<dd>Seoul National University (International Economics)<br>Daewoo<br>WOORI Venture Partners</dd>
 											<dt>Responsibilities</dt>
 											<dd>Management support</dd>
 										</dl>
@@ -526,7 +526,7 @@
 										<h3>Hwang Moon Chul <span class="pointColor">KOREA / Management  / Managing Director</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>Samil PwC Assurance/Deal<br>HM consulting Inc<br>DAOL Investment & Securities</dd>
+											<dd>Samil PwC Assurance/Deal<br>HM consulting Inc<br>WOORI Venture Partners & Securities</dd>
 											<dt>Responsibilities</dt>
 											<dd>Management planning and Accounting</dd>
 										</dl>
@@ -544,7 +544,7 @@
 										<h3>Song Chi Hoon <span class="pointColor">KOREA / Management / Director</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>A.T.Kearney<br>DAOL Investment & Securities</dd>
+											<dd>A.T.Kearney<br>WOORI Venture Partners & Securities</dd>
 											<dt>Responsibilities</dt>
 											<dd>Strategic planning</dd>
 										</dl>
@@ -562,7 +562,7 @@
 										<h3>Lee Ji Hyun <span class="pointColor">KOREA / Management / Director</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>K Cube Ventures<br>DAOL Investment</dd>
+											<dd>K Cube Ventures<br>WOORI Venture Partners</dd>
 											<dt>Responsibilities</dt>
 											<dd>Treasury/public disclosure</dd>
 										</dl>
@@ -616,7 +616,7 @@
 										<h3>Kwon Soon Won <span class="pointColor">KOREA / Management / Team Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>DAOL Investment & Securities</dd>
+											<dd>WOORI Venture Partners & Securities</dd>
 											<dt>Responsibilities</dt>
 											<dd>Management planning</dd>
 										</dl>
@@ -707,7 +707,7 @@
 										<h3>Lee Sin Hee <span class="pointColor">KOREA / Management / Assistant Manager</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>DAOL Investment</dd>
+											<dd>WOORI Venture Partners</dd>
 											<dt>Responsibilities</dt>
 											<dd>Accounting</dd>
 										</dl>

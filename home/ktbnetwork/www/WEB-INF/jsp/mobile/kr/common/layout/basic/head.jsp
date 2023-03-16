@@ -4,7 +4,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
 	<meta name="format-detection" content="telephone=no">
-	<title>다올인베스트먼트</title>
+	<title>우리벤처파트너스</title>
 	<link rel="stylesheet" type="text/css" href="/static/mobile/kr/css/m_font.css"> 
 	<link rel="stylesheet" type="text/css" href="/static/mobile/kr/css/m_common.css"> 
 	<link rel="stylesheet" type="text/css" href="/static/mobile/kr/css/m_main.css"> 

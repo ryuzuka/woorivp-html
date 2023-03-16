@@ -10,9 +10,9 @@
 		<div class="familySite">
 			<span class="frmSelect">
 				<select title="Family Site">
-					<option value="https://m.ktb.co.kr/en/CIE/CIE1.jsp">DAOL Investment & Securities</option>
+					<option value="https://m.ktb.co.kr/en/CIE/CIE1.jsp">WOORI Venture Partners & Securities</option>
 					<option value="https://m.daolsb.com/main.do">DAOL Saving Bank</option>
-					<option value="http://daolinvestment.com/home/en/main/main.do">DAOL Investment</option>
+					<option value="http://daolinvestment.com/home/en/main/main.do">WOORI Venture Partners</option>
 					<option value="http://www.i-ktb.com/static/pc/html/MA/MAE1.html">DAOL Asset Management</option>
 					<option value="http://daolpe.com/">DAOL Private Equity</option>
 					<option value="http://www.ktbcredit.com/">DAOL Credit Service</option>
@@ -22,5 +22,5 @@
 			</span>
 			<a href="#" role="button" class="btnMove">GO</a>
 		</div>
-		<p class="copyright">COPYRIGHT&copy;DAOL Investment. ALL RIGHTS RESERVED</p>
+		<p class="copyright">COPYRIGHT&copy;WOORI Venture Partners. ALL RIGHTS RESERVED</p>
 	</footer>

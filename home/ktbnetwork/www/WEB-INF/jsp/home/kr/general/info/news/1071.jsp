@@ -9,7 +9,7 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">Info</h1>
-        <p class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
+        <p class="pageTxt">우리벤처파트너스의 공지사항을 알려드립니다.</p>
       </div>
     </div>
     <div class="inner">
@@ -44,7 +44,7 @@
             <dt>(더벨 기사) 다올인베, 4년차 'KTBN16호' 회수 속도낸다</dt>
             <dd>
               <p>
-                'KTBN16호' 를 운용중인 다올인베스트먼트가 투자를 마무리하고 회수에 나설 참이다.<br>
+                'KTBN16호' 를 운용중인 우리벤처파트너스가 투자를 마무리하고 회수에 나설 참이다.<br>
                 2018년 12월 결성 당시 기준으로 설립이래 최대규모였다.
               </p>
               <br>

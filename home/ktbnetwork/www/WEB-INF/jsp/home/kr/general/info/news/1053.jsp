@@ -9,7 +9,7 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">Info</h1>
-        <p class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
+        <p class="pageTxt">우리벤처파트너스의 공지사항을 알려드립니다.</p>
       </div>
     </div>
     <div class="inner">
@@ -43,7 +43,7 @@
           <dl class="noticeBox">
             <dt>(조선비즈) [스타트업을 흔드는 사람들]<br>⑥김창규 다올인베스트 대표</dt>
             <dd>
-              <p>다올인베스트먼트는  IB 업계에서는 생소한 이름이다.<br>
+              <p>우리벤처파트너스는  IB 업계에서는 생소한 이름이다.<br>
                 KTB네트워크의 새 사명으로, 지난달 모회사인 다올투자증권(구  KTB투자증권)과 함께 사명을 변경했다.</p>
               <br>
               <p>관련하여 조선비즈에 게재된 기사 공유드립니다.<br>
@@ -62,13 +62,13 @@
         <li>
           <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=54">
             <div class="arrow next">다음글</div>
-            <div class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</div>
+            <div class="tit">(베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털</div>
           </a>
         </li>
         <li>
           <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=52">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(한국경제TV) KTB네트워크, 다올인베스트먼트로 사명 변경…자사주 100억 취득</div>
+            <div class="tit">(한국경제TV) KTB네트워크, 우리벤처파트너스로 사명 변경…자사주 100억 취득</div>
           </a>
         </li>
       </ul>

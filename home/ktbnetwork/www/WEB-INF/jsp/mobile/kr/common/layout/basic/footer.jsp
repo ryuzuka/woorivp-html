@@ -12,7 +12,7 @@
 				<select title="Family Site">
 					<option value="https://m.ktb.co.kr/kr/MA/main.jsp">다올투자증권</option>
 					<option value="https://m.daolsb.com/main.do">다올저축은행</option>
-					<option value="https://www.daolinvestment.com">다올인베스트먼트</option>
+					<option value="https://www.daolinvestment.com">우리벤처파트너스</option>
 					<option value="http://m.i-ktb.com/static/mobile/html/MA/m_main.html">다올자산운용</option>
 					<option value="http://daolpe.com/">다올프라이빗에쿼티</option>
 					<option value="http://www.ktbcredit.com/">다올신용정보</option>
@@ -22,5 +22,5 @@
 			</span>
 			<a href="#" role="button" class="btnMove">이동</a>
 		</div>
-		<p class="copyright">COPYRIGHT&copy;DAOL Investment. ALL RIGHTS RESERVED</p>
+		<p class="copyright">COPYRIGHT&copy;WOORI Venture Partners. ALL RIGHTS RESERVED</p>
 	</footer>

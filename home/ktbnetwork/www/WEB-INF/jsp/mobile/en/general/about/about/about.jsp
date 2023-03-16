@@ -52,7 +52,7 @@
 					</li>
 					<li>
 						<strong class="tit">JUN. 2008</strong>
-						<p class="txt">Established DAOL Investment (Venture Capital)</p>
+						<p class="txt">Established WOORI Venture Partners (Venture Capital)</p>
 					</li>
 					<li>
 						<strong class="tit">JUL. 2008</strong>
@@ -61,7 +61,7 @@
 					<li>
 						<strong class="tit">AUG. 2008</strong>
 						<ul class="txt">
-							<li>Received Securities License & Change Name to DAOL Investment & Securities </li>
+							<li>Received Securities License & Change Name to WOORI Venture Partners & Securities </li>
 							<li>Established DAOL Thailand</li>
 						</ul>
 					</li>
@@ -69,13 +69,13 @@
 						<strong class="tit">APR. 2012</strong>
 						<p class="txt">
 							Established DAOL Private Equity<br>
-							(Spin-off from DAOL Investment & Securities PE Division)
+							(Spin-off from WOORI Venture Partners & Securities PE Division)
 						</p>
 					</li>
 					<li>
 						<strong class="tit">NOV. 2018</strong>
 						<p class="txt">
-							Established DAOL REIT & DAOL Investment Management Thailand
+							Established DAOL REIT & WOORI Venture Partners Management Thailand
 						</p>
 					</li>
 					<li>
@@ -93,7 +93,7 @@
 					<li>
 						<strong class="tit">DEC. 2021</strong>
 						<ul class="txt">
-							<li>Listed on KOSDAQ (DAOL Investment)</li>
+							<li>Listed on KOSDAQ (WOORI Venture Partners)</li>
 							<li>Acquired DAOL Savings Bank from Eugene Group</li>
 						</ul>
 					</li>
@@ -116,9 +116,9 @@
 				<div class="affArea">
 					<div class="affImg"><img src="/static/mobile/en/images/contents/img_affiliates_v4.jpg" alt=""></div>
 					<ul class="affList">
-						<li><a href="#pop1" role="button">DAOL Investment & Securities</a></li>
+						<li><a href="#pop1" role="button">WOORI Venture Partners & Securities</a></li>
 						<li><a href="#pop2" role="button">DAOL Asset Management</a></li>
-						<li><a href="#pop3" role="button">DAOL Investment</a></li>
+						<li><a href="#pop3" role="button">WOORI Venture Partners</a></li>
 						<li><a href="#pop4" role="button">DAOL Private Equity</a></li>
 						<li><a href="#pop5" role="button">DAOL Thailand</a></li>
 						<li><a href="#pop6" role="button">DAOL Ventures</a></li>
@@ -134,17 +134,17 @@
 <!-- layer pop(L) -->
 	<div class="layerPop en" id="pop1">
 		<div class="layerContainer">
-			<h2 class="layerTit">DAOL Investment & Securities</h2>
+			<h2 class="layerTit">WOORI Venture Partners & Securities</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo1_eng.png" alt="DAOL Investment & Securities" class="imgType01"><img src="/static/mobile/en/images/contents/logo1_eng02.png" alt="DAOL Investment & Securities" class="imgType02"></div>
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo1_eng.png" alt="WOORI Venture Partners & Securities" class="imgType01"><img src="/static/mobile/en/images/contents/logo1_eng02.png" alt="WOORI Venture Partners & Securities" class="imgType02"></div>
 					<div class="contBtn">
 						<a href="https://m.ktb.co.kr/en/CIE/CIE1.jsp" target="_blank" title="새창열기">www.daolsecurities.com</a>
 					</div>
 				</div>
-				Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, DAOL Investment & Securities(“DAOL") has since grown into a comprehensive securities company offering a wide range of financial products and services including, investment banking, institutional brokerage and individual wealth management.<br><br>
+				Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, WOORI Venture Partners & Securities(“DAOL") has since grown into a comprehensive securities company offering a wide range of financial products and services including, investment banking, institutional brokerage and individual wealth management.<br><br>
 				DAOL's professional have long played leading role professionals in the structured finance market, with strong expertise in a wide range of alternative investment products, including real estate / SOC, aircraft and ship financing and renewable energy.<br><br>
-				DAOL holds DAOL Savings Bank, DAOL Investment, DAOL Asset Management, DAOL Private Equity, DAOL Credit Service as its owned subsidiaries.
+				DAOL holds DAOL Savings Bank, WOORI Venture Partners, DAOL Asset Management, DAOL Private Equity, DAOL Credit Service as its owned subsidiaries.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
@@ -168,17 +168,17 @@
 	</div>
 	<div class="layerPop en" id="pop3">
 		<div class="layerContainer">
-			<h2 class="layerTit">DAOL Investment</h2>
+			<h2 class="layerTit">WOORI Venture Partners</h2>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo3_eng.png" alt="DAOL Investment"></div>
+					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo3_eng.png" alt="WOORI Venture Partners"></div>
 					<div class="contBtn">
 						<a href="http://m.ktbnetwork.com/home/en/main/main.do" target="_blank" title="새창열기">www.daolinvestment.com</a>
 						<a href="tel:+82-31-628-6400">+82-31-628-6400</a>
 					</div>
 				</div>
-				DAOL Investment is Korea's leading venture capital company with the longest history and investment track record. As of the end of 2021, its assets under management (AUM) reached USD 1.0 billion, and the size of newly formed fund last year was about USD 46 million based on the commitment. DAOL Investment was ranked first in VC investment performance in 2017*.<br><br>
-				DAOL Investment became the first Korean venture capital firm to participate in the Chinese venture capital market, making its initial investment in China as early as the year 2000. DAOL Investment has taken advantage of its "First Mover" status in China, generating consistent investment results year after year. It has ranked among top 50 venture capital firms in China for nine years in a row. Furthermore, it boasts a wide-ranging global investment track record and strong network in the US, Japan and Southeast Asia.<br><br>
+				WOORI Venture Partners is Korea's leading venture capital company with the longest history and investment track record. As of the end of 2021, its assets under management (AUM) reached USD 1.0 billion, and the size of newly formed fund last year was about USD 46 million based on the commitment. WOORI Venture Partners was ranked first in VC investment performance in 2017*.<br><br>
+				WOORI Venture Partners became the first Korean venture capital firm to participate in the Chinese venture capital market, making its initial investment in China as early as the year 2000. WOORI Venture Partners has taken advantage of its "First Mover" status in China, generating consistent investment results year after year. It has ranked among top 50 venture capital firms in China for nine years in a row. Furthermore, it boasts a wide-ranging global investment track record and strong network in the US, Japan and Southeast Asia.<br><br>
 				<p class="info">Source :  Korean Venture Capital Association<br>(Including PEF)</p>
 			</div>
 		</div>
@@ -213,7 +213,7 @@
 						<a href="tel:+82-2-2184-4100">+82-2-2184-4100</a>
 					</div>
 				</div>
-				DAOL Private Equity (“DAOL PE") was spun off from DAOL Investment & Securities in 2012 to become an independent corporate entity serving the growing private equity market in Korea.<br><br>
+				DAOL Private Equity (“DAOL PE") was spun off from WOORI Venture Partners & Securities in 2012 to become an independent corporate entity serving the growing private equity market in Korea.<br><br>
 				DAOL PE has a cumulative AUM of USD 1.8 billion and has achieved excellent investment results in a variety of industries by enhancing corporate value through proactive management participation and a buy-out-centered investment philosophy.<br>
 				Its key investments-to-date include Junjin Heavy Industry, Dongbu Express, JW Pharmaceutical, LIG Nex1, Nature Republic, Leenos, Toptec and more.
 			</div>
@@ -231,7 +231,7 @@
 						<a href="tel:+82-2-721-6900">+82-2-721-6900</a>
 					</div>
 				</div>
-				DAOL Credit Service (“DAOL Credit"), which first began as Nara Credit Service in 1999, became an affiliate of DAOL Investment & Securities in 2001.<br><br>
+				DAOL Credit Service (“DAOL Credit"), which first began as Nara Credit Service in 1999, became an affiliate of WOORI Venture Partners & Securities in 2001.<br><br>
 				Services provided by DAOL Credit include debt collection, credit investigation, issuance of civil affair documents and real estate management.
 				DAOL Credit has been a clear market leader in the field of debt collection and related information services, as seen in its role as the primary debt collection agency for the Korea Deposit Insurance Corporation for nearly 20 years.<br><br>
 				<p class="info">Served as the debt collector for the Korea Deposit Insurance Corporation from 2001 to Mar. 2022</p>
@@ -250,7 +250,7 @@
 						<a href="tel:+66-02-648-1111">+66-02-648-1111</a>
 					</div>
 				</div>
-				Acquired by DAOL Investment & Securities in August 2008, DAOL Thailand is a securities company based in Thailand.<br><br>
+				Acquired by WOORI Venture Partners & Securities in August 2008, DAOL Thailand is a securities company based in Thailand.<br><br>
 				Recent expansion efforts in Wealth Management, ECM, DCM and Investment Banking business lines have bolstered asset management capabilities DAOL Thailand, transforming the company into a comprehensive securities company offering a complete range of financial products.<br><br>
 				DAOL Thailand has continued to expand its footprint as the only Korean financial investment company in Thailand. At the end of 2019, DAOL Thailand has been changed a holding company that has securities, asset management, REITs management and personal loan subsidiaries.
 			</div>
@@ -272,7 +272,7 @@
 				DAOL’s first overseas subsidiary,
 				was established in Palo Alto, California, the heart of American Silicone Valley in June 1988.<br><br>
 				DAOL Ventures has an accumulated investment record worth USD 100 million.<br>
-				Working closely with DAOL Investment, DAOL Ventures has recently ramped up its efforts to identify early-stage investment opportunities in North America. Recently DAOL Ventures changed from a subsidiary of DAOL Investment & Securities to a subsidiary of DAOL Investment. Ventures and Investment plan to collaborate in North America, including the United States and Canada.
+				Working closely with WOORI Venture Partners, DAOL Ventures has recently ramped up its efforts to identify early-stage investment opportunities in North America. Recently DAOL Ventures changed from a subsidiary of WOORI Venture Partners & Securities to a subsidiary of WOORI Venture Partners. Ventures and Investment plan to collaborate in North America, including the United States and Canada.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>

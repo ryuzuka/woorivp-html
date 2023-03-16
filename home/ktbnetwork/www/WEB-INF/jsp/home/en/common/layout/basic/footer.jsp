@@ -9,14 +9,14 @@
 						<span>E-MAIL <a href="mailto:webmaster@daolinvestment.com">webmaster@daolinvestment.com</a></span><br>
 						<span>Pankyo 10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea</span>
 					</address>
-					<p class="copyRight">Copyright &copy; DAOL Investment. All Right Reserved.</p>
+					<p class="copyRight">Copyright &copy; WOORI Venture Partners. All Right Reserved.</p>
 				</div>
 				<div class="familySite">
 					<span class="frmSelect">
 						<select title="Family Site">
-							<option value="https://www.ktb.co.kr/corporation/eng/index.jsp">DAOL Investment & Securities</option>
+							<option value="https://www.ktb.co.kr/corporation/eng/index.jsp">WOORI Venture Partners & Securities</option>
 							<option value="https://www.eugenebank.com/main.do">DAOL Saving Bank</option>
-							<option value="http://daolinvestment.com/home/en/main/main.do">DAOL Investment</option>
+							<option value="http://daolinvestment.com/home/en/main/main.do">WOORI Venture Partners</option>
 							<option value="http://www.i-ktb.com/static/pc/html/MA/MAE1.html">DAOL Asset Management</option>
 							<option value="http://daolpe.com/">DAOL Private Equity</option>
 							<option value="http://www.ktbcredit.com/">DAOL Credit Service</option>
@@ -25,7 +25,7 @@
 						</select>
 					</span>
 				</div>
-				<div class="logo"><img src="/static/home/en/images/common/logo_footer.png" alt="DAOL INVESTMENT"></div>
+				<div class="logo"><img src="/static/home/en/images/common/logo_footer.png" alt="WOORI Venture Partners"></div>
 			</div>
 			<c:if test="${requestScope['javax.servlet.forward.servlet_path'] != '/home/en/contact/contact.do'}">
 				<div class="pageTop fixed"><!-- 고정 fixed --><!-- 메인에서만 기본으로 fixed class가 들어가있고 footer 영역까지 스크롤 되는 경우 fixed 삭제 -->

@@ -9,7 +9,7 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">Info</h1>
-        <p class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
+        <p class="pageTxt">우리벤처파트너스의 공지사항을 알려드립니다.</p>
       </div>
     </div>
     <div class="inner">
@@ -44,7 +44,7 @@
             <dt>(더벨 기사) 다올인베, 나노프린트'엔젯'엑시트 성적 윤곽</dt>
             <dd>
               <p>
-                다올인베스트먼트가 엔젯에 대한 엑시트를 준비중이다.
+                우리벤처파트너스가 엔젯에 대한 엑시트를 준비중이다.
               </p>
               <br>
               <p>관련하여 더벨에 게재된 기사 공유드립니다.<br>

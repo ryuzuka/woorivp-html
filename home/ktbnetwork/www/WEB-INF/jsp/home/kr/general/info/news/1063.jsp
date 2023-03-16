@@ -9,13 +9,13 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">Info</h1>
-        <p class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
+        <p class="pageTxt">우리벤처파트너스의 공지사항을 알려드립니다.</p>
       </div>
     </div>
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</strong>
+          <strong class="tit">(머니투데이더벨 기사) 연이은 승전보 우리벤처파트너스, AUM 2조 달성 순항</strong>
           <div class="con">
             <span class="date">2022.06.09</span>
           </div>
@@ -41,10 +41,10 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(머니투데이더벨 기사) 연이은 승전보 다올인베스트먼트, AUM 2조 달성 순항</dt>
+            <dt>(머니투데이더벨 기사) 연이은 승전보 우리벤처파트너스, AUM 2조 달성 순항</dt>
             <dd>
               <p>
-                다올인베스트먼트가 작년 IPO에 나서면서 목표치로 내건 AUM 2조 달성을 향해 순항하고 있다.
+                우리벤처파트너스가 작년 IPO에 나서면서 목표치로 내건 AUM 2조 달성을 향해 순항하고 있다.
               </p>
               <br>
               <p>관련하여 머니투데이더벨에 게재된 기사 공유드립니다.<br>

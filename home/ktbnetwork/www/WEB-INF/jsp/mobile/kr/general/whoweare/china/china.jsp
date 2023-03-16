@@ -5,7 +5,7 @@
 		<div class="contents">
 			<div class="visualArea">
 				<h1 class="pageTit">Who We Are</h1>
-				<p role="text" class="pageTxt">성공적인 투자를 위해<br>다올인베스트먼트의 구성원들이 함께 합니다.</p>
+				<p role="text" class="pageTxt">성공적인 투자를 위해<br>우리벤처파트너스의 구성원들이 함께 합니다.</p>
 			</div>
 			<div class="personIntro">
 				<div class="tabType1">
@@ -132,7 +132,7 @@
 							<ul class="listDep1">
 								<li>연세대학교 경제학과</li>
 								<li>IMM 인베스트먼트</li>
-								<li>다올인베스트먼트</li>
+								<li>우리벤처파트너스</li>
 							</ul>
 						</dd>
 					</dl>

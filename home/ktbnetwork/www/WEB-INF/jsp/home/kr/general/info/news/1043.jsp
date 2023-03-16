@@ -9,7 +9,7 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">News</h1>
-        <p class="pageTxt">다올인베스트먼트의 공지사항을 안내해드립니다.</p>
+        <p class="pageTxt">우리벤처파트너스의 공지사항을 안내해드립니다.</p>
       </div>
     </div>
     <div class="inner">

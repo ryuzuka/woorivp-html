@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="studiosoe" remoteFilesAllowedToDisappearOnAutoupload="false" />
+  <component name="PublishConfigData" serverName="Daol investment" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Daol investment">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/home/ktbnetwork/apache-tomcat-8.5.39/work" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
 </project>

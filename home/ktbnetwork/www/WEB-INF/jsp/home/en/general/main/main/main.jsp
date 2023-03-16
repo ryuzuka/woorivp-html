@@ -16,7 +16,7 @@
 											</a>
 										</li> -->
 										<li class="swiper-slide">
-												<img src="/static/home/en/images/main/main_visual2.png" alt="Looking to the Future: DAOL Investment Creating tomorrow’s value through high-potential ventures">
+												<img src="/static/home/en/images/main/main_visual2.png" alt="Looking to the Future: WOORI Venture Partners Creating tomorrow’s value through high-potential ventures">
 										</li>
 										<!-- <li class="swiper-slide">
 												<img src="/static/home/en/images/main/main_visual3.png" alt="KTB: Your Partner In Growth Over the last 38 years since establishment, We walked together with 277 firms through IPO (including backdoor listing)">
@@ -46,7 +46,7 @@
 					<!-- section2 -->
 					<div class="section2" style="height:850px">
 						<div class="inner">
-							<h3 class="sTit">Our Fund Status<em>Grow Together with  DAOL Investment.</em></h3>
+							<h3 class="sTit">Our Fund Status<em>Grow Together with  WOORI Venture Partners.</em></h3>
 							<ul class="tabArea">
 								<li><a href="#tab01" aria-selected="true" class="on">Funds Exited</a></li>
 								<li><a href="#tab02">Funds Active</a></li>

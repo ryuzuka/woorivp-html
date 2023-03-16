@@ -131,7 +131,7 @@
 							<ul class="listDep1">
 								<li>Yonsei University (Economics)</li>
 								<li>IMM Investment</li>
-								<li>DAOL Investment</li>
+								<li>WOORI Venture Partners</li>
 							</ul>
 						</dd>
 					</dl>
@@ -158,7 +158,7 @@
 						<dd>
 							<ul class="listDep1">
 								<li>Shanghai Normal University (Real-estate Business)</li>
-								<li>DAOL Investment & Securities</li>
+								<li>WOORI Venture Partners & Securities</li>
 								<li>Hanwha general chemical corporation</li>
 							</ul>
 						</dd>

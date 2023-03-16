@@ -9,7 +9,7 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">Info</h1>
-        <p class="pageTxt">다올인베스트먼트의 공지사항을 알려드립니다.</p>
+        <p class="pageTxt">우리벤처파트너스의 공지사항을 알려드립니다.</p>
       </div>
     </div>
     <div class="inner">
@@ -43,7 +43,7 @@
           <dl class="noticeBox">
             <dt>(아시아경제) 에스엠랩,<br>해외 완성차 업체와 공동개발…IPO 가속화 기대</dt>
             <dd>
-              <p>다올인베스트먼트에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
+              <p>우리벤처파트너스에서 투자한 기업인 에스엠랩(SMLAB)이 글로벌 자동차 기업과 공동개발 계약을 체결하고 기업공개(IPO)를 준비중이다.</p>
               <br>
               <p>관련하여 아시아경제에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요
@@ -67,7 +67,7 @@
         <li>
           <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=54">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(베타뉴스) 다올인베스트먼트, 회수시장 흔들림을 넘어선 펀더멘털</div>
+            <div class="tit">(베타뉴스) 우리벤처파트너스, 회수시장 흔들림을 넘어선 펀더멘털</div>
           </a>
         </li>
       </ul>

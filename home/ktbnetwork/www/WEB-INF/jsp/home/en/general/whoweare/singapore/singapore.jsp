@@ -75,7 +75,7 @@
 										<dt>Career</dt>
 										<dd>University of California, Berkeley (English Literature)<br>
 											Samsung Life Insurance<br>
-											Daol Investment & Securities</dd>
+											WOORI Venture Partners & Securities</dd>
 									</dl>
 								</div>
 							</div>

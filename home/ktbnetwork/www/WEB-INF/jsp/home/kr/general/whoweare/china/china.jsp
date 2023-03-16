@@ -10,7 +10,7 @@
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">Who We Are</h1>
-						<p class="pageTxt">성공적인 투자를 위해 다올인베스트먼트의 구성원들이 함께 합니다.</p>
+						<p class="pageTxt">성공적인 투자를 위해 우리벤처파트너스의 구성원들이 함께 합니다.</p>
 					</div>
 				</div>
 				<div class="tabArea">
@@ -68,7 +68,7 @@
 										<h3>현지훈 <span class="pointColor">CHINA / 상해사무소장 / 상무</span></h3>
 										<dl>
 											<dt>주요경력</dt>
-											<dd>연세대학교 경제학과<br>IMM 인베스트먼트<br>다올인베스트먼트</dd>
+											<dd>연세대학교 경제학과<br>IMM 인베스트먼트<br>우리벤처파트너스</dd>
 										</dl>
 									</div>
 								</div>

@@ -8,7 +8,7 @@
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">What We Do</h1>
-						<p class="pageTxt">고객의 가능성과 함께하는 다올인베스트먼트입니다.</p>
+						<p class="pageTxt">고객의 가능성과 함께하는 우리벤처파트너스입니다.</p>
 					</div>
 				</div>
 				<div class="tabArea">
@@ -26,7 +26,7 @@
             <b style="font-size:14px">2021년말 기준</b>
           </p>
 					<ul class="infoList">
-						<li>회사명<span class="data">다올인베스트먼트(주)</span></li>
+						<li>회사명<span class="data">우리벤처파트너스(주)</span></li>
 						<li>펀드운용업무 개시일<span class="data">1987년 1월</span></li>
 						<li>설립일<span class="data">2008년 6월</span></li>
 						<li>누적 운용 펀드수<span class="data">75개</span></li>

@@ -2,7 +2,7 @@
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>다올인베스트먼트</title>
+	<title>우리벤처파트너스</title>
 	<link rel="shortcut icon" href="/static/home/kr/images/favicon/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="/static/home/kr/css/p_font.css"> 
 	<link rel="stylesheet" type="text/css" href="/static/home/kr/css/p_common.css">
