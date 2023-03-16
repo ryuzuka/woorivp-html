@@ -58,18 +58,18 @@ a:hover{text-decoration:none}
 .navArea, .footArea{position:relative;width:1200px;margin:0 auto}
 .inner{width:1100px;margin:0 auto}
 
-.header{position:absolute;top:0;left:0;width:100%;min-width:1280px;background:#0f206c url(../images/common/bg_visual.png) 100% 0 repeat-y;z-index:10}
+.header{position:absolute;top:0;left:0;width:100%;min-width:1280px;background:#0067AC url(../images/common/bg_visual.png) 100% 0 repeat-y;z-index:10}
 .header.fixed{position:fixed}
 
 .headArea{position:relative;height:100%;border-bottom:1px solid rgba(255,255,255,0.1)}
-.headArea .logo{position:absolute;top:24px;left:50%;margin-left:-600px;height:25px;background:url(../images/common/logo_header_w.png) no-repeat 0 0;background-size:cover;z-index:1}/* 190409 수정 */
-.headArea .logo a{display:block;font-size:0;line-height:0;text-indent:-9999px;width:219px;height:25px;}
+.headArea .logo{position:absolute;top:26px;left:50%;margin-left:-600px;height:26px;background:url(../images/common/logo_header_w.png) no-repeat 0 0;background-size:auto 26px;z-index:1}/* 190409 수정 */
+.headArea .logo a{display:block;font-size:0;line-height:0;text-indent:-9999px;width:285px;height:26px;}
 .headArea .engBtn{position:absolute;top:0;left:50%;margin-left:570px;line-height:80px;color:#fff;font-weight:600;z-index:1}/* 190412 수정 */
 
-.headArea .allMenu .inner{width:1200px;padding-left:255px}/* 190412 수정 */
+.headArea .allMenu .inner{width:1200px;padding-left:355px}/* 190412 수정 */
 .headArea .allMenu .inner:after{content:'';display:block;clear:both}
-.headArea .allMenu li{float:left;padding-left:44px;min-width:67px}/* 190409 수정 */
-.headArea .allMenu li a{font-size:18px;color:#fff;line-height:80px;font-weight:600;letter-spacing: -0.9px}
+.headArea .allMenu li{float:left;padding-left:30px;min-width:67px}/* 190409 수정 */
+.headArea .allMenu li a{font-size:18px;color:#fff;line-height:80px;font-weight:500;letter-spacing: -0.9px}
 
 .headArea.open{padding-bottom:27px;background:#fff;border-bottom:0;box-shadow:0 0 20px rgba(0,0,0,.3)} 
 .headArea.open:before{content:'';display:block;width:100%;position:absolute;top:0;left:0}

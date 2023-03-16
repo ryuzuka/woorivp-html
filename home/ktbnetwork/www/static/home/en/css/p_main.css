@@ -9,7 +9,7 @@
 [class^="section"] .sTit .sTxt {display:block;margin-top:10px;font-size:14px;font-weight:400;color:#737373;line-height:22px}
 
 .sectionWrap [class^="section"] .inner{width:1200px;position:absolute;top:50%;left:50%;margin-left:-600px}
-.section1{background:#0f206c url(../images/common/bg_visual.png) 100% 0 repeat-y}/* section1만 상단 header fixed가 아닌 고정상태이므로 여백값 당겨주기 */
+.section1{background:#0067AC url(../images/common/bg_visual.png) 100% 0 repeat-y}/* section1만 상단 header fixed가 아닌 고정상태이므로 여백값 당겨주기 */
 .section1 .inner{height:658px;margin-top:-329px}
 .section2{background:#f2f2f2}
 .section2 .inner{height:560px;margin-top:-280px;margin-left:-640px}

@@ -1,10 +1,10 @@
 @charset "utf-8";
 
 /* main layout */
-.mMain header{background:#0f206c}
+.mMain header{background:#0067AC}
 .mMain header button{background-position:-40px -65px}
 .mMain header h1{display:block}
-.mMain header h1 a{display:block;position:absolute;left:0;top:0;text-indent:-9999px;width:200px;height:60px;background:url(../images/common/logo_w.png) no-repeat 30px 21px;background-size:170px 20px}
+.mMain header h1 a{display:block;position:absolute;left:0;top:0;text-indent:-9999px;width:271px;height:60px;background:url(../images/common/logo_w.png) no-repeat 30px center;background-size:241px 22px}
 .mMain header.headFixed{position:fixed;top:0;left:0;right:0;background:#fff}
 .mMain header.headFixed h1 a{background:url(../images/common/logo_b.png) no-repeat 30px 21px;background-size:170px 20px}
 .mMain .container{background:none !important}
