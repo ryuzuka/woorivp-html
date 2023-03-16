@@ -25,7 +25,7 @@
 					<li><a href="/home/en/meetourpartners/all.do">Meet Our Partners</a></li>
 					<!--<li><a href="https://ktbnetwork.irpage.co.kr/" target="_blank">IR</a></li>-->
 					<li><a href="/home/en/contact/contact.do">Contact</a></li>
-					<li><a href="/home/en/about/about.do">About DAOL Financial Group</a></li>
+					<li><a href="/home/en/about/about.do">About WOORI Financial Group</a></li>
 				</ul>
 				<!--// -->
 			</div>
