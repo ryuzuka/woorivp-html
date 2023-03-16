@@ -12,7 +12,7 @@
 .section1{background:#0067AC url(../images/common/bg_visual.png) 100% 0 repeat-y}/* section1만 상단 header fixed가 아닌 고정상태이므로 여백값 당겨주기 */
 .section1 .inner{height:658px;margin-top:-329px}
 .section2{background:#f2f2f2}
-.section2 .inner{height:560px;margin-top:-280px;margin-left:-640px}
+.section2 .inner{height:580px;margin-top:-280px;margin-left:-640px}
 .section3{background:#fff}
 .section3 .inner{height:635px;margin-top:-318px}
 
@@ -60,8 +60,8 @@
 /* section2 투자상품보기 */
 .section2 .inner .tabArea {overflow:hidden;width:336px;margin:50px auto 68px}
 .section2 .inner .tabArea li {float:left}
-.section2 .inner .tabArea li a {position:relative;display:block;margin:0 20px;font-size:20px;font-weight:500;color:#737373}
-.section2 .inner .tabArea li a:hover, .section2 .inner .tabArea li a:focus, .section2 .inner .tabArea li a.on {font-weight:600;color:#1b2473;border-bottom:2px solid #1b2473}
+.section2 .inner .tabArea li a {position:relative;display:block;margin:0 20px;font-size:18px;font-weight:400;color:#737373;padding-bottom:12px;}
+.section2 .inner .tabArea li a:hover, .section2 .inner .tabArea li a:focus, .section2 .inner .tabArea li a.on {font-weight:500;color:#1b2473;border-bottom:2px solid #1b2473}
 .section2 .inner .tabCon .list {width:1010px;margin:0 auto;padding-bottom:20px}
 .section2 .inner .tabCon .list>ul {margin:0 -15px 30px}
 .section2 .inner .tabCon .list>ul:after{content:'';display:block;clear:both}

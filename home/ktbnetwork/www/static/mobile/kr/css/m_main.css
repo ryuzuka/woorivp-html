@@ -30,7 +30,7 @@
 .mainNews dd ul li{overflow:hidden;font-size:15px;text-overflow:ellipsis; white-space:nowrap}
 
 .srvIntro{background:#f1f1f1;padding:55px 0 30px}
-.srvIntro .srvTit{padding-left:30px;font-size:25px;color:#111;font-weight:400}
+.srvIntro .srvTit{padding-left:30px;font-size:25px;color:#111;font-weight:500}
 .srvIntro .srvTit em{display:inline-block;background:url(../images/MA/bg_srvtit.png) no-repeat right 80%;background-size:295px 10px;padding-right:8px}
 .srvIntro .tabCont{display:none;padding:35px 30px 0}
 .srvIntro .tabCont.on{display:block}
