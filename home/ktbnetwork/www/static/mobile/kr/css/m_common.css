@@ -57,7 +57,7 @@ textarea:placeholder{color:#737373;font-weight:400}
 .icoLabel.salesOff{color:#fff;border-color:#999;background:#999}
 
 /* layout */
-header{position:absolute;top:0;left:0;right:0;height:60px;line-height:60px;color:#fff;text-align:center;background:#0f206c;transition:background .3s;z-index:10}
+header{position:absolute;top:0;left:0;right:0;height:60px;line-height:60px;color:#fff;text-align:center;background:#0067AC;transition:background .3s;z-index:10}
 header button{position:absolute;width:40px;height:40px;top:10px;overflow:hidden;text-indent:-9999px;z-index:11;background-image:url(../images/common/spr_layout.png);background-size:160px 160px}
 header .prev{left:20px;background-position:0 -65px}
 header .menu{right:20px;background-position:-40px -65px}
@@ -213,7 +213,7 @@ textarea {width:100%;padding:20px 15px;border:1px solid #dadada;}
 .layerPop.notice {left:22px;right:22px;word-break:keep-all;}
 .layerPop.notice:after {display:none;}
 .layerPop.notice .layerContainer {padding:0;}
-.layerPop.notice .layerContainer .layerTit {position:static;background:#0f206c;padding:23px 0 22px 20px;font-size:24px;font-weight:500;color:#fff;line-height:35px;}
+.layerPop.notice .layerContainer .layerTit {position:static;background:#0067AC;padding:23px 0 22px 20px;font-size:24px;font-weight:500;color:#fff;line-height:35px;}
 .layerPop.notice .layerContainer .layerCont {min-height:216px;padding:24px;background:#f2f2f2;font-size:14px;color:#000;text-align:left;}
 .layerPop.notice .layerClose {top:20px;right:20px;background:url('../images/common/btn_close02.png') no-repeat left top / 100%;}
 
