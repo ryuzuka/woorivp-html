@@ -4,11 +4,10 @@
 			<div class="footArea">
 				<div class="policyList">
           <address>
-            <span>
-              <a href="/home/valuesystem/valuesystem.do">우리금융그룹가치체계</a>
-              <a href="/home/stewardship/stewardship.do">스튜어드십 코드</a>
-              <a href="/home/esg/esg.do">ESG경영</a>
-            </span>
+            <span><a href="/home/valuesystem/valuesystem.do">우리금융그룹가치체계</a></span>
+            <span><a href="/home/stewardship/stewardship.do">스튜어드십 코드</a></span>
+            <span><a href="/home/esg/esg.do">ESG경영</a></span>
+            <br />
             <span>고객상담 031-628-6400</span>
 						<span>팩스 031-628-6499</span>
 						<span>이메일 <a href="mailto:webmaster@woorivp.com"> webmaster@woorivp.com</a></span><br>

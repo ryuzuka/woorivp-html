@@ -5,7 +5,7 @@
 		<ul class="fLink">
 			<li><a href="/home/watwedo/overview.do" role="button">What We Do</a></li>
 			<li><a href="/home/en/main/main.do" role="button" title="새창열림">ENGLISH</a></li>
-			<li><a href="/home/contact/contact.do" role="button">CONTACT</a></li>
+			<li><a href="/home/esg/esg.do">ESG경영</a></li>
 		</ul>
 		<div class="familySite">
 			<span class="frmSelect">
