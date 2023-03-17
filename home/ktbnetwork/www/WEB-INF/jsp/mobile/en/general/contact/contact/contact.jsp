@@ -5,7 +5,7 @@
 		<div class="contents">
 			<div class="visualArea">
 				<h1 class="pageTit">Contact</h1>
-				<p role="text" class="pageTxt">Come meet DAOL,<br>the financiers of tomorrow.</p>
+				<p role="text" class="pageTxt">Come meet WOORI,<br>the financiers of tomorrow.</p>
 			</div>
 			<div class="contact">
 				<ul class="tglList">
@@ -22,7 +22,7 @@
 									</li>
 									<li>
 										<strong class="tit">E-mail</strong>
-										<a href="mailto:webmaster@daolinvestment.com" class="data mail">webmaster@daolinvestment.com</a><!-- 0415 수정 -->
+										<a href="mailto:webmaster@woorivp.com" class="data mail">webmaster@woorivp.com</a><!-- 0415 수정 -->
 									</li>
 								</ul>
 							</div>

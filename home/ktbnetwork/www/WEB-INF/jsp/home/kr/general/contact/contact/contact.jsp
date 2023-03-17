@@ -21,7 +21,7 @@
 									경기도 성남시 분당구 대왕판교로 670 (삼평동 682) 유스페이스2A동 10층
 									<div class="link">
 										<p class="tel">031-628-6400</p>
-										<p class="mail"><a href="mailto:webmaster@daolinvestment.com">webmaster@daolinvestment.com</a></p><!-- 0415 수정 -->
+										<p class="mail"><a href="mailto:webmaster@woorivp.com">webmaster@woorivp.com</a></p><!-- 0415 수정 -->
 									</div>
 								</div>
 							</li>
