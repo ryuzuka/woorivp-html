@@ -55,13 +55,13 @@
 .newsArea section .newsBtn button:hover, .newsArea section .newsBtn button:focus {background-position:0 -20px}
 .newsArea section .newsBtn button.next:hover, .newsArea section .newsBtn button.next:focus {background-position:0 -30px}
 .newsArea section ul {overflow:hidden;float:left;height:22px;margin:25px 0 0 20px}
-.newsArea section ul li a {overflow:hidden;display:block;width:1000px;white-space:nowrap;text-overflow:ellipsis;font-size:16px;font-weight:500;color:#333}
+.newsArea section ul li a {overflow:hidden;display:block;width:1000px;white-space:nowrap;text-overflow:ellipßsis;font-size:16px;font-weight:500;color:#333}
 
 /* section2 투자상품보기 */
 .section2 .inner .tabArea {overflow:hidden;width:315px;margin:50px auto 68px}
 .section2 .inner .tabArea li {float:left}
 .section2 .inner .tabArea li a {position:relative;display:block;margin:0 20px;font-size:18px;font-weight:400;color:#737373;padding-bottom:12px;}
-.section2 .inner .tabArea li a:hover, .section2 .inner .tabArea li a:focus, .section2 .inner .tabArea li a.on {font-weight:500;color:#1b2473;border-bottom:2px solid #1b2473}
+.section2 .inner .tabArea li a:hover, .section2 .inner .tabArea li a:focus, .section2 .inner .tabArea li a.on {font-weight:500;color:#0067AC;border-bottom:2px solid #0067AC}
 .section2 .inner .tabCon .list {width:1010px;margin:0 auto;padding-bottom:20px}
 .section2 .inner .tabCon .list>ul {margin:0 -15px 30px}
 .section2 .inner .tabCon .list>ul:after{content:'';display:block;clear:both}
@@ -69,7 +69,7 @@
 .section2 .inner .tabCon .list>ul>li>dl {display:block;position:relative;width:230px;height:230px;padding:30px 40px 40px 30px;background:#fff}
 .section2 .inner .tabCon .list>ul>li>dl .name {height:45px;font-size:16px;font-weight:normal;line-height:30px;font-weight:500;line-height:24px}
 .section2 .inner .tabCon .list>ul>li>dl .name span{display:block;font-weight:400}
-.section2 .inner .tabCon .list>ul>li>dl .num {margin-top:55px;font-size:46px;font-weight:600;color:#2c2c92;text-align:right}
+.section2 .inner .tabCon .list>ul>li>dl .num {margin-top:55px;font-size:46px;font-weight:600;color:#0067AC;text-align:right}
 /*.section2 .inner .tabCon .list>ul>li>dl:after{content:'';position:absolute;bottom:0px;right:0px;width:40px;height:40px;background:url(../images/main/bg_box.gif) 0 0 no-repeat}*/
 .section2 .inner .tabCon .tooltip{position:absolute;bottom:18px;left:50%;margin-left:-46px;background:#fff;}
 
