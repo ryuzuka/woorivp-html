@@ -8,7 +8,7 @@
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">Contact</h1>
-						<p class="pageTxt ctt">Come meet DAOL, the financiers of tomorrow</p>
+						<p class="pageTxt ctt">Come meet WOORI, the financiers of tomorrow</p>
 					</div>
 				</div>
 				<div class="mapArea">
@@ -21,7 +21,7 @@
 									10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea
 									<div class="link">
 										<p class="tel">+82 31-628-6400</p>
-										<p class="mail"><a href="mailto:webmaster@daolinvestment.com">webmaster@daolinvestment.com</a></p><!-- 0415 수정 -->
+										<p class="mail"><a href="mailto:webmaster@woorivp.com">webmaster@woorivp.com</a></p><!-- 0415 수정 -->
 									</div>
 								</div>
 							</li>

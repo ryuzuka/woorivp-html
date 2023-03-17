@@ -22,7 +22,7 @@
 									</li>
 									<li>
 										<strong class="tit">이메일</strong>
-										<a href="mailto:webmaster@daolinvestment.com" class="data mail">webmaster@daolinvestment.com</a><!-- 0415 수정 -->
+										<a href="mailto:webmaster@woorivp.com" class="data mail">webmaster@woorivp.com</a><!-- 0415 수정 -->
 									</li>
 								</ul>
 							</div>
