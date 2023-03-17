@@ -231,12 +231,19 @@ dl.noticeBox .tblV tbody th{vertical-align:middle}
 .terms_wrap .terms_content ul,.terms_wrap .terms_content ol,.terms_wrap .terms_content p{padding-top:8px;}
 .terms_wrap .terms_content.content_top ul{padding-top:10px}
 .terms_wrap .terms_content.content_top ul li{font-size: 14px;line-height: 1.79;letter-spacing: -0.7px;color: #000;}
+.terms_wrap .terms_content.content_top p{padding-top:10px;font-size: 14px;line-height: 1.79;letter-spacing: -0.7px;color: #000;}
 .terms_wrap .terms_content ol{padding-left:13px;}
 .terms_wrap .terms_content ol li{list-style: decimal}
+.terms_wrap .terms_content ol li ul{padding:0;margin-left:-8px;}
+.terms_wrap .terms_content ol li ul li{list-style: none;padding:0;}
+.terms_wrap .terms_content ol li ul li::after{display:none;}
 .terms_wrap .terms_content ul li{padding-left:15px;position:relative;}
 .terms_wrap .terms_content ul li::after{content:'';display: block;position:absolute;top:11px;left:4px;width:4px;height:4px;border-radius: 4px;background:#555555;}
 .terms_wrap .terms_content.content_top ul li::after{background:#111;}
 .terms_wrap .terms_content li, .terms_wrap .terms_content p{font-size: 14px;line-height: 1.79;letter-spacing: -0.7px;color: #555;}
+.terms_fooot{padding-top:50px;}
+.terms_fooot .foot_cont{font-size: 14px;line-height: 1.79;letter-spacing: -0.7px;color: #000;font-weight:500;}
+.terms_fooot .foot_sign{padding-top:20px;font-size: 18px;line-height: 1.56;letter-spacing: -0.9px;color: #000;font-weight:500;}
 
 @media (min-height:880px){
 .mapArea{height:1097px}
