@@ -12,7 +12,7 @@
 						<li><a href="/home/watwedo/overview.do">Overview</a></li>
 						<li class="on"><a href="/home/watwedo/history.do" aria-selected="true">History</a></li>
 						<li><a href="/home/watwedo/philosophy.do">Philosophy</a></li>
-						<li><a href="/home/watwedo/ethic.do">윤리경영</a></li>
+						<li><a href="/home/watwedo/ethic.do">윤리강령</a></li>
 					</ul>
 				</div>
 
@@ -28,56 +28,29 @@
 					<div id="tabName1" class="tabCont" style="display:block">
 						<!--<h3 class="titDep2">2021~2012</h3> 2021.12.31 수정 -->
 						<ol class="historyList">
+              <li>
+                <strong class="tit">2023</strong>
+                <p class="txt">
+                  우리금융지주 자회사 편입 및 상호변경(다올인베스트먼트㈜->우리벤처파트너스㈜)
+                </p>
+              </li>
 							<li>
 								<strong class="tit">2022</strong>
 								<p class="txt">
-									그룹 상호변경 (KTB → 다올)
+                  그룹 상호변경(KTB네트워크㈜->다올인베스트먼트㈜)
 								</p>
 							</li>
 							<li>
 								<strong class="tit">2021</strong>
 								<ul class="txt">
-									<li>다올저축은행 인수</li>
-									<li>다올인베스트먼트 코스닥 상장</li>
+									<li>KTB네트워크㈜ 코스닥 상장</li>
 								</ul>
 							</li>
-							<li>
-								<strong class="tit">2020</strong>
-								<p class="txt">DAOL Lend Thailand 설립</p>
-							</li>
-							<li>
-								<strong class="tit">2019</strong>
-								<ul class="txt">
-									<li>DAOL New York 설립</li>
-								</ul>
-							</li>
-							<li>
-								<strong class="tit">2018</strong>
-								<p class="txt">DAOL REIT & DAOL Asset Management Thailand 설립</p>
-							</li>
-							<li>
-								<strong class="tit">2012</strong>
-								<p class="txt">다올프라이빗에쿼티 설립 (증권 PE부문 분리)</p>
-							</li>
-							<li>
+              <li>
 								<strong class="tit">2008</strong>
 								<ul class="txt">
-									<li>증권업 전환 (현. 다올투자증권)</li>
-									<li>DAOL Securities Thailand 설립 (태국현지 증권사 인수)</li>
-									<li>다올인베스트먼트 설립</li>
+                  <li>KTB네트워크㈜ 물적분할</li>
 								</ul>
-							</li>
-							<li>
-								<strong class="tit">2001</strong>
-								<p class="txt">다올신용정보 인수 (구.나라신용정보)</p>
-							</li>
-							<li>
-								<strong class="tit">2000</strong>
-								<p class="txt">DAOL Ventures 설립</p>
-							</li>
-							<li>
-								<strong class="tit">1999</strong>
-								<p class="txt">다올자산운용 설립</p>
 							</li>
 							<li>
 								<strong class="tit">1996</strong>

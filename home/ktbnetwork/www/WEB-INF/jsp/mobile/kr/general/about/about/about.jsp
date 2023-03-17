@@ -17,13 +17,13 @@
 
 			<div class="tabType1 tabToggle">
 				<ul>
-					<li class="on"><a href="#CI1T1" aria-selected="true">연혁</a></li>
-					<li><a href="#CI1T2">계열사</a></li>
+<%--					<li><a href="#CI1T1" aria-selected="true">연혁</a></li>--%>
+					<li class="on"><a href="#CI1T2">계열사</a></li>
 				</ul>
 			</div>
 
 			<!-- 연혁(T) -->
-			<div id="CI1T1" class="tabCont" style="display:block">
+			<%--<div id="CI1T1" class="tabCont" style="display:block">
 				<h2 class="hidden">연혁</h2>
 
 				<div class="companyTit mtM">우리금융그룹은<br><span class="point">꾸준히 성장해</span>왔습니다.</div>
@@ -90,10 +90,10 @@
 						<p class="txt">그룹 상호변경 (KTB → 우리금융그룹)</p>
 					</li>
 				</ol>
-			</div>
+			</div> --%>
 			<!-- //연혁(T) -->
 			<!-- 계열사(T) -->
-			<div id="CI1T2" class="tabCont">
+			<div id="CI1T2" class="tabCont" style="display:block">
 				<h2 class="hidden">계열사</h2>
 
 				<div class="companyTit mtM">

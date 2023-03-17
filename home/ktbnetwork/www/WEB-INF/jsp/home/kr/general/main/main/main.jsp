@@ -76,25 +76,25 @@
                 <li>
                   <dl>
                     <dt class="name">펀드수</dt>
-                    <dd class="num">59</dd>
+                    <dd class="num">60</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">납입총액<span>(단위 : 억원)</span></dt>
-                    <dd class="num">13,597</dd>
+                  <dd class="num">13,647</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">분배총액<span>(단위 : 억원)</span></dt>
-                    <dd class="num">20,848</dd>
+                    <dd class="num">21,480</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">IRR<span>(단위 : %)</span></dt>
-                    <dd class="num">19.75</dd>
+                    <dd class="num">19.54</dd>
                   </dl>
                 </li>
               </ul>
@@ -103,8 +103,8 @@
                 <a href="#" class="tipOpen"><span>도움말</span></a><!-- 클릭 시 class="on" 추가 -->
                 <span class="msg">
                   <strong class="tit">작성기준</strong>
-                  <span class="txt">- 2021.12.31 현재</span>
-                  <span class="txt">- 2000.01.01 이후 청산한 펀드 기준</span>
+                  <span class="txt">- 2022.12.31 현재</span>
+<%--                  <span class="txt">- 2000.01.01 이후 청산한 펀드 기준</span>--%>
                   <span class="txt">- IRR: 성과보수 포함, 납입금액 가중평균 수익률</span>
                   <a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
                 </span>
@@ -124,19 +124,19 @@
                 <li>
                   <dl>
                     <dt class="name">약정총액<span>(단위 : 억원)</span></dt>
-                    <dd class="num">11,745</dd>
+                    <dd class="num">14,593</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">투자기업수</dt>
-                    <dd class="num">380</dd>
+                    <dd class="num">354</dd>
                   </dl>
                 </li>
                 <li>
                   <dl>
                     <dt class="name">투자총액<span>(단위 : 억원)</span></dt>
-                    <dd class="num">9,749</dd>
+                    <dd class="num">10,141</dd>
                   </dl>
                 </li>
               </ul>
@@ -145,7 +145,8 @@
                 <a href="#" class="tipOpen"><span>도움말</span></a><!-- 클릭 시 class="on" 추가 -->
                 <span class="msg">
                   <strong class="tit">작성기준</strong>
-                  <span class="txt">- 2021.12.31 현재</span>
+                  <span class="txt">- 2022.12.31 현재</span>
+                  <span class="txt">- VC부문 물적분할(2008년) 이후 결성펀드 기준</span>
                   <a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
                 </span>
               </span>

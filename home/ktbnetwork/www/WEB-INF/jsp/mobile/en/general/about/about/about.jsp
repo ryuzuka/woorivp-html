@@ -15,13 +15,13 @@
 
 			<div class="tabType1 tabToggle">
 				<ul>
-					<li class="on"><a href="#CI1T1" aria-selected="true">History</a></li>
-					<li><a href="#CI1T2">Subsidiaries</a></li>
+<%--					<li><a href="#CI1T1" aria-selected="true">History</a></li>--%>
+					<li class="on"><a href="#CI1T2">Subsidiaries</a></li>
 				</ul>
 			</div>
 
 			<!-- History(T) -->
-			<div id="CI1T1" class="tabCont" style="display:block">
+        <%--		<div id="CI1T1" class="tabCont" style="display:block">
 				<h2 class="hidden">History</h2>
 				<p class="mtM">
 					Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, WOORI Financial Group has since grown into a comprehensive financial group offering a wide range of financial services, including securities, savings bank, asset management, venture capital and private equity. We, WOORI Financial Group, also have expanded our global network by actively entering overseas markets includes the United States, China and Thailand.
@@ -104,10 +104,10 @@
 						</p>
 					</li>
 				</ol>
-			</div>
+			</div>--%>
 			<!-- //History(T) -->
 			<!-- Subsidiaries(T) -->
-			<div id="CI1T2" class="tabCont">
+			<div id="CI1T2" class="tabCont on" style="display:block">
 				<h2 class="hidden">Subsidiaries</h2>
 
 				<div class="companyTit mtM">

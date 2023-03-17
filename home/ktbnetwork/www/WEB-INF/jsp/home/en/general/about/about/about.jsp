@@ -26,143 +26,143 @@
 						<div class="imgArea"><img src="/static/home/en/images/contents/img_worldmap.jpg" alt=""></div>
 
 						<ul class="tabType1">
-							<li class="on"><a href="#" aria-selected="true">History</a></li>
-							<li><a href="#">Subsidiaries</a></li>
+<%--							<li><a href="#" aria-selected="true">History</a></li>--%>
+							<li class="on"><a href="#">Subsidiaries</a></li>
 						</ul>
 
-						<div class="tabCont on">
-							<h3 class="hidden">History</h3>
-							<div class="historyArea">
-								<ol class="historyList">
-									<li class="year">
-										<strong class="num">1981</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">1981. 05</strong>
-												<p class="txt">Established Korea Technology Development Company</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">1996</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">1996. 11</strong>
-												<p class="txt">Listed on KOSPI (WOORI Financial Group)</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">1999</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">1999. 09</strong>
-												<p class="txt">Established WOORI Financial Group Asset Management</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2000</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2000. 12</strong>
-												<p class="txt">Established WOORI Financial Group Ventures</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2001</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2001. 12</strong>
-												<p class="txt">Acquired WOORI Financial Group Credit Service from Government</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2008</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2008. 06</strong>
-												<p class="txt">Established WOORI Venture Partners (Venture Capital)</p>
-											</li>
-											<li>
-												<strong class="tit">2008. 07</strong>
-												<p class="txt">Acquired  WOORI Financial Group Securities Thailand</p>
-											</li>
-											<li>
-												<strong class="tit">2008. 08</strong>
-												<ul class="txt">
-													<li>Received Securities License & Change Name to WOORI Venture Partners & Securities </li>
-													<li>Established WOORI Financial Group Thailand</li>
-												</ul>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2012</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2012. 04</strong>
-												<p class="txt">
-													Established WOORI Financial Group Private Equity<br>
-													(Spin-off from WOORI Venture Partners & Securities PE Division)
-												</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2018</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2018. 11</strong>
-												<p class="txt">Established WOORI Financial Group REIT & WOORI Venture Partners Management Thailand</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2019</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2019. 07</strong>
-												<p class="txt">Established WOORI Financial Group New York</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2020</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2020. 02</strong>
-												<p class="txt">Established WOORI Financial Group Lend Thailand</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2021</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2021. 12</strong>
-												<ul class="txt">
-													<li>Listed on KOSDAQ (WOORI Venture Partners)</li>
-													<li>Acquired WOORI Financial Group Savings Bank from Eugene Group</li>
-												</ul>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2022</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2022. 03</strong>
-												<p class="txt">Change Name to WOORI Financial Group</p>
-											</li>
-										</ol>
-									</li>
-								</ol>
-							</div>
-						</div>
-						<div class="tabCont">
+            <%--<div class="tabCont">
+              <h3 class="hidden">History</h3>
+              <div class="historyArea">
+                <ol class="historyList">
+                  <li class="year">
+                    <strong class="num">1981</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">1981. 05</strong>
+                        <p class="txt">Established Korea Technology Development Company</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">1996</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">1996. 11</strong>
+                        <p class="txt">Listed on KOSPI (WOORI Financial Group)</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">1999</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">1999. 09</strong>
+                        <p class="txt">Established WOORI Financial Group Asset Management</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2000</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2000. 12</strong>
+                        <p class="txt">Established WOORI Financial Group Ventures</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2001</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2001. 12</strong>
+                        <p class="txt">Acquired WOORI Financial Group Credit Service from Government</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2008</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2008. 06</strong>
+                        <p class="txt">Established WOORI Venture Partners (Venture Capital)</p>
+                      </li>
+                      <li>
+                        <strong class="tit">2008. 07</strong>
+                        <p class="txt">Acquired  WOORI Financial Group Securities Thailand</p>
+                      </li>
+                      <li>
+                        <strong class="tit">2008. 08</strong>
+                        <ul class="txt">
+                          <li>Received Securities License & Change Name to WOORI Venture Partners & Securities </li>
+                          <li>Established WOORI Financial Group Thailand</li>
+                        </ul>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2012</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2012. 04</strong>
+                        <p class="txt">
+                          Established WOORI Financial Group Private Equity<br>
+                          (Spin-off from WOORI Venture Partners & Securities PE Division)
+                        </p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2018</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2018. 11</strong>
+                        <p class="txt">Established WOORI Financial Group REIT & WOORI Venture Partners Management Thailand</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2019</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2019. 07</strong>
+                        <p class="txt">Established WOORI Financial Group New York</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2020</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2020. 02</strong>
+                        <p class="txt">Established WOORI Financial Group Lend Thailand</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2021</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2021. 12</strong>
+                        <ul class="txt">
+                          <li>Listed on KOSDAQ (WOORI Venture Partners)</li>
+                          <li>Acquired WOORI Financial Group Savings Bank from Eugene Group</li>
+                        </ul>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2022</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2022. 03</strong>
+                        <p class="txt">Change Name to WOORI Financial Group</p>
+                      </li>
+                    </ol>
+                  </li>
+                </ol>
+              </div>
+            </div>--%>
+						<div class="tabCont  on">
 							<h3 class="hidden">Subsidiaries</h3>
 							<div class="subsidiary">
 								<div class="imgArea"><img src="/static/home/en/images/contents/img_affiliates_eng_v2.jpg" alt="WOORI Financial Group Subsidiaries"></div>

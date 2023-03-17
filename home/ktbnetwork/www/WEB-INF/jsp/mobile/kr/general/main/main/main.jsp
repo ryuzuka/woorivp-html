@@ -39,10 +39,10 @@
 							<div class="contBox">
 								<strong class="tit">청산펀드 현황</strong>
 								<dl>
-									<dt>펀드 수</dt><dd>59<span>개</span></dd>
-									<dt>납입금액</dt><dd>13,597<span>억원</span></dd>
-									<dt>분배총액</dt><dd>20,848<span>억원</span></dd>
-									<dt>IRR</dt><dd>19.75<span>%</span></dd>
+									<dt>펀드 수</dt><dd>60<span>개</span></dd>
+									<dt>납입금액</dt><dd>13,647<span>억원</span></dd>
+									<dt>분배총액</dt><dd>21,480<span>억원</span></dd>
+									<dt>IRR</dt><dd>19.54<span>%</span></dd>
 								</dl>
 								<a href="#MAL1" role="button" class="btnView">작성기준</a>
 							</div>
@@ -52,9 +52,9 @@
 								<strong class="tit">운용펀드 현황</strong>
 								<dl>
 									<dt>펀드 수</dt><dd>19<span>개</span></dd>
-									<dt>약정총액</dt><dd>11,745<span>억원</span></dd>
-									<dt>투자기업수</dt><dd>380</dd>
-									<dt>투자총액</dt><dd>9,749<span>억원</span></dd>
+									<dt>약정총액</dt><dd>14,593<span>억원</span></dd>
+									<dt>투자기업수</dt><dd>354</dd>
+									<dt>투자총액</dt><dd>10,141<span>억원</span></dd>
 								</dl>
 								<a href="#MAL2" role="button" class="btnView">작성기준</a>
 							</div>
@@ -457,8 +457,8 @@
 			<h2 class="layerTit">작성기준</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-					<li>2021.12.31 현재</li>
-					<li>2000.01.01 이후 청산한 펀드 기준</li>
+					<li>2022.12.31 현재</li>
+<%--					<li>2000.01.01 이후 청산한 펀드 기준</li>--%>
 					<li>IRR: 성과보수 포함, 납입금액 가중평균 수익률</li>
 				</ul>
 			</div>
@@ -470,9 +470,10 @@
 			<h2 class="layerTit">작성기준</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-					<li>2021.12.31 현재</li>
-				</ul>
-			</div>
+          <li>2021.12.31 현재</li>
+          <li>VC부문 물적분할(2008년) 이후 결성펀드 기준</li>
+        </ul>
+      </div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>

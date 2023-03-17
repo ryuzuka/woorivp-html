@@ -26,137 +26,137 @@
 						<div class="imgArea"><img src="/static/home/kr/images/contents/img_worldmap.jpg" alt="우리금융그룹 금융그룹 활동영역 세계지도"></div>
 
 						<ul class="tabType1">
-							<li class="on"><a href="#" aria-selected="true">연혁</a></li>
-							<li><a href="#">계열사</a></li>
+<%--							<li class="on"><a href="#" aria-selected="true">연혁</a></li>--%>
+							<li class="on"><a href="#">계열사</a></li>
 						</ul>
 
+            <%--<div class="tabCont on">
+              <h3 class="hidden">연혁</h3>
+              <div class="historyArea">
+                <ol class="historyList">
+                  <li class="year">
+                    <strong class="num">1981</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">1981. 05</strong>
+                        <p class="txt">한국기술개발주식회사 설립(우리금융그룹투자증권의 전신)</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">1996</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">1996. 11</strong>
+                        <p class="txt">코스피 상장</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">1999</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">1999. 09</strong>
+                        <p class="txt">우리금융그룹자산운용 설립</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2000</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2000. 12</strong>
+                        <p class="txt">DAOL Ventures 설립</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2001</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2001. 12</strong>
+                        <p class="txt">우리금융그룹신용정보 인수 (구.나라신용정보)</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2008</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2008. 06</strong>
+                        <p class="txt">다올인베스트먼트 설립</p>
+                      </li>
+                      <li>
+                        <strong class="tit">2008. 07</strong>
+                        <p class="txt">DAOL Securities Thailand 설립 (태국현지 증권사 인수)</p>
+                      </li>
+                      <li>
+                        <strong class="tit">2008. 08</strong>
+                        <p class="txt">증권업 전환 (현. 우리금융그룹투자증권)</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2012</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2012. 04</strong>
+                        <p class="txt">우리금융그룹프라이빗에쿼티 설립 (증권 PE부문 분리)</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2018</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2018. 11</strong>
+                        <p class="txt">DAOL REIT & DAOL Investment Partners Management Thailand 설립</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2019</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2019. 07</strong>
+                        <p class="txt">DAOL New York 설립</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2020</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2020. 02</strong>
+                        <p class="txt">DAOL Lend Thailand 설립</p>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2021</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2021. 12</strong>
+                        <ul class="txt">
+                          <li>다올인베스트먼트 코스닥 상장</li>
+                          <li>다올저축은행 인수</li>
+                        </ul>
+                      </li>
+                    </ol>
+                  </li>
+                  <li class="year">
+                    <strong class="num">2022</strong>
+                    <ol class="list">
+                      <li>
+                        <strong class="tit">2022. 03</strong>
+                        <p class="txt">그룹 상호변경 (KTB → 우리금융그룹)</p>
+                      </li>
+                    </ol>
+                  </li>
+                </ol>
+              </div>
+            </div>--%>
 						<div class="tabCont on">
-							<h3 class="hidden">연혁</h3>
-							<div class="historyArea">
-								<ol class="historyList">
-									<li class="year">
-										<strong class="num">1981</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">1981. 05</strong>
-												<p class="txt">한국기술개발주식회사 설립(우리금융그룹투자증권의 전신)</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">1996</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">1996. 11</strong>
-												<p class="txt">코스피 상장</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">1999</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">1999. 09</strong>
-												<p class="txt">우리금융그룹자산운용 설립</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2000</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2000. 12</strong>
-												<p class="txt">DAOL Ventures 설립</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2001</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2001. 12</strong>
-												<p class="txt">우리금융그룹신용정보 인수 (구.나라신용정보)</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2008</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2008. 06</strong>
-												<p class="txt">다올인베스트먼트 설립</p>
-											</li>
-											<li>
-												<strong class="tit">2008. 07</strong>
-												<p class="txt">DAOL Securities Thailand 설립 (태국현지 증권사 인수)</p>
-											</li>
-											<li>
-												<strong class="tit">2008. 08</strong>
-												<p class="txt">증권업 전환 (현. 우리금융그룹투자증권)</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2012</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2012. 04</strong>
-												<p class="txt">우리금융그룹프라이빗에쿼티 설립 (증권 PE부문 분리)</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2018</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2018. 11</strong>
-												<p class="txt">DAOL REIT & DAOL Investment Partners Management Thailand 설립</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2019</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2019. 07</strong>
-												<p class="txt">DAOL New York 설립</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2020</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2020. 02</strong>
-												<p class="txt">DAOL Lend Thailand 설립</p>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2021</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2021. 12</strong>
-												<ul class="txt">
-													<li>다올인베스트먼트 코스닥 상장</li>
-													<li>다올저축은행 인수</li>
-												</ul>
-											</li>
-										</ol>
-									</li>
-									<li class="year">
-										<strong class="num">2022</strong>
-										<ol class="list">
-											<li>
-												<strong class="tit">2022. 03</strong>
-												<p class="txt">그룹 상호변경 (KTB → 우리금융그룹)</p>
-											</li>
-										</ol>
-									</li>
-								</ol>
-							</div>
-						</div>
-						<div class="tabCont">
 							<h3 class="hidden">계열사</h3>
 							<div class="subsidiary">
 								<div class="imgArea"><img src="/static/home/kr/images/contents/img_affiliates_v2.jpg" alt="우리금융그룹 금융그룹 계열사"></div>

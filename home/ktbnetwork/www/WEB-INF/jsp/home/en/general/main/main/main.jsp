@@ -59,7 +59,7 @@
 										<li>
 											<dl>
 												<dt class="name">Funds exited</dt>
-												<dd class="num">59</dd>
+												<dd class="num">60</dd>
 											</dl>
 										</li>
 										<li>
@@ -77,7 +77,7 @@
 										<li>
 											<dl>
 												<dt class="name">IRR<span>(Unit : %)</span></dt>
-												<dd class="num">19.75</dd>
+												<dd class="num">19.54</dd>
 											</dl>
 										</li>
 									</ul>
@@ -87,8 +87,8 @@
 										<span class="msg">
 											<strong class="tit">Documentation Criteria</strong>
 											<span class="txt">
-												- The present 2021.12.31
-												<br>- Fully liquidated fund since Jan, 2000
+												- The present 2022.12.31
+<%--												<br>- Fully liquidated fund since Jan, 2000--%>
 												<br>- IRR : Include Performance Remuneration, &nbsp;&nbsp;Weighted average return on payments
 											</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
@@ -115,7 +115,7 @@
 										<li>
 											<dl>
 												<dt class="name">Portfolio Companies</dt>
-												<dd class="num">380</dd>
+												<dd class="num">354</dd>
 											</dl>
 										</li>
 										<li>
@@ -149,7 +149,7 @@
 										<span class="msg">
 											<strong class="tit">Documentation Criteria</strong>
 											<span class="txt">
-												- The present 2021.12.31
+												- The present 2022.12.31
 											</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
 										</span>

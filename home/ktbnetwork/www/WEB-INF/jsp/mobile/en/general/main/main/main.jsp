@@ -26,10 +26,10 @@
 							<div class="contBox">
 								<strong class="tit">Funds Exited</strong>
 								<dl>
-									<dt>Funds exited</dt><dd class="num01">59</dd>
+									<dt>Funds exited</dt><dd class="num01">60</dd>
 									<dt>Capital Raised<em style="white-space: nowrap">(Unit : USD  Billion)</em></dt><dd class="num02">1.1</dd>
 									<dt>Total Paid Out<em style="white-space: nowrap">(Unit : USD  Billion)</em></dt><dd class="num02">2.4</dd>
-									<dt>IRR<em>(Unit : %)</em></dt><dd class="num02">19.75</dd>
+									<dt>IRR<em>(Unit : %)</em></dt><dd class="num02">19.54</dd>
 								</dl>
 								<a href="#MAL1" role="button" class="btnView">Documentation Criteria</a>
 							</div>
@@ -40,7 +40,7 @@
 								<dl>
 									<dt>Funds Active<em>&nbsp;</em></dt><dd class="num01">19</dd>
 									<dt>Funds Size<em style="white-space: nowrap">(Unit : USD  Million)</em></dt><dd class="num01">990</dd>
-									<dt style="white-space: nowrap">Portfolio Companies</dt><dd class="num01">380</dd>
+									<dt style="white-space: nowrap">Portfolio Companies</dt><dd class="num01">354</dd>
 									<dt>Total Amount<br>Invested<em style="white-space: nowrap">(Unit : USD  Million)</em></dt><dd class="num02">822</dd>
 									<!-- <dt>Capital Pledged<em>(Unit : USDMillion)</em></dt><dd class="num02">756</dd>
 									<dt>Capital Deployed<em>(Unit : USDMillion)</em></dt><dd class="num02">520</dd>
@@ -88,7 +88,7 @@
 			<h2 class="layerTit">Documentation Criteria</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-					<li>The present 2021.12.31</li>
+					<li>The present 2022.12.31</li>
 					<li>Fully liquidated fund since Jan, 2000</li>
 					<li>IRR : Include Performance Remuneration, Weighted average return on payments</li>
 				</ul>
@@ -101,7 +101,7 @@
 			<h2 class="layerTit">Documentation Criteria</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-					<li>The present 2021.12.31</li>
+					<li>The present 2022.12.31</li>
 				</ul>
 			</div>
 		</div>

@@ -27,7 +27,7 @@
 					</ul>
 				</div>
 				<div class="inner tabCont on">
-					<h2 class="hidden">History 2021~2012</h2><!-- 탭 타이틀 -->
+					<h2 class="hidden">History 2023~2012</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
 							<!--
@@ -44,12 +44,22 @@
 								</ol>
 							</li>
 							-->
-							<li class="year on">
+              <li class="year on">
+                <strong class="num">2023</strong>
+                <ol class="list">
+                  <li class="noMonth">
+                    <p class="txt">
+                      우리금융지주 자회사 편입 및 상호변경(다올인베스트먼트㈜->우리벤처파트너스㈜)
+                    </p>
+                  </li>
+                </ol>
+              </li>
+							<li class="year">
 								<strong class="num">2022</strong>
 								<ol class="list">
 									<li class="noMonth">
 										<p class="txt">
-											그룹 상호변경 (KTB → 다올)
+                      그룹 상호변경(KTB네트워크㈜->다올인베스트먼트㈜)
 										</p>
 									</li>
 								</ol>
@@ -59,47 +69,8 @@
 								<ol class="list">
 									<li class="noMonth">
 										<p class="txt">
-											다올저축은행 인수
+                      KTB네트워크㈜ 코스닥 상장
 										</p>
-									</li>
-									<li class="noMonth">
-										<p class="txt">
-                      다올인베스트먼트 코스닥 상장
-										</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2020</strong>
-								<ol class="list">
-									<li class="noMonth">
-										<p class="txt">
-											DAOL Lend Thailand 설립
-										</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2019</strong>
-								<ol class="list">
-									<li class="noMonth">
-										<p class="txt">DAOL New York 설립</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2018</strong>
-								<ol class="list">
-									<li class="noMonth">
-										<p class="txt">DAOL REIT & DAOL Asset Management Thailand 설립</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2012</strong>
-								<ol class="list">
-									<li class="noMonth">
-										<p class="txt">다올프라이빗에쿼티 설립 (증권 PE부문 분리)</p>
 									</li>
 								</ol>
 							</li>
@@ -107,37 +78,7 @@
 								<strong class="num">2008</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">증권업 전환 (현. 다올투자증권)</p>
-									</li>
-									<li class="noMonth">
-										<p class="txt">DAOL Securities Thailand 설립 (태국현지 증권사 인수)</p>
-									</li>
-									<li class="noMonth">
-										<p class="txt">다올인베스트먼트 설립</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2001</strong>
-								<ol class="list">
-									<li class="noMonth">
-										<p class="txt">다올신용정보 인수 (구.나라신용정보)</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">2000</strong>
-								<ol class="list">
-									<li class="noMonth">
-										<p class="txt">DAOL Ventures 설립</p>
-									</li>
-								</ol>
-							</li>
-							<li class="year">
-								<strong class="num">1999</strong>
-								<ol class="list">
-									<li class="noMonth">
-										<p class="txt">다올자산운용 설립</p>
+										<p class="txt">KTB네트워크㈜ 물적분할</p>
 									</li>
 								</ol>
 							</li>
@@ -153,7 +94,7 @@
 								<strong class="num">1981</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">한국기술개발주식회사 설립(다올투자증권의 전신)</p>
+										<p class="txt">한국기술개발주식회사 설립</p>
 									</li>
 								</ol>
 							</li>
