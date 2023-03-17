@@ -4,21 +4,18 @@
 	<section class="container">
 		<div class="contents">
 			<div class="visualArea">
-				<h1 class="pageTit">Info</h1>
-				<p role="text" class="pageTxt">우리벤처파트너스의 공지사항을 알려드립니다.</p>
+				<h1 class="pageTit">ESG경영</h1>
+				<p role="text" class="pageTxt">상생을 통한 지속가능경영을 추구하며<br>권익 보호를 위하여 최선을 다합니다.</p>
 			</div>
 			<div class="tabType1">
 				<ul>
-					<li><a href="/home/info/news/list.do" aria-selected="true">NEWS</a></li>
-					<li><a href="/home/info/notice/list.do">공지사항</a></li>
-					<li><a href="/home/info/announcement/list.do">경영공시</a></li>
-					<li><a href="/home/info/ir.do">IR</a></li>
-					<li class="on"><a href="/home/info/esg.do">ESG</a></li>
+					<li class="on"><a href="/home/esg/esg.do" aria-selected="true">ESG 금융원칙</a></li>
+					<li><a href="/home/esg/human.do">ESG 인권원칙</a></li>
 				</ul>
 			</div>
 			<div class="esg">
 				<h2 class="hidden">ESG</h2>
-				<h3>다올금융그룹 ESG경영체계</h3>
+				<h</h3>
 				<p class="text">다올금융그룹은 지속가능한 성장을 위해 ESG경영체계를 수립하여 이행하고 있습니다.<br>
 					또한, ESG 경영 강화를 위해 최고 경영진으로 구성된 ESG위원회를 운영하고 있습니다.</p>
 				<div class="imgArea">
