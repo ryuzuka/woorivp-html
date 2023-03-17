@@ -350,71 +350,71 @@
             </tbody>
           </table>
 
-          <h2 class="titDep3">감사 선임의 건</h2>
-          <p>감사 후보자(1명)</p>
-          <table class="tblV">
-            <caption>감사 선임의 건</caption>
-            <colgroup><col style="width:25%"><col style="width:75%"></colgroup>
-            <tbody>
-            <tr>
-              <th scope="row">성명</th>
-              <td>장 호 현 / 신규선임</td>
-            </tr>
-            <tr>
-              <th scope="row">생년월일</th>
-              <td>1959.04.05</td>
-            </tr>
-            <tr>
-              <th scope="row">학력</th>
-              <td>
-                고려대학교 경제학<br>
-                서울대학교 행정대학원 행정학 석사<br>
-                벤더빌트대학교 대학원 경제학 석사
-              </td>
-            </tr>
-            <tr>
-              <th scope="row">주요경력</th>
-              <td>
-                1998.03~2008.02 재정경재부 정책조정국 정책조정총괄과 과장<br>
-                2008.03~2015.04 기획재정부 대외경제국 국장<br>
-                2015.04~2018.04 미국대사관 경제공사<br>
-                2018.05~2018.09 국제통화기금(IMF) 상임이사<br>
-                2018.09~2021.09 한국은행 감사
-              </td>
-            </tr>
-            <tr>
-              <th scope="row">최대주주와의 관계</th>
-              <td>해당사항 없음</td>
-            </tr>
-            <tr>
-              <th scope="row">당사와 최근 3년간 거래내역</th>
-              <td>해당사항 없음</td>
-            </tr>
-            <tr>
-              <th scope="row">임기</th>
-              <td>선임일로부터 제18기 정기주주총회일까지</td>
-            </tr>
-            <tr>
-              <th scope="row">기타</th>
-              <td>상기 후보자는 현재 공직자윤리법 제17조 제1항에 해당하는
-                ‘취업심사대상자’인 바, 공직자윤리위원회의 취업승인 완료를
-                효력발생 조건으로 함(예정일:23년 4월 6일 단, 예정일은 변동될 수 있음)</td>
-            </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-      <ul class="baordIndex">
-        <li>
-          <a href="/home/info/notice/view.do?page=3&num=54">
-            <div class="arrow prev">이전글</div>
-            <div class="tit">주식명의개서정지공고</div>
-          </a>
-        </li>
-      </ul>
-      <div class="btnArea">
-        <a href="/home/info/notice/list.do?page=<c:out value="${vo.page}"/>" role="button" class="btnXL">목록보기</a>
-      </div>
-    </div>
-  </div>
-</section>
+              <h2 class="titDep3">감사 선임의 건</h2>
+              <p>감사 후보자(1명)</p>
+              <table class="tblV">
+                <caption>감사 선임의 건</caption>
+                <colgroup><col style="width:25%"><col style="width:75%"></colgroup>
+                <tbody>
+                <tr>
+                  <th scope="row">성명</th>
+                  <td>장 호 현 / 신규선임</td>
+                </tr>
+                <tr>
+                  <th scope="row">생년월일</th>
+                  <td>1959.04.05</td>
+                </tr>
+                <tr>
+                  <th scope="row">학력</th>
+                  <td>
+                    고려대학교 경제학<br>
+                    서울대학교 행정대학원 행정학 석사<br>
+                    벤더빌트대학교 대학원 경제학 석사
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">주요경력</th>
+                  <td>
+                    1998.03~2008.02 재정경재부 정책조정국 정책조정총괄과 과장<br>
+                    2008.03~2015.04 기획재정부 대외경제국 국장<br>
+                    2015.04~2018.04 미국대사관 경제공사<br>
+                    2018.05~2018.09 국제통화기금(IMF) 상임이사<br>
+                    2018.09~2021.09 한국은행 감사
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">최대주주와의 관계</th>
+                  <td>해당사항 없음</td>
+                </tr>
+                <tr>
+                  <th scope="row">당사와 최근 3년간 거래내역</th>
+                  <td>해당사항 없음</td>
+                </tr>
+                <tr>
+                  <th scope="row">임기</th>
+                  <td>선임일로부터 제18기 정기주주총회일까지</td>
+                </tr>
+                <tr>
+                  <th scope="row">기타</th>
+                  <td>상기 후보자는 현재 공직자윤리법 제17조 제1항에 해당하는
+                    ‘취업심사대상자’인 바, 공직자윤리위원회의 취업승인 완료를
+                    효력발생 조건으로 함(예정일:23년 4월 6일 단, 예정일은 변동될 수 있음)</td>
+                </tr>
+                </tbody>
+              </table>
+						</div>
+					</div>
+					<ul class="baordIndex">
+						<li>
+							<a href="/home/info/notice/view.do?page=3&num=54">
+								<div class="arrow prev">이전글</div>
+								<div class="tit">주식명의개서정지공고</div>
+							</a>
+						</li>
+					</ul>
+					<div class="btnArea">
+						<a href="/home/info/notice/list.do?page=<c:out value="${vo.page}"/>" role="button" class="btnXL">목록보기</a>
+					</div>
+				</div>
+			</div>
+		</section>
