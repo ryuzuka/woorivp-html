@@ -6,7 +6,7 @@
 				<a href="/home/en/main/main.do" class="engBtn">ENG</a>
 				<div class="allMenu">
 					<ul class="inner">
-						<li style="padding-left: 0px"><a href="/home/watwedo/overview.do">What We Do</a></li><!-- a클릭 시 class="on" 추가 -->
+						<li><a href="/home/watwedo/overview.do">What We Do</a></li><!-- a클릭 시 class="on" 추가 -->
 						<li><a href="/home/whoweare/korea.do">Who We Are</a></li>
 						<li><a href="/home/meetourpartners/all.do">Meet Our Partners</a></li>
 						<%--<li><a href="https://ktbnetwork.irpage.co.kr/" target="_blank">IR</a></li>--%>
