@@ -13,7 +13,6 @@
 					<li><a href="/home/info/notice/list.do">공지사항</a></li>
 					<li><a href="/home/info/announcement/list.do">경영공시</a></li>
 					<li class="on"><a href="/home/info/ir.do">IR</a></li>
-					<li><a href="/home/info/esg.do">ESG</a></li>
 				</ul>
 			</div>
 			<div class="ir">
