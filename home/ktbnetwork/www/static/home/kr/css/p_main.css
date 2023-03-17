@@ -104,7 +104,7 @@
 /* header, top */
 .main .headArea{border-bottom:0}
 .main .header.type1{background:#fff;border-bottom:1px solid #e6e6e6}
-.main .header.type1 .logo{background-image:url(../images/common/logo_header_b.png);background-size:100%;}
+.main .header.type1 .logo{background-image:url(../images/common/logo_header_b.png);}
 .main .header.type1 .allMenu dt a:hover{color:#2c2c92;border-bottom:2px solid #2c2c92}
 .main .header.type1 .engBtn, .main .header.type1 .allMenu li a{color:#111}
 .main .pageTop{position:fixed;top:auto;bottom:418px}
