@@ -17,7 +17,7 @@
 				<h2 class="hidden">ESG</h2>
         <div class="terms_wrap">
           <div class="terms_content content_top">
-            <h3 class="companyTit"><span class="point">ESG 금융원칙</span></h3>
+            <h3 class=""><span class="point">ESG 금융원칙</span></h3>
             <p>우리금융그룹은 우리나라 대표 금융그룹으로서 금융을 통한 환경·사회적 책임을 이행하고 ESG 리스크를 사전에 예방하고자 아래와 같이 ESG금융 원칙을 제정한다.</p>
           </div>
           <div class="terms_content">
