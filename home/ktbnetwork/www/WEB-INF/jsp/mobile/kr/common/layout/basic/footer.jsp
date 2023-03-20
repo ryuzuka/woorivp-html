@@ -3,7 +3,7 @@
 	<footer>
 		<div class="pageTop"><a href="#top" role="button" class="btnTop">TOP</a></div>
 		<ul class="fLink">
-			<li><a href="/home/watwedo/overview.do" role="button">What We Do</a></li>
+			<li><a href="/home/valuesystem/valuesystem.do" role="button">우리금융그룹<br>가치체계</a></li>
 			<li><a href="/home/en/main/main.do" role="button" title="새창열림">ENGLISH</a></li>
 			<li><a href="/home/esg/esg.do">ESG경영</a></li>
 		</ul>

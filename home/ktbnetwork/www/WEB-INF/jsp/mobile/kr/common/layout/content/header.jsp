@@ -27,7 +27,7 @@
 					<%--<li><a href="https://ktbnetwork.irpage.co.kr/" target="_blank">IR</a></li>--%>
 					<li><a href="/home/info/news/list.do">Info</a></li>
 					<li><a href="/home/contact/contact.do">Contact</a></li>
-					<li><a href="/home/about/about.do">About WOORI Financial Group</a></li>
+					<li><a href="/home/about/about.do">About 우리금융그룹</a></li>
 				</ul>
 				<!--// -->
 			</div>
