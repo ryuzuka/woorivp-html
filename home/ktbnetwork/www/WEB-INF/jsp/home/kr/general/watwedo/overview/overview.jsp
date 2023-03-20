@@ -31,7 +31,7 @@
 						<li>설립일<span class="data">2008년 6월</span></li>
 						<li>누적 운용 펀드수<span class="data">75개</span></li>
 						<li>대표이사<span class="data">김창규</span></li>
-						<li>인력현황<span class="data">38명(펀드운용인력 24명)</span></li>
+						<li>인력현황<span class="data">44명 (운용인력 26명, 관리인력 18명)</span></li>
 						<li>소재지<span class="data">경기도 성남시 분당구 삼평동</span></li>
 						<li>대표전화<span class="data">031-628-6400, 031-628-6480(IR Contact)</span></li>
 					</ul>

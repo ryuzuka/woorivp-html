@@ -30,7 +30,7 @@
 						<li><strong>소재지</strong><em>경기도 성남시 분당구 삼평동</em></li>
 						<li><strong>펀드운용업무 개시일</strong><em>1987년 1월</em></li>
 						<li><strong>누적 운용 펀드수</strong><em>75개</em></li>
-						<li><strong>인력현황</strong><em>38명(펀드운용인력 24명)</em></li>
+						<li><strong>인력현황</strong><em>44명 (운용인력 26명, 관리인력 18명)</em></li>
 						<li><strong>대표전화</strong><em>031-628-6400<br>031-628-6480(IR Contact)</em></li>
 					</ul>
 

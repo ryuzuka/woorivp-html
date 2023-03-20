@@ -36,7 +36,7 @@
 						</li>
 						<li>
 							<strong>Key Shareholders</strong>
-							<em>WOORI Venture Partners & Securities(100%)</em>
+							<em>WOORI Financial Holdings</em>
 						</li>
 						<li>
 							<strong>Capital Stock</strong>
@@ -56,7 +56,7 @@
 						</li>
 						<li>
 							<strong>Website</strong>
-							<em>http://www.daolinvestment.com</em>
+							<em>http://www.woorivp.com</em>
 						</li>
 						<li>
 							<strong>Contact Info.</strong>
