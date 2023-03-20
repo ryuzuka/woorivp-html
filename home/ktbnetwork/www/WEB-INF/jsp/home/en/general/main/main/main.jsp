@@ -64,14 +64,14 @@
 										</li>
 										<li>
 											<dl>
-												<dt class="name">Capital Raised<span>(Unit : USD Billion)</span></dt>
-												<dd class="num">1.1</dd>
+												<dt class="name">Capital Raised<span>(Unit : KRW)</span></dt>
+												<dd class="num">1,365B</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
-												<dt class="name">Total Paid Out<span>(Unit : USD Billion)</span></dt>
-												<dd class="num">2.4</dd>
+												<dt class="name">Total Paid Out<span>(Unit : KRW)</span></dt>
+												<dd class="num">2,148B</dd>
 											</dl>
 										</li>
 										<li>
@@ -108,8 +108,8 @@
 										</li>
 										<li>
 											<dl>
-												<dt class="name">Fund Size<span>(Unit : USD Million)</span></dt>
-												<dd class="num">990</dd>
+												<dt class="name">Fund Size<span>(Unit : KRW)</span></dt>
+												<dd class="num">1,459B</dd>
 											</dl>
 										</li>
 										<li>
@@ -120,8 +120,8 @@
 										</li>
 										<li>
 											<dl>
-												<dt class="name" style="white-space: nowrap;">Total Amount Invested<span>(Unit : USD Million)</span></dt>
-												<dd class="num">822</dd>
+												<dt class="name" style="white-space: nowrap;">Total Amount Invested<span>(Unit : KRW)</span></dt>
+												<dd class="num">1,014B</dd>
 											</dl>
 										</li>
 										<!-- <li>
