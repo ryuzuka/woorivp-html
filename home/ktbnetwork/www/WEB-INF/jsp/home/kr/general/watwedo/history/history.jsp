@@ -17,7 +17,7 @@
 						<li class="sub on"><a href="/home/watwedo/history.do" aria-selected="true">History</a>
 							<div class="subTab">
 								<ul class="inner">
-									<li class="on"><a href="#" aria-selected="true">2022~1981</a></li>
+									<li class="on"><a href="#" aria-selected="true">2023 ~ 1981</a></li>
 									<!--<li><a href="#">2011~1981</a></li> 2021.12.31 수정 -->
 								</ul>
 							</div>
@@ -27,7 +27,7 @@
 					</ul>
 				</div>
 				<div class="inner tabCont on">
-					<h2 class="hidden">History 2023~2012</h2><!-- 탭 타이틀 -->
+					<h2 class="hidden">History 2023 ~ 1981</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
 							<!--

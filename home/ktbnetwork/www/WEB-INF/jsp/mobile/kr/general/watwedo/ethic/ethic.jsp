@@ -18,10 +18,10 @@
 				</div>
 
 				<div class="tabCont" style="display:block">
-					<h2 class="hidden">윤리경영</h2>
+					<h2 class="hidden">윤리강령</h2>
           <div class="terms_wrap">
             <div class="terms_content content_top">
-              <h3 class="companyTit titDep2" style="margin-top: 35px"><span class="point">윤리강령</span></h3>
+              <h3 class="titDep2" style="margin-top: 35px"><span class="point">윤리강령</span></h3>
               <ul>
                 <li>우리금융그룹은 우리나라 대표 금융그룹으로서 고객, 주주, 임직원, 나아가 국가와 사회의 더 나은 미래를 위해 힘이 되는 금융그룹을 지향하며, 윤리경영을 바탕으로 국가 경제 및 사회 발전에 기여한다.  이를 위해 임직원이 지켜야 할 윤리강령을 제정하고 적극 실천함으로써 글로벌 금융을 선도하는 우리나라 1등 금융그룹의 역할과 책임을 다하고자 한다.</li>
                 <li>이 윤리강령은 우리금융그룹에 소속된 모든 그룹사 및 임직원에게 적용되며, 각 그룹사는 본 강령에 저촉되지 아니하는 범위 내에서 행동강령을 운영할 수 있다. 또한 우리금융그룹은 당사와 상품 공급

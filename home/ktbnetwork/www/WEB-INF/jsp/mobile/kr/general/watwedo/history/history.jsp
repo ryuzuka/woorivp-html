@@ -20,7 +20,7 @@
 					<h2 class="hidden">History</h2>
 					<div class="tabType2 tabToggle tabFixed">
 						<ul>
-							<li class="on"><a href="#tabName1" aria-selected="true">2022~1981</a></li>
+							<li class="on"><a href="#tabName1" aria-selected="true">2023 ~ 1981</a></li>
 							<!--<li><a href="#tabName2">2011~1981</a></li> 2021.12.31 수정 -->
 						</ul>
 					</div>
