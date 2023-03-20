@@ -202,12 +202,17 @@ dl.noticeBox .tblV tbody th{vertical-align:middle}
 
 /* About KTB Group */
 .aboutGroup .subTxt{margin-top:17px;text-align:center}
+.aboutGroup .subsidiary .imgArea img{width:100%}
 .aboutGroup .subsidiary .list{margin-top:60px}
 .aboutGroup .subsidiary .list li:first-child{border-top:1px solid #dedede}
 .aboutGroup .subsidiary .list li{position:relative;padding:30px 40px;border-bottom:1px solid #dedede}
 .aboutGroup .subsidiary .list li .link{position:absolute;top:30px;right:40px}
 .aboutGroup .subsidiary .list li .txt{margin-top:20px;color:#111;line-height:32px}
 .aboutGroup .subsidiary .list li .grayTxt{margin-top:20px;color:#737373}
+.aboutGroup .subsidiary .subsidiaryName{overflow:hidden;display:flex;align-items: center}
+.aboutGroup .subsidiary .subsidiaryName p{float:left;color: #000;font-weight:500;}
+.aboutGroup .subsidiary .subsidiaryName p.group_name{font-size: 30px;letter-spacing: -1.5px;}
+.aboutGroup .subsidiary .subsidiaryName p.group_deac{font-size: 18px;letter-spacing: -0.9px;padding-left:16px;}
 
 /* Contact */
 .pageTxt.ctt{position:relative;z-index:2}
