@@ -19,7 +19,7 @@
 					<h2 class="hidden">History</h2>
 					<div class="tabType2 tabToggle tabFixed">
 						<ul>
-							<li class="on"><a href="#tabName1" aria-selected="true">2022~1981</a></li>
+							<li class="on"><a href="#tabName1" aria-selected="true">2023~1981</a></li>
 							<!-- <li><a href="#tabName2">2011~1981</a></li> -->
 						</ul>
 					</div>
@@ -28,62 +28,33 @@
 						<!-- <h3 class="titDep2">2020~2012</h3> --> <!-- 해당 탭 타이틀 -->
 						<ol class="historyList">
 							<li>
-								<strong class="tit">2022</strong>
+								<strong class="tit">2023</strong>
 								<p class="txt">
-									Change Name to DAOL
+									Inclusion of a subsidiary into Woori Financial Group<br>
+									Change name to WOORI (Daol Investment -> Woori Venture Partners)
 								</p>
 							</li>
 							<li>
-								<strong class="tit">2021</strong>
+								<strong class="tit">2022</strong>
 								<ul class="txt">
-									<li>Acquired DAOL Savings Bank from Eugene Group</li>
-									<li>Listed on KOSDAQ (DAOL Investment)</li>
+									<li>Change Name to DAOL<br>(KTB Network -> Daol Investment)</li>
 								</ul>
 							</li>
 							<li>
-								<strong class="tit">2020</strong>
-								<p class="txt">Established DAOL Lend Thailand</p>
-							</li>
-							<li>
-								<strong class="tit">2019</strong>
-								<p class="txt">Established DAOL New York</p>
-							</li>
-							<li>
-								<strong class="tit">2018</strong>
-								<p class="txt">Established DAOL REIT & DAOL Asset Management Thailand</p>
-							</li>
-							<li>
-								<strong class="tit">2012</strong>
-								<p class="txt">Established DAOL Private Equity(Spin-off from DAOL Investment & Securities PE Division)</p>
+								<strong class="tit">2021</strong>
+								<p class="txt">Listed on KOSDAQ (KTB Nework)</p>
 							</li>
 							<li>
 								<strong class="tit">2008</strong>
-								<ul class="txt">
-									<li>Established DAOL Thailand</li>
-									<li>Received Securities License & Change Name to KTB Investment & Securities</li>
-									<li>Acquired  DAOL Securities Thailand</li>
-									<li>Established DAOL Investment (Venture Capital)</li>
-								</ul>
-							</li>
-							<li>
-								<strong class="tit">2001</strong>
-								<p class="txt">Acquired DAOL Credit Service from Government</p>
-							</li>
-							<li>
-								<strong class="tit">2000</strong>
-								<p class="txt">Established DAOL Ventures</p>
-							</li>
-							<li>
-								<strong class="tit">1999</strong>
-								<p class="txt">Established DAOL Asset Management</p>
+								<p class="txt">Physical division of KTB Network</p>
 							</li>
 							<li>
 								<strong class="tit">1996</strong>
-								<p class="txt">Listed on KOSPI (DAOL)</p>
+								<p class="txt">Listed on KOSPI</p>
 							</li>
 							<li>
 								<strong class="tit">1981</strong>
-								<p class="txt">Established Korea Technology Development Company </p>
+								<p class="txt">Established Korea Technology Development Company</p>
 							</li>
 						</ol>
 					</div>
