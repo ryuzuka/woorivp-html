@@ -19,7 +19,7 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">Company Overview</h3>
           <p style="margin-top:-20px;margin-bottom:13px;padding-right:20px;color:#111;text-align:right;">
-            <b style="font-size:12px">As of the end of 2020</b>
+            <b style="font-size:12px">As of the end of 2022</b>
           </p>
 					<ul class="companyInfo">
 						<li>
@@ -32,7 +32,7 @@
 						</li>
 						<li>
 							<strong>CEO</strong>
-							<em>Shin Jin Ho<br>Kim Chang Kyu</em>
+							<em>Kim Chang Kyu</em>
 						</li>
 						<li>
 							<strong>Key Shareholders</strong>

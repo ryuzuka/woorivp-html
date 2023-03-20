@@ -22,14 +22,14 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">Company Overview</h3>
           <p style="margin-top:-20px;margin-bottom:-10px;padding-right:20px;color:#111;text-align:right;">
-            <b style="font-size:14px">As of the end of 2020</b>
+            <b style="font-size:14px">As of the end of 2022</b>
           </p>
 					<ul class="infoList">
 						<li>Company Name<span class="data">WOORI Venture Partners Co., Ltd</span></li>
 						<li>Capital Stock/Owner's Capital<span class="data">USD 37 Million / 140 Million</span></li>
 						<li>Establishment<span class="data">1981</span></li>
 						<li>Sales Account/Operating Profit<span class="data">USD 62 Million / 41 Million</span></li>
-						<li>CEO<span class="data">Shin Jin Ho, Kim Chang Kyu</span></li>
+						<li>CEO<span class="data">Kim Chang Kyu</span></li>
 						<li>Website<span class="data">http://www.daolinvestment.com</span></li>
 						<li>Key Shareholders<span class="data">WOORI Venture Partners & Securities(100%)</span></li>
 						<li>Contact Info.<span class="data">+82 31-628-6400</span></li>

@@ -20,13 +20,13 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">회사개요</h3>
           <p style="margin-top:-35px;margin-bottom:14px;padding-right:20px;color:#111;text-align:right;font-size:12px">
-            <b>2021년말 기준</b>
+            <b>2022년말 기준</b>
           </p>
 
 					<ul class="companyInfo">
 						<li><strong>회사명</strong><em>우리벤처파트너스(주)</em></li>
 						<li><strong>설립일</strong><em>2008년 6월</em></li>
-						<li><strong>대표이사</strong><em>신진호, 김창규</em></li>
+						<li><strong>대표이사</strong><em>김창규</em></li>
 						<li><strong>소재지</strong><em>경기도 성남시 분당구 삼평동</em></li>
 						<li><strong>펀드운용업무 개시일</strong><em>1987년 1월</em></li>
 						<li><strong>누적 운용 펀드수</strong><em>75개</em></li>

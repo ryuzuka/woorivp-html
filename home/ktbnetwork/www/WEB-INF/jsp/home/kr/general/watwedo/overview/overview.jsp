@@ -23,14 +23,14 @@
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">회사개요</h3>
           <p style="margin-top:-20px;margin-bottom:-10px;padding-right:20px;color:#111;text-align:right;">
-            <b style="font-size:14px">2021년말 기준</b>
+            <b style="font-size:14px">2022년말 기준</b>
           </p>
 					<ul class="infoList">
 						<li>회사명<span class="data">우리벤처파트너스(주)</span></li>
 						<li>펀드운용업무 개시일<span class="data">1987년 1월</span></li>
 						<li>설립일<span class="data">2008년 6월</span></li>
 						<li>누적 운용 펀드수<span class="data">75개</span></li>
-						<li>대표이사<span class="data">신진호, 김창규</span></li>
+						<li>대표이사<span class="data">김창규</span></li>
 						<li>인력현황<span class="data">38명(펀드운용인력 24명)</span></li>
 						<li>소재지<span class="data">경기도 성남시 분당구 삼평동</span></li>
 						<li>대표전화<span class="data">031-628-6400, 031-628-6480(IR Contact)</span></li>
