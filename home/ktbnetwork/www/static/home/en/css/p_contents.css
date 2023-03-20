@@ -75,7 +75,8 @@
 .historyArea .historyList .year .list ul.txt li+li{margin-top:10px}
 .historyArea .historyList .year .list ul.txt ul{margin-top:10px}
 .Philosophy:after{content:'';display:block;clear:both}
-.Philosophy .imgArea{float:left;width:500px;margin-top:0;padding-right:125px}	
+.Philosophy .imgArea{float:left;width:500px;margin-top:0;}
+.Philosophy .imgArea img{width:100%;}
 .Philosophy .conArea{float:right;width:475px;margin-top:65px}	
 .Philosophy .conArea{position:relative}
 .Philosophy .conArea li{position:relative;padding:25px 0 30px 93px;color:#555}
