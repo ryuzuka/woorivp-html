@@ -18,7 +18,7 @@
 				<div class="tabCont"  style="display:block">
 					<h2 class="hidden">Overview</h2>
 					<h3 class="titDep2">Company Overview</h3>
-          <p style="margin-top:-34px;margin-bottom:13px;padding-right:20px;color:#111;text-align:right;">
+          <p style="margin-top:-20px;margin-bottom:13px;padding-right:20px;color:#111;text-align:right;">
             <b style="font-size:12px">As of the end of 2020</b>
           </p>
 					<ul class="companyInfo">
