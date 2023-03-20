@@ -40,7 +40,7 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .ico_list li:nth-child(-n+3) {margin-top:0;}
 .ico_list li img {width:40px}
 .ico_list li img + em {margin-top:10px;}
-.ico_list li em {display:block;/*padding-top:10px;*/font-size:11px;color:#111}
+.ico_list li em {display:block;/*padding-top:10px;*/font-size:11px;color:#253a71}
 .ico_list.type {padding:22px 0;border:1px solid #dfdfdf;}
 .ico_list.type li {margin-top:20px;}
 .ico_list.type li:nth-child(-n+3) {margin-top:0;}

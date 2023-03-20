@@ -33,96 +33,199 @@
 								<ul class="list">
 									<li>
                     <div class="subsidiaryName">
-                      <p class="group_name">우리은행</p>
-                      <p class="group_deac">고객에게 신뢰받는 은행</p>
+                      <p class="group_name">Woori Bank</p>
+                      <p class="group_deac">The lifelong partner bank loved<br />
+												by customers and shareholders</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="https://www.ktb.co.kr/corporation/eng/index.jsp" target="_blank">www.WOORI Financial Groupsecurities.com</a></p>
+											<p class="site"><a href="https://www.wooribank.com/" target="_blank">www.wooribank.com</a></p>
+											<p class="tel">82+ 2-2002-3000</p>
 										</div>
 										<p class="txt">
-											Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, WOORI Venture Partners & Securities(“WOORI Financial Group") has since grown into a comprehensive securities company offering a wide range of financial products and services including, investment banking, institutional brokerage and individual wealth management. WOORI Financial Group's professional have long played leading role professionals in the structured finance market, with strong expertise in a wide range of alternative investment products, including real estate / SOC, aircraft and ship financing and renewable energy. WOORI Financial Group holds WOORI Financial Group Savings Bank, WOORI Venture Partners, WOORI Financial Group Asset Management, WOORI Financial Group Private Equity, WOORI Financial Group Credit Service as its owned subsidiaries.
+											Woori Bank was the first Korean bank to be established in 1899 with national capital for the purpose of "facilitating the flow of funds and contributing to the development of the national economy." Woori Bank has prospered along with the development of the Korean economy to serve as a solid backbone for the Korean financial industry.Based upon the love of our customers, Woori Bank will continue to provide financial services that help customers, shareholders, and all of society to build a future of happiness, and to undertake our social responsibility as a lifelong, reliable financial partner.
 										</p>
 									</li>
 									<li>
-										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname08_eng.png" alt="WOORI Financial Group SAVING Bank"></div>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Card</p>
+											<p class="group_deac">Taking the Lead through Internal Stability</p>
+										</div>
 										<div class="link">
-											<p class="site"><a href="https://www.eugenebank.com/main.do" target="_blank">www.WOORI Financial Groupsb.com</a></p>
+											<p class="site"><a href="https://www.wooricard.com/" target="_blank">www.wooricard.com</a></p>
+											<p class="tel">82+ 1588-9959</p>
 										</div>
 										<p class="txt">
-											WOORI Financial Group Savings Bank is established in 1972 based on Korean capital. As of the end of 2021, total asset is USD 3 billion, revenue is USD 0.3 billion, and BIS Ratio is 13.3%, which is a stable bank. Acquired by WOORI Financial Group in December 2021, enhance synergy between group companies and invest in digital transformation to become innovative digital bank.
+											Woori Card will always be an encouragement for our customers. Woori Card values our customers most, and all of our employees are doing their best to be the companions that go forward together with our customers.The eyes and heart of Woori Card are always open to our customers. The employees of Woori Card will return our customers’ love with useful products and convenient services so that they can experience the best value in every moment.We will be the credit card company that leads change. Woori Card will surely become the financial company that swiftly adapts to the fast changing digital environment and offer new, differentiated benefits to our customers.
 										</p>
 									</li>
 									<li>
-										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname03_eng.png" alt="WOORI Venture Partners"></div>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Financial Capital</p>
+											<p class="group_deac">A specialized credit finance company,<br />
+												providing top financial services</p>
+										</div>
 										<div class="link">
-											<p class="site"><a href="http://www.ktbnetwork.com/home/en/main/main.do" target="_blank">www.WOORI Financial Groupinvestment.com</a></p>
-											<p class="tel">+82-31-628-6400</p>
+											<p class="site"><a href="https://www.woorifcapital.com/" target="_blank">www.woorifcapital.com</a></p>
+											<p class="tel">82+ 1544-8600</p>
 										</div>
 										<p class="txt">
-											WOORI Venture Partners is Korea's leading venture capital company with the longest history and investment track record. As of the end of 2021, its assets under management (AUM) reached USD 1.0 billion, and the size of newly formed fund last year was about USD 46 million based on the commitment. WOORI Venture Partners was ranked first in VC investment performance in 2017*. WOORI Venture Partners became the first Korean venture capital firm to participate in the Chinese venture capital market, making its initial investment in China as early as the year 2000. WOORI Venture Partners has taken advantage of its "First Mover" status in China, generating consistent investment results year after year. It has ranked among top 50 venture capital firms in China for nine years in a row. Furthermore, it boasts a wide-ranging global investment track record and strong network in the US, Japan and Southeast Asia.
+											Founded in 1994 and included as a subsidiary of Woori Financial Group in 2020, Aju Capital, a specialized credit finance company, has been providing vast range of products and services including auto loans, consumer loans and corporate loans, etc. Going forward, Aju Capital aims to deliver long-term value to customers, shareholders and communities by providing high quality financial products and services based on industry-leading risk management system and innovation.
 										</p>
-										<p class="grayTxt">* Source : Korean Venture Capital Association (Including PEF)</p>
 									</li>
 									<li>
-										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname02_eng.png" alt="WOORI Financial Group Asset Management"></div>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Investment Bank</p>
+											<p class="group_deac">The Top Investment Bank, Providing<br />
+												Total Financial Services</p>
+										</div>
 										<div class="link">
-											<p class="site"><a href="http://www.i-ktb.com/static/pc/html/MA/MAE1.html" target="_blank">www.WOORI Financial Groupfund.com</a></p>
-											<p class="tel">+82-2-788-8400</p>
+											<p class="site"><a href="https://www.woorifcapital.com/" target="_blank">www.woorifcapital.com</a></p>
+											<p class="tel">82+ 2-2000-6600</p>
 										</div>
 										<p class="txt">
-											WOORI Financial Group Asset Management has shown steady growth for more than 20 years since it was first founded in 1999. As of the end of 2021, its assets under management (AUM) reached USD 12.5 billion*. In particular, the company has distinguished itself in new business development, with successful launches of Multi-Asset Department and Alternative Investment Division in 2016. By launching and operating a number of successful public funds, such as First Class Stock Fund(Industry 4.0/China/ESG), Multi-Asset Income EMP, and Block-Deal High-Yield Fund, WOORI Financial Group Asset Management continues to play a leading role in the market, and is expanding its unique portfolio of medium-risk and medium-return products such as NPL, and the asset allocation fund. The Alternative Investment Division has focused on expanding various investment assets and areas and succeeded in establishing all business sectors not only as domestic and foreign real estate but also as aircraft, ships, and infrastructure. It is operating USD 4.9 billion-worth of alternative investments as of the end of 2021.
+											Woori Investment Bank is the one and only total financial subsidiary of Woori Bank, representing the nation’s traditional banking services.Woori Investment Bank is committed to being a faithful asset management partner by providing upgraded products and services to clients, using diversified licenses, credit ratings, and the network of Woori Financial Group. Woori Investment Bank promises to put in all efforts as a companion to achieve an abundant future for our customers.
 										</p>
-										<p class="grayTxt">* Source : Korea Financial Investment Association</p>
 									</li>
 									<li>
-										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname04_eng.png" alt="WOORI Financial Group Private Equity"></div>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Asset Trust</p>
+											<p class="group_deac">One-stop Real Estate Finance Service Provider,<br />
+												enhancing customers’ value.</p>
+										</div>
 										<div class="link">
-											<p class="site"><a href="http://WOORI Financial Grouppe.com/" target="_blank">www.WOORI Financial Grouppe.com</a></p>
-											<p class="tel">+82-2-2184-4100</p>
+											<p class="site"><a href="https://www.wooriat.com/" target="_blank">www.wooriat.com</a></p>
+											<p class="tel">82+ 2-6202-3000</p>
 										</div>
 										<p class="txt">
-											WOORI Financial Group Private Equity (“WOORI Financial Group PE") was spun off from WOORI Venture Partners & Securities in 2012 to become an independent corporate entity serving the growing private equity market in Korea. WOORI Financial Group PE has a cumulative AUM of USD 1.8 billion and has achieved excellent investment results in a variety of industries by enhancing corporate value through proactive management participation and a buy-out-centered investment philosophy. Its key investments-to-date include Junjin Heavy Industry, Dongbu Express, JW Pharmaceutical, LIG Nex1, Nature Republic, Leenos, Toptec and more.
+											Since November 2007, Woori Asset Trust has been a reliable partner in real estate-related business areas, providing real estate finance services. With a vast range of Woori Financial Group’s domestic and global networks, and leveled-up digital competitiveness, Woori Asset Trust envisions to create synergies within the group and aims to become a leading real estate trust company that will satisfy all of our customers’ expectations.
 										</p>
 									</li>
 									<li>
-										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname05_eng.png" alt="DOAL Credit Service"></div>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Savings Bank</p>
+											<p class="group_deac">No.1 Savings bank with customers</p>
+										</div>
 										<div class="link">
-											<p class="site"><a href="http://www.ktbcredit.com/" target="_blank">www.WOORI Financial Groupcredit.com</a></p>
-											<p class="tel">+82-2-721-6900</p>
+											<p class="site"><a href="https://www.woorisavingsbank.com/" target="_blank">www.woorisavingsbank.com</a></p>
+											<p class="tel">82+ 1599-0038</p>
 										</div>
 										<p class="txt">
-											WOORI Financial Group Credit Service (“WOORI Financial Group Credit"), which first began as Nara Credit Service in 1999, became an affiliate of WOORI Venture Partners & Securities in 2001. Services provided by WOORI Financial Group Credit include debt collection, credit investigation, issuance of civil affair documents and real estate management. WOORI Financial Group Credit has been a clear market leader in the field of debt collection and related information services, as seen in its role as the primary debt collection agency for the Korea Deposit Insurance Corporation for nearly 20 years.
+											Since commencing operations in 1972, Aju savings bank has been a lifetime financial partner to individual customers and companies. As a subsidiary of Woori Financial Group, Aju savings bank strives to become a reliable financial company going forward, and make people’s financial lives better and commit to the local communities by offering best financial products and services.
 										</p>
-										<p class="grayTxt">* Served as the debt collector for the Korea Deposit Insurance Corporation from 2001 to Mar. 2022</p>
 									</li>
 									<li>
-										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname06_eng.png" alt="WOORI Financial Group Thailand"></div>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Asset Management</p>
+											<p class="group_deac">Asset Manager Creating Long-Term<br />
+												Value for Investors</p>
+										</div>
 										<div class="link">
-											<p class="site"><a href="https://www.ktbst.co.th/home" target="_blank">www.WOORI Financial Group.co.th</a></p>
-											<p class="tel">+66-02-648-1111</p>
+											<p class="site"><a href="https://www.wooriam.kr/" target="_blank">www.wooriam.kr</a></p>
+											<p class="tel">82+ 2-2118-0500</p>
 										</div>
 										<p class="txt">
-											Acquired by WOORI Venture Partners & Securities in August 2008, WOORI Financial Group Thailand is a securities company based in Thailand. Recent expansion efforts in Wealth Management, ECM, DCM and Investment Banking business lines have bolstered asset management capabilities WOORI Financial Group Thailand, transforming the company into a comprehensive securities company offering a complete range of financial products. WOORI Financial Group Thailand has continued to expand its footprint as the only Korean financial investment company in Thailand. At the end of 2019, WOORI Financial Group Thailand has been changed a holding company that has securities, asset management, REITs management and personal loan subsidiaries.
+											Founded in 2000, Woori Asset Management, a subsidiary of Woori Financial Group, aims to serve the needs of investors through a broad range of products and services that cover equity, fixed income, multi-asset as well as alternative investment opportunities in both the domestic and overseas markets. The company is uniquely positioned to provide financial products and investment solutions that meet investors' financial objectives by utilizing the core competencies of Woori Financial Group's vast network.
 										</p>
 									</li>
 									<li>
-										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname07_eng.png" alt="WOORI Financial Group Ventures"></div>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Global Asset<br />
+												Management</p>
+											<p class="group_deac">A True Global Asset Manager<br />
+												in Global and Alternative Investment</p>
+										</div>
 										<div class="link">
-											<p class="site"><a href="http://www.ktbvc.com/" target="_blank">www.WOORI Financial Groupventures.com</a></p>
-											<p class="tel">+1-650-324-4681</p>
+											<p class="site"><a href="https://www.wooriglobalam.com/" target="_blank">www.wooriglobalam.com</a></p>
+											<p class="tel">82+ 2-2071-9900</p>
 										</div>
 										<p class="txt">
-											WOORI Financial Group Ventures, WOORI Financial Group’s first overseas subsidiary, was established in Palo Alto, California, the heart of American Silicone Valley in June 1988. WOORI Financial Group Ventures has an accumulated investment record worth USD 100 million. Working closely with WOORI Venture Partners, WOORI Financial Group Ventures has recently ramped up its efforts to identify early-stage investment opportunities in North America. Recently WOORI Financial Group Ventures changed from a subsidiary of WOORI Venture Partners & Securities to a subsidiary of WOORI Venture Partners. Ventures and Investment plan to collaborate in North America, including the United States and Canada.
+											With the in-depth knowledge in global investment and well-structured risk management system, Woori Global Asset Management provides optimized investment solution to meet investors’ various needs. The Company will continue to be a true global asset manager in global and alternative investment that covers equity, fixed income, infrastructure and real estate, etc.
 										</p>
 									</li>
 									<li>
-										<div class="subsidiaryName"><img src="/static/home/en/images/contents/img_ssname09_eng.png" alt="WOORI Financial Group New York"></div>
-										<!-- <div class="link">
-											<p class="site"><a href="http://www.ktbvc.com" target="_blank">www.ktbvc.com</a></p>
-											<p class="tel">+1-650-324-4681</p>
-										</div> -->
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Private Equity<br />
+												Asset Management</p>
+											<p class="group_deac">PE Management Company, Leading<br />
+												Advanced Finance with Competitiveness</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="https://www.wooripe.com/" target="_blank">www.wooripe.com</a></p>
+											<p class="tel">82+ 2-6730-1200</p>
+										</div>
 										<p class="txt">
-											WOORI Financial Group New York is the U S local investment advisory company established in 2019. WOORI Financial Group New York is global hub for group’s overseas alternative investment. WOORI Financial Group New York currently cooperate with WOORI Financial Group Asset Management to establish overseas logistics-focused REITs.
+											Established in October 2005 to develop a company specializing in private equity fund management representing Korea, by registering with the collective investment of private equity funds it added the business of managing hedge funds to the existing business of managing private equity funds.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Financial F&I</p>
+											<p class="group_deac">An NPL investment specialist, at the forefront<br />
+												of the nation’s non-performing loan market</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="https://www.woorifni.co.kr/" target="_blank">www.woorifni.co.kr</a></p>
+											<p class="tel">82+ 2-739-1389</p>
+										</div>
+										<p class="txt">
+											Newly established in 2022, Woori Financial F&I Inc. is a subsidiary of Woori Financial Group that specializes in non-performing loan investments.With its outstanding investment-focused workforce and expertise, Woori Financial F&I Inc. helps enhance the prudential soundness of financial institutions and provides support for corporate financial rehabilitation by managing the corporate restructuring process.Moving forward, Woori Financial F&I Inc. has its sights set on becoming Korea’s leader in the NPL investment market.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Credit Information</p>
+											<p class="group_deac">The Best Companion to<br />
+												Accomplish a Credit Society</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="https://www.wooricredit.com/" target="_blank">www.wooricredit.com</a></p>
+											<p class="tel">82+ 2-2262-5800</p>
+										</div>
+										<p class="txt">
+											The nation’s first credit information company that leads the market with a long history and expertise!Woori Credit Information is the first domestic company to specialize in credit information, debt collection, and lease investigation, and was established in 1991 with full investment by Woori Bank. The company acquired the A+ rating from the Enterprise Credit Rating, winning shareholders’ confidence.Moreover, the company embraces various social contribution activities such as the 1 Company 1 Village Country Love initiative, social welfare, and environment protection.Being a strong financial partner to creditors and a supportive partner to debtors for credit recovery, Woori Credit Information will be stepping stones for them and the best partner to accomplish a credit society.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Fund Services</p>
+											<p class="group_deac">Woori Fund Services<br />
+												Accomplish Trust of 200 Trillion KRW in 2020</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="https://www.woorifs.co.kr/" target="_blank">www.woorifs.co.kr</a></p>
+											<p class="tel">82+ 2-3151-3510</p>
+										</div>
+										<p class="txt">
+											We will continue to serve and impress our customers, who are the most valuable to us, for the next hundred years.Woori Fund Services provides various administration services including fund accounting and reference price computation for collective investment vehicles and general administration for real estate investment trusts.As an affiliate of Woori Financial Group, Woori Fund Services successfully completed the development of “FundOne”, a next generation administration system, in August of 2014, and has exerted ongoing efforts to develop systems and talent to provide better services.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori FIS</p>
+											<p class="group_deac">2020 Global Finance ICT Partner</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="https://www.woorifis.com/" target="_blank">www.woorifis.com</a></p>
+											<p class="tel">82+ 2-3151-7000</p>
+										</div>
+										<p class="txt">
+											As a comprehensive financial services ICT company, Woori FIS is able to provide One-Stop services from development planning to execution, based on expertise and hands-on experience derived from numerous projects working with banking, credit card, fund, insurance, and other related companies.Woori FIS is the first South Korean company to successfully implement a total IT outsourcing model from development to IT infrastructure management. By acquiring three major international qualities of development, management, and security, our excellent ICT management system was internationally renowned.Based on these strengths, Woori FIS is leading the innovation of customer business value by supporting stable global services to over 300 foreign branches in the U.S., China, and others and playing key roles in building the WiBee Bank and K Bank systems in the FinTech wave.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">Woori Finance<br />
+												Research Institute</p>
+											<p class="group_deac">The Insight Provider of Woori Financial Group,<br />
+												The Opinion Leader of the Korean Financial Industry,<br />
+												The Think Tank Leading the Global Financial Industry!</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="https://www.wfri.re.kr/" target="_blank">www.wfri.re.kr</a></p>
+											<p class="tel">82+ 2-2173-0500</p>
+										</div>
+										<p class="txt">
+											s the think tank of Woori Financial Group, Woori Finance Research Institute supports the decision-making of executives and consults development strategies for affiliates, seeking balanced development of the group’s industry portfolio. As the opinion leader and a specialized research institute leading financial industries both at home and abroad, we also share our research results through various types of reports, seminars, and press releases.
 										</p>
 									</li>
 								</ul>
