@@ -134,7 +134,7 @@
 .partnersList li a:hover:after, .partnersList li a:focus:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;border:2px solid #0067ac;/*background: url(../images/contents/bg_partners_over.png) no-repeat 0 0*/}
 .partnersList li a:hover span, .partnersList li a:focus span{display:block}
 .link:after{content:'';clear:both;display:block}
-.link p{float:left;color:#333;font-weight:500}
+.link p{float:left;font-size:14px;font-weight:500;line-height:25px;letter-spacing:-0.7px;color:#333}
 .link p:before{content:'';width:21px;height:21px;margin-right:15px;display:inline-block;vertical-align:middle;overflow:hidden;background:url(../images/contents/ico_comphon.png) no-repeat 0 0}
 .link p.site:before{background-position:0 0}
 .link p.site a{text-decoration:underline}
@@ -206,13 +206,13 @@ dl.noticeBox .tblV tbody th{vertical-align:middle}
 .aboutGroup .subsidiary .list{margin-top:60px}
 .aboutGroup .subsidiary .list li:first-child{border-top:1px solid #dedede}
 .aboutGroup .subsidiary .list li{position:relative;padding:30px 40px;border-bottom:1px solid #dedede}
-.aboutGroup .subsidiary .list li .link{position:absolute;top:30px;right:40px}
-.aboutGroup .subsidiary .list li .txt{margin-top:20px;color:#111;line-height:32px}
+.aboutGroup .subsidiary .list li .link{position:absolute;top:40px;right:40px}
+.aboutGroup .subsidiary .list li .txt{margin-top:9px;font-size:14px;line-height:25px;letter-spacing: -0.7px;word-break: break-word;color:#000}
 .aboutGroup .subsidiary .list li .grayTxt{margin-top:20px;color:#737373}
 .aboutGroup .subsidiary .subsidiaryName{overflow:hidden;display:flex;align-items: center}
 .aboutGroup .subsidiary .subsidiaryName p{float:left;color: #000;font-weight:500;}
-.aboutGroup .subsidiary .subsidiaryName p.group_name{font-size: 30px;letter-spacing: -1.5px;}
-.aboutGroup .subsidiary .subsidiaryName p.group_deac{font-size: 18px;letter-spacing: -0.9px;padding-left:16px;}
+.aboutGroup .subsidiary .subsidiaryName p.group_name{font-size: 30px;line-height:46px;letter-spacing: -1.5px}
+.aboutGroup .subsidiary .subsidiaryName p.group_deac{padding-left:16px;font-size: 18px;line-height:28px;letter-spacing: -0.9px;color: #111}
 
 /* Contact */
 .pageTxt.ctt{position:relative;z-index:2}

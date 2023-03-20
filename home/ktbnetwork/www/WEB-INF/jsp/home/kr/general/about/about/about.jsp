@@ -30,7 +30,7 @@
                       <p class="group_deac">고객에게 신뢰받는 은행</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="www.wooribank.com" target="_blank">www.wooribank.com</a></p>
+											<p class="site"><a href="http://www.wooribank.com/" target="_blank">www.wooribank.com</a></p>
 											<p class="tel">02-2002-3000</p>
 										</div>
 										<p class="txt">
@@ -43,7 +43,7 @@
                       <p class="group_deac">고객에게 더 나은 가치를 제공하는 카드</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="www.wooricard.com" target="_blank">www.wooricard.com</a></p>
+											<p class="site"><a href="http://www.wooricard.com/" target="_blank">www.wooricard.com</a></p>
 											<p class="tel">1588-9955</p>
 										</div>
 										<p class="txt">
@@ -56,7 +56,7 @@
                       <p class="group_deac">최고의 금융서비스를 제공하는 여신전문금융회사</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="www.woorifcapital.com" target="_blank">www.woorifcapital.com</a></p>
+											<p class="site"><a href="http://www.woorifcapital.com/" target="_blank">www.woorifcapital.com</a></p>
 											<p class="tel">1544-8600</p>
 										</div>
 										<p class="txt">
@@ -69,7 +69,7 @@
                       <p class="group_deac">종합금융서비스를 제공하는 최일류 투자은행</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="www.woorifcapital.com" target="_blank">www.woorifcapital.com</a></p>
+											<p class="site"><a href="http://www.woorifcapital.com/" target="_blank">www.woorifcapital.com</a></p>
 											<p class="tel">02-2000-6600</p>
 										</div>
 										<p class="txt">
@@ -84,7 +84,7 @@
                         고객가치 실현 및 Leading 신탁사로의 도약!</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="www.wooriat.com" target="_blank">www.wooriat.com</a></p>
+											<p class="site"><a href="http://www.wooriat.com/" target="_blank">www.wooriat.com</a></p>
 											<p class="tel">02-6202-3000</p>
 										</div>
 										<p class="txt">
@@ -97,7 +97,7 @@
                       <p class="group_deac">고객과 함께하는 NO.1 저축은행</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="www.woorisavingsbank.com" target="_blank">www.woorisavingsbank.com</a></p>
+											<p class="site"><a href="http://www.woorisavingsbank.com/" target="_blank">www.woorisavingsbank.com</a></p>
 											<p class="tel">1599-0038</p>
 										</div>
 										<p class="txt">
@@ -110,7 +110,7 @@
                       <p class="group_deac">고객의 수익을 최우선으로 하는든든한 운용</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="www.wooriam.kr" target="_blank">www.wooriam.kr</a></p>
+											<p class="site"><a href="http://www.wooriam.kr/" target="_blank">www.wooriam.kr</a></p>
 											<p class="tel">02-2118-0500</p>
 										</div>
 										<p class="txt">
@@ -119,25 +119,99 @@
 									</li>
 									<li>
 										<div class="subsidiaryName">
-                      <p class="group_name">우리은행</p>
-                      <p class="group_deac"></p>
+                      <p class="group_name">우리글로벌자산운용</p>
+                      <p class="group_deac">대체투자 및 해외투자의 중심이 되는<br />
+												종합자산운용사</p>
                     </div>
 										<div class="link">
-											<p class="site"><a href="http://www.ktbvc.com/" target="_blank">www.daolventures.com</a></p>
-											<p class="tel">+1-650-324-4681</p>
+											<p class="site"><a href="http://www.wooriglobalam.com/" target="_blank">www.wooriglobalam.com</a></p>
+											<p class="tel">02-2071-9900</p>
 										</div>
 										<p class="txt">
-											‘88년 6월 미국 실리콘 밸리의 심장부인 California Palo Alto에 설립된 우리금융그룹의 첫 번째 해외 네트워크입니다.<br>
-											1,200억원 규모의 미국 투자 레코드를 보유하고 있으며, 최근 계열사인 우리벤처파트너스의 자회사로 지배구조를 변경하여 본격적으로 미국, 캐나다 등 북미지역 투자 부문에서 협업을 진행하고 있습니다.
+											우리글로벌자산운용은 인프라자산, 신재생에너지, 환경, 부동산, 기업 인수금융 뿐만 아니라 사모대출 등 다양한 국내외 대체투자 중심으로 성장하고 있는 우리금융그룹을 대표하는 대체투자 전문가 집단입니다. 또한 해외 재간접투자에 있어서도 대한민국을 대표하는 자산운용사이며, 전통적으로 채권 및 주식 등에서도 발군의 운용성과를 시현하고 있습니다. 앞으로 우리금융그룹을 넘어 우리나라의 대표적인 대체투자 및 해외투자 분야의 중심이 되는 종합자산운용사가 되기 위해 최선을 다할 것입니다.
 										</p>
 									</li>
 									<li>
 										<div class="subsidiaryName">
-                      <p class="group_name">우리은행</p>
-                      <p class="group_deac"></p>
+                      <p class="group_name">우리프라이빗에퀴티자산운용</p>
+                      <p class="group_deac">선진금융을 선도하는<br />
+												경쟁력 있는 PE 운용사</p>
                     </div>
+										<div class="link">
+											<p class="site"><a href="http://www.wooripe.com/" target="_blank">www.wooripe.com</a></p>
+											<p class="tel">02-6949-2801</p>
+										</div>
 										<p class="txt">
-											’19년 설립된 DAOL New York은 미국현지 법인으로, 우리금융그룹그룹의 해외 대체투자를 이끌어갈 글로벌 중심 거점입니다. 현재 우리금융그룹자산운용과 협업을 통해 해외 물류 REITs 출시를 준비 중에 있습니다.
+											우리PE는 중소/중견 기업에 대한 Growth Capital 투자부터 대기업과의 협업을 통한 투자 및 Buyout에 이르기까지 다양한 투자전략을 구사합니다. 또한 보통주 투자뿐 아니라, 시장 상황별 유연한 대응이 가능한 Mezzanine, 구조화 Deal 위주의 투자 실행으로 안정적인 수익을 추구합니다.국내 사모펀드 시장에서 대한민국을 대표하는 사모펀드운용사를 육성하고자 2005년 10월 설립되었으며, 2016년 7월 일반사모집합투자업 등록을 통해 기존의 기관전용 사모펀드 운용 업무 외에 일반사모펀드 운용업무로 사업영역을 확대하였습니다."
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">우리금융에프앤아이</p>
+											<p class="group_deac">국내 NPL시장을 선도할 투자 전문회사</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="http://www.woorifni.co.kr/" target="_blank">www.woorifni.co.kr</a></p>
+											<p class="tel">02-739-1389</p>
+										</div>
+										<p class="txt">
+											우리금융F&I는 NPL(부실채권) 및 기업구조조정 투자 전문회사입니다. 2022년 출범 첫해 성공적으로 시장에 안착하였으며, 향후 NPL 투자 확대 및 기업구조조정 투자까지 사업 영역을 지속적으로 확장해 나갈 계획입니다. 앞으로도 우수한 투자 인력과 전문성을 바탕으로 국내 NPL 및 기업구조조정 투자 시장을 선도하는 회사로 성장해 나가겠습니다.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">우리신용정보</p>
+											<p class="group_deac">신용사회 구현을 위한 최고의 동반자</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="http://www.wooricredit.com/" target="_blank">www.wooricredit.com</a></p>
+											<p class="tel">02-2262-5800</p>
+										</div>
+										<p class="txt">
+											우리신용정보는 1991년 설립된 국내 최초의 신용정보사로서 오랜 역사와 노하우를 바탕으로 채권추심, 신용조사, 자산관리 시장을 선도하고 있으며, 기업신용평가 A+등급으로 고객과 주주에게 믿음을 주는 회사입니다. 더불어 사회복지, 환경보호 등 다양한 분야의 사회공헌활동에도 앞장서는 포용적 회사입니다.우리신용정보는 앞으로도 채권자에게는 든든한 금융파트너로, 채무자에게는 신용회복을 위한 행복파트너로서 징검다리 역할을 수행하며 신용사회 구현을 이룩하는 1등 신용정보사로 성장해 나갈 것을 약속드립니다.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">우리펀드서비스</p>
+											<p class="group_deac">최상의 시스템과 서비스로<br />
+												일반사무관리업계의 Leading Company 도약!</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="http://www.woorifs.co.kr/" target="_blank">www.woorifs.co.kr</a></p>
+											<p class="tel">02-3151-3510</p>
+										</div>
+										<p class="txt">
+											우리펀드서비스는 집합투자기구의 펀드회계처리 및 기준가격 산출, 부동산 투자회사의 다양한 일반사무관리를 제공하는 회사입니다.또한, 국내 최초로 「디지털자산기업회계솔루션『DABAS』시스템」, 「디지털자산 전자공시 플랫폼」을 개발하는 등 디지털자산 사무관리시장에 진출하여 변화하는 금융시장을 선도하고 있습니다.우리펀드서비스는 대한민국 대표 사무관리회사로 도약하기 위해 지속적인 시스템 개발 및 인재육성을 위하여 노력하고 끊임없이 혁신하고 연구해 나가겠습니다.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">우리에프아이에스</p>
+											<p class="group_deac">디지털 트랜스포메이션을 선도하는<br />
+												글로벌 금융 ICT파트너</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="http://www.woorifis.com/" target="_blank">www.woorifis.com</a></p>
+											<p class="tel">02-3151-7000</p>
+										</div>
+										<p class="txt">
+											우리에프아이에스는 ‘은행’, ’신용카드’, ’증권’, ‘보험’등 금융업종 전반에 전문 지식과 수많은 프로젝트 수행 경험, 전략개발부터 실행까지의 One-Stop 서비스 제공 능력을 갖춘 종합금융 ICT서비스 회사 입니다.국내 최초로 개발부터 IT인프라 운영에 이르는 토탈 IT아웃소싱 모델을 성공적으로 구현하고 ‘개발’, ‘운영’, ’보안’의 3대 국제품질인증을 획득함으로써 국제적 수준의 ICT 관리체계를 인정받았습니다. 이를 기반으로 미국, 중국 등 300여 개 해외법인과 국외지점에 안정적인 글로벌 서비스를 지원하고 있으며, 우리금융그룹의 디지털 트랜스포메이션에 주도적인 역할을 수행하여 고객 비즈니스 가치의 혁신을 선도하고 있습니다.
+										</p>
+									</li>
+									<li>
+										<div class="subsidiaryName">
+											<p class="group_name">우리금융경영연구소</p>
+											<p class="group_deac">우리금융그룹의 Insight Provider,<br />
+												한국금융산업의 Opinion Leader,<br />
+												나아가 글로벌 금융산업을 선도하는 Think Tank!</p>
+										</div>
+										<div class="link">
+											<p class="site"><a href="http://www.wfri.re.kr/" target="_blank">www.wfri.re.kr</a></p>
+											<p class="tel">02-2173-0500</p>
+										</div>
+										<p class="txt">
+											우리금융경영연구소는 그룹의 씽크탱크로서 경영진의 의사결정을 효과적으로 지원하고 계열사 성장전략 등에 대한 컨설팅 기능 수행으로 그룹산업포트폴리오 전반의 균형적인 발전을 도모하고 있습니다. 또한 연구 성과를 다양한 형태의 보고서 발간 및 세미나, 언론보도 등을 통해 공유하는 오피니언 리더로서의 역할을 수행함으로써 국내외 금융산업을 선도하는 전문 연구기관으로 자리매김하고 있습니다.
 										</p>
 									</li>
 								</ul>
