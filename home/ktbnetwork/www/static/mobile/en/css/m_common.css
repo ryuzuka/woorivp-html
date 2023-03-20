@@ -69,19 +69,19 @@ header.headFixed .menu{background-position:-40px 0}
 .container{position:relative;background:#f2f2f2;overflow:hidden}
 .contents{position:relative;padding:60px 30px 35px;background:#fff}
 
-footer{padding:0 30px 25px;background:#303135;text-align:center}
+footer{padding:0 30px 25px;background:#636466;text-align:center}
 footer .fLink{display:table;width:100%;table-layout:fixed;padding-top:20px}
 footer .fLink li{display:table-cell}
 footer .fLink li a{display:block;font-size:13px;font-weight:500;color:#fff;text-align:center;padding:2px 0}
-footer .copyright{font-size:12px;color:#999;line-height:1.5;margin-top:20px}
+footer .copyright{font-size:12px;color:#fff;line-height:1.5;margin-top:20px}
 footer .familySite{position:relative;padding-right:70px}
 footer .familySite:after{content:'';display:block;clear:both}
 footer .frmSelect{position:relative;display:inline-block;width:100%;margin-top:15px;padding:0;vertical-align:middle;text-align:left;background:none;border:none}
-footer .frmSelect .tit{overflow:hidden;position:relative;display:block;height:40px;padding:0 0 0 18px;color:#999;line-height:38px;border:1px solid #7e7f81;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis;word-wrap:normal;background:#303135 url(../images/common/ico_select_arrow.png) no-repeat right 50%;background-size:22px 6px}
+footer .frmSelect .tit{overflow:hidden;position:relative;display:block;height:40px;padding:0 0 0 18px;color:#fff;line-height:38px;border:1px solid #d4d4d4;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis;word-wrap:normal;background:#636466 url(../images/common/ico_select_arrow.png) no-repeat right 50%;background-size:22px 6px}
 footer .frmSelect .tit:hover, .frmSelect .tit.on{border-color:#0b6fc6}
 footer .frmSelect .tit.disabled, 
 footer .frmSelect .tit.disabled:focus{border:1px solid #595a5d;background:#303135;cursor:text}
-footer .frmSelect .overcon{overflow:hidden;width:100%;border:1px solid #7e7f81;background:#303135;color:#999}
+footer .frmSelect .overcon{overflow:hidden;width:100%;border:1px solid #7e7f81;background:#636466;color:#fff}
 footer .frmSelect .overcon li a{overflow:hidden;display:block;height:40px;padding:0 13px;line-height:39px;white-space:nowrap;text-overflow:ellipsis;word-wrap:normal}
 footer .frmSelect select{display:none}
 footer .maskDiv_wddo{position:absolute;bottom:35px;left:0;right:0;padding:5px 0;border-top:none;box-sizing:content-box}
@@ -92,8 +92,8 @@ footer .jspTrack{position:relative}
 footer .jspDrag{position:relative;left:0px;cursor:pointer;border-radius:10px;background:#999}
 footer .jspCapTop{height:0}
 footer .jspCapBottom{height:0}
-footer .familySite .btnMove{display:block;position:absolute;right:0;top:15px;width:65px;height:40px;line-height:40px;text-align:center;border:1px solid #7e7f81;color:#999}
-footer .pageTop{margin:0 -30px;border-bottom:1px solid #45464a}
+footer .familySite .btnMove{display:block;position:absolute;right:0;top:15px;width:65px;height:40px;line-height:40px;text-align:center;border:1px solid #d4d4d4;color:#fff}
+footer .pageTop{margin:0 -30px;border-bottom:1px solid #dedede}
 footer .pageTop .btnTop{height:40px;padding-right:16px;color:#fff;font-size:13px;line-height:40px;background:url(../images/common/btn_top.png) 100% 50% no-repeat;background-size:10px auto}
 .selectBox{position:relative}
 .selectBox select{width:100%;height:40px;background:#303135 url(../images/common/ico_select_arrow.png) no-repeat right 50%;background-size:22px 6px;border:1px solid #7e7f81;color:#999;padding-left:18px;-webkit-appearance:none;-moz-appearance:none;appearance:none}

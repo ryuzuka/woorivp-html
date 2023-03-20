@@ -10,15 +10,21 @@
 		<div class="familySite">
 			<span class="frmSelect">
 				<select title="Family Site">
-					<option value="https://m.ktb.co.kr/en/CIE/CIE1.jsp">WOORI Venture Partners & Securities</option>
-					<option value="https://m.daolsb.com/main.do">DAOL Saving Bank</option>
-					<option value="http://daolinvestment.com/home/en/main/main.do">WOORI Venture Partners</option>
-					<option value="http://www.i-ktb.com/static/pc/html/MA/MAE1.html">DAOL Asset Management</option>
-					<option value="http://daolpe.com/">DAOL Private Equity</option>
-					<option value="http://www.ktbcredit.com/">DAOL Credit Service</option>
-					<option value="https://www.ktbst.co.th/index.php?s=p">DAOL THAILAND</option>
-					<option value="http://www.ktbvc.com/">DAOL Ventures</option>
-				</select>
+          <option value="https://www.wooribank.com/">Woori Bank</option>
+          <option value="https://pc.wooricard.com/dcpc/main.do">Woori Card</option>
+          <option value="https://www.woorifcapital.com/portal/portalMain.do">Woori Financial Capital</option>
+          <option value="https://www.wooriib.com/">Woori Investment Bank</option>
+          <option value="https://www.wooriat.com/">Woori Asset Trust</option>
+          <option value="https://www.woorisavingsbank.com/main/main.do">Woori Savings Bank</option>
+          <option value="https://www.wooriam.kr/">Woori Asset Management</option>
+          <option value="https://www.wooriglobalam.com/main/main.asp">Woori Global Asset Management</option>
+          <option value="http://www.wooripe.com/">Woori Private Equity Asset Management</option>
+          <option value="http://www.woorifni.co.kr/">Woori Financial F&amp;I</option>
+          <option value="https://www.wooricredit.com/">Woori Credit Information</option>
+          <option value="http://www.woorifs.co.kr/html/kor/index.do">Woori Fund Service</option>
+          <option value="http://www.woorifis.com/">Woori FIS</option>
+          <option value="https://www.wfri.re.kr/ko/web/main.php">Woori Finance Research Institute</option>
+        </select>
 			</span>
 			<a href="#" role="button" class="btnMove">GO</a>
 		</div>
