@@ -41,7 +41,7 @@
           </div>
         </div>
         <div class="value_item">
-          <p class="item_title">VISON</p>
+          <p class="item_title">CORE VALUE</p>
           <div class="item_content">
             <div class="point_line"></div>
             <div class="content_box">
