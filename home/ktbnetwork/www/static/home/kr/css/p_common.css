@@ -71,13 +71,13 @@ a:hover{text-decoration:none}
 .headArea .allMenu li{float:left;padding-left:30px;min-width:67px}/* 190409 수정 */
 .headArea .allMenu li a{font-size:18px;color:#fff;line-height:80px;font-weight:500;letter-spacing: -0.9px}
 
-.headArea.open{padding-bottom:27px;background:#fff;border-bottom:0;box-shadow:0 0 20px rgba(0,0,0,.3)} 
+.headArea.open{padding-bottom:27px;background:#fff;border-bottom:0;box-shadow:0 0 20px rgba(0,0,0,.3)}
 .headArea.open:before{content:'';display:block;width:100%;position:absolute;top:0;left:0}
 .headArea.open .logo{background-image:url(../images/common/logo_header_b.png)}
 .headArea.open .engBtn, .headArea.open .allMenu li a{color:#111}
 .headArea .allMenu li a:hover{border-bottom:2px solid #fff}
-.headArea .allMenu li a.on, .headArea.open .allMenu li a:hover{color:#2c2c92;border-bottom:2px solid #2c2c92}		
-		
+.headArea .allMenu li a.on, .headArea.open .allMenu li a:hover{color:#2c2c92;border-bottom:2px solid #2c2c92}
+
 .container{width:100%;min-width:1200px}/* 190412 수정 */
 .nav{position:absolute;top:80px;left:0;width:100%;z-index:9}
 .navArea{height:46px;color:#fff;color:rgba(255,255,255,0.5);font-size:14px}
@@ -86,7 +86,7 @@ a:hover{text-decoration:none}
 .navArea li a{display:block}
 
 .footer{position:relative;width:100%;background:#636466}
-.footArea:after{content:'';display:block;clear:both}	
+.footArea:after{content:'';display:block;clear:both}
 .footArea .policyList{float:left;padding:25px 0}
 .footArea .familySite{float:right;width:240px;padding:20px 0}
 .footArea .frmSelect{width:240px}
@@ -310,7 +310,7 @@ p.titDep2 strong{font-weight:600}
 
 /* page top */
 .pageTop{position:absolute;left:50%;top:-110px;margin-left:600px;z-index:9}
-.pageTop .btnTop{display:block;width:70px;height:70px;overflow:hidden;text-indent:-9999px;background:#25283d url(../images/common/btn_top.png) 50% 50% no-repeat;box-shadow:10px 10px 8px rgba(0,0,0,0.1)}
+.pageTop .btnTop{display:block;width:70px;height:70px;overflow:hidden;text-indent:-9999px;background:#636466 url(../images/common/btn_top.png) 50% 50% no-repeat;box-shadow:10px 10px 8px rgba(0,0,0,0.1)}
 .pageTop.fixed{position:fixed;top:auto;bottom:40px}
 
 button.swiper-button-disabled{display:none}
