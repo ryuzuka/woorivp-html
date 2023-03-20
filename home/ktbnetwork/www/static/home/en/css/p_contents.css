@@ -105,7 +105,7 @@
 .memberList li .member .right{float:right;width:400px;padding-top:5px}
 .memberList li .member h3{padding-bottom:5px;font-size:40px;color:#111;font-weight:600}
 .memberList li .member h3 .pointColor{margin:6px;font-size:15px;font-weight:400}
-.memberList li .member dt{margin:32px 0 8px;font-size:18px;color:#2c2c92;font-weight:500}
+.memberList li .member dt{margin:32px 0 8px;font-size:18px;color:#0067AC;font-weight:500}
 .memberList li .member dd{line-height:33px}
 .memberList li.active .member{display:block}
 .memberList .thumb{position:relative;display:block;margin:0 10px 65px}
