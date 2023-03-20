@@ -9,7 +9,7 @@
     <div class="visualArea">
       <div class="inner">
         <h1 class="pageTit">ESG경영</h1>
-        <p class="pageTxt">우리금융그룹 인권원칙</p>
+        <p class="pageTxt">상생을 통한 지속가능경영을 추구하며 권익 보호를 위하여 최선을 다합니다.</p>
       </div>
     </div>
     <div class="tabArea">
