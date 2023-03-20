@@ -33,7 +33,7 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .historyList > li{display:table;position:relative;padding:0 0 30px 10px;border-left:1px solid #e4e4e4}
 .historyList > li:before{content:'';display:inline-block;position:absolute;top:0;left:-4px;width:8px;height:8px;font-size:10px;line-height:1;text-align:center;border-radius:100%;background:#2c3785}
 .historyList > li:last-child{padding-bottom:0;border:0}
-.historyList .tit{display:block;margin-top:-4px;color:#2c3785;font-weight:600;font-size:15px}
+.historyList .tit{display:block;margin-top:-4px;color:#253A71;font-weight:600;font-size:15px}
 .historyList .txt{margin-top:10px;font-size:14px}
 .ico_list {overflow:hidden;display:flex;margin-top:42px;flex-wrap:wrap;align-items:center;}
 .ico_list li {/*float:left;*/width:33.3%;margin-top:30px;text-align:center}
@@ -226,7 +226,7 @@ header.headFixed ~ .container .pageTit:after{display:none}
 */
 /*.affArea{position: relative;margin: 35px 0 15px;margin-left: auto !important;margin-right: auto !important;width: 84%}.affArea .affList li{position: absolute;display: block}.affArea .affList li a{display: block;background: transparent;width: 100% !important;height: 100% !important;text-align: center;color: rgba(0, 0, 0, 0);left: auto !important;top: auto !important}.affArea .affList li:nth-of-type(1){top: 0%;left: 32.53968254%;width: 35.07936508%;height: 12.5984252%}.affArea .affList li:nth-of-type(2){top: 16.8503937%;left: 7.14285714%;width: 33.49206349%;height: 12.5984252%}.affArea .affList li:nth-of-type(3){top: 16.8503937%;left: 59.68253968%;width: 33.96825397%;height: 12.5984252%}.affArea .affList li:nth-of-type(4){top: 43.62204724%;left: 0%;width: 26.34920635%;height: 12.5984252%}.affArea .affList li:nth-of-type(5){top: 43.62204724%;left: 73.65079365%;width: 26.34920635%;height: 12.5984252%}.affArea .affList li:nth-of-type(6){top: 70.39370079%;left: 5.23809524%;width: 35.3968254%;height: 12.5984252%}.affArea .affList li:nth-of-type(7){top: 70.39370079%;left: 59.68253968%;width: 34.76190476%;height: 12.5984252%}.affArea .affList li:nth-of-type(8){top: 87.4015748%;left: 32.53968254%;width: 35.07936508%;height: 12.5984252%}*/
 /**
- * 2020-04-01 10:37 계열사 순서 변경 
+ * 2020-04-01 10:37 계열사 순서 변경
 */
 /*.affArea{position:relative;margin:35px 0 15px;margin-left:auto!important;margin-right:auto!important;width:84%}.affArea .affList li{position:absolute;display:block}.affArea .affList li a{display:block;background:0 0;width:100%!important;height:100%!important;text-align:center;color:transparent;left:auto!important;top:auto!important}.affArea .affList li:nth-of-type(1){top:0;left:32.53968254%;width:35.07936508%;height:12.5984252%}.affArea .affList li:nth-of-type(2){top:16.8503937%;left:7.14285714%;width:33.49206349%;height:12.5984252%}.affArea .affList li:nth-of-type(3){top:16.8503937%;left:59.68253968%;width:33.96825397%;height:12.5984252%}.affArea .affList li:nth-of-type(4){top:43.62204724%;left:0;width:26.34920635%;height:12.5984252%}.affArea .affList li:nth-of-type(5){top:43.62204724%;left:73.65079365%;width:26.34920635%;height:12.5984252%}.affArea .affList li:nth-of-type(6){top:70.39370079%;left:59.68253968%;width:34.76190476%;height:12.5984252%}.affArea .affList li:nth-of-type(7){top:70.39370079%;left:5.23809524%;width:35.3968254%;height:12.5984252%}.affArea .affList li:nth-of-type(8){top:87.4015748%;left:32.53968254%;width:35.07936508%;height:12.5984252%}*/
 

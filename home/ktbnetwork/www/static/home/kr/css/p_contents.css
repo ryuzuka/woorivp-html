@@ -57,7 +57,7 @@
 .historyArea .historyList .year:last-child .list{padding-bottom:0}
 .historyArea .historyList .year:last-child .list:before{top:auto;bottom:15px}
 .historyArea .historyList .year .num{color:#737373;font-size:30px}
-.historyArea .historyList .year.on .num{color:#2c2c92}
+.historyArea .historyList .year.on .num{color:#253A71}
 .historyArea .historyList .year .list{margin:-37px 0 0 144px;padding-bottom:80px}
 .historyArea .historyList .year .list:before{content:'';display:inline-block;position:absolute;top:19px;left:144px;width:1px;height:100%;background:#e6e6e6}
 .historyArea .historyList .year .list:after{content:'';display:inline-block;position:absolute;top:15px;left:140px;width:9px;height:9px;text-align:center;border-radius:100%;background:#737373}
