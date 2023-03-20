@@ -168,6 +168,26 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .esg .listRule dd {margin-top:20px;font-size:15px;font-weight:400;line-height:21px;}
 .esg .imgArea {margin-top:35px;}
 
+/* value_wrap */
+.value_wrap{padding: 50px 0 20px;}
+.value_wrap .value_item{overflow:hidden;padding-top:50px;}
+.value_wrap .value_item:first-child{padding-top:0;}
+.value_wrap .value_item .item_title{float:left;width:70px;padding-left:10px;font-size: 15px;font-weight:500;line-height: 1.56;letter-spacing: -0.8px;color: #0067ac;}
+.value_wrap .value_item .item_content{float:right;width:calc(100% - 80px);}
+.value_wrap .value_item .item_content .point_line{width:calc( 100% - 12px );height:2px;background:#0067ac;position:relative;margin-left:12px}
+.value_wrap .value_item .item_content .point_line::after{content:'';display:block;width:12px;height:2px;transform: rotate(-45deg);background:#0067ac;position:absolute;top:4px;left:-10px;}
+.value_wrap .value_item .item_content .content_box{padding:25px 0 0 15px;}
+.value_wrap .value_item .item_content .content_text_vi{font-size: 18px;color: #595757;font-weight:600;}
+.value_wrap .value_item .item_content .content_text_vi b{font-size: 20px;color: #0b6fc6;}
+.value_wrap .value_item .item_content .content_desc{padding-top:12px;font-size: 11px;line-height: 1.79;letter-spacing: -0.5px;color: #555;font-weight:400;}
+.value_wrap .value_item .item_content .content_text_vi img{width:192px;}
+.value_wrap .value_item .item_content .content_text_vi .circle_wrap{overflow:hidden;}
+.value_wrap .value_item .item_content .content_text_vi .circle_text{float:left;width:50%;padding-bottom:24px;}
+.value_wrap .value_item .item_content .content_text_vi .circle_text:first-child{margin-left:0;}
+.value_wrap .value_item .item_content .content_text_vi .circle_text .circle{width:84px;height:84px;border:1px solid #13aee7;border-radius:42px;box-sizing: border-box;font-size: 17px;letter-spacing: -1.1px;color: #0067ac;margin:0 auto;display:flex;align-items: center;justify-content: center;font-weight:500;}
+.value_wrap .value_item .item_content .content_text_vi .circle_text .desc{font-size: 11px;font-weight:bold;line-height: 1.56;letter-spacing: -0.9px;text-align: center;color: #555;padding-top:10px;}
+
+
 /* contact */
 .contact .tglList {border-bottom:1px solid #e0e0e0}
 .contactArea .addr{margin-bottom:20px}
