@@ -3,114 +3,38 @@
 
 	<section class="container">
 		<div class="contents">
-			<div class="visualArea company">
-				<h1 class="pageTit">우리금융그룹 금융그룹소개</h1>
-				<strong class="pageSubTit">고객과 함께 성장하겠습니다.</strong>
-
-				<p role="text" class="pageTxt">
-					1981년 정부가 출자한 한국기술개발을 모태로 한 우리금융그룹은 이제 증권, 저축은행, 자산운용, VC, PE 등 금융 전반을 아우르는 그룹으로 성장해 왔습니다.또한 미국, 중국, 태국 등 해외 시장에 적극적으로 진출하여 글로벌 네트워크를 확대하고 있습니다.
-				</p>
-				<p role="text" class="pageTxt">
-					앞으로도 우리금융그룹 금융그룹의 모든 임직원은 오직 고객의 더 큰 성공을 위해 혁신을 선도하고, 원칙을 준수하며 고객의 신뢰를 쌓아가겠습니다.
-				</p>
+			<div class="visualArea">
+				<h1 class="pageTit">About 우리금융그룹</h1>
+				<p  role="text" class="pageTxt">내일을 보는 금융, 우리금융그룹을 소개합니다.</p>
 			</div>
 
-			<div class="tabType1 tabToggle">
-				<ul>
-<%--					<li><a href="#CI1T1" aria-selected="true">연혁</a></li>--%>
-					<li class="on"><a href="#CI1T2">계열사</a></li>
-				</ul>
-			</div>
 
-			<!-- 연혁(T) -->
-			<%--<div id="CI1T1" class="tabCont" style="display:block">
-				<h2 class="hidden">연혁</h2>
-
-				<div class="companyTit mtM">우리금융그룹은<br><span class="point">꾸준히 성장해</span>왔습니다.</div>
-
-				<ol class="historyList">
-					<li>
-						<strong class="tit">1981.05</strong>
-						<p class="txt">한국기술개발주식회사 설립(우리금융그룹투자증권의 전신)</p>
-					</li>
-					<li>
-						<strong class="tit">1996.11</strong>
-						<p class="txt">코스피 상장</p>
-					</li>
-					<li>
-						<strong class="tit">1999.09</strong>
-						<p class="txt">우리금융그룹자산운용 설립</p>
-					</li>
-					<li>
-						<strong class="tit">2000.12</strong>
-						<p class="txt">DAOL Ventures 설립</p>
-					</li>
-					<li>
-						<strong class="tit">2001.12</strong>
-						<p class="txt">우리금융그룹신용정보 인수 (구.나라신용정보)</p>
-					</li>
-					<li>
-						<strong class="tit">2008.06</strong>
-						<p class="txt">우리벤처파트너스 설립</p>
-					</li>
-					<li>
-						<strong class="tit">2008.07</strong>
-						<p class="txt">DAOL Securities Thailand 설립<br>(태국현지 증권사 인수)</p>
-					</li>
-					<li>
-						<strong class="tit">2008.08</strong>
-						<p class="txt">증권업 전환 (현. 우리금융그룹투자증권)</p>
-					</li>
-					<li>
-						<strong class="tit">2012.04</strong>
-						<p class="txt">우리금융그룹프라이빗에쿼티 설립 (증권 PE부문 분리)</p>
-					</li>
-					<li>
-						<strong class="tit">2018.11</strong>
-						<p class="txt">DAOL REIT & WOORI Venture Partners Management Thailand 설립</p>
-					</li>
-					<li>
-						<strong class="tit">2019.07</strong>
-						<p class="txt">DAOL New York 설립</p>
-					</li>
-					<li>
-						<strong class="tit">2020.02</strong>
-						<p class="txt">DAOL Lend Thailand 설립</p>
-					</li>
-					<li>
-						<strong class="tit">2021.12</strong>
-						<p class="txt">우리벤처파트너스 코스닥 상장</p>
-					</li>
-					<li>
-						<strong class="tit">2021.12</strong>
-						<p class="txt">우리금융그룹저축은행 인수</p>
-					</li>
-					<li>
-						<strong class="tit">2022.03</strong>
-						<p class="txt">그룹 상호변경 (KTB → 우리금융그룹)</p>
-					</li>
-				</ol>
-			</div> --%>
-			<!-- //연혁(T) -->
 			<!-- 계열사(T) -->
-			<div id="CI1T2" class="tabCont" style="display:block">
+			<div id="CI1T2" class="tabCont about" style="display:block">
 				<h2 class="hidden">계열사</h2>
 
-				<div class="companyTit mtM">
-					고객신뢰와 주주가치를<br>극대화하는 <span class="point">책임있는 금융회사</span>
+				<div class="companyTit">
+          우리금융그룹은 고객에게 다양한 금융 서비스를 제공하고 있습니다.
 				</div>
+        <div class="logo_img"><img src="/static/mobile/kr/images/contents/img_woorigroup.png" alt=""></div>
 				<div class="affArea">
-					<div class="affImg"><img src="/static/mobile/kr/images/contents/img_affiliates_v4.jpg" alt=""></div>
+					<div class="affImg"><img src="/static/mobile/kr/images/contents/img_woorigroup_line.png" alt=""></div>
 					<ul class="affList">
-						<li><a href="#pop1" role="button">우리금융그룹 투자증권</a></li>
-						<li><a href="#pop2" role="button">우리금융그룹 자산운용</a></li>
-						<li><a href="#pop3" role="button">우리금융그룹 인베스트먼트</a></li>
-						<li><a href="#pop4" role="button">우리금융그룹 프라이에쿼터</a></li>
-						<li><a href="#pop5" role="button">우리금융그룹 Thailand</a></li>
-						<li><a href="#pop6" role="button">우리금융그룹 Ventures</a></li>
-						<li><a href="#pop7" role="button">우리금융그룹 신용정보</a></li>
-						<li><a href="#pop8" role="button">우리금융그룹 저축은행</a></li>
-						<li><a href="#pop9" role="button">우리금융그룹 New York</a></li>
+						<li><a href="#pop1" role="button">우리은행 <span>100%</span></a></li>
+						<li><a href="#pop2" role="button">우리카드 <span>100%</span></a></li>
+						<li><a href="#pop3" role="button">우리금융캐피탈 <span>100%</span></a></li>
+						<li><a href="#pop4" role="button">우리종합금융 <span>58.70%</span></a></li>
+						<li><a href="#pop5" role="button">우리자산신탁 <span>51%</span></a></li>
+						<li><a href="#pop6" role="button">우리금융저축은행 <span>100%</span></a></li>
+						<li><a href="#pop7" role="button">우리자산운용 <span>73%</span></a></li>
+						<li><a href="#pop15" role="button">우리벤처파트너스 <span>52%</span></a></li>
+						<li><a href="#pop8" role="button">우리글로벌자산운용 <span>100%</span></a></li>
+						<li><a href="#pop9" role="button">우리프라이빗에퀴티자산운용 <span>100%</span></a></li>
+						<li><a href="#pop10" role="button">우리금융에프앤아이 <span>100%</span></a></li>
+						<li><a href="#pop11" role="button">우리신용정보 <span>100%</span></a></li>
+						<li><a href="#pop12" role="button">우리펀드서비스 <span>100%</span></a></li>
+						<li><a href="#pop13" role="button">우리에프아이에스 <span>100%</span></a></li>
+						<li><a href="#pop14" role="button">우리금융경영연구소 <span>100%</span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -120,167 +44,242 @@
 
 	<!-- 계열사 레이어 팝업(L) -->
 	<div class="layerPop" id="pop1">
-		<div class="layerContainer">
-			<h2 class="layerTit">우리금융그룹투자증권</h2>
-			<div class="layerCont" tabindex="0">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">우리은행</h2>
+      <p class="layerDesc">고객에게 신뢰받는 은행</p>
+      <div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo1.png" alt="우리금융그룹 투자증권"></div>
 					<div class="contBtn">
-						<a href="https://m.ktb.co.kr/kr/MA/main.jsp" target="_blank" title="새창열기">www.daolsecurities.com</a>
-						<a href="tel:1588-3100">1588-3100</a>
+						<a href="https://www.wooribank.com" class="btn_url" target="_blank" title="새창열기">www.wooribank.com</a>
+						<a href="tel:02-2002-3000" class="btn_link">02-2002-3000</a>
 					</div>
 				</div>
-				우리금융그룹투자증권은 1981년 과학기술처가 기업의 기술개발 투자를 위해 설립한 한국기술개발을 모태로 하고 있습니다. 이후 2000년 민영화, 2008년 증권업 진출을 통해 현재는 IB(Investment Banking) 부문을 중심으로 Wholesale, Retail, FICC 등 증권업 전반에 걸쳐 다양한 사업을 영위하고 있습니다.<br><br>
-				특히 IB부문은, 부동산·SOC, 항공기, 선박, 신재생에너지 등 다양한 대체투자 분야에서 구조화 금융(Structured Finance) 시장을 선도해 온 전문가들이 대규모 프로젝트의 자금조달 및 기관투자자 대상 장기투자처 발굴을 위한 다양한 첨단 금융기법들을 제공하고 있습니다.<br><br>
-				우리금융그룹투자증권은 현재 우리금융그룹저축은행, 우리벤처파트너스, 우리금융그룹자산운용, 우리금융그룹프라이빗에쿼티, 우리금융그룹신용정보, Daol Thailand 등 우리금융그룹 주요 계열사들을 자회사로 두고 있습니다.
+        우리은행은 1899년 '자금흐름을 원활히 하여 국가 경제에 이바지한다'라는 목적으로 설립된 국내 유일의 민족 정통은행입니다. 우리나라 경제 발전과 함께 대한민국 금융의 든든한 버팀목으로 성장해 왔습니다.고객님의 큰 사랑을 바탕으로 고객과 주주, 더 나아가 우리 사회 모두가 행복한 미래를 이룰 수 있도록 금융 본연의 역할과 함께 사회적 책임을 다하는 믿음직한 은행으로 늘 함께하겠습니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
 	<div class="layerPop" id="pop2">
-		<div class="layerContainer">
-			<h2 class="layerTit">우리금융그룹저축은행</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">우리카드</h2>
+      <p class="layerDesc">고객에게 더 나은 가치를 제공하는 카드</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo2.png" alt="우리금융그룹 저축은행"></div>
 					<div class="contBtn">
-						<a href="https://m.daolsb.com/main.do" target="_blank" title="새창열기">www.daolsb.com</a>
-						<a href="tel:1544-6700">1544-6700</a>
+						<a href="https://www.wooricard.com" class="btn_url" target="_blank" title="새창열기">www.wooricard.com</a>
+						<a href="tel:1588-9955" class="btn_link">1588-9955</a>
 					</div>
 				</div>
-				우리금융그룹저축은행은 1972년 순수 국내자본 기반으로 설립된 저축은행으로 2021년 12월말 현재 총자산은 36,328억원, 2021년 영업수익은 3,136억으로 업계 상위 수준이며, BIS비율도 13.3%로 튼튼하고 건실한 저축은행입니다.<br><br>
-				2021년 우리금융그룹의 일원으로 편입됨에 따라 금융그룹 계열사로서 시너지를 제고 시키고, 디지털 부문에 대한 과감한 투자를 통해 새로운 차원의 저축은행, 디지털뱅크로의 도약을 준비하고 있습니다.
+        우리카드는 고객을 먼저 생각합니다. 고객중시를 최우선 가치로 생각하고 임직원 모두가 고객님의 곁에서 힘이 되는 동반자가 되기 위하여 최선의 노력을 다하고 있습니다.우리카드는 원칙을 통해 신뢰를 만들어갑니다. 고객님에게 매 순간 최고의 가치를 경험할 수 있도록 유용한 상품과 편리한 서비스로 고객님의 사랑에 보답하겠습니다.우리카드는 혁신을 통해 미래를 만들어갑니다. 빠르게 변화하는 디지털 환경에 신속하게 대응하고 고객님에게 새롭고 차별화된 혜택을 제공하는 금융회사로 성장해 나갈 것을 약속 드립니다.우리카드는 고객님의 생활 전반에 더 나은 가치를 제공하는 카드사로 늘 고객님과 함께해 나갈 것 입니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
 	<div class="layerPop" id="pop3">
-		<div class="layerContainer">
-			<h2 class="layerTit">우리벤처파트너스</h2>
+		<div class="layerContainer aboutLayer">
+      <h2 class="layerTit">우리금융캐피탈</h2>
+      <p class="layerDesc">최고의 금융서비스를 제공하는 여신전문금융회사</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo3.png" alt="우리금융그룹 인베스트먼트"></div>
 					<div class="contBtn">
-						<a href="http://www.daolinvestment.com" target="_blank" title="새창열기">http://www.daolinvestment.com</a>
-						<a href="tel:031-628-6400">031-628-6400</a>
+						<a href="http://www.woorifcapital.com" class="btn_url" target="_blank" title="새창열기">www.woorifcapital.com</a>
+						<a href="tel:1544-8600" class="btn_link">1544-8600</a>
 					</div>
 				</div>
-				국내 최고 수준의 업력 및 투자경험을 보유한 한국을 대표하는 벤처캐피탈입니다. ‘21년말 현재 보유 중인 운용자산(AUM)은 약 11,745억원*이며, 작년 한해 신규로 결성된 펀드 규모는 약정액 기준 약 550억원입니다.<br><br>
-				‘00년 국내 VC중 최초로 중국시장에 진출, 9년 연속 중국 내 Top VC 50위 안에 선정되는 등 First Mover로서 성공적인 운용성과를 시현하고 있으며, 미주, 중국, 일본, 동남아시아 등 다양한 글로벌 투자 Track record 및 네트워크를 확보하고 있습니다.
-				<br><br>
-				<p class="info">2022년 12월말 기준, PEF 포함</p>
+        1994년 설립한 여신전문금융회사로 2020년 우리금융에 편입되었으며, 보다 나은 고객의 삶을 위하여 자동차금융, 개인금융, 기업금융 등 다양한 금융서비스를 제공하고 있습니다. 전임직원은 끊임없는 혁신과 업계 최고의 리스크관리 역량에 기반하여 양질의 금융서비스를 제공하기 위해 최선의 노력을 다하고 있습니다. 앞으로도 우리금융캐피탈은 지속성장으로 고객, 사회의 믿음에 보답하겠습니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
 	<div class="layerPop" id="pop4">
-		<div class="layerContainer">
-			<h2 class="layerTit">우리금융그룹자산운용</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">우리종합금융</h2>
+      <p class="layerDesc">종합금융서비스를 제공하는 최일류 투자은행</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo4.png" alt="우리금융그룹 자산운용"></div>
 					<div class="contBtn">
-						<a href="http://www.i-ktb.com" target="_blank" title="새창열기">www.daolfund.com</a>
-						<a href="tel:02-788-8400">02-788-8400</a>
+						<a href="http://www.woorifcapital.com" class="btn_url" target="_blank" title="새창열기">www.woorifcapital.com</a>
+						<a href="tel:02-2000-6600" class="btn_link">02-2000-6600</a>
 					</div>
 				</div>
-				'99년 설립되어 20여년간 지속 성장하고 있는 국내 대표 종합자산운용사로 '21년말 기준 총 운용자산(AUM)은 14.8조원* 에 달하고 있습니다. 특히, 2016년 멀티에셋본부, 대체투자부문 신설을 통해 신규 비즈니스에서 두각을 나타내고 있습니다. 1등주 펀드(4차산업/중국/ESG), 멀티에셋인컴EMP, 블록딜하이일드펀드 등 다수의 HIT 공모펀드를 출시 및 운용하여 시장의 선도적인 역할을 수행하고 있으며, NPL/자산배분형 등 중위험∙중수익 상품 출시를 지속 확대하고 있습니다.<br><br>
-				대체투자부문 역시 다양한 투자자산과 투자지역 확대에 주력하여 국내외 부동산을 넘어 항공기, 선박, 인프라 등 풀 라인업을 갖추는데 성공하였으며, ‘21년말 기준 5.8조원 규모의 대체투자자산을 운용하고 있습니다.
-				<br><br>
-				<p class="info">2021년말 기준, 금융투자협회</p>
+        우리금융지주의 자회사인 우리종합금융은 국내 유일의 종합금융회사입니다.우리종합금융은 종합금융회사의 다양한 라이선스와 우리금융그룹의 신인도 및 네트워크를 활용한 업그레이드된 상품과 서비스로 고객님의 행복한 자산관리 파트너 역할을 수행하겠습니다. 더불어 고객님의 풍요로운 미래를 향해가는 동반자로 자리매김하기 위해 최선을 다할 것을 약속드립니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
 	<div class="layerPop" id="pop5">
-		<div class="layerContainer">
-			<h2 class="layerTit">우리금융그룹프라이빗에쿼티</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">우리자산신탁</h2>
+      <p class="layerDesc">종합부동산금융 One-Stop Service 제공을 통한
+        고객가치 실현 및 Leading 신탁사로의 도약!</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo5.png" alt="우리금융그룹 프라이빗 에쿼티"></div>
 					<div class="contBtn">
-						<a href="http://daolpe.com/" target="_blank" title="새창열기">www.daolpe.com</a>
-						<a href="tel:02-2184-4100">02-2184-4100</a>
+						<a href="http://www.wooriat.com" class="btn_url" target="_blank" title="새창열기">www.wooriat.com</a>
+						<a href="tel:www.wooriat.com" class="btn_link">www.wooriat.com</a>
 					</div>
 				</div>
-				‘12년 우리금융그룹투자증권 PE 부문을 분사하여 설립된 누적운용자산 2조원 규모의 사모투자펀드 운용사입니다.<br><br>
-				기업의 경영환경 개선을 통한 가치 제고 및 Buy-out 중심의 투자철학을 바탕으로 다양한 산업분야에서 투자성과를 거두었으며, 주요 포트폴리오로는 전진중공업, 동부익스프레스, JW중외제약, LIG넥스원, 네이처리퍼블릭, 리노스, 톱텍 등이 있습니다.
+        우리자산신탁은 2007년 11월 신탁업 인가를 받은 이후 금융과 부동산을 융합한 서비스를 제공하는 부동산사업의 든든한 파트너로서의 위상을 지켜왔습니다. 우리금융그룹의 국내외 네트워크와 차별화된 디지털 경쟁력을 활용하여 종합부동산금융 시너지를 창출하고, 고객이 꿈꾸는 부동산 수익의 모든 것을 실현하는 Leading 부동산신탁사로 도약하겠습니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
 	<div class="layerPop" id="pop6">
-		<div class="layerContainer">
-			<h2 class="layerTit">우리금융그룹신용정보</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">우리금융저축은행</h2>
+      <p class="layerDesc">고객과 함께하는 NO.1 저축은행</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo6.png" alt="우리금융그룹 신용정보"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbcredit.com/" target="_blank" title="새창열기">www.daolcredit.com</a>
-						<a href="tel:02-721-6900">02-721-6900</a>
+						<a href="http://www.woorisavingsbank.com" class="btn_url" target="_blank" title="새창열기">www.woorisavingsbank.com</a>
+						<a href="tel:1599-0038" class="btn_link">1599-0038</a>
 					</div>
 				</div>
-				‘99년 나라신용정보로 출발한 우리금융그룹신용정보는 ‘01년 우리금융그룹투자증권의 계열사로 편입되었습니다.<br><br>
-				채권추심, 신용조사, 민원서류발급대행, 부동산관리업무 등을 수행하는 회사로서, 20년간 예금보험공사의 채권추심 담당사로 선정될 만큼 전문성을 보유하고 있습니다.<br><br>
-				<p class="info">예금보험공사 채권 수임기간 : ‘01년 ~ ‘22년 3월 현재</p>
+        2020년 우리금융그룹의 한가족이 된 우리금융저축은행은 1972년 설립 이후 서민과 중소기업의 든든한 동반자로서 역할을 수행하였습니다. 고객에게 신뢰받고, 사랑받는 중소서민금융기관이 되는 것을 목표로 전문역량과 미래를 향한 혁신을 통해 더 나은 가치를 제공할 수 있도록 항상 노력하고 있습니다 고객의 신뢰와 전문 금융역량을 바탕으로 고객과 함께 고민하고 내일의 가치를 만들어나가는 저축은행이 되겠습니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
 	<div class="layerPop" id="pop7">
-		<div class="layerContainer">
-			<h2 class="layerTit">DAOL Thailand</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">우리자산운용</h2>
+      <p class="layerDesc">고객의 수익을 최우선으로 하는든든한 운용</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo7.png" alt="DAOL Thailand"></div>
 					<div class="contBtn">
-						<a href="https://www.ktbst.co.th/" target="_blank" title="새창열기">www.daol.co.th</a>
-						<a href="tel:+66-02-648-1111">+66-02-648-1111</a>
+						<a href="https://www.wooriam.kr" class="btn_url" target="_blank" title="새창열기">www.wooriam.kr</a>
+						<a href="tel:02-2118-0500" class="btn_link">02-2118-0500</a>
 					</div>
 				</div>
-				‘08년 8월 우리금융그룹투자증권이 인수한 태국 현지 증권사입니다.<br><br>
-				현지 경영진 영입 이후 고객 자산관리를 위한 WM본부, ECM, DCM 업무수행을 위한 IB 본부 등 관련 조직을 확대하여 종합증권사로서의 위상을 제고하고 있습니다.<br><br>
-				또한, '19년말 지주회사 체제로 전환하여 증권사, 자산운용사, REIT운용사, 여신전문회사를 거느린 태국 내 유일한 한국계 금융투자회사로 성장하고 있습니다.
+        우리자산운용은 대한민국을 대표하는 우리금융그룹의 자회사로, 2000년 설립된 전통의 자산운용 명가입니다. 국내 최고의 채권 운용역량을 국내 주식, 글로벌 운용으로 확대하여 3대 축의 균형 잡힌 종합자산운용사로의 도약을 준비하고 있습니다. 우리금융그룹의 시너지와 네트워크를 기반으로 고객 수익을 최우선에 두고 성심성의껏 운용해 나가겠습니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 
 	<div class="layerPop" id="pop8">
-		<div class="layerContainer">
-			<h2 class="layerTit">DAOL Ventures</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">우리글로벌자산운용</h2>
+      <p class="layerDesc">대체투자 및 해외투자의 중심이 되는
+        종합자산운용사</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo8.png" alt="DAOL Ventures"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbvc.com/" target="_blank" title="새창열기">www.daolventures.com</a>
-						<a href="tel:+1-650-324-4681">+1-650-324-4681</a>
+						<a href="http://www.wooriglobalam.com" class="btn_url" target="_blank" title="새창열기">www.wooriglobalam.com</a>
+						<a href="tel:02-2071-9900" class="btn_link">02-2071-9900</a>
 					</div>
 				</div>
-				‘88년 6월 미국 실리콘 밸리의 심장부인 California Palo Alto에 설립된 우리금융그룹의 첫 번째 해외 네트워크입니다.<br><br>
-				1,200억원 규모의 미국 투자 레코드를 보유하고 있으며, 최근 계열사인 우리벤처파트너스의 자회사로 지배구조를 변경하여 본격적으로 미국, 캐나다 등 북미지역 투자 부문에서 협업을 진행하고 있습니다.
+        우리글로벌자산운용은 인프라자산, 신재생에너지, 환경, 부동산, 기업 인수금융 뿐만 아니라 사모대출 등 다양한 국내외 대체투자 중심으로 성장하고 있는 우리금융그룹을 대표하는 대체투자 전문가 집단입니다. 또한 해외 재간접투자에 있어서도 대한민국을 대표하는 자산운용사이며, 전통적으로 채권 및 주식 등에서도 발군의 운용성과를 시현하고 있습니다. 앞으로 우리금융그룹을 넘어 우리나라의 대표적인 대체투자 및 해외투자 분야의 중심이 되는 종합자산운용사가 되기 위해 최선을 다할 것입니다.
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<div class="layerPop" id="pop9">
-		<div class="layerContainer">
-			<h2 class="layerTit">DAOL New York</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">우리프라이빗에퀴티자산운용</h2>
+      <p class="layerDesc">선진금융을 선도하는
+        경쟁력 있는 PE 운용사</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/kr/images/contents/logo9.png" alt="우리금융그룹 신용정보"></div>
+          <div class="contBtn">
+            <a href="http://www.wooripe.com" class="btn_url" target="_blank" title="새창열기">www.wooripe.com</a>
+            <a href="tel:02-6949-2801" class="btn_link">02-6949-2801</a>
+          </div>
 				</div>
-				’19년 설립된 DAOL New York은 미국현지 법인으로, 우리금융그룹그룹의 해외 대체투자를 이끌어갈 글로벌 중심 거점입니다. 현재 우리금융그룹자산운용과 협업을 통해 해외 물류 REITs 출시를 준비 중에 있습니다.
+        우리PE는 중소/중견 기업에 대한 Growth Capital 투자부터 대기업과의 협업을 통한 투자 및 Buyout에 이르기까지 다양한 투자전략을 구사합니다. 또한 보통주 투자뿐 아니라, 시장 상황별 유연한 대응이 가능한 Mezzanine, 구조화 Deal 위주의 투자 실행으로 안정적인 수익을 추구합니다.국내 사모펀드 시장에서 대한민국을 대표하는 사모펀드운용사를 육성하고자 2005년 10월 설립되었으며, 2016년 7월 일반사모집합투자업 등록을 통해 기존의 기관전용 사모펀드 운용 업무 외에 일반사모펀드 운용업무로 사업영역을 확대하였습니다."
 			</div>
 		</div>
 		<button type="button" class="layerClose">닫기</button>
 	</div>
-
+  <div class="layerPop" id="pop10">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">우리금융에프앤아이</h2>
+      <p class="layerDesc">국내 NPL시장을 선도할 투자 전문회사</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.woorifni.co.kr" class="btn_url" target="_blank" title="새창열기">www.woorifni.co.kr</a>
+            <a href="tel:02-739-1389" class="btn_link">02-739-1389</a>
+          </div>
+        </div>
+        우리금융F&I는 NPL(부실채권) 및 기업구조조정 투자 전문회사입니다. 2022년 출범 첫해 성공적으로 시장에 안착하였으며, 향후 NPL 투자 확대 및 기업구조조정 투자까지 사업 영역을 지속적으로 확장해 나갈 계획입니다. 앞으로도 우수한 투자 인력과 전문성을 바탕으로 국내 NPL 및 기업구조조정 투자 시장을 선도하는 회사로 성장해 나가겠습니다.
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <div class="layerPop" id="pop11">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">우리신용정보</h2>
+      <p class="layerDesc">신용사회 구현을 위한 최고의 동반자</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.wooricredit.com" class="btn_url" target="_blank" title="새창열기">www.wooricredit.com</a>
+            <a href="tel:02-2262-5800" class="btn_link">02-2262-5800</a>
+          </div>
+        </div>
+        우리신용정보는 1991년 설립된 국내 최초의 신용정보사로서 오랜 역사와 노하우를 바탕으로 채권추심, 신용조사, 자산관리 시장을 선도하고 있으며, 기업신용평가 A+등급으로 고객과 주주에게 믿음을 주는 회사입니다. 더불어 사회복지, 환경보호 등 다양한 분야의 사회공헌활동에도 앞장서는 포용적 회사입니다.우리신용정보는 앞으로도 채권자에게는 든든한 금융파트너로, 채무자에게는 신용회복을 위한 행복파트너로서 징검다리 역할을 수행하며 신용사회 구현을 이룩하는 1등 신용정보사로 성장해 나갈 것을 약속드립니다.
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <div class="layerPop" id="pop12">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">우리펀드서비스</h2>
+      <p class="layerDesc">최상의 시스템과 서비스로
+        일반사무관리업계의 Leading Company 도약!</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.woorifs.co.kr" class="btn_url" target="_blank" title="새창열기">www.woorifs.co.kr</a>
+            <a href="tel:02-3151-3510" class="btn_link">02-3151-3510</a>
+          </div>
+        </div>
+        우리펀드서비스는 집합투자기구의 펀드회계처리 및 기준가격 산출, 부동산 투자회사의 다양한 일반사무관리를 제공하는 회사입니다.또한, 국내 최초로 「디지털자산기업회계솔루션『DABAS』시스템」, 「디지털자산 전자공시 플랫폼」을 개발하는 등 디지털자산 사무관리시장에 진출하여 변화하는 금융시장을 선도하고 있습니다.우리펀드서비스는 대한민국 대표 사무관리회사로 도약하기 위해 지속적인 시스템 개발 및 인재육성을 위하여 노력하고 끊임없이 혁신하고 연구해 나가겠습니다.
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <div class="layerPop" id="pop13">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">우리에프아이에스</h2>
+      <p class="layerDesc">디지털 트랜스포메이션을 선도하는
+        글로벌 금융 ICT파트너</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.woorifis.com" class="btn_url" target="_blank" title="새창열기">www.woorifis.com</a>
+            <a href="tel:02-3151-7000" class="btn_link">02-3151-7000</a>
+          </div>
+        </div>
+        우리에프아이에스는 ‘은행’, ’신용카드’, ’증권’, ‘보험’등 금융업종 전반에 전문 지식과 수많은 프로젝트 수행 경험, 전략개발부터 실행까지의 One-Stop 서비스 제공 능력을 갖춘 종합금융 ICT서비스 회사 입니다.국내 최초로 개발부터 IT인프라 운영에 이르는 토탈 IT아웃소싱 모델을 성공적으로 구현하고 ‘개발’, ‘운영’, ’보안’의 3대 국제품질인증을 획득함으로써 국제적 수준의 ICT 관리체계를 인정받았습니다. 이를 기반으로 미국, 중국 등 300여 개 해외법인과 국외지점에 안정적인 글로벌 서비스를 지원하고 있으며, 우리금융그룹의 디지털 트랜스포메이션에 주도적인 역할을 수행하여 고객 비즈니스 가치의 혁신을 선도하고 있습니다.
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <div class="layerPop" id="pop14">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">우리금융경영연구소</h2>
+      <p class="layerDesc">우리금융그룹의 Insight Provider,
+        한국금융산업의 Opinion Leader,
+        나아가 글로벌 금융산업을 선도하는 Think Tank!</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.wfri.re.kr" class="btn_url" target="_blank" title="새창열기">www.wfri.re.kr</a>
+            <a href="tel:02-2173-0500" class="btn_link">02-2173-0500</a>
+          </div>
+        </div>
+        우리금융경영연구소는 그룹의 씽크탱크로서 경영진의 의사결정을 효과적으로 지원하고 계열사 성장전략 등에 대한 컨설팅 기능 수행으로 그룹산업포트폴리오 전반의 균형적인 발전을 도모하고 있습니다. 또한 연구 성과를 다양한 형태의 보고서 발간 및 세미나, 언론보도 등을 통해 공유하는 오피니언 리더로서의 역할을 수행함으로써 국내외 금융산업을 선도하는 전문 연구기관으로 자리매김하고 있습니다.
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
 	<div class="dimmed"></div>
 	<!-- //계열사 레이어 팝업(L) -->
