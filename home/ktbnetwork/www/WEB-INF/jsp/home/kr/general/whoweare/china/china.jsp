@@ -4,7 +4,7 @@
 
 <section id="container" class="container">
 			<nav class="nav">
-				<ol class="navArea"><li>HOME</li><li>WHO WE ARE</li></ol>
+				<ol class="navArea"><li>HOME</li><li>Who We Are</li></ol>
 			</nav>
 			<div class="content">
 				<div class="visualArea">
