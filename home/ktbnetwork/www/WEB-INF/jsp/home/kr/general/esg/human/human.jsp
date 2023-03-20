@@ -25,7 +25,7 @@
           <h3>ESG 인권원칙</h3>
           <p>우리금융그룹은 임직원 및 고객을 비롯한 주주, 투자자, 협력업체, 지역사회 등모든 이해관계자들과의 상생을 통한 지속가능경영을 추구하며, 그들의 권익 보호를 위하여 최선을 다한다.<br />
             <br />
-            아울러 UN의 '세계인권선언(UN Universal Declaration of Human Rights)' 및'UN 기업과 인권 이행 지침(UN Guiding Principles on Business and Human Rights)','OECD 다국적기업 가이드라인(OECD Guidelines for Multinational Enterprises)' 등인권에 관한 국제기준을 존중하고 지지하며, 아래와 같이 인권 원칙을 제정함으로써 국제 사회의 노력에 동참한다.</p>
+            아울러 UN의 '세계인권선언(UN Universal Declaration of Human Rights)' 및 'UN 기업과 인권 이행 지침(UN Guiding Principles on Business and Human Rights)', 'OECD 다국적기업 가이드라인(OECD Guidelines for Multinational Enterprises)' 등 인권에 관한 국제기준을 존중하고 지지하며, 아래와 같이 인권 원칙을 제정함으로써 국제 사회의 노력에 동참한다.</p>
         </div>
         <div class="terms_content">
           <h4>제1조(기본정책) 우리금융그룹은 기업활동으로 영향을 받는 모든 이해관계자들의 인권을 존중하고, 본 인권 원칙을 성실하게 이행한다.</h4>
