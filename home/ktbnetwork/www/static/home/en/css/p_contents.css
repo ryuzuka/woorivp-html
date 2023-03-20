@@ -112,7 +112,7 @@
 .memberList .thumb strong{display:block;margin-bottom:2px;font-size:20px;font-weight:600}
 .memberList .thumb strong span{display:block;font-size:15px;font-weight:400}
 .memberList .thumb .img{position:relative;display:block;width:204px;margin-bottom:8px}
-.memberList .active .thumb .img:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;border:2px solid #2c2c92}
+.memberList .active .thumb .img:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;border:2px solid #0067AC}
 .memberList .thumb:hover strong{color:#2c2c92}
 .memberList .ctrl{position:absolute;top:385px;right:0;width:53px;height:53px;overflow:hidden;text-indent:-9999px;background:url(../images/contents/btn_team_ctrl.png) 0 0 no-repeat}
 .memberList .ctrl.prev{right:51px}
