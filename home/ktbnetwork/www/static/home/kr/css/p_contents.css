@@ -120,7 +120,7 @@
 .memberList .ctrl:disabled{opacity:0.5}
 .memberWrap:after, .memberInner:after{content:'';display:block;clear:both}
 .memberWrap .memberInner{float:left;width:450px}
-.memberInner .title{position:relative;float:left;width:130px;height:130px;margin-right:10px;padding:20px;color:#fff;font-size:15px;font-weight:500;background:#25283d /*url(../images/contents/bg_triangle_member.png) 100% 100% no-repeat*/}
+.memberInner .title{position:relative;float:left;width:130px;height:130px;margin-right:10px;padding:20px;color:#fff;font-size:15px;font-weight:500;background:#25283d /*url(../images/contents/bg_triangle_member.png) 100% 100% no-repeat*/;letter-spacing: -1px;}
 .memberInner .title:after{content:'';display:block;width:90px;height:1px;margin-top:14px;background:#fff}
 .memberInner ul{float:left;width:900px}
 .memberWrap .memberInner ul{width:300px}
@@ -202,6 +202,7 @@ dl.noticeBox .tblV tbody th{vertical-align:middle}
 
 /* About KTB Group */
 .aboutGroup .subTxt{margin-top:17px;text-align:center}
+.aboutGroup .txtCopy{font-weight:500;}
 .aboutGroup .subsidiary .imgArea img{width:100%}
 .aboutGroup .subsidiary .list{margin-top:60px}
 .aboutGroup .subsidiary .list li:first-child{border-top:1px solid #dedede}

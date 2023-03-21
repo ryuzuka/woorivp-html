@@ -16,7 +16,8 @@
 				<div class="inner">
 					<h2 class="hidden">About WOORI Financial Group</h2>
 					<div class="aboutGroup">
-						<p class="txtCopy">Growing with our Clients</p>
+						<p class="txtCopy">Woori Financial Group offer<br />
+              a variety of financial services to customers.</p>
 <%--						<p class="subTxt">--%>
 <%--							Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing--%>
 <%--							<br>in technology-related investment opportunities, WOORI Financial Group has since grown into a comprehensive financial--%>
@@ -29,7 +30,7 @@
 						<div class="tabCont  on">
 							<h3 class="hidden">Subsidiaries</h3>
 							<div class="subsidiary">
-								<div class="imgArea"><img src="/static/home/en/images/contents/img_affiliates_eng_v2.jpg" alt="WOORI Financial Group Subsidiaries"></div>
+								<div class="imgArea"><img src="/static/home/en/images/contents/img_woorigroup.png" alt="WOORI Financial Group Subsidiaries"></div>
 								<ul class="list">
 									<li>
                     <div class="subsidiaryName">
