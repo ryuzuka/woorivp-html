@@ -49,7 +49,9 @@
 							<li class="toggle">
 								<a href="#" class="togBar">Singapore</a>
 								<div class="togCon">
-									111 SOMERSET SINGAPORE 238164
+									1 Raffles Quay<br>
+									#09-02 North Tower<br>
+									Singapore 048583
 								</div>
 							</li>
 						</ul>
