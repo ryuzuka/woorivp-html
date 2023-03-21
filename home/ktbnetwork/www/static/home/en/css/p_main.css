@@ -82,9 +82,9 @@
 .section3 .conArea li{position:relative;padding:25px 0 30px 80px}
 .section3 .conArea li+li{border-top:1px solid #e7e7e7}
 .section3 .conArea li strong{display:block;margin-bottom:5px;font-size:20px}
-.section3 .conArea li:before{content:'';display:block;position:absolute;left:0;top:35px;width:50px;height:50px;;;background:url(../images/main/bg_philosophy.png) no-repeat 0 0}
-.section3 .conArea li+li:before{background-position:0 -50px}
-.section3 .conArea li+li+li:before{background-position:0 -100px}
+.section3 .conArea li:before{content:'';display:block;position:absolute;left:0;top:35px;width:62px;height:60px;background:url(../images/contents/bg_philosophy01.png) no-repeat 0 0}
+.section3 .conArea li+li:before{background:url(../images/contents/bg_philosophy02.png) no-repeat 0 0}
+.section3 .conArea li+li+li:before{background:url(../images/contents/bg_philosophy03.png) no-repeat 0 0}
 .moreBtn{position:absolute;top:3px;right:0;font-size:14px;line-height:22px;color:#2c2c92;padding-left:20px}
 .moreBtn:before{display:block;content:'';position:absolute;top:50%;left:0;width:10px;height:10px;margin-top:-5px;-webkit-margin-before:-6px;background:url(../images/main/bg_btn_more.png) 0 -10px no-repeat}
 
