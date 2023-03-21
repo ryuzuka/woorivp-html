@@ -21,13 +21,13 @@
 					<img src="/static/mobile/en/images/contents/img_introcon_txt.png" alt="Compliance Active Value Creation Alignment of Interest">
 					<ul class="introCon">
 						<li class="check01">
-							<strong>Active Value Creation</strong>We support our portfolio companies through value-creating activities to achieve sustainable growth, the companies’ success and attaining returns
+							<strong>Alignment of Interest</strong>We align our partners towards a common goal.
 						</li>
 						<li class="check02">
-							<strong>Compliance</strong>We actively maintain our compliance system to control operational risk and prevent moral hazard
+							<strong>Active Value Creation</strong>We support our portfolio companies through value-creating activities to achieve sustainable growth, the companies’ success and attaining returns
 						</li>
 						<li class="check03">
-							<strong>Alignment of Interest</strong>We align our partners towards a common goal.
+							<strong>Compliance</strong>We actively maintain our compliance system to control operational risk and prevent moral hazard
 						</li>
 					</ul>
 					<h3 class="titDep2">STAGES</h3>

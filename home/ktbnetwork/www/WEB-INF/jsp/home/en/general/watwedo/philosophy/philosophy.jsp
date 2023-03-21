@@ -26,9 +26,9 @@
 						<div class="imgArea"><img src="/static/home/en/images/main/img_goal.png" alt="Compliance, Active Value Creation, Alignment of Interest"></div>
 						<div class="conArea">
 							<ul>
+								<li><strong>Alignment of Interest</strong>We align our partners towards a common goal</li>
 								<li><strong>Active Value Creation</strong>We support our portfolio companies through value-creating activities to achieve sustainable growth, the companies’ success and attaining returns</li>
 								<li><strong>Compliance</strong>We actively maintain our compliance system to control operational risk and prevent moral hazard</li>
-								<li><strong>Alignment of Interest</strong>We align our partners towards a common goal</li>
 							</ul>
 						</div>
 					</div>
