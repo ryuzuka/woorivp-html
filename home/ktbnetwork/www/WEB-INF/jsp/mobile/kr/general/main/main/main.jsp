@@ -470,7 +470,7 @@
 			<h2 class="layerTit">작성기준</h2>
 			<div class="layerCont" tabindex="0">
 				<ul class="listDep2">
-          <li>2021.12.31 현재</li>
+          <li>2022.12.31 현재</li>
           <li>VC부문 물적분할(2008년) 이후 결성펀드 기준</li>
         </ul>
       </div>
