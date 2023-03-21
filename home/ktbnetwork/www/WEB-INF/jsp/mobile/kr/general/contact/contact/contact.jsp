@@ -71,7 +71,11 @@
 						<a href="#" role="button">Singapore</a>
 						<div class="tglCont">
 							<div class="contactArea">
-								<p class="addr">111 SOMERSET SINGAPORE 238164</p>
+								<p class="addr">
+									1 Raffles Quay<br>
+									#09-02 North Tower<br>
+									Singapore 048583
+								</p>
 								<div class="map"></div>
 								<ul class="info">
 									<!-- <li>
