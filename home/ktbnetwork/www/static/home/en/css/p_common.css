@@ -324,7 +324,7 @@ button.swiper-button-disabled{display:none}
 .tglList{width:370px;box-shadow:10px 10px 20px rgba(0,0,0,0.15)}
 .tglList .toggle .togBar{display:block;padding:45px 50px;font-size:18px;font-weight:600;background:#fff}
 .tglList .toggle+.toggle .togBar{border-top:1px solid #e7e7e7}
-.tglList .toggle .togCon{display:none;padding:0 50px 65px 50px;color:#fff;background:#0067AC;line-height:25px}
-.tglList .toggle.on .togBar{padding:55px 50px 17px;background:#0067AC;font-size:22px;color:#ffe6bc}
-.tglList .toggle.on .togBar:after{content:'';display:inline-block;width:6px;height:8px;margin:-4px 0 0 10px;background:url(../images/contents/bg_tog_map.png) no-repeat 0 0;vertical-align:middle}
+.tglList .toggle .togCon{display:none;padding:0 50px 65px 50px;color:#fff;background:#253a71;line-height:25px}
+.tglList .toggle.on .togBar{padding:55px 50px 17px;background:#253a71;font-size:22px;color:#9ba5d0}
+.tglList .toggle.on .togBar:after{content:'';display:inline-block;width:6px;height:8px;margin:-4px 0 0 10px;background:url(../images/contents/bg_tog_map.png) no-repeat 0 0 / 6px 8px;vertical-align:middle}
 .tglList .toggle.on .togCon{display:block}

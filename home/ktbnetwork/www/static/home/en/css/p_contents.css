@@ -210,8 +210,8 @@ dl.noticeBox .tblV tbody th{vertical-align:middle}
 .mapArea .tglWrap{position:absolute;top:115px;left:50%;margin-left:-600px}
 .mapArea .link{padding-top:6px}
 .mapArea .link p{margin:10px 0 0;color:#c6c6ca}
-.mapArea .link p:before{width:18px;height:17px;margin-right:11px;background-image:url(../images/contents/ico_phonmailfax.png)}
-.mapArea .link p.tel:before{background-position:0 0}
+.mapArea .link p:before{width:18px;height:17px;margin-right:11px;background-image:url(../images/contents/ico_phonmailfax.png);}
+.mapArea .link p.tel:before{background-image:url(../images/contents/icon_contact_tel.png);background-size: 18px 17px;background-position:0 0}
 .mapArea .link p.mail:before{background-position:-18px 0}
 .mapArea .link p.fax:before{background-position:-36px 0}
 
