@@ -11,7 +11,7 @@
         <div class="value_wrap">
           <%--        <p class="sub_text">우리금융그룹은 대내외 환경 변화에 따른 가치를 반영하고 지주사 출범과 함께 임직원 소속감과 일체감을 제고할 수 있는 그룹 가치체계 재정립 및 가이드 수립이 필요하였다. 이를 위하여 약 4개월간 내부 임직원 및 그룹 브랜드 강화 TFT의 적극적인 의견수렴 활동을 함께 진행하였고, 모든 임직원들의 논의 하에 Bottom-up 방식의 가치체계를 아래와 같이 개발할 수 있었다.</p>--%>
           <div class="value_item">
-            <p class="item_title">VISON</p>
+            <p class="item_title">VISION</p>
             <div class="item_content">
               <div class="point_line"></div>
               <div class="content_box">
