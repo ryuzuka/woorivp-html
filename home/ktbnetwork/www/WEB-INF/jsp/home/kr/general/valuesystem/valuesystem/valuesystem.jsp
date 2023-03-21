@@ -2,7 +2,7 @@
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
 <section id="container" class="container">
   <nav class="nav">
-    <ol class="navArea"><li>HOME</li><li>Stewardship Code</li></ol>
+    <ol class="navArea"><li>HOME</li><li>우리금융그룹 가치체계</li></ol>
   </nav>
   <div class="content">
     <div class="visualArea">
