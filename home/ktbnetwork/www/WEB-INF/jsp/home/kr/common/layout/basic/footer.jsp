@@ -35,7 +35,7 @@
 						</select>
 					</span>
 				</div>
-				<div class="logo"><img src="/static/home/kr/images/common/logo_footer.png" alt="DAOL 우리벤처파트너스"></div>
+				<div class="logo"><img src="/static/home/kr/images/common/logo_footer.png" alt="우리벤처파트너스"></div>
 			</div>
 			<c:if test="${requestScope['javax.servlet.forward.servlet_path'] != '/home/contact/contact.do'}">
 				<div class="pageTop fixed"><!-- 고정 fixed --><!-- 메인에서만 기본으로 fixed class가 들어가있고 footer 영역까지 스크롤 되는 경우 fixed 삭제 -->
