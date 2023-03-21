@@ -244,7 +244,7 @@ p.titDep2 strong{font-weight:600}
 .tblH thead th,.tblH tfoot th{padding:14px 20px;border:solid #dedede;border-width:0 0 1px 1px}
 .tblH thead th{background:#f8f8f8;color:#333}
 .tblH tbody th, .tblH tfoot th{padding:14px 20px;color:#333}
-.tblH tr th:first-child,.tblH tbody tr td:first-child{border-left:0}
+.tblH tr th:first-child,.tblH tbody tr td:first-child{border-left:0;letter-spacing: -1.3px;}
 .tblH tbody td, .tblH tfoot td{text-align:center;padding:14px 10px;color:#333;border:solid #dedede;border-width:0 0 1px 1px}
 .tblH tbody th{border:solid #dedede;border-width:0 0 1px 1px}
 .tblH tfoot th, .tblH tfoot td,.tblH .tfoot{background:#fff6e8;color:#2c2d93;font-weight:500}

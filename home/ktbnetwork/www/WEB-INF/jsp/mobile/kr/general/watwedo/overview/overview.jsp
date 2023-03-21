@@ -35,7 +35,7 @@
 					</ul>
 
 					<h3 class="titDep2">연도별 운용펀드 자산규모 증감현황</h3>
-					<div class="graphImg"><img src="/static/mobile/kr/images/contents/img_graph_210215_mo.png" alt=""></div>
+					<div class="graphImg"><img src="/static/mobile/kr/images/contents/img_graph_230321_mo.png" alt=""></div>
 					<table class="tblH">
 						<caption>연도별 운용펀드 자산규모 증감현황</caption>
 						<colgroup><col style="width:50%" span="2"></colgroup>
@@ -89,6 +89,10 @@
 							<tr>
 								<th scope="row" id="tb-0-13">2021</th>
 								<td headers="tb-0-0 tb-0-1 tb-0-13">11,745</td>
+							</tr>
+              <tr>
+								<th scope="row" id="tb-0-14">2022</th>
+								<td headers="tb-0-0 tb-0-1 tb-0-14">14,593</td>
 							</tr>
 						</tbody>
 					</table>

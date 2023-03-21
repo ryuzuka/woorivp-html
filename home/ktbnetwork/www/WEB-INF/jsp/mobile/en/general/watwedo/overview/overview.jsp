@@ -65,7 +65,7 @@
 					</ul>
 
 					<h3 class="titDep2">Year-on-year changes in AUM</h3>
-					<div class="graphImg"><img src="/static/mobile/en/images/contents/img_graph_210215_mo_EN.png" alt=""></div>
+					<div class="graphImg"><img src="/static/mobile/en/images/contents/img_graph_230321_mo_EN.png" alt=""></div>
 					<table class="tblH">
 						<caption>Year-on-year changes in AUM</caption>
 						<colgroup><col style="width:50%" span="2"></colgroup>
@@ -120,8 +120,12 @@
 							</tr>
 							<tr>
 								<th scope="row" id="tb-0-13">2021</th>
-								<td headers="tb-0-0 tb-0-1 tb-0-12">990</td>
+								<td headers="tb-0-0 tb-0-1 tb-0-13">990</td>
 							</tr>
+              <tr>
+                <th scope="row" id="tb-0-14">2022</th>
+                <td headers="tb-0-0 tb-0-1 tb-0-14">1,152</td>
+              </tr>
 						</tbody>
 					</table>
 				</div>
