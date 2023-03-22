@@ -47,7 +47,7 @@
 									<li class="noMonth">
 										<p class="txt">
 											Inclusion of a subsidiary into Woori Financial Group<br>
-											Change name to WOORI(Daol Investment -> Woori Venture Partners)
+											Change name to WOORI ( Daol Investment -> Woori Venture Partners )
 										</p>
 									</li>
 								</ol>
@@ -56,7 +56,7 @@
 								<strong class="num">2022</strong>
 								<ol class="list">
 									<li class="noMonth">
-										<p class="txt">Change Name to DAOL (KTB Network -> Daol Investment)</p>
+										<p class="txt">Change Name to DAOL ( KTB Network -> Daol Investment )</p>
 									</li>
 								</ol>
 							</li>
