@@ -131,7 +131,7 @@ public final class footer_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t<span>고객상담 031-628-6400</span>\r\n");
       out.write("\t\t\t\t\t\t<span>팩스 031-628-6499</span>\r\n");
       out.write("\t\t\t\t\t\t<span>이메일 <a href=\"mailto: webmaster@ktbnetwork.com\"> webmaster@ktbnetwork.com</a></span><br>\r\n");
-      out.write("\t\t\t\t\t\t<span>Pankyo [13494] 경기도 성남시 분당구 대왕판교로 670(삼평동 682) 유스페이스 2A동 10층</span>\r\n");
+      out.write("\t\t\t\t\t\t<span>Pangyo [13494] 경기도 성남시 분당구 대왕판교로 670(삼평동 682) 유스페이스 2A동 10층</span>\r\n");
       out.write("\t\t\t\t\t</address>\r\n");
       out.write("\t\t\t\t\t<p class=\"copyRight\">COPYRIGHT&copy;KTB Network. ALL RIGHTS RESERVED.</p>\t\t\t\t\t\r\n");
       out.write("\t\t\t\t</div>\r\n");

@@ -7,7 +7,7 @@
 						<span>TEL 031-628-6400</span>
 						<span>FAX 031-628-6499</span>
 						<span>E-MAIL <a href="mailto:webmaster@woorivp.com">webmaster@woorivp.com</a></span><br>
-						<span>Pankyo 10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea</span>
+						<span>Pangyo 10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea</span>
 					</address>
 					<p class="copyRight">Copyright &copy; WOORI Venture Partners. All Right Reserved.</p>
 				</div>
