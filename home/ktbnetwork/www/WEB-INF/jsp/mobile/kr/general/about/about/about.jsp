@@ -36,6 +36,7 @@
 						<li><a href="#pop13" role="button">우리에프아이에스 <span>100%</span></a></li>
 						<li><a href="#pop14" role="button">우리금융경영연구소 <span>100%</span></a></li>
 					</ul>
+          <p class="reference_day">2023.01.06 기준</p>
 				</div>
 			</div>
 			<!-- //계열사(T) -->
