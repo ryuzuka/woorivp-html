@@ -28,7 +28,7 @@
             <li><a href="#pop5" role="button">Woori Asset Trust <span>51%</span></a></li>
             <li><a href="#pop6" role="button">Woori Savings Bank <span>100%</span></a></li>
             <li><a href="#pop7" role="button">Woori Asset Management <span>73%</span></a></li>
-            <li><a href="#pop8" role="button">Woori Venture Partners <span>52%</span></a></li>
+            <li class="venture"><a href="#pop8" role="button">Woori Venture Partners <span>52%</span></a></li>
             <li><a href="#pop9" role="button">Woori Global Asset<br /> Management <span>100%</span></a></li>
             <li><a href="#pop10" role="button">Woori Private Equity<br />Asset Management <span>100%</span></a></li>
             <li><a href="#pop11" role="button">Woori Financial F&I <span>100%</span></a></li>
