@@ -37,6 +37,7 @@
             <li><a href="#pop14" role="button">Woori FIS <span>100%</span></a></li>
             <li><a href="#pop15" role="button">Woori Finance<br />Research Institute <span>100%</span></a></li>
 					</ul>
+          <p class="reference_day">As Of January 2023</p>
 				</div>
 			</div>
 			<!-- //Subsidiaries(T) -->
