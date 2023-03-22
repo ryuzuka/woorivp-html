@@ -108,7 +108,7 @@
 						<a href="tel:82+ 2-2000-6600" class="btn_link">82+ 2-2000-6600</a>
 					</div>
 				</div>
-        Woori Investment Bank is the one and only total financial subsidiary of Woori Bank, representing the nation’s traditional banking services.Woori Investment Bank is committed to being a faithful asset management partner by providing upgraded products and services to clients, using diversified licenses, credit ratings, and the network of Woori Financial Group. Woori Investment Bank promises to put in all efforts as a companion to achieve an abundant future for our customers.
+        Woori Investment Bank is the one and only total financial subsidiary of Woori Bank, representing the nation’s traditional banking services. Woori Investment Bank is committed to being a faithful asset management partner by providing upgraded products and services to clients, using diversified licenses, credit ratings, and the network of Woori Financial Group. Woori Investment Bank promises to put in all efforts as a companion to achieve an abundant future for our customers.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
@@ -210,7 +210,7 @@
             <a href="tel:82+ 2-739-1389" class="btn_link">82+ 2-739-1389</a>
           </div>
         </div>
-        Newly established in 2022, Woori Financial F&I Inc. is a subsidiary of Woori Financial Group that specializes in non-performing loan investments.With its outstanding investment-focused workforce and expertise, Woori Financial F&I Inc. helps enhance the prudential soundness of financial institutions and provides support for corporate financial rehabilitation by managing the corporate restructuring process.Moving forward, Woori Financial F&I Inc. has its sights set on becoming Korea’s leader in the NPL investment market.
+        Newly established in 2022, Woori Financial F&I Inc. is a subsidiary of Woori Financial Group that specializes in non-performing loan investments. With its outstanding investment-focused workforce and expertise, Woori Financial F&I Inc. helps enhance the prudential soundness of financial institutions and provides support for corporate financial rehabilitation by managing the corporate restructuring process. Moving forward, Woori Financial F&I Inc. has its sights set on becoming Korea’s leader in the NPL investment market.
       </div>
     </div>
     <button type="button" class="layerClose">close</button>
@@ -227,7 +227,7 @@
             <a href="tel:82+ 2-2262-5800" class="btn_link">82+ 2-2262-5800</a>
           </div>
         </div>
-        The nation’s first credit information company that leads the market with a long history and expertise!Woori Credit Information is the first domestic company to specialize in credit information, debt collection, and lease investigation, and was established in 1991 with full investment by Woori Bank. The company acquired the A+ rating from the Enterprise Credit Rating, winning shareholders’ confidence.Moreover, the company embraces various social contribution activities such as the 1 Company 1 Village Country Love initiative, social welfare, and environment protection.Being a strong financial partner to creditors and a supportive partner to debtors for credit recovery, Woori Credit Information will be stepping stones for them and the best partner to accomplish a credit society.
+        The nation’s first credit information company that leads the market with a long history and expertise! Woori Credit Information is the first domestic company to specialize in credit information, debt collection, and lease investigation, and was established in 1991 with full investment by Woori Bank. The company acquired the A+ rating from the Enterprise Credit Rating, winning shareholders’ confidence. Moreover, the company embraces various social contribution activities such as the 1 Company 1 Village Country Love initiative, social welfare, and environment protection. Being a strong financial partner to creditors and a supportive partner to debtors for credit recovery, Woori Credit Information will be stepping stones for them and the best partner to accomplish a credit society.
       </div>
     </div>
     <button type="button" class="layerClose">close</button>
@@ -244,7 +244,7 @@
             <a href="tel:82+ 2-3151-3510" class="btn_link">82+ 2-3151-3510</a>
           </div>
         </div>
-        We will continue to serve and impress our customers, who are the most valuable to us, for the next hundred years.Woori Fund Services provides various administration services including fund accounting and reference price computation for collective investment vehicles and general administration for real estate investment trusts.As an affiliate of Woori Financial Group, Woori Fund Services successfully completed the development of “FundOne”, a next generation administration system, in August of 2014, and has exerted ongoing efforts to develop systems and talent to provide better services.
+        We will continue to serve and impress our customers, who are the most valuable to us, for the next hundred years. Woori Fund Services provides various administration services including fund accounting and reference price computation for collective investment vehicles and general administration for real estate investment trusts.As an affiliate of Woori Financial Group, Woori Fund Services successfully completed the development of “FundOne”, a next generation administration system, in August of 2014, and has exerted ongoing efforts to develop systems and talent to provide better services.
       </div>
     </div>
     <button type="button" class="layerClose">close</button>
@@ -260,7 +260,7 @@
             <a href="tel:82+ 2-3151-7000" class="btn_link">82+ 2-3151-7000</a>
           </div>
         </div>
-        As a comprehensive financial services ICT company, Woori FIS is able to provide One-Stop services from development planning to execution, based on expertise and hands-on experience derived from numerous projects working with banking, credit card, fund, insurance, and other related companies.Woori FIS is the first South Korean company to successfully implement a total IT outsourcing model from development to IT infrastructure management. By acquiring three major international qualities of development, management, and security, our excellent ICT management system was internationally renowned.Based on these strengths, Woori FIS is leading the innovation of customer business value by supporting stable global services to over 300 foreign branches in the U.S., China, and others and playing key roles in building the WiBee Bank and K Bank systems in the FinTech wave.
+        As a comprehensive financial services ICT company, Woori FIS is able to provide One-Stop services from development planning to execution, based on expertise and hands-on experience derived from numerous projects working with banking, credit card, fund, insurance, and other related companies. Woori FIS is the first South Korean company to successfully implement a total IT outsourcing model from development to IT infrastructure management. By acquiring three major international qualities of development, management, and security, our excellent ICT management system was internationally renowned. Based on these strengths, Woori FIS is leading the innovation of customer business value by supporting stable global services to over 300 foreign branches in the U.S., China, and others and playing key roles in building the WiBee Bank and K Bank systems in the FinTech wave.
       </div>
     </div>
     <button type="button" class="layerClose">close</button>
