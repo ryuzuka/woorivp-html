@@ -31,13 +31,13 @@
 								<strong class="tit">2023</strong>
 								<p class="txt">
 									Inclusion of a subsidiary into Woori Financial Group<br>
-									Change name to WOORI (Daol Investment -> Woori Venture Partners)
+									Change name to WOORI<br>( Daol Investment -> Woori Venture Partners )
 								</p>
 							</li>
 							<li>
 								<strong class="tit">2022</strong>
 								<ul class="txt">
-									<li>Change Name to DAOL<br>(KTB Network -> Daol Investment)</li>
+									<li>Change Name to DAOL<br>( KTB Network -> Daol Investment )</li>
 								</ul>
 							</li>
 							<li>

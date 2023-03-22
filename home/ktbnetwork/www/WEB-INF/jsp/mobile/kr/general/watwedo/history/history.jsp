@@ -31,13 +31,13 @@
               <li>
                 <strong class="tit">2023</strong>
                 <p class="txt">
-                  우리금융지주 자회사 편입 및 상호변경(다올인베스트먼트㈜->우리벤처파트너스㈜)
+									우리금융지주 자회사 편입 및 상호변경<br>( 다올인베스트먼트㈜ -> 우리벤처파트너스㈜ )
                 </p>
               </li>
 							<li>
 								<strong class="tit">2022</strong>
 								<p class="txt">
-                  그룹 상호변경(KTB네트워크㈜->다올인베스트먼트㈜)
+                  그룹 상호변경<br>( KTB네트워크㈜ -> 다올인베스트먼트㈜ )
 								</p>
 							</li>
 							<li>
@@ -58,7 +58,7 @@
 							</li>
 							<li>
 								<strong class="tit">1981</strong>
-								<p class="txt">한국기술개발주식회사 설립(다올투자증권의 전신)</p>
+								<p class="txt">한국기술개발주식회사 설립 (다올투자증권의 전신)</p>
 							</li>
 						</ol>
 					</div>
