@@ -27,8 +27,8 @@
 								<strong class="tit">Funds Exited</strong>
 								<dl>
 									<dt>Funds exited</dt><dd class="num01">60</dd>
-									<dt>Capital Raised<em style="white-space: nowrap">(Unit : USD  Billion)</em></dt><dd class="num02">1.1</dd>
-									<dt>Total Paid Out<em style="white-space: nowrap">(Unit : USD  Billion)</em></dt><dd class="num02">2.4</dd>
+									<dt>Capital Raised<em style="white-space: nowrap">(Unit : KRW)</em></dt><dd class="num02">1,365B</dd>
+									<dt>Total Paid Out<em style="white-space: nowrap">(Unit : KRW)</em></dt><dd class="num02">2,148B</dd>
 									<dt>IRR<em>(Unit : %)</em></dt><dd class="num02">19.54</dd>
 								</dl>
 								<a href="#MAL1" role="button" class="btnView">Documentation Criteria</a>
@@ -39,9 +39,9 @@
 								<strong class="tit">Funds Active</strong>
 								<dl>
 									<dt>Funds Active<em>&nbsp;</em></dt><dd class="num01">19</dd>
-									<dt>Funds Size<em style="white-space: nowrap">(Unit : USD  Million)</em></dt><dd class="num01">990</dd>
+									<dt>Funds Size<em style="white-space: nowrap">(Unit : KRW)</em></dt><dd class="num01">1,459B</dd>
 									<dt style="white-space: nowrap">Portfolio Companies</dt><dd class="num01">354</dd>
-									<dt>Total Amount<br>Invested<em style="white-space: nowrap">(Unit : USD  Million)</em></dt><dd class="num02">822</dd>
+									<dt>Total Amount<br>Invested<em style="white-space: nowrap">(Unit : KRW)</em></dt><dd class="num02">1,014B</dd>
 									<!-- <dt>Capital Pledged<em>(Unit : USDMillion)</em></dt><dd class="num02">756</dd>
 									<dt>Capital Deployed<em>(Unit : USDMillion)</em></dt><dd class="num02">520</dd>
 									<dt>IRR(e)<em>(Unit : %)</em></dt><dd class="num02">16.22</dd> -->

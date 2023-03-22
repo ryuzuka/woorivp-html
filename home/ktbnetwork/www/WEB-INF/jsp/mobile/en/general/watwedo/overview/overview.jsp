@@ -40,19 +40,19 @@
 						</li>
 						<li>
 							<strong>Capital Stock</strong>
-							<em>USD 35 Million</em>
+							<em>USD 39 Million</em>
 						</li>
 						<li>
 							<strong>Owner's Capital</strong>
-							<em>USD 140 Million</em>
+							<em>USD 233 Million</em>
 						</li>
 						<li>
 							<strong>Sales Account</strong>
-							<em>USD 25 Million</em>
+							<em>USD 36 Million</em>
 						</li>
 						<li>
 							<strong>Operating Profit</strong>
-							<em>USD 41 Million</em>
+							<em>USD 13 Million</em>
 						</li>
 						<li>
 							<strong>Website</strong>

@@ -26,9 +26,9 @@
           </p>
 					<ul class="infoList">
 						<li>Company Name<span class="data">WOORI Venture Partners Co., Ltd</span></li>
-						<li>Capital Stock/Owner's Capital<span class="data">USD 37 Million / 140 Million</span></li>
+						<li>Capital Stock/Owner's Capital<span class="data">USD 39 Million / 233 Million</span></li>
 						<li>Establishment<span class="data">1981</span></li>
-						<li>Sales Account/Operating Profit<span class="data">USD 62 Million / 41 Million</span></li>
+						<li>Sales Account/Operating Profit<span class="data">USD 36 Million / 13 Million</span></li>
 						<li>CEO<span class="data">Kim Chang Kyu</span></li>
 						<li>Website<span class="data">http://www.woorivp.com</span></li>
 						<li>Key Shareholders<span class="data">WOORI Financial Holdings</span></li>
