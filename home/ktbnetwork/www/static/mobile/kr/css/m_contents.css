@@ -266,7 +266,7 @@ header.headFixed ~ .container .pageTit:after{display:none}
 	padding: 0 15px;
 	border-radius: 10px;
 	position: relative;
-	background: url(../images/common/icon_arrow.png) no-repeat right 15px center / 6px 9px;
+	/*background: url(../images/common/icon_arrow.png) no-repeat right 15px center / 6px 9px;*/
 }
 .affArea .affList li::after{
 	content:'';
