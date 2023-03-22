@@ -23,7 +23,7 @@
             <option value="https://www.wooricredit.com/">우리신용정보</option>
             <option value="http://www.woorifs.co.kr/html/kor/index.do">우리펀드서비스</option>
             <option value="http://www.woorifis.com/">우리에프아이에스</option>
-            <option value="https://www.wfri.re.kr/ko/web/main.php">우리금융연구소</option>
+            <option value="https://www.wfri.re.kr/ko/web/main.php">우리금융경영연구소</option>
 				</select>
 			</span>
 			<a href="#" role="button" class="btnMove">이동</a>
