@@ -110,7 +110,7 @@
               </td>
               <td class="tleft">
                 <strong>제1조(명칭)</strong><br>
-                본 회사는 다올인베스트먼트 주식회사 (이하 “본 회사”라 함)라 하고 영문으로는 DAOL Investment Co., Ltd. (약호 “DAOL Investment”)이라 한다. [13]
+                본 회사는 우리벤처파트너스 주식회사 (이하 “본 회사“라 함)라 하고 영문으로는 Woori Venture Partners Co., Ltd. (약호 “Woori Venture Partners”)이라 한다.[13]
               </td>
             </tr>
             <tr>
@@ -405,6 +405,12 @@
 						</div>
 					</div>
 					<ul class="baordIndex">
+            <li>
+              <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=56">
+                <div class="arrow next">다음글</div>
+                <div class="tit">제 15기 정기주주총회 결과</div>
+              </a>
+            </li>
 						<li>
 							<a href="/home/info/notice/view.do?page=3&num=54">
 								<div class="arrow prev">이전글</div>
