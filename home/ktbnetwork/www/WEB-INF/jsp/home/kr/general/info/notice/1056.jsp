@@ -158,7 +158,12 @@
         </div>
       </div>
       <ul class="baordIndex">
-
+        <li>
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=57">
+            <div class="arrow next">다음글</div>
+            <div class="tit">제15기 결산공고</div>
+          </a>
+        </li>
         <li>
           <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=55">
             <div class="arrow prev">이전글</div>

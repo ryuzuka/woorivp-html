@@ -48,6 +48,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop57" role="button" title="상세내용 보기">제15기 결산공고 <em>2023.03.23</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop56" role="button" title="상세내용 보기">제 15기 정기주주총회 결과 <em>2023.03.23</em></a>
             </li>
             <li>
@@ -179,6 +182,354 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
+
+  <!-- 제15기 결산공고 -->
+  <div class="fullLayer" id="newsDetail_pop57">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">제15기 결산공고</h3>
+          <em class="date">2023.03.23</em>
+        </div>
+        <div class="detailCon">
+          <h2 class="titDep3">[연결기준]</h2>
+          <table class="tblH">
+            <caption>제15기 결산공고</caption>
+            <colgroup><col style="width:50%" span="2"></colgroup>
+            <thead>
+            <tr>
+              <th scope="col">계정과목</th>
+              <th scope="col">금액</th>
+            </tr>
+            </thead>
+            <tfoot>
+            <tr><th scope="row" class="tleft">자산총계</th>
+              <td class="tright">325,252,882,781</td>
+            </tr></tfoot>
+            <tbody>
+            <tr>
+              <td class="tleft"><strong class="color01">자산</strong></td>
+              <td class="tright">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅰ. 유동자산</strong></td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft">1. 현금 및 현금성자산</td>
+              <td class="tright">3,653,873,898</td>
+            </tr>
+            <tr>
+              <td class="tleft">2. 단기금융상품</td>
+              <td class="tright">125,397,110,325</td>
+            </tr>
+            <tr>
+              <td class="tleft">3. 기타의 유동자산</td>
+              <td class="tright">7,862,457,898</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅱ.비유동자산</strong></td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft">1. 투자실적자산</td>
+              <td class="tright">146,645,569,390</td>
+            </tr>
+            <tr>
+              <td class="tleft">2. 경영지원자산</td>
+              <td class="tright">18,455,185,897</td>
+            </tr>
+            <tr>
+              <td class="tleft">3. 당기손익-공정가치측정금융자산</td>
+              <td class="tright">125,924,249</td>
+            </tr>
+            <tr>
+              <td class="tleft">4.관계기업투자 </td>
+              <td class="tright">1,522,087,405</td>
+            </tr>
+            <tr>
+              <td class="tleft">5.대출채권</td>
+              <td class="tright">157,210,000</td>
+            </tr>
+            <tr>
+              <td class="tleft">6.유형자산</td>
+              <td class="tright">8,438,487,876</td>
+            </tr>
+            <tr>
+              <td class="tleft">7.무형자산</td>
+              <td class="tright">2,553,097,611</td>
+            </tr>
+            <tr>
+              <td class="tleft">8.기타비유동자산</td>
+              <td class="tright">10,441,878,232</td>
+            </tr>
+            </tbody>
+          </table>
+
+          <table class="tblH">
+            <caption>제15기 결산공고</caption>
+            <colgroup><col style="width:50%" span="2"></colgroup>
+            <thead>
+            <tr>
+              <th scope="col">계정과목</th>
+              <th scope="col">금액</th>
+            </tr>
+            </thead>
+            <tfoot>
+            <tr><th scope="row" class="tleft">부채 및 자본총계</th>
+              <td class="tright">325,252,882,781</td>
+            </tr></tfoot>
+            <tbody>
+            <tr>
+              <td class="tleft"><strong class="color01">부채</strong></td>
+              <td class="tright">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅰ. 유동부채</strong></td>
+              <td class="tright"></td>
+            </tr>
+            <tr>
+              <td class="tleft">1.발행어음</td>
+              <td class="tright">-</td>
+            </tr>
+            <tr>
+              <td class="tleft">2.미지급법인세</td>
+              <td class="tright">7,822,887,667</td>
+            </tr>
+            <tr>
+              <td class="tleft">3.기타유동부채</td>
+              <td class="tright">3,180,674,687</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅱ. 비유동부채</strong></td>
+              <td class="tright"></td>
+            </tr>
+            <tr>
+              <td class="tleft">1.이연법인세부채</td>
+              <td class="tright">5,809,202,636</td>
+            </tr>
+            <tr>
+              <td class="tleft">2.기타비유동부채</td>
+              <td class="tright">12,732,168,474</td>
+            </tr>
+            <tr class="foot">
+              <td class="tleft">부채총계</td>
+              <td class="tright">29,544,933,464</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color01">자본</strong></td>
+              <td class="tright">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅰ. 자본금</strong></td>
+              <td class="tright">50,000,000,000</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅱ. 기타불입자본</strong></td>
+              <td class="tright">146,215,944,512</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅲ.자본조정</strong></td>
+              <td class="tright">(12,937,138,410)</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅳ.이익잉여금</strong></td>
+              <td class="tright">112,012,301,109</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅴ.기타자본구성요소</strong></td>
+              <td class="tright">416,842,106</td>
+            </tr>
+            <tr class="foot">
+              <td class="tleft">자본총계</td>
+              <td class="tright">295,707,949,317</td>
+            </tr>
+            </tbody>
+          </table>
+
+          <h2 class="titDep3">[별도기준]</h2>
+          <table class="tblH">
+            <caption>제15기 결산공고</caption>
+            <colgroup><col style="width:50%" span="2"></colgroup>
+            <thead>
+            <tr>
+              <th scope="col">계정과목</th>
+              <th scope="col">금액</th>
+            </tr>
+            </thead>
+            <tfoot>
+            <tr><th scope="row" class="tleft">자산총계</th>
+              <td class="tright">324,859,716,6511</td>
+            </tr></tfoot>
+            <tbody>
+            <tr>
+              <td class="tleft"><strong class="color01">자산</strong></td>
+              <td class="tright">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅰ. 유동자산</strong></td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft">1. 현금 및 현금성자산</td>
+              <td class="tright">1,381,062,593</td>
+            </tr>
+            <tr>
+              <td class="tleft">2. 단기금융상품</td>
+              <td class="tright">125,135,183,494</td>
+            </tr>
+            <tr>
+              <td class="tleft">3. 기타의 유동자산</td>
+              <td class="tright">7,836,351,518</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅱ.비유동자산</strong></td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft">1. 투자실적자산</td>
+              <td class="tright">146,645,569,390</td>
+            </tr>
+            <tr>
+              <td class="tleft">2. 경영지원자산</td>
+              <td class="tright">17,187,812,394</td>
+            </tr>
+            <tr>
+              <td class="tleft">3. 당기손익-공정가치측정금융자산</td>
+              <td class="tright">125,924,249</td>
+            </tr>
+            <tr>
+              <td class="tleft">4.종속기업에 대한 투자자산</td>
+              <td class="tright">4,526,607,794</td>
+            </tr>
+            <tr>
+              <td class="tleft">5.관계기업투자</td>
+              <td class="tright">1,522,087,405</td>
+            </tr>
+            <tr>
+              <td class="tleft">6.대출채권</td>
+              <td class="tright">157,210,000</td>
+            </tr>
+            <tr>
+              <td class="tleft">7.유형자산</td>
+              <td class="tright">7,886,484,946</td>
+            </tr>
+            <tr>
+              <td class="tleft">8.무형자산</td>
+              <td class="tright">2,046,177,611</td>
+            </tr>
+            <tr>
+              <td class="tleft">9.기타비유동자산</td>
+              <td class="tright">10,409,245,257</td>
+            </tr>
+            </tbody>
+          </table>
+
+          <table class="tblH">
+            <caption>제15기 결산공고</caption>
+            <colgroup><col style="width:50%" span="2"></colgroup>
+            <thead>
+            <tr>
+              <th scope="col">계정과목</th>
+              <th scope="col">금액</th>
+            </tr>
+            </thead>
+            <tfoot>
+            <tr><th scope="row" class="tleft">부채 및 자본총계</th>
+              <td class="tright">324,859,716,651</td>
+            </tr></tfoot>
+            <tbody>
+            <tr>
+              <td class="tleft"><strong class="color01">부채</strong></td>
+              <td class="tright">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅰ. 유동부채</strong></td>
+              <td class="tright"></td>
+            </tr>
+            <tr>
+              <td class="tleft">1.발행어음</td>
+              <td class="tright">-</td>
+            </tr>
+            <tr>
+              <td class="tleft">2.미지급법인세</td>
+              <td class="tright">7,822,887,667</td>
+            </tr>
+            <tr>
+              <td class="tleft">3.기타유동부채</td>
+              <td class="tright">3,140,837,112</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅱ. 비유동부채</strong></td>
+              <td class="tright"></td>
+            </tr>
+            <tr>
+              <td class="tleft">1.이연법인세부채</td>
+              <td class="tright">5,809,202,636</td>
+            </tr>
+            <tr>
+              <td class="tleft">2.기타비유동부채</td>
+              <td class="tright">12,321,156,470</td>
+            </tr>
+            <tr class="foot">
+              <td class="tleft">부채총계</td>
+              <td class="tright">29,094,083,885</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color01">자본</strong></td>
+              <td class="tright">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅰ. 자본금</strong></td>
+              <td class="tright">50,000,000,000</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅱ. 기타불입자본</strong></td>
+              <td class="tright">146,024,343,219</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅲ.자본조정</strong></td>
+              <td class="tright">(12,937,138,410)</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅳ.이익잉여금</strong></td>
+              <td class="tright">112,572,156,699</td>
+            </tr>
+            <tr>
+              <td class="tleft"><strong class="color02">Ⅴ.기타자본구성요소</strong></td>
+              <td class="tright">106,271,258</td>
+            </tr>
+            <tr class="foot">
+              <td class="tleft">자본총계</td>
+              <td class="tright">295,765,632,766</td>
+            </tr>
+            </tbody>
+          </table>
+
+          <div class="newscon_box">
+            <p class="txt">위와 같이 공고합니다.</p>
+            <div class="bottomTxt">
+              <em>2023년 03월 23일</em>
+              <strong>다올인베스트먼트 주식회사<br>대표이사 김창규</strong>
+            </div>
+          </div><!-- //newscon_box -->
+
+          <p class="opinionTxt">
+            [감사의견] 회사의 재무제표는 2022년 12월 31일 현재의 재무상태와 동일로 종료되는
+            보고기간의 재무성과 및 현금흐름을 한국채택국제회계기준에 따라, 중요성의 관점에서
+            공정하게 표시하고 있습니다.
+            <em>삼정회계법인 대표이사 김교태</em>
+          </p>
+          <!--  // .opinionTxt -->
+
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // 제15기 결산공고 -->
+
   <!-- 다올인베스트먼트 제15기 정기주주총회 결과 -->
   <div class="fullLayer" id="newsDetail_pop56">
     <h2 class="layerTit">NEWS</h2>
