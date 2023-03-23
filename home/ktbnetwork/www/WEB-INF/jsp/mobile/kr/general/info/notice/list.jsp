@@ -253,7 +253,7 @@ jQuery(window).load(function() {
             <div class="bottomTxt">
               <em>2023년 03월 03일</em>
               <p>경기도 성남시 분당구 대왕판교로670유스페이스2A동 10층 (☏031-628-6400)</p>
-              <strong>케이티비네트워크 주식회사<br>대표이사 김창규</strong>
+              <strong>다올인베스트먼트 주식회사<br>대표이사 김창규</strong>
             </div>
           </div>
           <h2 class="titDep3">정관변경(안)</h2>

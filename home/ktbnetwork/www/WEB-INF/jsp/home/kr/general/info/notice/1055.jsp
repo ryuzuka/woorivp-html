@@ -87,7 +87,7 @@
             위와 같이 공고합니다.
             <span class="dateTxt">2023년 03월 03일</span>
             <p>경기도 성남시 분당구 대왕판교로670유스페이스2A동 10층 (☏031-628-6400)</p>
-            <strong class="ceoTxt">케이티비네트워크 주식회사 대표이사 김창규</strong>
+            <strong class="ceoTxt">다올인베스트먼트 주식회사 대표이사 김창규</strong>
           </div>
           <h2 class="titDep3">정관변경(안)</h2>
           <table class="tblH">
