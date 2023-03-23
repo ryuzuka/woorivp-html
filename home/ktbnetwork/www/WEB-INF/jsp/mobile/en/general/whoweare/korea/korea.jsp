@@ -24,20 +24,20 @@
 			<div id="tab01" class="tabCont" style="display:block">
 				<h2 class="hidden">KOREA Investment</h2>
 				<ul class="personList">
+          <li>
+            <a href="#personDeatail02" role="button">
+              <span><img src="/static/mobile/en/images/contents/img_invest_02.jpg" alt="Kim Chang Kyu" /></span>
+              <span>
+								<em>Kim Chang Kyu</em>
+								CEO
+							</span>
+            </a>
+          </li>
 					<li>
 						<a href="#personDeatail01" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_01.jpg" alt="Shin Jin Ho" /></span>
 							<span>
 								<em>Shin Jin Ho</em>
-								CEO
-							</span>
-						</a>
-					</li>
-					<li>
-						<a href="#personDeatail02" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_02.jpg" alt="Kim Chang Kyu" /></span>
-							<span>
-								<em>Kim Chang Kyu</em>
 								CEO
 							</span>
 						</a>
@@ -213,16 +213,7 @@
 				<h2 class="hidden">KOREA Management</h2>
 				<ul class="personList">
 					<li>
-						<strong>CEO</strong>
-						<a href="#person_manageDeatail01" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_01.jpg" alt="Shin Jin Ho"/></span>
-							<span>
-								<em>Shin Jin Ho</em>
-								<b>CEO</b>
-							</span>
-						</a>
-					</li>
-					<li>
+            <strong>CEO</strong>
 						<a href="#person_manageDeatail02" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_02.jpg" alt="Kim Chang Kyu"/></span>
 							<span>
@@ -231,7 +222,16 @@
 							</span>
 						</a>
 					</li>
-					<li class="line">
+          <li>
+            <a href="#person_manageDeatail01" role="button">
+              <span><img src="/static/mobile/en/images/contents/img_manage_01.jpg" alt="Shin Jin Ho"/></span>
+              <span>
+								<em>Shin Jin Ho</em>
+								<b>CEO</b>
+							</span>
+            </a>
+          </li>
+          <li class="line">
 						<strong>Auditor</strong>
 						<a href="#person_manageDeatail17" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_manage_17.jpg" alt="Han Jong Bok" /></span>

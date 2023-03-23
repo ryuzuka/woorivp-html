@@ -24,20 +24,20 @@
 			<div id="tab01" class="tabCont" style="display:block">
 				<h2 class="hidden">KOREA Investment</h2> <!-- 해당 탭 타이틀 -->
 				<ul class="personList">
+          <li>
+            <a href="#personDeatail02" role="button">
+              <span><img src="/static/mobile/kr/images/contents/img_invest_02.jpg" alt="김창규 사장 사진" /></span>
+              <span>
+								<em>김창규</em>
+								대표이사
+							</span>
+            </a>
+          </li>
 					<li>
 						<a href="#personDeatail01" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_01.jpg" alt="신진호 부회장 사진" /></span>
 							<span>
 								<em>신진호</em>
-								대표이사
-							</span>
-						</a>
-					</li>
-					<li>
-						<a href="#personDeatail02" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_02.jpg" alt="김창규 사장 사진" /></span>
-							<span>
-								<em>김창규</em>
 								대표이사
 							</span>
 						</a>
@@ -214,16 +214,7 @@
 				<h2 class="hidden">KOREA Management</h2> <!-- 해당 탭 타이틀 -->
 				<ul class="personList">
 					<li>
-						<strong>CEO</strong>
-						<a href="#person_manageDeatail01" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_01.jpg" alt="신진호 대표이사 사진" /></span>
-							<span>
-								<em>신진호</em>
-								대표이사
-							</span>
-						</a>
-					</li>
-					<li>
+            <strong>CEO</strong>
 						<a href="#person_manageDeatail02" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_02.jpg" alt="김창규 사장 사진" /></span>
 							<span>
@@ -232,7 +223,17 @@
 							</span>
 						</a>
 					</li>
-					<li class="line">
+          <li>
+
+            <a href="#person_manageDeatail01" role="button">
+              <span><img src="/static/mobile/kr/images/contents/img_manage_01.jpg" alt="신진호 대표이사 사진" /></span>
+              <span>
+								<em>신진호</em>
+								대표이사
+							</span>
+            </a>
+          </li>
+          <li class="line">
 						<strong>Auditor</strong>
 						<a href="#person_manageDeatail17" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_manage_17.jpg" alt="한종복 감사 사진" /></span>

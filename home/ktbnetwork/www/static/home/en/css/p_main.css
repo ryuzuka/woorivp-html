@@ -93,7 +93,7 @@
 .etcArea .inner{width:1200px;margin:0 auto}
 .etcArea .inner:before{content:'';display:block;width:100%;position:absolute;top:0;left:50%;margin-left:-100%;background:#f3f3f3;height:290px}
 .etcArea .inner:after{content:'';display:block;clear:both}
-.etcArea .member{position:relative;float:left;width:800px;padding:59px 0 63px;background:#f3f3f3 url(../images/main/bg_member.jpg) no-repeat 400px 20px;z-index:2}
+.etcArea .member{position:relative;float:left;width:800px;padding:59px 0 63px;background:#f3f3f3 url(../images/main/bg_member.jpg) no-repeat 400px 20px / 360px auto;z-index:2}
 .etcArea .member p{margin-bottom:19px;font-size:30px;line-height:40px;color:#111}
 .etcArea .member a{color:#253a71;font-weight:500;font-size:16px}
 .etcArea .member a:before{content:'';display:inline-block;width:30px;height:2px;margin-right:15px;background:#2c2e92;vertical-align:middle}

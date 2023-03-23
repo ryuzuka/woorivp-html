@@ -60,7 +60,7 @@
 .introCon li a strong{display:block;padding-bottom:5px;font-size:17px;font-weight:500;color:#333}
 
 .menuBanner01 {margin:30px}
-.menuBanner01 a {display:block;padding:30px 80px 30px 25px;background:#f3f3f3 url(../images/MA/img_pic.jpg) no-repeat right bottom;background-size:138px 152px}
+.menuBanner01 a {display:block;padding:30px 80px 30px 25px;background:#f3f3f3 url(../images/MA/img_pic.jpg) no-repeat right bottom;background-size:168px auto}
 .menuBanner01 strong {display:block;font-size:17px;font-weight:400;color:#111}
 .menuBanner01 p {display:inline-block;margin-top:20px;padding-right:30px;background:url(../images/MA/img_ico_bl01.png) no-repeat right 50%;background-size:20px 10px;font-size:15px;font-weight:600;color:#253a71}
 
