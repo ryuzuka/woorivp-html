@@ -34,15 +34,6 @@
             </a>
           </li>
 					<li>
-						<a href="#personDeatail01" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_invest_01.jpg" alt="Shin Jin Ho" /></span>
-							<span>
-								<em>Shin Jin Ho</em>
-								CEO
-							</span>
-						</a>
-					</li>
-					<li>
 						<a href="#personDeatail03" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_03.jpg" alt="Lee Seung Ho" /></span>
 							<span>
@@ -222,15 +213,6 @@
 							</span>
 						</a>
 					</li>
-          <li>
-            <a href="#person_manageDeatail01" role="button">
-              <span><img src="/static/mobile/en/images/contents/img_manage_01.jpg" alt="Shin Jin Ho"/></span>
-              <span>
-								<em>Shin Jin Ho</em>
-								<b>CEO</b>
-							</span>
-            </a>
-          </li>
           <li class="line">
 						<strong>Auditor</strong>
 						<a href="#person_manageDeatail17" role="button">

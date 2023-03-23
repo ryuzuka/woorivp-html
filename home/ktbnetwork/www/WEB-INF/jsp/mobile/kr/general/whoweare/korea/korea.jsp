@@ -34,15 +34,6 @@
             </a>
           </li>
 					<li>
-						<a href="#personDeatail01" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_invest_01.jpg" alt="신진호 부회장 사진" /></span>
-							<span>
-								<em>신진호</em>
-								대표이사
-							</span>
-						</a>
-					</li>
-					<li>
 						<a href="#personDeatail03" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_03.jpg" alt="이승호 전무 사진" /></span>
 							<span>
@@ -223,16 +214,6 @@
 							</span>
 						</a>
 					</li>
-          <li>
-
-            <a href="#person_manageDeatail01" role="button">
-              <span><img src="/static/mobile/kr/images/contents/img_manage_01.jpg" alt="신진호 대표이사 사진" /></span>
-              <span>
-								<em>신진호</em>
-								대표이사
-							</span>
-            </a>
-          </li>
           <li class="line">
 						<strong>Auditor</strong>
 						<a href="#person_manageDeatail17" role="button">

@@ -61,27 +61,6 @@
             </li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/en/images/contents/img_team01.jpg" alt="Shin Jin Ho"></div>
-								<div class="right">
-									<h3>Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
-									<dl>
-										<dt>Career</dt>
-										<dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>WOORI Venture Partners</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/en/images/contents/thumb_team01_off.jpg" alt="Shin Jin Ho"></span>
-								<!--
-									활성화시 이미지, hover시 이미지
-									src="/static/home/en/images/contents/thumb_team01_off.jpg"
-								-->
-								<strong>Shin Jin Ho</strong> CEO
-							</a>
-						</li>
-
-						<li>
-							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team03.jpg" alt="Lee Seung Ho"></div>
 								<div class="right">
 									<h3>Lee Seung Ho <span class="pointColor">KOREA / Investment / Executive Managing Director</span></h3>
@@ -431,26 +410,6 @@
 										<strong>Kim Chang Kyu</strong> CEO
 									</a>
 								</li>
-                <li>
-                  <div class="member">
-                    <div class="left"><img src="/static/home/en/images/contents/img_team01.jpg" alt="Shin Jin Ho"></div>
-                    <div class="right">
-                      <h3>Shin Jin Ho <span class="pointColor">KOREA / CEO / Vice Chairman</span></h3>
-                      <dl>
-                        <dt>Career</dt>
-                        <dd>Seoul National University (Chemical Engineering)<br>Seoul National University, Graduate School of Chemistry<br>Hyundai Electronics Co., Ltd<br>WOORI Venture Partners</dd>
-                      </dl>
-                    </div>
-                  </div>
-                  <a href="#" class="thumb">
-                    <span class="img"><img src="/static/home/en/images/contents/thumb_team01_off.jpg" alt="Shin Jin Ho"></span>
-                    <!--
-                      활성화시 이미지, hover시 이미지
-                      src="/static/home/en/images/contents/thumb_team01_off.jpg"
-                    -->
-                    <strong>Shin Jin Ho</strong> CEO
-                  </a>
-                </li>
 							</ul>
 						</div>
 					</div>

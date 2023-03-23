@@ -61,30 +61,6 @@
           </li>
 					<li>
 						<div class="member">
-							<div class="left"><img src="/static/home/kr/images/contents/img_team01.jpg" alt="신진호"></div>
-							<div class="right">
-								<h3>신진호 <span class="pointColor">KOREA / 대표이사 / 부회장</span></h3>
-								<dl>
-									<dt>주요경력</dt>
-									<dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> 우리벤처파트너스</dd>
-									<!--
-									<dt>업무</dt>
-									<dd>경영총괄</dd>
-									-->
-								</dl>
-							</div>
-						</div>
-						<a href="#" class="thumb">
-							<span class="img"><img src="/static/home/kr/images/contents/thumb_team01_off.jpg" alt="신진호"></span>
-							<!--
-								활성화시 이미지, hover시 이미지
-								src="/static/home/kr/images/contents/thumb_team01_off.jpg"
-							-->
-							<strong>신진호</strong> 대표이사
-						</a>
-					</li>
-					<li>
-						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team03.jpg" alt="이승호"></div>
 							<div class="right">
 								<h3>이승호 <span class="pointColor">KOREA / 투자팀 / 전무</span></h3>
@@ -427,31 +403,6 @@
 									<strong>김창규</strong> 대표이사
 								</a>
 							</li>
-
-              <li>
-                <div class="member">
-                  <div class="left"><img src="/static/home/kr/images/contents/img_team01.jpg" alt="신진호"></div>
-                  <div class="right">
-                    <h3>신진호 <span class="pointColor">KOREA / 대표이사 / 부회장</span></h3>
-                    <dl>
-                      <dt>주요경력</dt>
-                      <dd>서울대학교 화학공학과<br> 서울대학교 화학공학 대학원<br> 현대전자<br> 우리벤처파트너스</dd>
-                      <!--
-                      <dt>업무</dt>
-                      <dd>경영총괄</dd>
-                      -->
-                    </dl>
-                  </div>
-                </div>
-                <a href="#" class="thumb">
-                  <span class="img"><img src="/static/home/kr/images/contents/thumb_team01_off.jpg" alt="신진호"></span>
-                  <!--
-                    활성화시 이미지, hover시 이미지
-                    src="/static/home/kr/images/contents/thumb_team01_off.jpg"
-                  -->
-                  <strong>신진호</strong> 대표이사
-                </a>
-              </li>
 						</ul>
 					</div>
 				</div>
