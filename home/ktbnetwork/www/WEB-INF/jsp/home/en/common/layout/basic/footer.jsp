@@ -14,6 +14,7 @@
 				<div class="familySite">
 					<span class="frmSelect">
 						<select title="Family Site">
+							<option value="https://www.woorifg.com/">Woori Financial Group</option>
 							<option value="https://www.wooribank.com/">Woori Bank</option>
               <option value="https://pc.wooricard.com/dcpc/main.do">Woori Card</option>
               <option value="https://www.woorifcapital.com/portal/portalMain.do">Woori Financial Capital</option>

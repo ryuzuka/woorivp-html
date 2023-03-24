@@ -18,6 +18,7 @@
 				<div class="familySite">
 					<span class="frmSelect">
 						<select title="Family Site">
+              <option value="https://www.woorifg.com/">우리금융지주</option>
               <option value="https://www.wooribank.com/">우리은행</option>
               <option value="https://pc.wooricard.com/dcpc/main.do">우리카드</option>
               <option value="https://www.woorifcapital.com/portal/portalMain.do">우리금융캐피탈</option>
