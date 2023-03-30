@@ -26,7 +26,7 @@
 						<li><a href="#pop4" role="button">우리종합금융 <span>58.70%</span></a></li>
 						<li><a href="#pop5" role="button">우리자산신탁 <span>51%</span></a></li>
 						<li><a href="#pop6" role="button">우리금융저축은행 <span>100%</span></a></li>
-            <li><a href="#pop10" role="button">우리금융에프앤아이 <span>100%</span></a></li>
+            <li><a href="#pop10" role="button">우리에프앤아이 <span>100%</span></a></li>
             <li><a href="#pop7" role="button">우리자산운용 <span>73%</span></a></li>
             <li class="venture"><a href="#pop15" role="button">우리벤처파트너스 <span>52%</span></a></li>
             <li><a href="#pop8" role="button">우리글로벌자산운용 <span>100%</span></a></li>
@@ -200,7 +200,7 @@
 	</div>
   <div class="layerPop" id="pop10">
     <div class="layerContainer aboutLayer">
-      <h2 class="layerTit">우리금융에프앤아이</h2>
+      <h2 class="layerTit">우리에프앤아이</h2>
       <p class="layerDesc">국내 NPL시장을 선도할 투자 전문회사</p>
       <div class="layerCont" tabindex="0">
         <div class="contTit">
