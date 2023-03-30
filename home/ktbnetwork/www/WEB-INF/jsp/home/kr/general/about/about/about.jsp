@@ -106,7 +106,7 @@
 									</li>
                   <li>
                     <div class="subsidiaryName">
-                      <p class="group_name">우리에프앤아이</p>
+                      <p class="group_name">우리금융에프앤아이</p>
                       <p class="group_deac">국내 NPL시장을 선도할 투자 전문회사</p>
                     </div>
                     <div class="link">
