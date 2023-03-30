@@ -193,7 +193,7 @@
 												Accomplish Trust of 200 Trillion KRW in 2020</p>
 										</div>
 										<div class="link">
-											<p class="site"><a href="https://www.woorifs.co.kr/" target="_blank">www.woorifs.co.kr</a></p>
+											<p class="site"><a href="http://www.woorifs.co.kr/" target="_blank">www.woorifs.co.kr</a></p>
 											<p class="tel">82+ 2-3151-3510</p>
 										</div>
 										<p class="txt">
@@ -206,7 +206,7 @@
 											<p class="group_deac">2020 Global Finance ICT Partner</p>
 										</div>
 										<div class="link">
-											<p class="site"><a href="https://www.woorifis.com/" target="_blank">www.woorifis.com</a></p>
+											<p class="site"><a href="http://www.woorifis.com/" target="_blank">www.woorifis.com</a></p>
 											<p class="tel">82+ 2-3151-7000</p>
 										</div>
 										<p class="txt">
