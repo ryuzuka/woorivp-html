@@ -21,10 +21,10 @@
               <option value="https://www.wooriib.com/">Woori Investment Bank</option>
               <option value="https://www.wooriat.com/">Woori Asset Trust</option>
               <option value="https://www.woorisavingsbank.com/main/main.do">Woori Savings Bank</option>
+              <option value="http://www.woorifni.co.kr/">Woori Financial F&amp;I</option>
               <option value="https://www.wooriam.kr/">Woori Asset Management</option>
               <option value="https://www.wooriglobalam.com/main/main.asp">Woori Global Asset Management</option>
               <option value="http://www.wooripe.com/">Woori Private Equity Asset Management</option>
-              <option value="http://www.woorifni.co.kr/">Woori Financial F&amp;I</option>
               <option value="https://www.wooricredit.com/">Woori Credit Information</option>
               <option value="http://www.woorifs.co.kr/html/kor/index.do">Woori Fund Service</option>
               <option value="http://www.woorifis.com/">Woori FIS</option>

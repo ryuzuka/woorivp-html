@@ -104,6 +104,19 @@
                       2020년 우리금융그룹의 한 가족이 된 우리금융저축은행은 1972년 설립 이후 서민과 중소기업의 든든한 동반자로서 역할을 수행하였습니다. 고객에게 신뢰받고, 사랑받는 중소서민금융기관이 되는 것을 목표로 전문역량과 미래를 향한 혁신을 통해 더 나은 가치를 제공할 수 있도록 항상 노력하고 있습니다. 고객의 신뢰와 전문 금융역량을 바탕으로 고객과 함께 고민하고 내일의 가치를 만들어 나가는 저축은행이 되겠습니다.
 										</p>
 									</li>
+                  <li>
+                    <div class="subsidiaryName">
+                      <p class="group_name">우리금융에프앤아이</p>
+                      <p class="group_deac">국내 NPL시장을 선도할 투자 전문회사</p>
+                    </div>
+                    <div class="link">
+                      <p class="site"><a href="http://www.woorifni.co.kr/" target="_blank">www.woorifni.co.kr</a></p>
+                      <p class="tel">02-739-1389</p>
+                    </div>
+                    <p class="txt">
+                      우리금융F&I는 NPL(부실채권) 및 기업구조조정 투자 전문회사입니다. 2022년 출범 첫해 성공적으로 시장에 안착하였으며, 향후 NPL 투자 확대 및 기업구조조정 투자까지 사업 영역을 지속적으로 확장해 나갈 계획입니다. 앞으로도 우수한 투자 인력과 전문성을 바탕으로 국내 NPL 및 기업구조조정 투자 시장을 선도하는 회사로 성장해 나가겠습니다.
+                    </p>
+                  </li>
 									<li>
 										<div class="subsidiaryName">
                       <p class="group_name">우리자산운용</p>
@@ -143,19 +156,6 @@
 										</div>
 										<p class="txt">
 											우리PE는 중소/중견 기업에 대한 Growth Capital 투자부터 대기업과의 협업을 통한 투자 및 Buyout에 이르기까지 다양한 투자전략을 구사합니다. 또한 보통주 투자뿐 아니라, 시장 상황별 유연한 대응이 가능한 Mezzanine, 구조화 Deal 위주의 투자 실행으로 안정적인 수익을 추구합니다. 국내 사모펀드 시장에서 대한민국을 대표하는 사모펀드운용사를 육성하고자 2005년 10월 설립되었으며, 2016년 7월 일반사모집합투자업 등록을 통해 기존의 기관전용 사모펀드 운용 업무 외에 일반사모펀드 운용업무로 사업영역을 확대하였습니다."
-										</p>
-									</li>
-									<li>
-										<div class="subsidiaryName">
-											<p class="group_name">우리금융에프앤아이</p>
-											<p class="group_deac">국내 NPL시장을 선도할 투자 전문회사</p>
-										</div>
-										<div class="link">
-											<p class="site"><a href="http://www.woorifni.co.kr/" target="_blank">www.woorifni.co.kr</a></p>
-											<p class="tel">02-739-1389</p>
-										</div>
-										<p class="txt">
-											우리금융F&I는 NPL(부실채권) 및 기업구조조정 투자 전문회사입니다. 2022년 출범 첫해 성공적으로 시장에 안착하였으며, 향후 NPL 투자 확대 및 기업구조조정 투자까지 사업 영역을 지속적으로 확장해 나갈 계획입니다. 앞으로도 우수한 투자 인력과 전문성을 바탕으로 국내 NPL 및 기업구조조정 투자 시장을 선도하는 회사로 성장해 나가겠습니다.
 										</p>
 									</li>
 									<li>

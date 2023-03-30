@@ -114,6 +114,20 @@
 											Since commencing operations in 1972, Aju savings bank has been a lifetime financial partner to individual customers and companies. As a subsidiary of Woori Financial Group, Aju savings bank strives to become a reliable financial company going forward, and make people’s financial lives better and commit to the local communities by offering best financial products and services.
 										</p>
 									</li>
+                  <li>
+                    <div class="subsidiaryName">
+                      <p class="group_name">Woori Financial F&I</p>
+                      <p class="group_deac">An NPL investment specialist, at the forefront<br />
+                        of the nation’s non-performing loan market</p>
+                    </div>
+                    <div class="link">
+                      <p class="site"><a href="https://www.woorifni.co.kr/" target="_blank">www.woorifni.co.kr</a></p>
+                      <p class="tel">82+ 2-739-1389</p>
+                    </div>
+                    <p class="txt">
+                      Newly established in 2022, Woori Financial F&I Inc. is a subsidiary of Woori Financial Group that specializes in non-performing loan investments. With its outstanding investment-focused workforce and expertise, Woori Financial F&I Inc. helps enhance the prudential soundness of financial institutions and provides support for corporate financial rehabilitation by managing the corporate restructuring process. Moving forward, Woori Financial F&I Inc. has its sights set on becoming Korea’s leader in the NPL investment market.
+                    </p>
+                  </li>
 									<li>
 										<div class="subsidiaryName">
 											<p class="group_name">Woori Asset Management</p>
@@ -156,20 +170,6 @@
 										</div>
 										<p class="txt">
 											Established in October 2005 to develop a company specializing in private equity fund management representing Korea, by registering with the collective investment of private equity funds it added the business of managing hedge funds to the existing business of managing private equity funds.
-										</p>
-									</li>
-									<li>
-										<div class="subsidiaryName">
-											<p class="group_name">Woori Financial F&I</p>
-											<p class="group_deac">An NPL investment specialist, at the forefront<br />
-												of the nation’s non-performing loan market</p>
-										</div>
-										<div class="link">
-											<p class="site"><a href="https://www.woorifni.co.kr/" target="_blank">www.woorifni.co.kr</a></p>
-											<p class="tel">82+ 2-739-1389</p>
-										</div>
-										<p class="txt">
-											Newly established in 2022, Woori Financial F&I Inc. is a subsidiary of Woori Financial Group that specializes in non-performing loan investments. With its outstanding investment-focused workforce and expertise, Woori Financial F&I Inc. helps enhance the prudential soundness of financial institutions and provides support for corporate financial rehabilitation by managing the corporate restructuring process. Moving forward, Woori Financial F&I Inc. has its sights set on becoming Korea’s leader in the NPL investment market.
 										</p>
 									</li>
 									<li>

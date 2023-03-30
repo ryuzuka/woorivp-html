@@ -17,10 +17,10 @@
           <option value="https://www.wooriib.com/">우리종합금융</option>
           <option value="https://www.wooriat.com/">우리자산신탁</option>
           <option value="https://www.woorisavingsbank.com/main/main.do">우리금융저축은행</option>
+          <option value="http://www.woorifni.co.kr/">우리금융에프앤아이</option>
           <option value="https://www.wooriam.kr/">우리자산운용</option>
           <option value="https://www.wooriglobalam.com/main/main.asp">우리글로벌자산운용</option>
-          <option value="http://www.wooripe.com/">우리PE자산운용</option>
-          <option value="http://www.woorifni.co.kr/">우리금융에프엔아이</option>
+          <option value="http://www.wooripe.com/">우리프라이빗에쿼티자산운용</option>
           <option value="https://www.wooricredit.com/">우리신용정보</option>
           <option value="http://www.woorifs.co.kr/html/kor/index.do">우리펀드서비스</option>
           <option value="http://www.woorifis.com/">우리에프아이에스</option>
