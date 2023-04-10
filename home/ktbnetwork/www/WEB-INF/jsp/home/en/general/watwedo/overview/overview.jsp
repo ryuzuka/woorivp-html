@@ -32,7 +32,7 @@
 						<li>CEO<span class="data">Kim Chang Kyu</span></li>
 						<li>Website<span class="data">http://www.woorivp.com</span></li>
 						<li>Key Shareholders<span class="data">WOORI Financial Holdings</span></li>
-						<li>Contact Info.<span class="data">+82 31-628-6400</span></li>
+						<li>Contact Info.<span class="data">+82 070-4377-2000</span></li>
 					</ul>
 
 					<h3 class="titDep2">Year-on-year changes in AUM</h3>

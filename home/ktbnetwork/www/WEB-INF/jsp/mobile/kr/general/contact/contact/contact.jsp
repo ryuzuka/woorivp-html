@@ -18,7 +18,7 @@
 								<ul class="info">
 									<li>
 										<strong class="tit">전화번호</strong>
-										<a href="tel:031-628-6400" class="data tel">031-628-6400</a><!-- 0411 수정 -->
+										<a href="tel:031-4377-2000" class="data tel">070-4377-2000</a>
 									</li>
 									<li>
 										<strong class="tit">이메일</strong>

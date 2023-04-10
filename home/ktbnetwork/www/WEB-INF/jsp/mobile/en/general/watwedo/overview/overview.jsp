@@ -60,7 +60,7 @@
 						</li>
 						<li>
 							<strong>Contact Info.</strong>
-							<em>+82 31-628-6400</em>
+							<em>+82 070-4377-2000</em>
 						</li>
 					</ul>
 

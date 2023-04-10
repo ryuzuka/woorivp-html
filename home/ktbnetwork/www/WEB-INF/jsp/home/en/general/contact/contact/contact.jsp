@@ -20,7 +20,7 @@
 								<div class="togCon">
 									10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea
 									<div class="link">
-										<p class="tel">+82 31-628-6400</p>
+										<p class="tel">+82 070-4377-2000</p>
 										<p class="mail"><a href="mailto:webmaster@woorivp.com">webmaster@woorivp.com</a></p><!-- 0415 수정 -->
 									</div>
 								</div>
