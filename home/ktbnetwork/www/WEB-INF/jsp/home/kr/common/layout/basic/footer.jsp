@@ -8,8 +8,8 @@
             <span><a href="/home/stewardship/stewardship.do">스튜어드십 코드</a></span>
             <span><a href="/home/esg/esg.do">ESG경영</a></span>
             <br />
-            <span>고객상담 070-4377-2000</span>
-						<span>팩스 070-4377-2099</span>
+            <span>고객상담 031-628-6400</span>
+						<span>팩스 031-628-6499</span>
 						<span>이메일 <a href="mailto:webmaster@woorivp.com"> webmaster@woorivp.com</a></span><br>
 						<span>Pangyo [13494] 경기도 성남시 분당구 대왕판교로 670(삼평동 682) 유스페이스 2A동 10층</span>
 					</address>

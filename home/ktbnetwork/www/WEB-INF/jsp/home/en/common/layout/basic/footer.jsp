@@ -4,8 +4,8 @@
 			<div class="footArea">
 				<div class="policyList">
 					<address>
-						<span>TEL 070-4377-2000</span>
-						<span>FAX 070-4377-2099</span>
+						<span>TEL 031-628-6400</span>
+						<span>FAX 031-628-6499</span>
 						<span>E-MAIL <a href="mailto:webmaster@woorivp.com">webmaster@woorivp.com</a></span><br>
 						<span>Pangyo 10FL, USpace 2A dong, 670 Daewangpangyo-ro, Bundang-gu, Seongnam-city, Gyeonggi-do, Korea</span>
 					</address>

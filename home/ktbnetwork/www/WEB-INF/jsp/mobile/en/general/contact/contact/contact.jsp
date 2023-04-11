@@ -18,7 +18,7 @@
 								<ul class="info">
 									<li>
 										<strong class="tit">Tel</strong>
-										<a href="tel:070-4377-2000" class="data tel">+82 070-4377-2000</a>
+										<a href="tel:02-788-8400" class="data tel">+82 31-628-6400</a>
 									</li>
 									<li>
 										<strong class="tit">E-mail</strong>
