@@ -15,9 +15,9 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</strong>
+          <strong class="tit">(서울경제 기사) "벤처투자는 긴 호흡으로…지금은 과감함보다 신중함 필요하죠"</strong>
           <div class="con">
-            <span class="date">2022.12.05</span>
+            <span class="date">2023.04.26</span>
           </div>
         </div>
         <style type="text/css">
@@ -41,35 +41,29 @@
         </style>
         <div class="viewCon">
           <dl class="noticeBox">
-            <dt>(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</dt>
+            <dt>(서울경제 기사) "벤처투자는 긴 호흡으로…지금은 과감함보다 신중함 필요하죠"</dt>
             <dd>
               <p>
-                다올인베스트먼트가 2000억원 후반대의 대형펀드와 초기투자 전용 펀드결성을 완료하면서 펀드레이징부분에서 전통 강호의 모습을 보여줬다.
+                김창규대표는 "투자 업계 상황과 거시경제 변수가 많기 때문에 신중하고 이성적인 투자가 중요한 시기"라고 조언했다.
               </p>
               <br>
-              <p>관련하여 탑데일리에 게재된 기사 공유드립니다.<br>
+              <p>관련하여 서울경제 기사에 게재된 기사 공유드립니다.<br>
                 보다 자세한 내용은 아래 기사 원문에서 확인하세요.
               </p>
               <br>
-              <p>기사 게재일 : 2022. 12. 05</p>
+              <p>기사 게재일 : 2023. 04. 26</p>
               <br>
               <p>&gt;&gt;기사 바로가기<br>
-                <a href="https://www.topdaily.kr/articles/92364" target="_blank" title="새창 열림">https://www.topdaily.kr/articles/92364</a></p>
+                <a href="https://n.news.naver.com/mnews/article/011/0004183272?sid=102" target="_blank" title="새창 열림">https://n.news.naver.com/mnews/article/011/0004183272?sid=102</a></p>
             </dd>
           </dl>
         </div>
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=85">
-            <div class="arrow next">다음글</div>
-            <div class="tit">(서울경제 기사) "벤처투자는 긴 호흡으로…지금은 과감함보다 신중함 필요하죠"</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=83">
+          <a href="/home/info/news/view.do?page=<c:out value="${vo.page}"/>&num=84">
             <div class="arrow prev">이전글</div>
-            <div class="tit">(스포츠서울뉴스 기사) 다올금융그룹, 벤처기업협회와 아이디어 경진대회 개최</div>
+            <div class="tit">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증</div>
           </a>
         </li>
       </ul>

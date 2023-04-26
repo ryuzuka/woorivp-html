@@ -48,6 +48,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop85" role="button" title="상세내용 보기">(서울경제 기사) "벤처투자는 긴 호흡으로…지금은 과감함보다 신중함 필요하죠"<em>2023.04.26</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop84" role="button" title="상세내용 보기">(탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증<em>2022.12.05</em></a>
             </li>
             <li>
@@ -74,7 +77,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop76" role="button" title="상세내용 보기">(더벨 기사) 다올인베, 플라즈맵 엑시트 착수, 예상 멀티플 1.5배<em>2022.11.01</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop75" role="button" title="상세내용 보기">(더벨 기사) 과학기술인공제회, 벤처조합 블라인드펀드 운용사 선정<em>2022.10.20</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -104,7 +107,7 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop66" role="button" title="상세내용 보기">(머니투데이더벨 기사) 펀딩 숨고른 다올인베, 노림수는 하반기<em>2022.07.11</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop65" role="button" title="상세내용 보기">(서울경제 기사) 다올금융그룹, '벤처 챌린지 2022' 개최…대학생 창업인재 발굴<em>2022.07.04</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -134,7 +137,7 @@ jQuery(window).load(function() {
             <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop56" role="button" title="상세내용 보기">(팍스넷뉴스) '1조 벤처펀드' 굴리는 VC, 올해 10곳 넘는다 <em>2022.05.12</em></a>
             </li>
-            <li data-page="2" style="display: none;">
+            <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop55" role="button" title="상세내용 보기">(아시아경제) 에스엠랩, 해외 완성차 업체와 공동개발…IPO 가속화 기대 <em>2022.05.03</em></a>
             </li>
             <li data-page="3" style="display: none;">
@@ -164,7 +167,7 @@ jQuery(window).load(function() {
             <li data-page="3" style="display: none;">
               <a href="#newsDetail_pop38" role="button" title="상세내용 보기">(아시아투데이 기사)한국벤처투자, 벤처생태계 발전에 기여한 VC 선정 <em>2021.12.09</em></a>
             </li>
-            <li data-page="3" style="display: none;">
+            <li data-page="4" style="display: none;">
               <a href="#newsDetail_pop37" role="button" title="상세내용 보기">(뉴스스케이프 기사)KTB네트워크, 청약 경쟁률 327대 1…증거금 4.7조원 <em>2021.12.09</em></a>
             </li>
             <li data-page="4" style="display: none;">
@@ -188,6 +191,41 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 공지사항 상세 레이어팝업(L) -->
+
+<!-- (서울경제 기사) "벤처투자는 긴 호흡으로…지금은 과감함보다 신중함 필요하죠" -->
+<div class="fullLayer" id="newsDetail_pop85">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0">
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">(서울경제 기사) "벤처투자는 긴 호흡으로…지금은 과감함보다 신중함 필요하죠"</h3>
+        <em class="date">2023.04.26</em>
+      </div>
+
+      <div class="detailCon">
+        <div class="newscon_box">
+          <h4 class="tit">(서울경제 기사) "벤처투자는 긴 호흡으로…지금은 과감함보다 신중함 필요하죠"</h4>
+          <p style="text-align: left">
+            김창규대표는 "투자 업계 상황과 거시경제 변수가 많기 때문에 신중하고 이성적인 투자가 중요한 시기"라고 조언했다.
+          </p>
+          <br>
+          <p style="text-align: left">
+            관련하여 서울경제 기사에 게재된 기사 공유드립니다.<br>
+            보다 자세한 내용은 아래 기사 원문에서 확인하세요.
+          </p>
+          <br>
+          <p style="text-align: left">기사 게재일 : 2023.04.26</p>
+          <br>
+          <p style="text-align: left">&gt;&gt;기사 바로가기<br>
+            <a href="https://n.news.naver.com/mnews/article/011/0004183272?sid=102" target="_blank" title="새창 열림">https://n.news.naver.com/mnews/article/011/0004183272?sid=102</a></p>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // (서울경제 기사) "벤처투자는 긴 호흡으로…지금은 과감함보다 신중함 필요하죠" -->
+
 <!-- (탑데일리 기사) 다올인베스트먼트, 명불허전 펀드명가 입증 -->
 <div class="fullLayer" id="newsDetail_pop84">
   <h2 class="layerTit">NEWS</h2>
