@@ -94,9 +94,23 @@ header.headFixed ~ .container .pageTit:after{display:none}
 .terms_wrap .terms_content ul li::after{content:'';display: block;position:absolute;top:11px;left:4px;width:4px;height:4px;border-radius: 4px;background:#555555;}
 .terms_wrap .terms_content.content_top ul li::after{background:#111;}
 .terms_wrap .terms_content li, .terms_wrap .terms_content p{font-size: 12px;line-height: 20px;letter-spacing: -1.2px;color: #555;}
+.terms_fooot{padding-top:50px;}
 .terms_fooot{padding-top:25px;margin-top:50px;border-top:1px solid #DEDEDE}
 .terms_fooot .foot_cont{font-size: 12px;line-height: 1.79;letter-spacing: -1.2px;color: #000;font-weight:500;}
 .terms_fooot .foot_sign{padding-top:10px;font-size: 15px;line-height: 1.56;letter-spacing: -0.9px;color: #000;font-weight:500;}
+
+.terms_wrap .terms_content.privacypolicy ol ol{padding:15px 0 15px 10px;}
+.terms_wrap .terms_content.privacypolicy ol ol li{list-style: disc}
+.terms_wrap .terms_content.privacypolicy ol ol.hangul{padding-bottom:0;}
+.terms_wrap .terms_content.privacypolicy ol ol.hangul li{list-style: hangul}
+.terms_wrap .terms_content.privacypolicy .privacypolicy_text{font-weight:400;color:#555;}
+
+.privacypolicy_list{margin-top:25px;}
+.privacypolicy_list .list_tltle{font-size: 15px;line-height: 1.56;letter-spacing: -0.9px;text-align: center;color: #111;font-weight:500;padding-bottom:9px;}
+.privacypolicy_list .list_sign table{width:240px;margin:0 auto;}
+.privacypolicy_list .list_sign table th{text-align:left; height: 20px;font-size: 10px;letter-spacing: -0.7px;color: #555;font-weight:400;}
+.privacypolicy_list .list_sign table td{height: 20px;font-size: 10px;line-height: 1.79;letter-spacing: -0.7px;text-align: right;color: #555;font-weight:400;}
+
 
 
 /* meet our partners */
