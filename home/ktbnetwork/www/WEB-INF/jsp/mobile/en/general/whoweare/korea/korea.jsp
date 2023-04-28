@@ -216,9 +216,9 @@
           <li class="line">
 						<strong>Auditor</strong>
 						<a href="#person_manageDeatail17" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_17.jpg" alt="Han Jong Bok" /></span>
+							<span><img src="/static/mobile/en/images/contents/img_manage_17.jpg" alt="Jang Ho Hyun" /></span>
 							<span>
-								<em>Han Jong Bok</em>
+								<em>Jang Ho Hyun</em>
 								<b>Auditor</b>
 							</span>
 						</a>
@@ -1006,29 +1006,24 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Kim Chang Kyu President -->
-<!-- Han Jong Bok Auditor -->
+<!-- Jang Ho Hyun Auditor -->
 <div class="fullLayer" id="person_manageDeatail17">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_manage_pop17.jpg" alt="Han Jong Bok" /></span>
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop17.jpg" alt="Jang Ho Hyun" /></span>
 			<div class="deatilCon">
 				<dl>
-					<dt class="name">Han Jong Bok</dt>
+					<dt class="name">Jang Ho Hyun</dt>
 					<dd class="position">KOREA / Management / Auditor</dd>
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>HYUNDAI INDUSTRIAL DEVELOPMENT</li>
-							<li>Hana Asset Trust</li>
-							<li>Kreits Partners</li>
-							<li>RAUM Asset Management</li>
-						</ul>
-					</dd>
-					<dt>Responsibilities</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>Auditor</li>
+							<li>Korea University(Economics)</li>
+							<li>M.A Vanderbilt University</li>
+							<li>Ministry of Economy and Finance</li>
+							<li>International Monetary Fund</li>
+							<li>Bank of Korea</li>
 						</ul>
 					</dd>
 				</dl>
@@ -1037,7 +1032,7 @@
 	</div>
 	<button type="button" class="layerClose">close</button>
 </div>
-<!-- //Han Jong Bok Auditor -->
+<!-- //Jang Ho Hyun Auditor -->
 <!-- Kum Kyung hwan Director -->
 <div class="fullLayer" id="person_manageDeatail03">
 	<h2 class="layerTit">Who We Are</h2>

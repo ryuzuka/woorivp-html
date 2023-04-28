@@ -217,9 +217,9 @@
           <li class="line">
 						<strong>Auditor</strong>
 						<a href="#person_manageDeatail17" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_17.jpg" alt="한종복 감사 사진" /></span>
+							<span><img src="/static/mobile/kr/images/contents/img_manage_17.jpg" alt="장호현 감사 사진" /></span>
 							<span>
-								<em>한종복</em>
+								<em>장호현</em>
 								감사
 							</span>
 						</a>
@@ -1039,29 +1039,24 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //김창규 사장 -->
-<!-- 한종복 감사 -->
+<!-- 장호현 감사 -->
 <div class="fullLayer" id="person_manageDeatail17">
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop17.jpg" alt="한종복 감사 사진" /></span>
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop17.jpg" alt="장호현 감사 사진" /></span>
 			<div class="deatilCon">
 				<dl>
-					<dt class="name">한종복</dt>
+					<dt class="name">장호현</dt>
 					<dd class="position">KOREA / 관리팀 / 감사</dd>
 					<dt>주요경력</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>현대산업개발</li>
-							<li>하나자산신탁</li>
-							<li>케이리츠파트너스</li>
-							<li>라움자산운용㈜</li>
-						</ul>
-					</dd>
-					<dt>업무</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>감사</li>
+							<li>고려대학교 경제학과</li>
+							<li>벤더빌트대 대학원 경제학 석사</li>
+							<li>기획재정부 대외경제국</li>
+							<li>국제통화기금(IMF)</li>
+							<li>한국은행</li>
 						</ul>
 					</dd>
 				</dl>
@@ -1070,7 +1065,7 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //한종복 팀장 -->
+<!-- //장호현 팀장 -->
 <!-- 금경환 이사 -->
 <div class="fullLayer" id="person_manageDeatail03">
 	<h2 class="layerTit">Who We Are</h2>

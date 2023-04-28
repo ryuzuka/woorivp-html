@@ -411,20 +411,18 @@
 					<ul>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/kr/images/contents/img_team43.jpg" alt="한종복"></div>
+								<div class="left"><img src="/static/home/kr/images/contents/img_team43.jpg" alt="장호현"></div>
 								<div class="right">
-									<h3>한종복 <span class="pointColor">KOREA / 관리팀 / 감사</span></h3>
+									<h3>장호현 <span class="pointColor">KOREA / 관리팀 / 감사</span></h3>
 									<dl>
 										<dt>주요경력</dt>
-										<dd>현대산업개발<br>하나자산신탁<br>케이리츠파트너스<br>라움자산운용㈜</dd>
-										<dt>업무</dt>
-										<dd>감사</dd>
+										<dd>고려대학교 경제학과<br>벤더빌트대 대학원 경제학 석사<br>기획재정부 대외경제국<br>국제통화기금(IMF)<br>한국은행
 									</dl>
 								</div>
 							</div>
 							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team43_off.jpg" alt="한종복"></span>
-								<strong>한종복</strong> 감사
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team43_off.jpg" alt="장호현"></span>
+								<strong>장호현</strong> 감사
 							</a>
 						</li>
 					</ul>

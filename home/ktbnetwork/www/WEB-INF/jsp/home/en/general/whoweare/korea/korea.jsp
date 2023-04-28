@@ -392,8 +392,6 @@
 						<div class="memberInner">
 							<h3 class="title">CEO</h3>
 							<ul>
-
-
 								<li class="active">
 									<div class="member">
 										<div class="left"><img src="/static/home/en/images/contents/img_team02.jpg" alt="Kim Chang Kyu"></div>
@@ -418,20 +416,18 @@
 						<ul>
 							<li>
 								<div class="member">
-									<div class="left"><img src="/static/home/kr/images/contents/img_team43.jpg" alt="Han Jong Nok"></div>
+									<div class="left"><img src="/static/home/en/images/contents/img_team43.jpg" alt="Han Jong Nok"></div>
 									<div class="right">
-										<h3>Han Jong Bok <span class="pointColor">KOREA / Management / Auditor</span></h3>
+										<h3>Jang Ho Hyun <span class="pointColor">KOREA / Management / Auditor</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>HYUNDAI INDUSTRIAL DEVELOPMENT<br>Hana Asset Trust<br>Kreits Partners<br>RAUM Asset Management</dd>
-											<dt>Responsibilities</dt>
-											<dd>Auditor</dd>
+											<dd>Korea University(Economics)<br>M.A Vanderbilt University<br>Ministry of Economy and Finance<br>International Monetary Fund<br>Bank of Korea</dd>
 										</dl>
 									</div>
 								</div>
 								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/kr/images/contents/thumb_team43_off.jpg" alt="Han Jong Bok"></span>
-									<strong>Han Jong Bok</strong> Auditor
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team43_off.jpg" alt="Jang Ho Hyun"></span>
+									<strong>Jang Ho Hyun</strong> Auditor
 								</a>
 							</li>
 						</ul>
