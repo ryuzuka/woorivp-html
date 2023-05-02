@@ -421,7 +421,7 @@
 										<h3>Jang Ho Hyun <span class="pointColor">KOREA / Management / Auditor</span></h3>
 										<dl>
 											<dt>Career</dt>
-											<dd>Korea University(Economics)<br>M.A Vanderbilt University<br>Ministry of Economy and Finance<br>International Monetary Fund<br>Bank of Korea</dd>
+											<dd>Korea University(Economics)<br>M.A Vanderbilt University<br>Ministry of Finance<br>Embassy of the Republic of Korea in the U.S.A<br>International Monetary Fund<br>Bank of Korea</dd>
 										</dl>
 									</div>
 								</div>
