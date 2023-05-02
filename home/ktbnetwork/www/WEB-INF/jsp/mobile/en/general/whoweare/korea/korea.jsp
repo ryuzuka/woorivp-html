@@ -1021,7 +1021,7 @@
 						<ul class="listDep1">
 							<li>Korea University(Economics)</li>
 							<li>M.A Vanderbilt University</li>
-							<li>Ministry of Finance</li>
+							<li>Ministry of Economy and Finance</li></li>
 							<li>Embassy of the Republic of Korea in the U.S.A</li>
 							<li>International Monetary Fund</li>
 							<li>Bank of Korea</li>
