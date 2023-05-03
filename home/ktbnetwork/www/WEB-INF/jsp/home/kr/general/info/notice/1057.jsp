@@ -297,7 +297,12 @@
         </div>
       </div>
       <ul class="baordIndex">
-
+        <li>
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=58">
+            <div class="arrow next">다음글</div>
+            <div class="tit">우리벤처파트너스 지점 설치관련 인테리어 공사업체 선정 공고</div>
+          </a>
+        </li>
           <li>
               <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=56">
                   <div class="arrow prev">이전글</div>
