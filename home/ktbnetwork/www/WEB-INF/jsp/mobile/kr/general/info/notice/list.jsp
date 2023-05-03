@@ -203,7 +203,7 @@ jQuery(window).load(function() {
             <colgroup><col style="width:28%"><col style="width:72%"></colgroup>
             <tbody>
             <tr>
-              <th scope="row">1. 입창사항</th>
+              <th scope="row">1. 입찰사항</th>
               <td>
                 - 입찰명 : 우리벤처파트너스 지점 설치관련 인테리어 공사업체 선정<br><br>
                 - 계약기간 : 계약체결일로 ~ 2023.06.05(공사완료 기준일 엄수)<br><br>
