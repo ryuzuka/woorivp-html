@@ -115,6 +115,15 @@
 						</a>
 					</li>
 					<li>
+						<a href="#personDeatail25" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_invest_25.jpg" alt="송기범 이사 사진" /></span>
+							<span>
+								<em>송기범</em>
+								이사
+							</span>
+						</a>
+					</li>
+					<li>
 						<a href="#personDeatail14" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_14.jpg" alt="전경미 팀장 사진" /></span>
 							<span>
@@ -705,7 +714,34 @@
 	</div>
 	<button type="button" class="layerClose">닫기</button>
 </div>
-<!-- //천지웅 팀장 -->
+<!-- //천지웅 이사 -->
+<!-- 송기범 이사 -->
+<div class="fullLayer" id="personDeatail25">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_invest_pop25.jpg" alt="송기범 이사 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">송기범</dt>
+					<dd class="position">KOREA / 투자팀 / 이사</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>성균관대학교 SKK GSB</li>
+							<li>인디아나대학교 MBA</li>
+							<li>미래에셋증권</li>
+							<li>한화투자증권</li>
+							<li>DGB대구은행</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //송기범 이사 -->
 <!-- 전경미 팀장 -->
 <div class="fullLayer" id="personDeatail14">
 	<h2 class="layerTit">Who We Are</h2>

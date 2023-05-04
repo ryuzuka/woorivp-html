@@ -205,6 +205,26 @@
 						</li>
 						<li>
 							<div class="member">
+								<div class="left"><img src="/static/home/en/images/contents/img_team58.jpg" alt="Soung Ki Beom"></div>
+								<div class="right">
+									<h3>Soung Ki Beom <span class="pointColor">KOREA / Investment / Director</span></h3>
+									<dl>
+										<dt>Career</dt>
+										<dd>Sungkyunkwan University, SKK SGB<br>
+											Indiana University Kelley School of Business, MBA<br>
+											Mirae Asset Securities<br>
+											Hanwha Investment & Securities<br>
+											DGB Daegu Bank</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team58_off.jpg" alt="Soung Ki Beom"></span>
+								<strong>Soung Ki Beom</strong> Director
+							</a>
+						</li>
+						<li>
+							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team13.jpg" alt="Jeun Kyung Mi"></div>
 								<div class="right">
 									<h3>Jeun Kyung Mi <span class="pointColor">KOREA / Investment / Team Manager</span></h3>

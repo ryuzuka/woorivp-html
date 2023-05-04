@@ -207,6 +207,26 @@
 					</li>
 					<li>
 						<div class="member">
+							<div class="left"><img src="/static/home/kr/images/contents/img_team58.jpg" alt="송기범"></div>
+							<div class="right">
+								<h3>송기범 <span class="pointColor">KOREA / 투자팀 / 이사</span></h3>
+								<dl>
+									<dt>주요경력</dt>
+									<dd>성균관대학교 SKK GSB</dd>
+									<dd>인디아나대학교 MBA</dd>
+									<dd>미래에셋증권</dd>
+									<dd>한화투자증권</dd>
+									<dd>DGB대구은행</dd>
+								</dl>
+							</div>
+						</div>
+						<a href="#" class="thumb">
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team58_off.jpg" alt="송기범"></span>
+							<strong>송기범</strong> 이사
+						</a>
+					</li>
+					<li>
+						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team13.jpg" alt="전경미"></div>
 							<div class="right">
 								<h3>전경미 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>

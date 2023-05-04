@@ -115,6 +115,15 @@
 						</a>
 					</li>
 					<li>
+						<a href="#personDeatail25" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_invest_25.jpg" alt="Soung Ki Beom" /></span>
+							<span>
+								<em>Soung Ki Beom</em>
+								Director
+							</span>
+						</a>
+					</li>
+					<li>
 						<a href="#personDeatail14" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_14.jpg" alt="Jeun Kyung Mi" /></span>
 							<span>
@@ -681,6 +690,33 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- // Chun Ji Woong Director -->
+<!-- Soung Ki Beom Director -->
+<div class="fullLayer" id="personDeatail25">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_invest_pop25.jpg" alt="Soung Ki Beom" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Soung Ki Beom</dt>
+					<dd class="position">KOREA / Investment / Director</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>Sungkyunkwan University, SKK SGB</li>
+							<li>Indiana University Kelley School of Business, MBA</li>
+							<li>Mirae Asset Securities</li>
+							<li>Hanwha Investment & Securities</li>
+							<li>DGB Daegu Bank</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- // Soung Ki Beom Director -->
 <!-- Jeun Kyung Mi Team Manager -->
 <div class="fullLayer" id="personDeatail14">
 	<h2 class="layerTit">Who We Are</h2>
