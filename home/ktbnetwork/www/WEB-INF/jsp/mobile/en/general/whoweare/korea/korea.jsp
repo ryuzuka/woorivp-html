@@ -374,6 +374,16 @@
           </li>
 					<li>
 						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail27" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_manage_27.jpg" alt="Jo Hyun Rae" /></span>
+							<span>
+								<em>Jo Hyun Rae</em>
+								<b>Manager</b>
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail24" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_manage_24.jpg" alt="Jang Hyun Woo" /></span>
 							<span>
@@ -1634,4 +1644,33 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Ko Myung Ju Assistant Manager -->
+<!-- Jo Hyun Rae Manager -->
+<div class="fullLayer" id="person_manageDeatail27">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_manage_pop27.jpg" alt="Jo Hyun Rae" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Jo Hyun Rae</dt>
+					<dd class="position">KOREA / Management / Director</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>DAOL Securities</li>
+						</ul>
+					</dd>
+					<dt>Responsibilities</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>IT Management</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Jo Hyun Rae Manager -->
 <!-- //team investment(L) -->

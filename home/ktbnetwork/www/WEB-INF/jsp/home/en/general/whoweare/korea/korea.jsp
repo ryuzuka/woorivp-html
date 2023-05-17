@@ -716,6 +716,24 @@
               </li>
 							<li>
 								<div class="member">
+									<div class="left"><img src="/static/home/en/images/contents/img_team59.jpg" alt="Jo Hyun Rae"></div>
+									<div class="right">
+										<h3>Jo Hyun Rae <span class="pointColor">KOREA / Management / Manager</span></h3>
+										<dl>
+											<dt>Career</dt>
+											<dd>DAOL Securities</dd>
+											<dt>Responsibilities</dt>
+											<dd>IT Management</dd>
+										</dl>
+									</div>
+								</div>
+								<a href="#" class="thumb">
+									<span class="img"><img src="/static/home/en/images/contents/thumb_team59_off.jpg" alt="Jo Hyun Rae"></span>
+									<strong>Jo Hyun Rae</strong> Manager
+								</a>
+							</li>
+							<li>
+								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team53.jpg" alt="Jang Hyun Woo"></div>
 									<div class="right">
 										<h3>Jang Hyun Woo <span class="pointColor">KOREA / Management / Associate</span></h3>

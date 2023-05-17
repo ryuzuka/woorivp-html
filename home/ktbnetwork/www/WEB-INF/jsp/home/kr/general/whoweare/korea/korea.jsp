@@ -732,6 +732,26 @@
             </li>
 						<li>
 							<div class="member">
+								<div class="left"><img src="/static/home/kr/images/contents/img_team59.jpg" alt="조현래"></div>
+								<div class="right">
+									<h3>조현래 <span class="pointColor">KOREA / 관리팀 / 대리</span></h3>
+									<dl>
+										<dt>주요경력</dt>
+										<dd>다올투자증권</dd>
+									</dl>
+									<dl>
+										<dt>업무</dt>
+										<dd>IT/전산 관리 및 운영</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/kr/images/contents/thumb_team59_off.jpg" alt="조현래"></span>
+								<strong>조현래</strong> 대리
+							</a>
+						</li>
+						<li>
+							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team53.jpg" alt="장현우"></div>
 								<div class="right">
 									<h3>장현우 <span class="pointColor">KOREA / 관리팀 / 주임</span></h3>

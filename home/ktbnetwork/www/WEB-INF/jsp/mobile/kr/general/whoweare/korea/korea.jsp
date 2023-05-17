@@ -387,6 +387,16 @@
           </li>
 					<li>
 						<strong class="hidden">Management</strong>
+						<a href="#person_manageDeatail27" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_manage_27.jpg" alt="조현래 대리 사진" /></span>
+							<span>
+								<em>조현래</em>
+								대리
+							</span>
+						</a>
+					</li>
+					<li>
+						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail24" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_manage_24.jpg" alt="장현우 주임 사진" /></span>
 							<span>
@@ -1637,4 +1647,33 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //고명주 사원 -->
+<!-- 조현래 대리 -->
+<div class="fullLayer" id="person_manageDeatail27">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop27.jpg" alt="조현래 대리 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">조현래</dt>
+					<dd class="position">KOREA / 관리팀 / 대리</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>다올투자증권</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>IT/전산 관리 및 운영</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //조현래 대리 -->
 <!-- //팀원소개 investment(L) -->
