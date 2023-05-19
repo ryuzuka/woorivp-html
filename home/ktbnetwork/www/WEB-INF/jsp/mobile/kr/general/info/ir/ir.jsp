@@ -20,6 +20,9 @@
 					<h2 class="hidden">IR 리스트</h2>
 					<ul class="boardList download">
 						<li>
+							<a href="/pdf/IR_1Q23.pdf" target="_blank" role="button">다올인베스트먼트 IR_1Q.23 <em>2023.05.15</em></a>
+						</li>
+						<li>
 							<a href="/pdf/IR_4Q22.pdf" target="_blank" role="button">다올인베스트먼트 IR_4Q.22 <em>2023.03.15</em></a>
 						</li>
 						<li>
