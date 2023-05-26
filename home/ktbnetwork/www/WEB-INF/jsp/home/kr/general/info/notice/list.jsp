@@ -24,6 +24,18 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=60">
+									<strong class="tit">기준일 설정 공고</strong>
+									<div class="con"><span class="date">2023.05.26</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=59">
+									<strong class="tit">주식매수청구권 관련 서식</strong>
+									<div class="con"><span class="date">2023.05.26</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=58">
 									<strong class="tit">우리벤처파트너스 지점 설치관련 인테리어 공사업체 선정 공고</strong>
 									<div class="con"><span class="date">2023.05.02</span></div>
@@ -71,6 +83,9 @@
 									<div class="con"><span class="date">2022.03.21</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=49">
 									<strong class="tit">제 14기 정기주주총회 소집통지서</strong>
@@ -83,9 +98,6 @@
 									<div class="con"><span class="date">2022.02.14</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=52">
 									<strong class="tit">내부정보관리규정</strong>
@@ -134,6 +146,9 @@
 									<div class="con"><span class="date">2021.07.13</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=25">
 									<strong class="tit">주식 2차공매 공고</strong>
@@ -146,9 +161,6 @@
 									<div class="con"><span class="date">2021.07.06</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=23">
 									<strong class="tit">주식명의개서정지공고</strong>
@@ -197,6 +209,9 @@
 									<div class="con"><span class="date">2018.03.06</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=5">
 									<strong class="tit">제 9기 결산공고</strong>
@@ -209,9 +224,6 @@
 									<div class="con"><span class="date">2016.03.07</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=7">
 									<strong class="tit">외부감사인 선임 공고</strong>
@@ -260,6 +272,9 @@
 									<div class="con"><span class="date">2011.10.25</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '5' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=15">
 									<strong class="tit">제 3기 결산공고</strong>
@@ -272,9 +287,6 @@
 									<div class="con"><span class="date">2011.02.22</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '5' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=17">
 									<strong class="tit">채권자 이의제출 공고</strong>

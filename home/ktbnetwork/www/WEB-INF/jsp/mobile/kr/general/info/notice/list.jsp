@@ -48,6 +48,12 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop60" role="button" title="상세내용 보기">기준일 설정 공고 <em>2023.05.26</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop59" role="button" title="상세내용 보기">주식매수청구권 관련 서식 <em>2023.05.26</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop58" role="button" title="상세내용 보기">우리벤처파트너스 지점 설치관련 인테리어 공사업체선정 공고 <em>2023.05.02</em></a>
             </li>
             <li>
@@ -185,6 +191,72 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
+<!-- 기준일 설정 공고 -->
+<div class="fullLayer" id="newsDetail_pop60">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">기준일 설정 공고</h3>
+        <em class="date">2023.05.26</em>
+      </div>
+      <div class="detailCon">
+        <h3 style="text-align: center">기준일 설정 공고</h3>
+        <br>
+        &nbsp;당사는 이사회에서 주식회사 우리금융지주와의 포괄적 주식교환을 결의하였는바, 상법 제354조 및 당사 정관 제16조에 의거 2023년 6월 7일 현재 주주명부에 등재되어 있는 주주에게 위 주식 회사 우리금융지주와의 포괄적 주식교환에 관한 임시주주총회의 의결권을 부여하고 포괄적 주식 교환에 대한 반대의사를 표시할 수 있는 주주로 확정하기 위하여 기준일을 공고합니다.
+
+        <div class="newscon_box" style="margin-top:35px;">
+          <p class="txt">위와 같이 공고합니다.</p>
+          <div class="bottomTxt">
+            <em>2023년 05월 26일</em>
+            <br>
+            <strong class="ceoTxt">우리벤처파트너스㈜ 주식회사</strong>
+            <p>경기도 성남시 분당구 대왕판교로670유스페이스2A동 10층 (☏031-628-6400)</p>
+            <strong>다올인베스트먼트 주식회사<br>대표이사 김창규</strong>
+            <strong>명의개서대리인<br>KB국민은행 은행장 이재근</strong>
+          </div>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+
+
+  <!-- 주식매수청구권 관련 서식 -->
+  <div class="fullLayer" id="newsDetail_pop59">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">주식매수청구권 관련 서식</h3>
+          <em class="date">2023.05.26</em>
+        </div>
+        <div class="detailCon">
+          <h3 style="text-align: center">주식매수청구권 관련 서식</h3>
+          <br>
+          <ul class="list">
+            <li>안녕하십니까 우리벤처파트너스입니다.<br>
+              주식매수청구권 관련 서식입니다. 자세한 내용은 금융감독원 전자공시시스템의 공시 내용을 참조해주시기 바랍니다.
+              감사합니다.</li>
+            <br>
+            <li>- 첨부파일 : <a style="text-decoration-line: underline" href="/doc/별첨_주식매수청구권관련_서식.pdf" download>별첨_주식매수청구권관련_서식.pdf</a><br><br></li><br>
+          </ul>
+
+          <div class="newscon_box" style="margin-top:35px;">
+            <p class="txt">위와 같이 공고합니다.</p>
+            <div class="bottomTxt">
+              <em>2023년 05월 26일</em>
+              <br>
+              <strong class="ceoTxt">우리벤처파트너스㈜ 경영지원그룹</strong>
+            </div>
+          </div>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+
 
   <!-- 우리벤처파트너스 지점 설치관련 인테리어 공사업체 선정 공고 -->
   <div class="fullLayer" id="newsDetail_pop58">
