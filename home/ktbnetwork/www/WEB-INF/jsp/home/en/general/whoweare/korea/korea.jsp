@@ -567,25 +567,7 @@
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team24_off.jpg" alt="Hong Ji Won"></span>
 									<strong>Hong Ji Won</strong> Director
 								</a>
-							</li>
-							<li>
-								<div class="member">
-									<div class="left"><img src="/static/home/en/images/contents/img_team49.png" alt="Kim Boo Kyum"></div>
-									<div class="right">
-										<h3>Kim Boo Kyum <span class="pointColor">KOREA / Management / Team Manager</span></h3>
-										<dl>
-											<dt>Career</dt>
-											<dd>Woori Asset Management<br>Consus Asset Management<br>Yurie Asset Management<br>Gennaker Investment Partners</dd>
-											<dt>Responsibilities</dt>
-											<dd>IR</dd>
-										</dl>
-									</div>
-								</div>
-								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/en/images/contents/thumb_team49_off.png" alt="Kim Boo Kyum"></span>
-									<strong>Kim Boo Kyum</strong> Team Manager
-								</a>
-							</li>
+							</li>겸
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team45.jpg" alt="Kwon Soon Won"></div>

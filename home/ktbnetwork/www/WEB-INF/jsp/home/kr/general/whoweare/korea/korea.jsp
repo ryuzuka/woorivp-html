@@ -586,24 +586,6 @@
 						</li>
 						<li>
 							<div class="member">
-								<div class="left"><img src="/static/home/kr/images/contents/img_team49.png" alt="김부겸"></div>
-								<div class="right">
-									<h3>김부겸 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>
-									<dl>
-										<dt>주요경력</dt>
-										<dd>우리자산운용<br>칸서스자산운용<br>유리자산운용<br>제네카인베스트먼트파트너스</dd>
-										<dt>업무</dt>
-										<dd>IR</dd>
-									</dl>
-								</div>
-							</div>
-							<a href="#" class="thumb">
-								<span class="img"><img src="/static/home/kr/images/contents/thumb_team49_off.png" alt="김부겸"></span>
-								<strong>김부겸</strong> 팀장
-							</a>
-						</li>
-						<li>
-							<div class="member">
 								<div class="left"><img src="/static/home/kr/images/contents/img_team45.jpg" alt="권순원"></div>
 								<div class="right">
 									<h3>권순원 <span class="pointColor">KOREA / 관리팀 / 팀장</span></h3>

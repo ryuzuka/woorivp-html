@@ -307,16 +307,6 @@
 					</li>
 					<li>
 						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail21" role="button">
-							<span><img src="/static/mobile/kr/images/contents/img_manage_21.png" alt="김부겸 팀장 사진" /></span>
-							<span>
-								<em>김부겸</em>
-								팀장
-							</span>
-						</a>
-					</li>
-					<li>
-						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail19" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_manage_19.jpg" alt="권순원 팀장 사진" /></span>
 							<span>
@@ -1296,38 +1286,6 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //홍지원 이사 -->
-<!-- 김부겸 팀장 -->
-<div class="fullLayer" id="person_manageDeatail21">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/kr/images/contents/img_manage_pop21.png" alt="김부겸 팀장 사진" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">김부겸</dt>
-					<dd class="position">KOREA / 관리팀 / 팀장</dd>
-					<dt>주요경력</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>우리자산운용</li>
-							<li>칸서스자산운용</li>
-							<li>유리자산운용</li>
-							<li>제네카인베스트먼트파트너스</li>
-						</ul>
-					</dd>
-					<dt>업무</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>IR</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">닫기</button>
-</div>
-<!-- //김부겸 팀장 -->
 <!-- 권순원 팀장 -->
 <div class="fullLayer" id="person_manageDeatail19">
 	<h2 class="layerTit">Who We Are</h2>

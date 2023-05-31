@@ -294,16 +294,6 @@
 					</li>
 					<li>
 						<strong class="hidden">Management</strong>
-						<a href="#person_manageDeatail21" role="button">
-							<span><img src="/static/mobile/en/images/contents/img_manage_21.png" alt="Kim Boo Kyum" /></span>
-							<span>
-								<em>Kim Boo Kyum</em>
-								<b>Team Manager</b>
-							</span>
-						</a>
-					</li>
-					<li>
-						<strong class="hidden">Management</strong>
 						<a href="#person_manageDeatail19" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_manage_19.jpg" alt="Kwon Soon Won" /></span>
 							<span>
@@ -1293,38 +1283,6 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Hong Ji Won Director -->
-<!-- Kim Boo Kyum Team Manager -->
-<div class="fullLayer" id="person_manageDeatail21">
-	<h2 class="layerTit">Who We Are</h2>
-	<div class="layerCont" tabindex="0">
-		<div class="personDetail">
-			<span><img src="/static/mobile/en/images/contents/img_manage_pop21.png" alt="Kim Boo Kyum" /></span>
-			<div class="deatilCon">
-				<dl>
-					<dt class="name">Kim Boo Kyum</dt>
-					<dd class="position">KOREA / Management / Team Manager</dd>
-					<dt>Career</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>Woori Asset Management</li>
-							<li>Consus Asset Management</li>
-							<li>Yurie Asset Management</li>
-							<li>Gennaker Investment Partners</li>
-						</ul>
-					</dd>
-					<dt>Responsibilities</dt>
-					<dd>
-						<ul class="listDep1">
-							<li>IR</li>
-						</ul>
-					</dd>
-				</dl>
-			</div>
-		</div>
-	</div>
-	<button type="button" class="layerClose">close</button>
-</div>
-<!-- //Kim Boo Kyum Team Manager -->
 <!-- Soon Won Kwon Team Manager -->
 <div class="fullLayer" id="person_manageDeatail19">
 	<h2 class="layerTit">Who We Are</h2>
