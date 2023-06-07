@@ -567,7 +567,7 @@
 									<span class="img"><img src="/static/home/en/images/contents/thumb_team24_off.jpg" alt="Hong Ji Won"></span>
 									<strong>Hong Ji Won</strong> Director
 								</a>
-							</li>겸
+							</li>
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/en/images/contents/img_team45.jpg" alt="Kwon Soon Won"></div>
