@@ -356,6 +356,27 @@
 						</li>
 						<li>
 							<div class="member">
+								<div class="left"><img src="/static/home/en/images/contents/img_team60.png" alt="Kang Jin Hyoun"></div>
+								<div class="right">
+									<h3>Kang Jin Hyoun <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
+									<dl>
+										<dt>Career</dt>
+										<dd>
+											B.S. in Chemistry from Seoul National University<br>
+											M.S. in Chemistry from Seoul National University<br>
+											Ph.D. in Physics from Seoul National University<br>
+											Samsung Advanced Institute of Technology (SAIT)
+										</dd>
+									</dl>
+								</div>
+							</div>
+							<a href="#" class="thumb">
+								<span class="img"><img src="/static/home/en/images/contents/thumb_team60_off.png" alt="Kang Jin Hyoun"></span>
+								<strong>Kang Jin Hyoun</strong> Investment Manager
+							</a>
+						</li>
+						<li>
+							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team41.jpg" alt="Kim Shin Young"></div>
 								<div class="right">
 									<h3>Kim Shin Young <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>

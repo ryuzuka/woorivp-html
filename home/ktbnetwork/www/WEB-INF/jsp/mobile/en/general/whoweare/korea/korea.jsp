@@ -187,6 +187,15 @@
 						</a>
 					</li>
 					<li>
+						<a href="#personDeatail26" role="button">
+							<span><img src="/static/mobile/en/images/contents/img_invest_26.png" alt="Kang Jin Hyoun" /></span>
+							<span>
+								<em>Kang Jin Hyoun</em>
+								Team Manager
+							</span>
+						</a>
+					</li>
+					<li>
 						<a href="#personDeatail20" role="button">
 							<span><img src="/static/mobile/en/images/contents/img_invest_20.jpg" alt="Kim Shin Young" /></span>
 							<span>
@@ -987,6 +996,32 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //Park Hyung Joo Team Manager -->
+<!-- Kang Jin Hyoun Team Manager -->
+<div class="fullLayer" id="personDeatail26">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/en/images/contents/img_invest_pop26.png" alt="Kang Jin Hyoun" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">Kang Jin Hyoun</dt>
+					<dd class="position">KOREA / Investment / Team Manager</dd>
+					<dt>Career</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>B.S. in Chemistry from Seoul National University</li>
+							<li>M.S. in Chemistry from Seoul National University</li>
+							<li>Ph.D. in Physics from Seoul National University</li>
+							<li>Samsung Advanced Institute of Technology (SAIT)</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //Kang Jin Hyoun Team Manager -->
 <!-- //team investment(L) -->
 
 <!-- team management(L) -->

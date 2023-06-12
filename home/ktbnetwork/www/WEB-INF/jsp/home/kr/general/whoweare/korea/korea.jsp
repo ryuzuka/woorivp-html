@@ -352,6 +352,27 @@
 					</li>
 					<li>
 						<div class="member">
+							<div class="left"><img src="/static/home/kr/images/contents/img_team60.png" alt="강진현"></div>
+							<div class="right">
+								<h3>강진현 <span class="pointColor">KOREA / 투자팀 / 팀장</span></h3>
+								<dl>
+									<dt>주요경력</dt>
+									<dd>
+										서울대학교 화학부<br>
+										서울대학교 화학 석사<br>
+										서울대학교 물리학 박사<br>
+										삼성전자 종합기술원
+									</dd>
+								</dl>
+							</div>
+						</div>
+						<a href="#" class="thumb">
+							<span class="img"><img src="/static/home/kr/images/contents/thumb_team60_off.png" alt="강진현"></span>
+							<strong>강진현</strong> 팀장
+						</a>
+					</li>
+					<li>
+						<div class="member">
 							<div class="left"><img src="/static/home/kr/images/contents/img_team41.jpg" alt="김신영"></div>
 							<div class="right">
 								<h3>김신영 <span class="pointColor">KOREA / 투자팀 / 심사역</span></h3>

@@ -188,6 +188,15 @@
 						</a>
 					</li>
 					<li>
+						<a href="#personDeatail26" role="button">
+							<span><img src="/static/mobile/kr/images/contents/img_invest_26.png" alt="강진현 팀장 사진" /></span>
+							<span>
+								<em>강진현</em>
+								팀장
+							</span>
+						</a>
+					</li>
+					<li>
 						<a href="#personDeatail20" role="button">
 							<span><img src="/static/mobile/kr/images/contents/img_invest_20.jpg" alt="김신영 심사역 사진" /></span>
 							<span>
@@ -1012,6 +1021,32 @@
 	<button type="button" class="layerClose">close</button>
 </div>
 <!-- //박형주 팀장 -->
+<!-- 강진현 팀장 -->
+<div class="fullLayer" id="personDeatail26">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_invest_pop26.png" alt="강진현" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">강진현</dt>
+					<dd class="position">KOREA / 투자팀 / 팀장</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>서울대학교 화학부</li>
+							<li>서울대학교 화학 석사</li>
+							<li>서울대학교 물리학 박사</li>
+							<li>삼성전자 종합기술원</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">close</button>
+</div>
+<!-- //강진현 팀장 -->
 <!-- //팀원소개 investment(L) -->
 
 <!-- 팀원소개 management(L) -->
@@ -1605,6 +1640,35 @@
 	<button type="button" class="layerClose">닫기</button>
 </div>
 <!-- //고명주 사원 -->
+<!-- 조현래 대리 -->
+<div class="fullLayer" id="person_manageDeatail27">
+	<h2 class="layerTit">Who We Are</h2>
+	<div class="layerCont" tabindex="0">
+		<div class="personDetail">
+			<span><img src="/static/mobile/kr/images/contents/img_manage_pop27.jpg" alt="조현래 대리 사진" /></span>
+			<div class="deatilCon">
+				<dl>
+					<dt class="name">조현래</dt>
+					<dd class="position">KOREA / 관리팀 / 대리</dd>
+					<dt>주요경력</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>다올투자증권</li>
+						</ul>
+					</dd>
+					<dt>업무</dt>
+					<dd>
+						<ul class="listDep1">
+							<li>IT/전산 관리 및 운영</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="layerClose">닫기</button>
+</div>
+<!-- //조현래 대리 -->
 <!-- 조현래 대리 -->
 <div class="fullLayer" id="person_manageDeatail27">
 	<h2 class="layerTit">Who We Are</h2>
