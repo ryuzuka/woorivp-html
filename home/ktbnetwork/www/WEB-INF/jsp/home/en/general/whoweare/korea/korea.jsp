@@ -358,7 +358,7 @@
 							<div class="member">
 								<div class="left"><img src="/static/home/en/images/contents/img_team60.png" alt="Kang Jin Hyoun"></div>
 								<div class="right">
-									<h3>Kang Jin Hyoun <span class="pointColor">KOREA / Investment / Investment Manager</span></h3>
+									<h3>Kang Jin Hyoun <span class="pointColor">KOREA / Investment / Team Manager</span></h3>
 									<dl>
 										<dt>Career</dt>
 										<dd>
@@ -372,7 +372,7 @@
 							</div>
 							<a href="#" class="thumb">
 								<span class="img"><img src="/static/home/en/images/contents/thumb_team60_off.png" alt="Kang Jin Hyoun"></span>
-								<strong>Kang Jin Hyoun</strong> Investment Manager
+								<strong>Kang Jin Hyoun</strong> Team Manager
 							</a>
 						</li>
 						<li>
