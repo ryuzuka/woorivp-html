@@ -667,8 +667,8 @@ $(window).on('load', function() {
                         lng: 127.106020
                     }, // pangyo
                     {
-                        lat: 37.503332,
-                        lng: 127.043157
+                        lat: 37.503187,
+                        lng: 127.043188
                     }, // gangnam
                     {
                         lat: 31.206200,
