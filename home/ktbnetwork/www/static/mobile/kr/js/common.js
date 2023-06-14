@@ -926,6 +926,10 @@ $(document).ready(function(){
                 lng: 127.106020
             }, //seoul
             {
+                lat: 37.593332,
+                lng: 127.043178
+            }, //gangnam
+            {
                 lat: 31.206200,
                 lng: 121.407815
             }, //shanghai

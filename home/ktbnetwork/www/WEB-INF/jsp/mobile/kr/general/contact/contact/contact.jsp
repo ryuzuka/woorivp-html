@@ -18,7 +18,26 @@
 								<ul class="info">
 									<li>
 										<strong class="tit">전화번호</strong>
-										<a href="tel:031-628-6400" class="data tel">031-628-6400</a><!-- 0411 수정 -->
+										<a href="tel:070-4377-2000" class="data tel">070-4377-2000</a><!-- 0411 수정 -->
+									</li>
+									<li>
+										<strong class="tit">이메일</strong>
+										<a href="mailto:webmaster@woorivp.com" class="data mail">webmaster@woorivp.com</a><!-- 0415 수정 -->
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li>
+						<a href="#" role="button">Gangnam</a>
+						<div class="tglCont">
+							<div class="contactArea">
+								<p class="addr">서울특별시 강남구 테헤란로 301, 삼정빌딩 18층</p>
+								<div class="map"></div>
+								<ul class="info">
+									<li>
+										<strong class="tit">전화번호</strong>
+										<a href="tel:070-4377-2000" class="data tel">070-4377-2000</a><!-- 0411 수정 -->
 									</li>
 									<li>
 										<strong class="tit">이메일</strong>

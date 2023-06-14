@@ -18,7 +18,26 @@
 								<ul class="info">
 									<li>
 										<strong class="tit">Tel</strong>
-										<a href="tel:02-788-8400" class="data tel">+82 31-628-6400</a>
+										<a href="tel:070-4377-2000" class="data tel">+82 070-4377-2000</a>
+									</li>
+									<li>
+										<strong class="tit">E-mail</strong>
+										<a href="mailto:webmaster@woorivp.com" class="data mail">webmaster@woorivp.com</a><!-- 0415 수정 -->
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li>
+						<a href="#" role="button">Gangnam</a>
+						<div class="tglCont">
+							<div class="contactArea">
+								<p class="addr">18FL, 301, Teheran-ro, Gangnam-gu, Seoul, Republic of Korea</p>
+								<div class="map"></div>
+								<ul class="info">
+									<li>
+										<strong class="tit">Tel</strong>
+										<a href="tel:070-4377-2000" class="data tel">+82 070-4377-2000</a>
 									</li>
 									<li>
 										<strong class="tit">E-mail</strong>

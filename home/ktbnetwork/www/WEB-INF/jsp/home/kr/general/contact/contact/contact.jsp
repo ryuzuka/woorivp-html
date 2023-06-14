@@ -26,6 +26,16 @@
 								</div>
 							</li>
 							<li class="toggle">
+								<a href="#" class="togBar">Gangnam</a>
+								<div class="togCon">
+									서울특별시 강남구 테헤란로 301, 삼정빌딩 18층
+									<div class="link">
+										<p class="tel">070-4377-2000</p>
+										<p class="mail"><a href="mailto:webmaster@woorivp.com">webmaster@woorivp.com</a></p><!-- 0415 수정 -->
+									</div>
+								</div>
+							</li>
+							<li class="toggle">
 								<a href="#" class="togBar">Shanghai</a>
 								<div class="togCon">
 									2806, L'Avenue, No.99 Xianxia Road, Changning District, Shanghai, China
