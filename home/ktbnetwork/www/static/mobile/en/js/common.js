@@ -798,23 +798,23 @@
         this.location = [{
                 lat: 37.402430,
                 lng: 127.106020
-            }, //seoul
+            }, // pangyo
             {
-                lat: 37.593332,
-                lng: 127.043178
-            }, //gangnam
+                lat: 37.503332,
+                lng: 127.043157
+            }, // gangnam
             {
                 lat: 31.206200,
                 lng: 121.407815
-            }, //shanghai
+            }, // shanghai
             {
                 lat: 37.793565,
                 lng: -122.396979
-            }, //paloAlto
+            }, // paloAlto
             {
                 lat: 1.30017,
                 lng: 103.83730
-            } //Singapore
+            } // Singapore
         ];
 
         this._setDefTabEl();
