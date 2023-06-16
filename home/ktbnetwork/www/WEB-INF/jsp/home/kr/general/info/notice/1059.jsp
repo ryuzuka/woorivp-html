@@ -43,9 +43,9 @@
 
 					<ul class="baordIndex">
             <li>
-              <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=60">
+              <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
                 <div class="arrow next">다음글</div>
-                <div class="tit">기준일 설정 공고</div>
+                <div class="tit">공시정보관리규정</div>
               </a>
             </li>
 						<li>

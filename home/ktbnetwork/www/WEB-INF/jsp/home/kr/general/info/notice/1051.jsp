@@ -137,9 +137,9 @@
       </div>
       <ul class="baordIndex">
         <li>
-          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=54">
             <div class="arrow next">다음글</div>
-            <div class="tit">내부정보관리규정(개정)</div>
+            <div class="tit">주식명의개서정지공고</div>
           </a>
         </li>
         <li>

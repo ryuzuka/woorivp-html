@@ -51,6 +51,9 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop60" role="button" title="상세내용 보기">기준일 설정 공고 <em>2023.05.26</em></a>
             </li>
             <li>
+              <a href="#newsDetail_pop53" role="button" title="상세내용 보기">공시정보관리규정<em> 2022.05.24</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop59" role="button" title="상세내용 보기">주식매수청구권 관련 서식 <em>2023.05.26</em></a>
             </li>
             <li>
@@ -69,18 +72,15 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop54" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2022.12.16</em></a>
             </li>
             <li>
-              <a href="#newsDetail_pop53" role="button" title="상세내용 보기">내부정보관리규정(개정)<em> 2022.03.22</em></a>
-            </li>
-            <li>
               <a href="#newsDetail_pop51" role="button" title="상세내용 보기">KTB네트워크 제14기 정기주주총회 결과<em> 2022.03.21</em></a>
             </li>
             <li>
               <a href="#newsDetail_pop50" role="button" title="상세내용 보기">제 14기 결산공고<em>2022.03.21</em></a>
             </li>
-            <li>
+            <li data-page="1">
               <a href="#newsDetail_pop49" role="button" title="상세내용 보기">제 14기 정기주주총회 소집통지서<em>2022.03.07</em></a>
             </li>
-            <li>
+            <li data-page="1">
               <a href="#newsDetail_pop48" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2022.02.14</em></a>
             </li>
             <li data-page="1">
@@ -107,10 +107,10 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
                 <a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
                 <a href="#newsDetail_pop25" role="button" title="상세내용 보기">주식 2차공매 공고<em>2021.07.12</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
                 <a href="#newsDetail_pop24" role="button" title="상세내용 보기">주식 1차공매 공고<em>2021.07.06</em></a>
             </li>
 						<li data-page="2" style="display: none;">
@@ -137,10 +137,10 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop04" role="button" title="상세내용 보기">제 10기 결산공고<em>2018.03.06</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop05" role="button" title="상세내용 보기">제 9기 결산공고<em>2017.03.02</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop06" role="button" title="상세내용 보기">제 8기 결산공고<em>2016.03.07</em></a>
 						</li>
 						<li data-page="3" style="display: none;">
@@ -167,10 +167,10 @@ jQuery(window).load(function() {
 						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop14" role="button" title="상세내용 보기">(주)다림비젼 주식 공매 공고<em>2011.10.25</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop15" role="button" title="상세내용 보기">제 3기 결산공고<em>2011.06.13</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop16" role="button" title="상세내용 보기">주권제출 공고<em>2011.02.22</em></a>
 						</li>
 						<li data-page="4" style="display: none;">
@@ -191,37 +191,68 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
-<!-- 기준일 설정 공고 -->
-<div class="fullLayer" id="newsDetail_pop60">
-  <h2 class="layerTit">NEWS</h2>
-  <div class="layerCont" tabindex="0" >
-    <div class="board_detail">
-      <div class="detailTop">
-        <h3 class="titDep3">기준일 설정 공고</h3>
-        <em class="date">2023.05.26</em>
-      </div>
-      <div class="detailCon">
-        <h3 style="text-align: center">기준일 설정 공고</h3>
-        <br>
-        &nbsp;당사는 이사회에서 주식회사 우리금융지주와의 포괄적 주식교환을 결의하였는바, 상법 제354조 및 당사 정관 제16조에 의거 2023년 6월 7일 현재 주주명부에 등재되어 있는 주주에게 위 주식 회사 우리금융지주와의 포괄적 주식교환에 관한 임시주주총회의 의결권을 부여하고 포괄적 주식 교환에 대한 반대의사를 표시할 수 있는 주주로 확정하기 위하여 기준일을 공고합니다.
-
-        <div class="newscon_box" style="margin-top:35px;">
-          <p class="txt">위와 같이 공고합니다.</p>
-          <div class="bottomTxt">
-            <em>2023년 05월 26일</em>
-            <br>
-            <strong class="ceoTxt">우리벤처파트너스㈜ 주식회사</strong>
-            <p>경기도 성남시 분당구 대왕판교로670유스페이스2A동 10층 (☏031-628-6400)</p>
-            <strong>다올인베스트먼트 주식회사<br>대표이사 김창규</strong>
-            <strong>명의개서대리인<br>KB국민은행 은행장 이재근</strong>
-          </div>
+  <!-- 공시정보관리규정 -->
+  <div class="fullLayer" id="newsDetail_pop53">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont pd0" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">공시정보관리규정</h3>
+          <em class="date">2023.05.24</em>
         </div>
-      </div><!-- //detailCon -->
-    </div>
-  </div>
-  <button type="button" class="layerClose">닫기</button>
-</div>
+        <div class="detailCon">
+          <p>당사의 공시정보관리규정은 첨부파일을 참조하시기 바랍니다.</p>
 
+          <div class="newscon_box" style="margin-top:35px;">
+            <div class="bottomTxt">
+              <em>2023년 05월 24일</em>
+              <strong>우리벤처파트너스(주)<br>대표이사 김창규</strong>
+            </div>
+          </div><!-- //newscon_box -->
+
+          <div class="fileDown">
+            <a href="/doc/공시정보관리규정.doc">
+              <strong>첨부파일</strong>
+              <p>공시정보관리규정.doc</p>
+            </a>
+          </div>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // 공시정보관리규정 -->
+
+  <!-- 기준일 설정 공고 -->
+  <div class="fullLayer" id="newsDetail_pop60">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">기준일 설정 공고</h3>
+          <em class="date">2023.05.26</em>
+        </div>
+        <div class="detailCon">
+          <h3 style="text-align: center">기준일 설정 공고</h3>
+          <br>
+          &nbsp;당사는 이사회에서 주식회사 우리금융지주와의 포괄적 주식교환을 결의하였는바, 상법 제354조 및 당사 정관 제16조에 의거 2023년 6월 7일 현재 주주명부에 등재되어 있는 주주에게 위 주식 회사 우리금융지주와의 포괄적 주식교환에 관한 임시주주총회의 의결권을 부여하고 포괄적 주식 교환에 대한 반대의사를 표시할 수 있는 주주로 확정하기 위하여 기준일을 공고합니다.
+
+          <div class="newscon_box" style="margin-top:35px;">
+            <p class="txt">위와 같이 공고합니다.</p>
+            <div class="bottomTxt">
+              <em>2023년 05월 26일</em>
+              <br>
+              <strong class="ceoTxt">우리벤처파트너스㈜ 주식회사</strong>
+              <p>경기도 성남시 분당구 대왕판교로670유스페이스2A동 10층 (☏031-628-6400)</p>
+              <strong>다올인베스트먼트 주식회사<br>대표이사 김창규</strong>
+              <strong>명의개서대리인<br>KB국민은행 은행장 이재근</strong>
+            </div>
+          </div>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
 
   <!-- 주식매수청구권 관련 서식 -->
   <div class="fullLayer" id="newsDetail_pop59">
@@ -256,7 +287,6 @@ jQuery(window).load(function() {
     </div>
     <button type="button" class="layerClose">닫기</button>
   </div>
-
 
   <!-- 우리벤처파트너스 지점 설치관련 인테리어 공사업체 선정 공고 -->
   <div class="fullLayer" id="newsDetail_pop58">
@@ -1269,38 +1299,6 @@ jQuery(window).load(function() {
       <button type="button" class="layerClose">닫기</button>
     </div>
     <!-- // 주식명의개서정지공고 -->
-
-    <!-- 내부정보관리규정(개정) -->
-    <div class="fullLayer" id="newsDetail_pop53">
-      <h2 class="layerTit">NEWS</h2>
-      <div class="layerCont pd0" tabindex="0" >
-        <div class="board_detail">
-          <div class="detailTop">
-            <h3 class="titDep3">내부정보관리규정(개정)</h3>
-            <em class="date">2021.12.16</em>
-          </div>
-          <div class="detailCon">
-            <p>당사의 내부정보관리규정은 첨부파일을 참조하시기 바랍니다.</p>
-
-            <div class="newscon_box" style="margin-top:35px;">
-              <div class="bottomTxt">
-                <em>2021년 12월 16일</em>
-                <strong>케이티비네트워크주식회사<br>대표이사 김창규</strong>
-              </div>
-            </div><!-- //newscon_box -->
-
-            <div class="fileDown">
-              <a href="/doc/Notice20220322.doc">
-                <strong>첨부파일</strong>
-                <p>내부정보관리규정(개정)</p>
-              </a>
-            </div>
-          </div><!-- //detailCon -->
-        </div>
-      </div>
-      <button type="button" class="layerClose">닫기</button>
-    </div>
-    <!-- // 내부정보관리규정(개정) -->
 
     <!-- 내부정보관리규정(개정) -->
     <div class="fullLayer" id="newsDetail_pop52">

@@ -38,9 +38,9 @@
 
 					<ul class="baordIndex">
             <li>
-              <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=59">
+              <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
                 <div class="arrow prev">이전글</div>
-                <div class="tit">주식매수청구권 관련 서식</div>
+                <div class="tit">공시정보관리규정</div>
               </a>
             </li>
 					</ul>

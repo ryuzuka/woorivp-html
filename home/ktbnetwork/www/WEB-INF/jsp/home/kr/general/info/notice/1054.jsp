@@ -47,9 +47,9 @@
           </a>
         </li>
         <li>
-          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=51">
             <div class="arrow prev">이전글</div>
-            <div class="tit">내부정보관리규정(개정)</div>
+            <div class="tit">KTB네트워크 제14기 정기주주총회 결과</div>
           </a>
         </li>
       </ul>

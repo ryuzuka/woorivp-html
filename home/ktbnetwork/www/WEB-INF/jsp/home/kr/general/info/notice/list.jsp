@@ -30,6 +30,12 @@
 								</a>
 							</li>
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
+									<strong class="tit">공시정보관리규정</strong>
+									<div class="con"><span class="date">2022.05.24</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=59">
 									<strong class="tit">주식매수청구권 관련 서식</strong>
 									<div class="con"><span class="date">2023.05.26</span></div>
@@ -65,12 +71,6 @@
                   <div class="con"><span class="date">2022.12.16</span></div>
                 </a>
               </li>
-							<li>
-								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
-									<strong class="tit">내부정보관리규정(개정)</strong>
-									<div class="con"><span class="date">2022.03.22</span></div>
-								</a>
-							</li>
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=51">
 									<strong class="tit">KTB네트워크 제14기 정기주주총회 결과</strong>
