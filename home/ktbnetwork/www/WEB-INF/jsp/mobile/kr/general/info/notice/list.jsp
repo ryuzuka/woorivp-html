@@ -77,19 +77,19 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop50" role="button" title="상세내용 보기">제 14기 결산공고<em>2022.03.21</em></a>
             </li>
-            <li data-page="1">
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop49" role="button" title="상세내용 보기">제 14기 정기주주총회 소집통지서<em>2022.03.07</em></a>
             </li>
-            <li data-page="1">
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop48" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2022.02.14</em></a>
             </li>
-            <li data-page="1">
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop52" role="button" title="상세내용 보기">내부정보관리규정 <em>2021.12.16</em></a>
             </li>
-            <li data-page="1" >
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop42" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2021.12.16</em></a>
             </li>
-            <li data-page="1" >
+            <li data-page="1" style="display: none;">
                 <a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
             </li>
             <li data-page="1" style="display: none;">
