@@ -878,6 +878,7 @@
 	<h2 class="layerTit">Who We Are</h2>
 	<div class="layerCont" tabindex="0">
 		<div class="personDetail">
+
 			<span><img src="/static/mobile/en/images/contents/img_invest_pop19.jpg" alt="Kim Beom Jun" /></span>
 			<div class="deatilCon">
 				<dl>
@@ -886,13 +887,14 @@
 					<dt>Career</dt>
 					<dd>
 						<ul class="listDep1">
-							<li>Korea university division of biotechnology</li>
-							<li>Samjong KPMG Audit / Deal advisory</li>
-							<li>KIBO</li>
+							<li>Korea University (Biotechnology)</li>
+							<li>KPMG Korea (Audit / Deal Advisory)</li>
+							<li>Korea Technology Finance Corporation</li>
 						</ul>
 					</dd>
 				</dl>
 			</div>
+
 		</div>
 	</div>
 	<button type="button" class="layerClose">close</button>

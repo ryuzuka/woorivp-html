@@ -267,7 +267,7 @@
 								<dl>
 									<dt>주요경력</dt>
 									<dd>고려대학교 생명공학부</dd>
-									<dd>삼정KPMG Audit / Deal advisory</dd>
+									<dd>삼정KPMG Audit / Deal Advisory</dd>
 									<dd>기술보증기금 벤처투자센터</dd>
 								</dl>
 							</div>

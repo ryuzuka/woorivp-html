@@ -264,9 +264,9 @@
 									<h3>Kim Beom Jun <span class="pointColor">Korea / Investment / Team Manager</span></h3>
 									<dl>
 										<dt>Career</dt>
-										<dd>Korea university division of biotechnology</dd>
-										<dd>Samjong KPMG Audit / Deal advisory</dd>
-										<dd>KIBO</dd>
+										<dd>Korea University (Biotechnology)</dd>
+										<dd>KPMG Korea (Audit / Deal Advisory)</dd>
+										<dd>Korea Technology Finance Corporation</dd>
 									</dl>
 								</div>
 							</div>

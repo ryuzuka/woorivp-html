@@ -851,7 +851,7 @@
 					<dd>
 						<ul class="listDep1">
 							<li>고려대학교 생명공학부</li>
-							<li>삼정KPMG Audit / Deal advisory</li>
+							<li>삼정KPMG Audit / Deal Advisory</li>
 							<li>기술보증기금 벤처투자센터</li>
 						</ul>
 					</dd>
