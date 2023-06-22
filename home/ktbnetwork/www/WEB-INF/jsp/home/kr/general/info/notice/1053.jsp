@@ -18,7 +18,7 @@
         <div class="viewTit">
           <strong class="tit">공시정보관리규정</strong>
           <div class="con">
-            <span class="date">2022.05.24</span>
+            <span class="date">2023.05.24</span>
           </div>
         </div>
         <div class="viewFile">
@@ -28,7 +28,7 @@
           <!-- NEWS CONTENTS -->
           <p class="tcenter">당사의 공시정보관리규정은 첨부파일을 참조하시기 바랍니다.</p>
           <div class="noticeBox">
-            <span class="dateTxt">2022년 05월 24일</span>
+            <span class="dateTxt">2023년 05월 24일</span>
             <strong class="ceoTxt">우리벤처파트너스(주) 대표이사 김창규</strong>
           </div>
           <!-- // NEWS CONTENTS -->

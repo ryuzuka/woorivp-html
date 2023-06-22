@@ -51,7 +51,7 @@ jQuery(window).load(function() {
               <a href="#newsDetail_pop60" role="button" title="상세내용 보기">기준일 설정 공고 <em>2023.05.26</em></a>
             </li>
             <li>
-              <a href="#newsDetail_pop53" role="button" title="상세내용 보기">공시정보관리규정<em> 2022.05.24</em></a>
+              <a href="#newsDetail_pop53" role="button" title="상세내용 보기">공시정보관리규정<em> 2023.05.24</em></a>
             </li>
             <li>
               <a href="#newsDetail_pop59" role="button" title="상세내용 보기">주식매수청구권 관련 서식 <em>2023.05.26</em></a>

@@ -32,7 +32,7 @@
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
 									<strong class="tit">공시정보관리규정</strong>
-									<div class="con"><span class="date">2022.05.24</span></div>
+									<div class="con"><span class="date">2023.05.24</span></div>
 								</a>
 							</li>
 							<li>
