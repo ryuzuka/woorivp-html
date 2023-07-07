@@ -48,7 +48,7 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
-              <a href="#newsDetail_pop61" role="button" title="상세내용 보기">제 16기 정기주주총회 소집통지서 <em>2023.07.06</em></a>
+              <a href="#newsDetail_pop61" role="button" title="상세내용 보기">제16기 제1회 임시주주총회 소집통지서 <em>2023.07.06</em></a>
             </li>
             <li>
               <a href="#newsDetail_pop60" role="button" title="상세내용 보기">기준일 설정 공고 <em>2023.05.26</em></a>
@@ -194,20 +194,20 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
-  <!-- 제 16기 정기주주총회 소집통지서 -->
+  <!-- 제16기 제1회 임시주주총회 소집통지서 -->
   <div class="fullLayer" id="newsDetail_pop61">
     <h2 class="layerTit">NEWS</h2>
     <div class="layerCont" tabindex="0" >
       <div class="board_detail">
         <div class="detailTop">
-          <h3 class="titDep3">제 16기 정기주주총회 소집통지서</h3>
+          <h3 class="titDep3">제16기 제1회 임시주주총회 소집통지서</h3>
           <em class="date">2023.07.06</em>
         </div>
         <div class="detailCon">
           <p>주주님의 건승과 댁내의 평안을 기원합니다.<br>
             당사는 상법 제363조와 정관 제 19조 및 21조에 의거 제 16 기 정기주주총회를 아래와 같이 개최 하오니 참석하여 주시기 바랍니다.</p>
           <table class="tblV">
-            <caption>제 16기 정기주주총회 소집통지서</caption>
+            <caption>제16기 제1회 임시주주총회 소집통지서</caption>
             <colgroup><col style="width:25%"><col style="width:75%"></colgroup>
             <tbody>
             <tr>
@@ -260,7 +260,7 @@ jQuery(window).load(function() {
               <em>2023년 07월 06일</em>
               <br>
               <p>경기도 성남시 분당구<br>대왕판교로670 유스페이스2A동 10층<br>(☏031-628-6400)</p>
-              <strong>우리벤처파트너스㈜ 주식회사<br>대표이사 김창규</strong>
+              <strong>우리벤처파트너스㈜ 대표이사 김창규</strong>
             </div>
           </div>
         </div><!-- //detailCon -->
@@ -268,7 +268,7 @@ jQuery(window).load(function() {
     </div>
     <button type="button" class="layerClose">닫기</button>
   </div>
-  <!-- // 제 16기 정기주주총회 소집통지서 -->
+  <!-- // 제16기 제1회 임시주주총회 소집통지서 -->
 
   <!-- 공시정보관리규정 -->
   <div class="fullLayer" id="newsDetail_pop53">
@@ -321,7 +321,7 @@ jQuery(window).load(function() {
             <div class="bottomTxt">
               <em>2023년 05월 26일</em>
               <br>
-              <strong class="ceoTxt">우리벤처파트너스㈜ 주식회사</strong>
+              <strong class="ceoTxt">우리벤처파트너스㈜</strong>
               <p>경기도 성남시 분당구 대왕판교로670유스페이스2A동 10층 (☏031-628-6400)</p>
               <strong>다올인베스트먼트 주식회사<br>대표이사 김창규</strong>
               <strong>명의개서대리인<br>KB국민은행 은행장 이재근</strong>

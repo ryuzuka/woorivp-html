@@ -15,7 +15,7 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">제 16기 정기주주총회 소집통지서</strong>
+          <strong class="tit">제16기 제1회 임시주주총회 소집통지서</strong>
           <div class="con">
             <span class="date">2023.07.06</span>
           </div>
@@ -24,7 +24,7 @@
           주주님의 건승과 댁내의 평안을 기원합니다.<br>
           당사는 상법 제363조와 정관 제 19조 및 21조에 의거 제 16 기 정기주주총회를 아래와 같이 개최 하오니 참석하여 주시기 바랍니다.
           <table class="tblV">
-            <caption>제 16기 정기주주총회 소집통지서</caption>
+            <caption>제16기 제1회 임시주주총회 소집통지서</caption>
             <colgroup><col style="width:25%"><col style="width:75%"></colgroup>
             <tbody>
             <tr>
@@ -75,7 +75,7 @@
             위와 같이 공고합니다.
             <span class="dateTxt">2023년 07월 06일</span>
             <p>경기도 성남시 분당구 대왕판교로670 유스페이스2A동 10층 (☏031-628-6400)</p>
-            <strong class="ceoTxt">우리벤처파트너스㈜ 주식회사 대표이사 김창규</strong>
+            <strong class="ceoTxt">우리벤처파트너스㈜ 대표이사 김창규</strong>
           </div>
 
 					<ul class="baordIndex">

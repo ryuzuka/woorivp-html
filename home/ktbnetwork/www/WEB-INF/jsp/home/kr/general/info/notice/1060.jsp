@@ -28,7 +28,7 @@
           <div class="noticeBox">
             위와 같이 공고합니다.
             <span class="dateTxt">2023년 05월 26일</span>
-            <strong class="ceoTxt">우리벤처파트너스㈜ 주식회사</strong>
+            <strong class="ceoTxt">우리벤처파트너스㈜</strong>
             <p style="margin-top:10px">경기도 성남시 분당구 대왕판교로670유스페이스2A동 10층 (☏031-628-6400)</p>
             <br><br>
             <strong class="ceoTxt">대표이사 김창규</strong>
@@ -40,7 +40,7 @@
             <li>
               <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=61">
                 <div class="arrow next">다음글</div>
-                <div class="tit">제 16기 정기주주총회 소집통지서</div>
+                <div class="tit">제16기 제1회 임시주주총회 소집통지서</div>
               </a>
             </li>
             <li>
