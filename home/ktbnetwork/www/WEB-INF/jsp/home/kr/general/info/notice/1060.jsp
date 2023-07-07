@@ -38,6 +38,13 @@
 
 					<ul class="baordIndex">
             <li>
+              <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=61">
+                <div class="arrow next">다음글</div>
+                <div class="tit">제 16기 정기주주총회 소집통지서</div>
+              </a>
+            </li>
+            <li>
+            <li>
               <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=53">
                 <div class="arrow prev">이전글</div>
                 <div class="tit">공시정보관리규정</div>
@@ -49,4 +56,6 @@
 					</div>
 				</div>
 			</div>
-		</section>
+    </div>
+  </div>
+</section>

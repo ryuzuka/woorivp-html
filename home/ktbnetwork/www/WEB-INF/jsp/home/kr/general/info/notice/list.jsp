@@ -24,6 +24,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=61">
+									<strong class="tit">제 16기 정기주주총회 소집통지서</strong>
+									<div class="con"><span class="date">2023.07.06</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=60">
 									<strong class="tit">기준일 설정 공고</strong>
 									<div class="con"><span class="date">2023.05.26</span></div>
