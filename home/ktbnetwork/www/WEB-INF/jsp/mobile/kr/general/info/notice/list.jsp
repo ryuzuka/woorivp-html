@@ -48,6 +48,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop62" role="button" title="상세내용 보기">우리벤처파트너스 제16기 임시주주총회 결과<em>2023.07.21</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop61" role="button" title="상세내용 보기">제16기 제1회 임시주주총회 소집통지서 <em>2023.07.06</em></a>
             </li>
             <li>
@@ -74,10 +77,10 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop54" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2022.12.16</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop51" role="button" title="상세내용 보기">KTB네트워크 제14기 정기주주총회 결과<em> 2022.03.21</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop50" role="button" title="상세내용 보기">제 14기 결산공고<em>2022.03.21</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -104,10 +107,10 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
                 <a href="#newsDetail_pop28" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
                 <a href="#newsDetail_pop27" role="button" title="상세내용 보기">주식 공매 공고<em>2021.07.14</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
                 <a href="#newsDetail_pop26" role="button" title="상세내용 보기">주식 3차공매 공고<em>2021.07.13</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -134,10 +137,10 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop02" role="button" title="상세내용 보기">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고<em>2018.08.01</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop03" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2018.04.09</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop04" role="button" title="상세내용 보기">제 10기 결산공고<em>2018.03.06</em></a>
 						</li>
 						<li data-page="3" style="display: none;">
@@ -164,10 +167,10 @@ jQuery(window).load(function() {
 						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop12" role="button" title="상세내용 보기">제 5기 결산공고<em>2013.05.20</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop13" role="button" title="상세내용 보기">제 4기 결산공고<em>2012.06.25</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop14" role="button" title="상세내용 보기">(주)다림비젼 주식 공매 공고<em>2011.10.25</em></a>
 						</li>
 						<li data-page="4" style="display: none;">
@@ -194,6 +197,92 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
+  <!-- 우리벤처파트너스 제16기 정기주주총회 결과 -->
+  <div class="fullLayer" id="newsDetail_pop62">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">우리벤처파트너스 제16기 임시주주총회 결과</h3>
+          <em class="date">2023.07.21</em>
+        </div>
+        <div class="detailCon">
+          <ul class="list">
+            <li>1. 일 시 : 2023년 7월 21일(금) 09:00</li>
+            <li><br>2. 장 소 : 경기도 성남시 분당구 대왕판교로660 유스페이스 컨퍼런스룸</li>
+            <li>
+              <br>3. 참석현황
+              <table class="tblH">
+                <caption>우리벤처파트너스 제16기 임시주주총회 결과</caption>
+                <colgroup><col style="width:25%" span="4"></colgroup>
+                <thead>
+                <tr>
+                  <th scope="col" class="tcenter">발행주식총수</th>
+                  <th scope="col" class="tcenter">의결권있는 주식수</th>
+                  <th scope="col" class="tcenter">의결권행사 주식수</th>
+                  <th scope="col" class="tcenter">행사비율</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <td>100,000,000주</td>
+                  <td>100,000,000주</td>
+                  <td>69,846,633주</td>
+                  <td>69.85%</td>
+                </tr>
+                </tbody>
+              </table>
+            </li>
+            <li>
+              <br>4. 주주총회 결과
+              <table class="tblH">
+                <caption>우리벤처파트너스 제16기 임시주주총회 결과 정보</caption>
+                <colgroup>
+                  <col style="width:35%">
+                  <col style="width:20%">
+                  <col style="width:15%">
+                  <col style="width:15%">
+                  <col style="width:15%">
+                </colgroup>
+                <thead>
+                <tr>
+                  <th scope="col" class="tcenter">의안</th>
+                  <th scope="col" class="tcenter">찬성주식수</th>
+                  <th scope="col" class="tcenter">반대주식수</th>
+                  <th scope="col" class="tcenter">기권주식수</th>
+                  <th scope="col" class="tcenter">찬성비율</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <td class="tleft">&lt;제1호안건&gt;<br>㈜우리금융지주-우리벤처파트너스㈜ 주식교환 승인의 건</td>
+                  <td>56,456,101주</td>
+                  <td>13,390,532주</td>
+                  <td>0주</td>
+                  <td>80.83%</td>
+                </tr>
+                </tbody>
+              </table>
+            </li>
+          </ul>
+
+          <div class="newscon_box" style="margin-top:35px;">
+            <p class="txt">위와 같이 공고합니다.</p>
+            <div class="bottomTxt">
+              <em>2023년 7월 21일</em>
+              <strong>우리벤처파트너스 주식회사<br>대표이사 김창규</strong>
+            </div>
+          </div><!-- //newscon_box -->
+          <!--  // .opinionTxt -->
+
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // 우리벤처파트너스 제16기 정기주주총회 결과 -->
+
+
   <!-- 제16기 제1회 임시주주총회 소집통지서 -->
   <div class="fullLayer" id="newsDetail_pop61">
     <h2 class="layerTit">NEWS</h2>
@@ -807,11 +896,6 @@ jQuery(window).load(function() {
           <em class="date">2022.03.23</em>
         </div>
         <div class="detailCon">
-
-          <style>
-            #newsDetail_pop56 .list li + li {margin-top:10px;}
-            #newsDetail_pop56 .tblH tbody td {padding:15px 0;font-size:12px;word-break:break-word;}
-          </style>
           <ul class="list">
             <li>1. 일 시 : 2023년 3월 23일(목) 09:00</li>
             <li>2. 장 소 : 경기도 성남시 분당구 대왕판교로660 유스페이스 컨퍼런스룸</li>

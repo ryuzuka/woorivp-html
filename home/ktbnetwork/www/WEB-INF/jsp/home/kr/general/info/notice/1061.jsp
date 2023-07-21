@@ -80,6 +80,12 @@
 
 					<ul class="baordIndex">
             <li>
+              <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=62">
+                <div class="arrow next">다음글</div>
+                <div class="tit">우리벤처파트너스 제16기 정기주주총회 결과</div>
+              </a>
+            </li>
+            <li>
               <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=60">
 								<div class="arrow prev">이전글</div>
 								<div class="tit">기준일 설정 공고</div>
