@@ -24,6 +24,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=63">
+									<strong class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내</strong>
+									<div class="con"><span class="date">2023.07.24</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=62">
 									<strong class="tit">우리벤처파트너스 제16기 임시주주총회 결과</strong>
 									<div class="con"><span class="date">2023.07.21</span></div>
@@ -77,15 +83,15 @@
                   <div class="con"><span class="date">2023.03.03</span></div>
                 </a>
               </li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=54">
                   <strong class="tit">주식명의개서정지공고</strong>
                   <div class="con"><span class="date">2022.12.16</span></div>
                 </a>
               </li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=51">
 									<strong class="tit">KTB네트워크 제14기 정기주주총회 결과</strong>
@@ -140,15 +146,15 @@
                   <div class="con"><span class="date">2021.11.24</span></div>
                 </a>
               </li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=28">
 									<strong class="tit">주식명의개서정지공고</strong>
 									<div class="con"><span class="date">2021.09.01</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=27">
 									<strong class="tit">주식 공매 공고</strong>
@@ -203,15 +209,15 @@
                   <div class="con"><span class="date">2019.03.08</span></div>
                 </a>
               </li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=2">
 									<strong class="tit">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고</strong>
 									<div class="con"><span class="date">2018.08.01</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=3">
 									<strong class="tit">외부감사인 선임 공고</strong>
@@ -266,15 +272,15 @@
                   <div class="con"><span class="date">2013.05.30</span></div>
                 </a>
               </li>
+						</c:if>
+
+						<c:if test="${vo.page eq '5' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=12">
 									<strong class="tit">제 5기 결산공고</strong>
 									<div class="con"><span class="date">2013.05.20</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '5' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=13">
 									<strong class="tit">제 4기 결산공고</strong>
@@ -327,7 +333,7 @@
 							<a href="/home/info/notice/list.do?page=2" <c:if test="${vo.page eq '2'}">class="on"</c:if>>2</a>
 							<a href="/home/info/notice/list.do?page=3" <c:if test="${vo.page eq '3'}">class="on"</c:if>>3</a>
 							<a href="/home/info/notice/list.do?page=4" <c:if test="${vo.page eq '4'}">class="on"</c:if>>4</a>
-							<a href="/home/info/notice/list.do?page=4" <c:if test="${vo.page eq '5'}">class="on"</c:if>>5</a>
+							<a href="/home/info/notice/list.do?page=5" <c:if test="${vo.page eq '5'}">class="on"</c:if>>5</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
 						<a href="/home/info/notice/list.do?page=5" class="arrow end">마지막페이지로 이동</a>

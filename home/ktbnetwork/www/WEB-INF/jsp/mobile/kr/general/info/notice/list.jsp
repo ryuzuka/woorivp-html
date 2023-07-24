@@ -48,6 +48,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop63" role="button" title="상세내용 보기">우리벤처파트너스 포괄적 주식교환 세금관련안내<em>2023.07.24</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop62" role="button" title="상세내용 보기">우리벤처파트너스 제16기 임시주주총회 결과<em>2023.07.21</em></a>
             </li>
             <li>
@@ -74,7 +77,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop55" role="button" title="상세내용 보기">제 15기 정기주주총회 소집통지서 <em>2023.03.03</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop54" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2022.12.16</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -104,7 +107,7 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
                 <a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
                 <a href="#newsDetail_pop28" role="button" title="상세내용 보기">주식명의개서정지공고<em>2021.09.01</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -134,7 +137,7 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 							<a href="#newsDetail_pop01" role="button" title="상세내용 보기">제 11기 결산공고<em>2019.03.08</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop02" role="button" title="상세내용 보기">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고<em>2018.08.01</em></a>
 						</li>
 						<li data-page="3" style="display: none;">
@@ -164,7 +167,7 @@ jQuery(window).load(function() {
 						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop11" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2013.05.30</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop12" role="button" title="상세내용 보기">제 5기 결산공고<em>2013.05.20</em></a>
 						</li>
 						<li data-page="4" style="display: none;">
@@ -197,6 +200,46 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
+  <!-- 우리벤처파트너스 포괄적 주식교환 세금관련안내 -->
+  <div class="fullLayer" id="newsDetail_pop63">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont pd0" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">우리벤처파트너스 포괄적 주식교환 세금관련안내</h3>
+          <em class="date">2023.07.24</em>
+        </div>
+        <div class="detailCon">
+          <p>당사의 포괄적 주식교환 세금관련안내는 첨부파일을 참조하시기 바랍니다.</p>
+
+          <div class="newscon_box" style="margin-top:35px; ">
+            <div class="bottomTxt">
+              <em>2023년 7월 24일</em>
+              <strong>우리벤처파트너스(주)<br>대표이사 김창규</strong>
+            </div>
+          </div><!-- //newscon_box -->
+
+          <div class="fileDown">
+            <a href="/doc/포괄적주식교환세금안내_거주자.pdf" target="_blank">
+              <strong>첨부파일</strong>
+              <p>포괄적주식교환세금안내_거주자.pdf</p>
+            </a>
+            <a href="/doc/포괄적주식교환세금안내_내국법인.pdf" target="_blank">
+              <strong>첨부파일</strong>
+              <p>포괄적주식교환세금안내_내국법인.pdf</p>
+            </a>
+            <a href="/doc/포괄적주식교환세금안내_비거주자외국법인.pdf" target="_blank">
+              <strong>첨부파일</strong>
+              <p style="font-size: 14px">포괄적주식교환세금안내_비거주자외국법인.pdf</p>
+            </a>
+          </div>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // 우리벤처파트너스 포괄적 주식교환 세금관련안내 -->
+
   <!-- 우리벤처파트너스 제16기 정기주주총회 결과 -->
   <div class="fullLayer" id="newsDetail_pop62">
     <h2 class="layerTit">NEWS</h2>

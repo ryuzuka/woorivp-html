@@ -95,6 +95,12 @@
       </div>
       <ul class="baordIndex">
         <li>
+          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=63">
+            <div class="arrow next">다음글</div>
+            <div class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내</div>
+          </a>
+        </li>
+        <li>
           <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=61">
             <div class="arrow prev">이전글</div>
             <div class="tit">제16기 제1회 임시주주총회 소집통지서</div>
