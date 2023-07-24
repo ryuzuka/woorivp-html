@@ -24,8 +24,20 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=65">
+									<strong class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내(거주자)</strong>
+									<div class="con"><span class="date">2023.07.24</span></div>
+								</a>
+							</li>
+							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=64">
+									<strong class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내(내국법인)</strong>
+									<div class="con"><span class="date">2023.07.24</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=63">
-									<strong class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내</strong>
+									<strong class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내(비거주자외국법인)</strong>
 									<div class="con"><span class="date">2023.07.24</span></div>
 								</a>
 							</li>
@@ -71,6 +83,9 @@
                   <div class="con"><span class="date">2023.03.23</span></div>
                 </a>
               </li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=56">
                   <strong class="tit">제 15기 정기주주총회 결과</strong>
@@ -83,9 +98,6 @@
                   <div class="con"><span class="date">2023.03.03</span></div>
                 </a>
               </li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=54">
                   <strong class="tit">주식명의개서정지공고</strong>
@@ -134,6 +146,9 @@
 									<div class="con"><span class="date">2021.12.03</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=35">
                   <strong class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</strong>
@@ -146,9 +161,6 @@
                   <div class="con"><span class="date">2021.11.24</span></div>
                 </a>
               </li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=28">
 									<strong class="tit">주식명의개서정지공고</strong>
@@ -197,6 +209,9 @@
 									<div class="con"><span class="date">2021.03.19</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=20">
                   <strong class="tit">제 12기 결산공고</strong>
@@ -209,9 +224,6 @@
                   <div class="con"><span class="date">2019.03.08</span></div>
                 </a>
               </li>
-						</c:if>
-
-						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=2">
 									<strong class="tit">액면분할에 따른 구주권 제출 및 채권자 이의 제출 공고</strong>
@@ -260,6 +272,9 @@
 									<div class="con"><span class="date">2014.03.17</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '5' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=10">
                   <strong class="tit">미크론정공(주) 주식 공매 공고</strong>
@@ -272,9 +287,6 @@
                   <div class="con"><span class="date">2013.05.30</span></div>
                 </a>
               </li>
-						</c:if>
-
-						<c:if test="${vo.page eq '5' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=12">
 									<strong class="tit">제 5기 결산공고</strong>

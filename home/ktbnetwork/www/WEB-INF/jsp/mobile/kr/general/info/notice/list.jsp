@@ -48,7 +48,13 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
-              <a href="#newsDetail_pop63" role="button" title="상세내용 보기">우리벤처파트너스 포괄적 주식교환 세금관련안내<em>2023.07.24</em></a>
+              <a href="#newsDetail_pop65" role="button" title="상세내용 보기">우리벤처파트너스 포괄적 주식교환 세금관련안내<br>(거주자)<em>2023.07.24</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop64" role="button" title="상세내용 보기">우리벤처파트너스 포괄적 주식교환 세금관련안내<br>(내국법인)<em>2023.07.24</em></a>
+            </li>
+            <li>
+              <a href="#newsDetail_pop63" role="button" title="상세내용 보기">우리벤처파트너스 포괄적 주식교환 세금관련안내<br>(비거주자외국법인)<em>2023.07.24</em></a>
             </li>
             <li>
               <a href="#newsDetail_pop62" role="button" title="상세내용 보기">우리벤처파트너스 제16기 임시주주총회 결과<em>2023.07.21</em></a>
@@ -71,10 +77,10 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop57" role="button" title="상세내용 보기">제15기 결산공고 <em>2023.03.23</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop56" role="button" title="상세내용 보기">제 15기 정기주주총회 결과 <em>2023.03.23</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop55" role="button" title="상세내용 보기">제 15기 정기주주총회 소집통지서 <em>2023.03.03</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -101,10 +107,10 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
                 <a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
               <a href="#newsDetail_pop35" role="button" title="상세내용 보기">[IPO] 케이티비네트워크 수요예측 결과안내 <em>2021.12.02</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
                 <a href="#newsDetail_pop29" role="button" title="상세내용 보기">신주발행공고<em>2021.11.24</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -131,10 +137,10 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 						  <a href="#newsDetail_pop21" role="button" title="상세내용 보기">제 13기 결산공고<em>2021.03.19</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop20" role="button" title="상세내용 보기">제 12기 결산공고<em>2020.03.13</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop01" role="button" title="상세내용 보기">제 11기 결산공고<em>2019.03.08</em></a>
 						</li>
 						<li data-page="3" style="display: none;">
@@ -161,10 +167,10 @@ jQuery(window).load(function() {
 						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop09" role="button" title="상세내용 보기">제 6기 결산공고<em>2014.03.17</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop10" role="button" title="상세내용 보기">미크론정공(주) 주식 공매 공고<em>2013.12.10</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop11" role="button" title="상세내용 보기">외부감사인 선임 공고<em>2013.05.30</em></a>
 						</li>
 						<li data-page="4" style="display: none;">
@@ -200,19 +206,19 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
-  <!-- 우리벤처파트너스 포괄적 주식교환 세금관련안내 -->
-  <div class="fullLayer" id="newsDetail_pop63">
+  <!-- 우리벤처파트너스 포괄적 주식교환 세금관련안내(거주자) -->
+  <div class="fullLayer" id="newsDetail_pop65">
     <h2 class="layerTit">NEWS</h2>
     <div class="layerCont pd0" tabindex="0" >
       <div class="board_detail">
         <div class="detailTop">
-          <h3 class="titDep3">우리벤처파트너스 포괄적 주식교환 세금관련안내</h3>
+          <h3 class="titDep3">우리벤처파트너스 포괄적 주식교환 세금관련안내(거주자)</h3>
           <em class="date">2023.07.24</em>
         </div>
         <div class="detailCon">
-          <p>당사의 포괄적 주식교환 세금관련안내는 첨부파일을 참조하시기 바랍니다.</p>
+          <p>첨부파일을 참조하시기 바랍니다.</p>
 
-          <div class="newscon_box" style="margin-top:35px; ">
+          <div class="newscon_box" style="margin-top:35px;">
             <div class="bottomTxt">
               <em>2023년 7월 24일</em>
               <strong>우리벤처파트너스(주)<br>대표이사 김창규</strong>
@@ -224,13 +230,37 @@ jQuery(window).load(function() {
               <strong>첨부파일</strong>
               <p>포괄적주식교환세금안내_거주자.pdf</p>
             </a>
+          </div>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // 우리벤처파트너스 포괄적 주식교환 세금관련안내(거주자) -->
+
+  <!-- 우리벤처파트너스 포괄적 주식교환 세금관련안내(내국법인) -->
+  <div class="fullLayer" id="newsDetail_pop64">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont pd0" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">우리벤처파트너스 포괄적 주식교환 세금관련안내(내국법인)</h3>
+          <em class="date">2023.07.24</em>
+        </div>
+        <div class="detailCon">
+          <p>첨부파일을 참조하시기 바랍니다.</p>
+
+          <div class="newscon_box" style="margin-top:35px;">
+            <div class="bottomTxt">
+              <em>2023년 7월 24일</em>
+              <strong>우리벤처파트너스(주)<br>대표이사 김창규</strong>
+            </div>
+          </div><!-- //newscon_box -->
+
+          <div class="fileDown">
             <a href="/doc/포괄적주식교환세금안내_내국법인.pdf" target="_blank">
               <strong>첨부파일</strong>
               <p>포괄적주식교환세금안내_내국법인.pdf</p>
-            </a>
-            <a href="/doc/포괄적주식교환세금안내_비거주자외국법인.pdf" target="_blank">
-              <strong>첨부파일</strong>
-              <p style="font-size: 14px">포괄적주식교환세금안내_비거주자외국법인.pdf</p>
             </a>
           </div>
         </div><!-- //detailCon -->
@@ -238,7 +268,39 @@ jQuery(window).load(function() {
     </div>
     <button type="button" class="layerClose">닫기</button>
   </div>
-  <!-- // 우리벤처파트너스 포괄적 주식교환 세금관련안내 -->
+  <!-- // 우리벤처파트너스 포괄적 주식교환 세금관련안내(내국법인) -->
+
+  <!-- 우리벤처파트너스 포괄적 주식교환 세금관련안내(비거주자외국법인) -->
+  <div class="fullLayer" id="newsDetail_pop63">
+    <h2 class="layerTit">NEWS</h2>
+    <div class="layerCont pd0" tabindex="0" >
+      <div class="board_detail">
+        <div class="detailTop">
+          <h3 class="titDep3">우리벤처파트너스 포괄적 주식교환 세금관련안내(비거주자외국법인)</h3>
+          <em class="date">2023.07.24</em>
+        </div>
+        <div class="detailCon">
+          <p>첨부파일을 참조하시기 바랍니다.</p>
+
+          <div class="newscon_box" style="margin-top:35px;">
+            <div class="bottomTxt">
+              <em>2023년 7월 24일</em>
+              <strong>우리벤처파트너스(주)<br>대표이사 김창규</strong>
+            </div>
+          </div><!-- //newscon_box -->
+
+          <div class="fileDown">
+            <a href="/doc/포괄적주식교환세금안내_비거주자외국법인.pdf" target="_blank">
+              <strong>첨부파일</strong>
+              <p>포괄적주식교환세금안내_비거주자외국법인.pdf</p>
+            </a>
+          </div>
+        </div><!-- //detailCon -->
+      </div>
+    </div>
+    <button type="button" class="layerClose">닫기</button>
+  </div>
+  <!-- // 우리벤처파트너스 포괄적 주식교환 세금관련안내(비거주자외국법인) -->
 
   <!-- 우리벤처파트너스 제16기 정기주주총회 결과 -->
   <div class="fullLayer" id="newsDetail_pop62">

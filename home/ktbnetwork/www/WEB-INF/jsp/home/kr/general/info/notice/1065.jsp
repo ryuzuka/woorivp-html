@@ -16,13 +16,13 @@
     <div class="inner">
       <div class="boardView">
         <div class="viewTit">
-          <strong class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내(비거주자외국법인)</strong>
+          <strong class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내(거주자)</strong>
           <div class="con">
             <span class="date">2023.07.24</span>
           </div>
         </div>
         <div class="viewFile">
-          <a href="/doc/포괄적주식교환세금안내_비거주자외국법인.pdf" target="_blank">포괄적주식교환세금안내_비거주자외국법인.pdf</a>
+          <a href="/doc/포괄적주식교환세금안내_거주자.pdf" target="_blank">포괄적주식교환세금안내_거주자.pdf</a>
         </div>
         <div class="viewCon">
           <!-- NEWS CONTENTS -->
@@ -38,14 +38,8 @@
       <ul class="baordIndex">
         <li>
           <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=64">
-            <div class="arrow next">다음글</div>
-            <div class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내(내국법인)</div>
-          </a>
-        </li>
-        <li>
-          <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=62">
             <div class="arrow prev">이전글</div>
-            <div class="tit">우리벤처파트너스 제16기 임시주주총회 결과</div>
+            <div class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내(내국법인)</div>
           </a>
         </li>
       </ul>
