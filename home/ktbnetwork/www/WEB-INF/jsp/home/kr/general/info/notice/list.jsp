@@ -24,6 +24,12 @@
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
+								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=66">
+									<strong class="tit">주권실효공고</strong>
+									<div class="con"><span class="date">2023.08.01</span></div>
+								</a>
+							</li>
+							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=65">
 									<strong class="tit">우리벤처파트너스 포괄적 주식교환 세금관련안내(거주자)</strong>
 									<div class="con"><span class="date">2023.07.24</span></div>
@@ -77,15 +83,15 @@
 									<div class="con"><span class="date">2023.05.02</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=57">
                   <strong class="tit">제 15기 결산공고</strong>
                   <div class="con"><span class="date">2023.03.23</span></div>
                 </a>
               </li>
-						</c:if>
-
-						<c:if test="${vo.page eq '2' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=56">
                   <strong class="tit">제 15기 정기주주총회 결과</strong>
@@ -140,15 +146,15 @@
 									<div class="con"><span class="date">2021.12.16</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '3' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=30">
 									<strong class="tit">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내</strong>
 									<div class="con"><span class="date">2021.12.03</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '3' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=35">
                   <strong class="tit">[IPO] 케이티비네트워크 수요예측 결과안내</strong>
@@ -203,15 +209,15 @@
 									<div class="con"><span class="date">2021.06.09</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '4' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=21">
 									<strong class="tit">제 13기 결산공고</strong>
 									<div class="con"><span class="date">2021.03.19</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '4' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=20">
                   <strong class="tit">제 12기 결산공고</strong>
@@ -266,15 +272,15 @@
 									<div class="con"><span class="date">2015.03.20</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '5' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=9">
 									<strong class="tit">제 6기 결산공고</strong>
 									<div class="con"><span class="date">2014.03.17</span></div>
 								</a>
 							</li>
-						</c:if>
-
-						<c:if test="${vo.page eq '5' }">
               <li>
                 <a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=10">
                   <strong class="tit">미크론정공(주) 주식 공매 공고</strong>
@@ -329,6 +335,9 @@
 									<div class="con"><span class="date">2011.01.24</span></div>
 								</a>
 							</li>
+						</c:if>
+
+						<c:if test="${vo.page eq '6' }">
 							<li>
 								<a href="/home/info/notice/view.do?page=<c:out value="${vo.page}"/>&num=19">
 									<strong class="tit">상호 및 공고방법 변경</strong>
@@ -346,9 +355,10 @@
 							<a href="/home/info/notice/list.do?page=3" <c:if test="${vo.page eq '3'}">class="on"</c:if>>3</a>
 							<a href="/home/info/notice/list.do?page=4" <c:if test="${vo.page eq '4'}">class="on"</c:if>>4</a>
 							<a href="/home/info/notice/list.do?page=5" <c:if test="${vo.page eq '5'}">class="on"</c:if>>5</a>
+							<a href="/home/info/notice/list.do?page=6" <c:if test="${vo.page eq '6'}">class="on"</c:if>>6</a>
 						</span>
 						<a href="#" class="arrow next">다음페이지로 이동</a>
-						<a href="/home/info/notice/list.do?page=5" class="arrow end">마지막페이지로 이동</a>
+						<a href="/home/info/notice/list.do?page=6" class="arrow end">마지막페이지로 이동</a>
 					</div>
 				</div>
 			</div>

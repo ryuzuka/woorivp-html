@@ -3,11 +3,11 @@
 <script type="text/javascript">
 var pageIndex = 0
 function fncPage() {
-  if (pageIndex < 4) {
+  if (pageIndex < 5) {
       pageIndex++
       jQuery('li[data-page=' + pageIndex + ']').show();
   }
-	if(pageIndex === 4) {
+	if(pageIndex === 5) {
 		jQuery("button.btnMore").hide();
 	}
 }
@@ -48,6 +48,9 @@ jQuery(window).load(function() {
 					<ul class="boardList">
 						<!-- <div class="noData">검색결과가 없습니다.</div> 검색 결과가 없을 때-->
             <li>
+              <a href="#newsDetail_pop66" role="button" title="상세내용 보기">주권실효공고<em>2023.08.01</em></a>
+            </li>
+            <li>
               <a href="#newsDetail_pop65" role="button" title="상세내용 보기">우리벤처파트너스 포괄적 주식교환 세금관련안내<br>(거주자)<em>2023.07.24</em></a>
             </li>
             <li>
@@ -74,7 +77,7 @@ jQuery(window).load(function() {
             <li>
               <a href="#newsDetail_pop58" role="button" title="상세내용 보기">우리벤처파트너스 지점 설치관련 인테리어 공사업체선정 공고 <em>2023.05.02</em></a>
             </li>
-            <li>
+            <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop57" role="button" title="상세내용 보기">제15기 결산공고 <em>2023.03.23</em></a>
             </li>
             <li data-page="1" style="display: none;">
@@ -104,7 +107,7 @@ jQuery(window).load(function() {
             <li data-page="1" style="display: none;">
               <a href="#newsDetail_pop42" role="button" title="상세내용 보기">주식명의개서정지공고 <em>2021.12.16</em></a>
             </li>
-            <li data-page="1" style="display: none;">
+            <li data-page="2" style="display: none;">
                 <a href="#newsDetail_pop30" role="button" title="상세내용 보기">KTB네트워크㈜ 코스닥시장 상장 주식공모 청약 안내<em>2021.12.03</em></a>
             </li>
             <li data-page="2" style="display: none;">
@@ -134,7 +137,7 @@ jQuery(window).load(function() {
 						<li data-page="2" style="display: none;">
 						  <a href="#newsDetail_pop22" role="button" title="상세내용 보기">전자증권 전환 대상 주권 권리자(주주) 보호 및 조치사항 안내<em>2021.06.09</em></a>
 						</li>
-						<li data-page="2" style="display: none;">
+						<li data-page="3" style="display: none;">
 						  <a href="#newsDetail_pop21" role="button" title="상세내용 보기">제 13기 결산공고<em>2021.03.19</em></a>
 						</li>
 						<li data-page="3" style="display: none;">
@@ -164,7 +167,7 @@ jQuery(window).load(function() {
 						<li data-page="3" style="display: none;">
 							<a href="#newsDetail_pop08" role="button" title="상세내용 보기">제 7기 결산공고<em>2015.03.20</em></a>
 						</li>
-						<li data-page="3" style="display: none;">
+						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop09" role="button" title="상세내용 보기">제 6기 결산공고<em>2014.03.17</em></a>
 						</li>
 						<li data-page="4" style="display: none;">
@@ -194,7 +197,7 @@ jQuery(window).load(function() {
 						<li data-page="4" style="display: none;">
 							<a href="#newsDetail_pop18" role="button" title="상세내용 보기">케이티비네트워크 상반기 가결산 공시<em>2011.01.24</em></a>
 						</li>
-						<li data-page="4" style="display: none;">
+						<li data-page="5" style="display: none;">
 							<a href="#newsDetail_pop19" role="button" title="상세내용 보기">상호 및 공고방법 변경<em>2010.10.29</em></a>
 						</li>
 					</ul>
@@ -206,6 +209,37 @@ jQuery(window).load(function() {
 	</section>
 
 	<!-- 뉴스 상세 레이어팝업(L) -->
+<!-- 주권실효공고 -->
+<div class="fullLayer" id="newsDetail_pop66">
+  <h2 class="layerTit">NEWS</h2>
+  <div class="layerCont pd0" tabindex="0" >
+    <div class="board_detail">
+      <div class="detailTop">
+        <h3 class="titDep3">주권실효공고</h3>
+        <em class="date">2023.08.01</em>
+      </div>
+      <div class="detailCon">
+        <p>첨부파일을 참조하시기 바랍니다.</p>
+
+        <div class="newscon_box" style="margin-top:35px;">
+          <div class="bottomTxt">
+            <em>2023년 8월 1일</em>
+            <strong>우리벤처파트너스(주)<br>대표이사 김창규</strong>
+          </div>
+        </div><!-- //newscon_box -->
+
+        <div class="fileDown">
+          <a href="/doc/주권실효공고.hwp" target="_blank">
+            <strong>첨부파일</strong>
+            <p>주권실효공고.hwp</p>
+          </a>
+        </div>
+      </div><!-- //detailCon -->
+    </div>
+  </div>
+  <button type="button" class="layerClose">닫기</button>
+</div>
+<!-- // 주권실효공고 -->
   <!-- 우리벤처파트너스 포괄적 주식교환 세금관련안내(거주자) -->
   <div class="fullLayer" id="newsDetail_pop65">
     <h2 class="layerTit">NEWS</h2>
